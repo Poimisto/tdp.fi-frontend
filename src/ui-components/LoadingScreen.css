@@ -1,0 +1,67 @@
+.pmt-loading-screen {
+  text-align: center;
+}
+
+.pmt-loading-screen.overlay {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.pmt-loading-screen.overlay.dark {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.pmt-loading-screen.gradient {
+  background: linear-gradient(270deg, #f3f3f3, #ccc);
+  background-size: 400% 400%;
+  min-height: 30px;
+  border-radius:5px;
+  -webkit-animation: AnimationName 2s ease infinite;
+  -moz-animation: AnimationName 2s ease infinite;
+  -o-animation: AnimationName 2s ease infinite;
+  animation: AnimationName 2s ease infinite;
+}
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-o-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+.blur {
+  -webkit-filter: blur(7px);
+  -moz-filter: blur(7px);
+  -o-filter: blur(7px);
+  -ms-filter: blur(7px);
+  filter: blur(7px);
+  animation: blur 1s ease 1;
+  -webkit-animation: blur 1s ease 1;
+  -moz-animation: blur 1s ease 1;
+}
+@keyframes blur {
+  0% {
+    -webkit-filter: blur(0px);
+    -moz-filter: blur(0px);
+    -o-filter: blur(0px);
+    -ms-filter: blur(0px);
+    filter: blur(0px);
+  }
+  100% {
+    -webkit-filter: blur(7px);
+    -moz-filter: blur(7px);
+    -o-filter: blur(7px);
+    -ms-filter: blur(7px);
+    filter: blur(7px);
+  }
+}

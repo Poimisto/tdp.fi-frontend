@@ -1,0 +1,42 @@
+<%-
+  include('partials/head', {
+    head : head 
+  });
+%>
+<body class="page-nocontainer">
+  
+
+  <nav><%- include('partials/topnav') %></nav>
+
+
+  <% if(typeof breadcrumb !== 'undefined') { %>
+    <%- include('partials/breadcrumb', breadcrumb) %>
+  <% } %>
+  
+
+  <%- body %>
+
+  <% if(typeof contactForm !== 'undefined' && contactForm) { %>
+    <div class="container-fluid tdp-grad">
+      <% contacformElementID = (contactForm.id) ?  contactForm.id : 'contactform' %>
+      <div class="container-xl pt-5 pb-5" id ="<%- contacformElementID %>">
+          <% if(contactForm.title) { %>
+            <h2><%- contactForm.title %></h2>
+          <% } else { %>
+          <h2>Ota yhtettä</h2>
+          <% } %>
+          <%- include('partials/contact-form', contactForm) %>
+      </div>
+    </div>
+  <% } %>
+
+    
+
+  <div class="container-xl mt-5">
+      <%- include('partials/footer') %>
+  </div>
+
+
+  
+</body>
+</html>

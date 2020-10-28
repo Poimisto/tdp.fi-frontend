@@ -1,0 +1,80 @@
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark px-sm-0" id="mainNav">
+  <div class="container-xl"></div>
+</nav>
+
+<script>
+  (function(){
+    var navItemsLeft = [
+      {
+        active : (window.location.pathname.match(/^\/it-laitteet/)) ? true : false,
+        text : "IT-laitteet",
+        href : "<%- linkTo('/it-laitteet/') %>"
+      },
+      {
+        active : (window.location.pathname.match(/^\/it-palvelut/)) ? true : false,
+        text : "IT-palvelut",
+        href : "<%- linkTo('/it-palvelut/') %>"
+      },
+      {
+        active : (window.location.pathname.match(/^\/uusi-yrittaja/)) ? true : false,
+        text : "Uudelle yrittäjälle",
+        href : "<%- linkTo('/uusi-yrittaja/') %>"
+      }
+    ];
+    var navItemsRight = [
+      {
+        active : (window.location.pathname.match(/^\/yritys/)) ? true : false,
+        text : "Yritys",
+        href : "<%- linkTo('/yritys/') %>"
+      }
+    ];
+    var navHTML = `
+      <a class="navbar-brand" href="<%- linkTo('/') %>">
+        <img class="logo d-none d-sm-block d-lg-none" src="<%- assetSrc('img/tdp-logo-46x40.png')  -%>" />
+        <img class="logo d-sm-none d-lg-block" src="<%- assetSrc('img/tdp-logo-140x40.png')  -%>" />
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarNavDropdown"
+          aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse order-sm-last mt-3 mt-sm-0 mb-3 mb-sm-0 ml-sm-2 ml-lg-3">
+        <form class="form-inline ml-auto" id="global-search">
+          <div class="input-group">
+            <input class="form-control d-sm-none d-lg-block" type="search" placeholder="Hakulause" aria-label="Search">
+            <div class="input-group-append ">
+              <button class="btn btn-outline-secondary" type="submit">Etsi</button>
+            </div>
+          </div>
+        </form>
+      </div>
+      <div class="collapse navbar-collapse w-100">
+        <ul class="navbar-nav mr-auto align-items-center">
+          ${
+            navItemsLeft.map( (l) => { 
+              return `<li class="nav-item"><a class="nav-link ${(l.active) ? 'active' : ''} " href="${l.href}">${l.text}</a></li>`; 
+            }).join('')
+          }
+        </ul>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="navbar-nav ml-auto align-items-center">
+          ${
+            navItemsRight.map( (l) => { 
+              return `<li class="nav-item"><a class="nav-link ${(l.active) ? 'active' : ''} " href="${l.href}">${l.text}</a></li>`; 
+            }).join('')
+          }
+        </ul>
+      </div>
+      `;
+      document.querySelector('nav div').innerHTML = navHTML;
+  
+      var f = document.getElementById('global-search');
+      f.addEventListener('submit', function(e){
+          e.preventDefault();
+          var q = e.target.querySelector('input').value;
+          window.location = '/haku.html?q='+q;
+      });
+    })();
+</script>
+
+

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<head>
+  <script>
+    /* redirect to www.tdp.fi, easiest to do on client-side because S3 does not support https and setting up 2 CDNs seems wasteful */
+    if(window.location.hostname == 'tdp.fi'){
+      var url = new URL(window.location.href);
+      url.hostname = 'www.tdp.fi';
+      window.location.replace(url.href); 
+    } 
+  </script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="nxXSMjXklmqsaaG4vK2Nvd7SQneY4Pacc7Ie9r_uUr8" />
+  
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NK4HB4B');</script>
+  <!-- End Google Tag Manager -->
+
+  <link rel="shortcut icon" href="<%- assetSrc('img/favicon.ico') -%>"" />
+
+  <title><%- head.title %></title>
+  
+  <meta name="description" content="<%- head.description %>">
+
+  <script src="<%- assetSrc('js/jquery-3.4.1.min.js') -%>"></script>
+  <script src="<%- assetSrc('js/popper.min.js') -%>"></script>
+  <script src="<%- assetSrc('js/bootstrap.bundle.min.js') -%>"></script>
+  
+  
+  <link rel="stylesheet" href="<%- assetSrc('css/bootstrap.min.css') -%>">
+
+
+  <script src="<%- assetSrc('bundle.js') -%>"></script>
+  <link rel="stylesheet" href="<%- assetSrc('bundle.css') -%>">
+
+  <script>
+    jQuery(document).ready(function(){
+      document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (e) {
+          e.preventDefault();
+          document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+          });
+        });
+      });
+    });
+  </script>
+  
+
+</head>
+
+
+

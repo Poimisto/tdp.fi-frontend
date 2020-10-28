@@ -1,0 +1,29 @@
+  
+/* @import url('./../assets/styles/colors.css'); */
+
+.pmt-search-form {
+  height:100%;
+  display:grid;
+  grid-template-columns: 1fr 40px;
+  min-height:34px;
+  box-sizing: border-box;
+  border:0px solid #ccc;
+  background:#fff;
+
+}
+.pmt-search-text {
+  padding:0 10px;
+}
+.pmt-search-button {
+  background-image: url('../icons/search-black.svg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-color:transparent;
+  border:0;
+}
+.pmt-search-button:active, .pmt-search-button.active {
+  background-image: url('../icons/search-red.svg');
+}
+.pmt-search-form .pmt-button-text {
+  display:none;
+}

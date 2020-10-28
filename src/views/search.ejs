@@ -1,0 +1,125 @@
+<%-
+  include('partials/head', {
+    head : head 
+  });
+%>
+
+<body class="search">
+  <nav>
+    <%- include('partials/topnav') %>
+  </nav>
+
+  <style>
+    .ui-component.search-form {
+      padding: 40px 30% 100px 30%;
+    }
+    .ui-component.search-form:before {
+      content: "Hae sivustolta";
+      display:block;
+      text-align:center;
+      margin:10px auto;
+      font-size:2rem;
+
+    }
+  </style>
+
+
+  <div class="container-xl main">
+
+    <div class="row mt-4 mb-1">
+      <div class="col" id="search-results">
+      </div>
+    </div>
+    <div class="row mb-4">
+      <div class="col" id="search-pagination">
+
+      </div>
+    </div>
+  </div>
+  <footer>
+    <div class="container-xl">
+      <%- include('partials/footer') %>
+    </div>
+  </footer>
+
+  <script>
+    (function(){
+
+      var siteSearch = new SearchQuery('lunr', '<%- SearchIndex -%>');   
+
+      var loadingScreen = new LoadingScreen({style:'overlay', minHeight:300,icon:{icon:'puff'}}).render();
+      
+      siteSearch.on('Results', renderSearchResults);
+      siteSearch.on("NoResults", renderNoResults);
+      siteSearch.on('SearchError', renderError);
+      siteSearch.on('StartSearch', () => {
+        loadingScreen.appendTo(document.getElementById('search-results'))
+        if(pagination) pagination.stopEmit();
+      });
+
+      var pageSearch = new SearchForm({
+        placeholder : "Hae sivustolta"
+      }).render();        
+      var pagination = new Pagination()
+        .appendTo(document.getElementById('search-pagination'));
+
+      let queryParams = new URLSearchParams(document.location.search);
+      if(queryParams.has('q') && queryParams.get('q').length > 0) {
+        siteSearch.query(queryParams.get('q'));
+      }
+      else pageSearch.appendTo( document.getElementById('search-results') );
+    
+      pageSearch.on('submit', function(search){ 
+        siteSearch.query(search.searchText);
+      });
+
+      // siteSearch.on("StartSearch", pagination.stopEmit);
+      pagination.on('PaginationClick', function(e){
+        if(e != siteSearch.getParams().page) {
+          siteSearch.setParams({page: e});
+          siteSearch.query();
+        }
+      });
+
+      function renderSearchResults(search, result){
+        document.getElementsByTagName('title')[0].innerText = 'Haku: ' + search.q;
+        if(search.size < result.total) {
+          pagination.render({
+            currPage : search.page,
+            maxPages : Math.ceil(result.total / search.size)
+          }).startEmit();
+        }
+        var html = `<p>Löytyi ${result.total} hakutulos${(result.total > 1) ? "ta." : "."}</p>`;
+    
+        var list = result.items;
+        for(var i = 0; i < list.length; i++){
+          html += `<p>
+          <strong><a href="${list[i].path}">${list[i].title}</a></strong><br/>
+          ${(list[i].description) ? list[i].description + '<br/>' : ''}
+          <span class="badge badge-secondary mr-2">URL</span><small><a href="${list[i].path}">${list[i].path}</a></small>
+          </p>`;
+        }
+        $('#search-results').html(html);
+      }
+      function renderNoResults(search){
+        var p = document.createElement('P');
+        p.innerText = `Valitettavasti haulla "${search.q}" ei löytynyt tuloksia.`;
+        document.getElementById('search-results').innerHTML = '';
+        document.getElementById('search-results').appendChild(p);
+        pageSearch.appendTo( document.getElementById('search-results') );
+      }
+      function renderError(search, e){
+        var p = document.createElement('P');
+        p.innerText = "hups.. jokin meni pieleen. Yritä uudestaan";
+        document.getElementById('search-results').innerHTML = '';
+        document.getElementById('search-results').appendChild(p);
+        pageSearch.appendTo( document.getElementById('search-results') );
+      }
+
+
+    })();
+</script>
+</body>
+</html>
+
+
