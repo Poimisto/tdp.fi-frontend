@@ -13,7 +13,7 @@ require('dotenv').config({ path: __dirname + '/.env' });
 
 const ContactApiEndpoint = process.env.ContactApiEndpoint || 'https://gcj1shtql7.execute-api.eu-west-1.amazonaws.com/v1/contact';
 const FileSuffix = (process.env.FileSuffix) ? '.' + process.env.FileSuffix.replace(/^\./,'') : '.html';
-const AppRootURL = process.env.AppRootURL || '/';
+const AppRootURL = process.env.AppRootURL || '';
 
 
 // 
