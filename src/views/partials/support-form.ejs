@@ -1,0 +1,70 @@
+
+    <form class="needs-validation" novalidate id="contact-form">
+      <input type="hidden" name="formID" value="support-form" />
+
+      <div class="mb-3">
+        <script>function adjustHeight(el){ el.style.height = (el.scrollHeight > el.clientHeight) ? (el.scrollHeight)+"px" : "60px";}</script>
+        <textarea name="message" class="form-control" rows="3" onkeyup="adjustHeight(this)" id="validationTextarea" placeholder="Vian tai tuen tarpeen kuvaus"></textarea>
+        
+      </div>
+
+      <div class="form-group">
+        <label for="contactName" class="sr-only">Nimi</label>
+        <input name="name" type="text" class="form-control" style="max-width:360px;" id="contactName" placeholder="Organisaation tai yhteyshenkilön nimi" required>
+        <div class="invalid-feedback">Täytä organisaation tai yhteyshenkilön nimi.</div>
+      </div>
+      <div class="form-group">
+        <label for="contactEmail" class="sr-only">Sähköposti</label>
+        <input name="email" type="email" class="form-control" style="max-width:360px;" id="contactEmail" placeholder="Sähköposti">
+        <div class="invalid-feedback">Täytä sähköpostiosoite</div>
+      </div>
+      <div class="form-group">
+        <label for="contactPhone" class="sr-only">Puhelinnumero</label>
+        <input name="phone" type="text" class="form-control" style="max-width:360px;" id="contactPhone" placeholder="Puhelinnumero">
+      </div>
+      <input type="text" style="display:none" name="__zipcode" />
+      <button type="submit" class="btn btn-primary">Lähetä tukipyyntö</button>
+    </form>
+    <script>
+      (function(){
+        window.dataLayer = window.dataLayer || [];
+        var loadingScreen = new LoadingScreen().render();
+        $('#contact-form').on('submit', function(e){
+          e.preventDefault();
+
+          var form = document.getElementById('contact-form');
+          var valid = form.checkValidity()
+          form.classList.add('was-validated');
+
+          if (valid) {
+            loadingScreen.appendTo(form)
+            var formData = $(e.target).serializeArray();
+            formData.push({name : 'source', value : window.location.href});
+
+            jQuery.ajax({
+              method : "POST",
+              url : "<%- ContactApiEndpoint %>",
+              data : formData,
+              success : function(res) {
+                console.log('success');
+                form.innerHTML = '<p><strong class="text-success">Viesti lähetetty onnistuneesti!</strong></p>';
+                dataLayer.push({event:"form submit", form: "supportform"});
+                
+              },
+              error : function(err){
+                console.log('err');
+                console.log(err);
+                form.innerHTML = '<p class="text-danger">Hmm... Lomakkeen lähetyksessä tapahtui virhe. Yritä ottaa yhteyttä sähköpostilla tai puhelimella.</p>';
+                dataLayer.push({event:"error", error : "form error", detail : e.message});
+
+              },
+              complete : function(){
+                loadingScreen.remove();
+              }
+            })
+          }
+        });
+      })();
+
+
+    </script>

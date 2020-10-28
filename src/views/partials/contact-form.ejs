@@ -1,0 +1,105 @@
+<div class="row ">
+  <div class="col-12 col-md-8 mt-2">
+    <form class="needs-validation" novalidate id="contact-form">
+
+      <input type="hidden" name="formID" value="contact-form" />
+
+      <%  
+        checkboxes = (typeof checkboxes === 'undefined') ? true : checkboxes;
+        if(checkboxes) { 
+      %>
+        <div class="form-group">
+          <div class="form-check  form-check-inline">
+            <input name="suora-kauppa" type="checkbox" class="form-check-input" id="suorakauppa">
+            <label class="form-check-label" for="suorakauppa">Suoralla kaupalla</label>
+          </div>
+          <div class="form-check  form-check-inline">
+            <input name="leasing-sopimus" type="checkbox" class="form-check-input" id="leasingsopimus">
+            <label class="form-check-label" for="leasingsopimus">Leasing-sopimuksella</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input name="palvelusopimus" type="checkbox" class="form-check-input" id="palvelusopimus">
+            <label class="form-check-label" for="palvelusopimus">Palvelusopimuksesta</label>
+          </div>
+        </div>
+      <% } %>
+   
+      <div class="mb-3">
+        <script>function adjustHeight(el){ el.style.height = (el.scrollHeight > el.clientHeight) ? (el.scrollHeight)+"px" : "60px";}</script>
+        <textarea name="message" class="form-control" rows="3" onkeyup="adjustHeight(this)" id="validationTextarea" placeholder="Mistä haluatte tarjouksen? Voitte myös jättää tämän kentän tyhjäksi, niin otamme teihin yhteyttä."></textarea>
+        
+      </div>
+
+      <div class="form-group">
+        <label for="contactName" class="sr-only">Nimi</label>
+        <input name="name" type="text" class="form-control" style="max-width:360px;" id="contactName" placeholder="Organisaation tai yhteyshenkilön nimi" required>
+        <div class="invalid-feedback">Täytä organisaation tai yhteyshenkilön nimi.</div>
+      </div>
+      <div class="form-group">
+        <label for="contactEmail" class="sr-only">Sähköposti</label>
+        <input name="email" type="email" class="form-control" style="max-width:360px;" id="contactEmail" placeholder="Sähköposti" required>
+        <div class="invalid-feedback">Täytä sähköpostiosoite</div>
+      </div>
+      <div class="form-group">
+        <label for="contactPhone" class="sr-only">Puhelinnumero</label>
+        <input name="phone" type="text" class="form-control" style="max-width:360px;" id="contactPhone" placeholder="Puhelinnumero">
+      </div>
+      <input type="text" style="display:none" name="__zipcode" />
+      <button type="submit" class="btn btn-primary">Lähetä viesti</button>
+    </form>
+    <script>
+      (function(){
+        window.dataLayer = window.dataLayer || [];
+        var loadingScreen = new LoadingScreen().render();
+        $('#contact-form').on('submit', function(e){
+          e.preventDefault();
+
+          var form = document.getElementById('contact-form');
+          var valid = form.checkValidity()
+          form.classList.add('was-validated');
+
+          if (valid) {
+            loadingScreen.appendTo(form)
+            var formData = $(e.target).serializeArray();
+            formData.push({name : 'source', value : window.location.href});
+
+            jQuery.ajax({
+              method : "POST",
+              url : "<%- ContactApiEndpoint %>",
+              data : formData,
+              success : function(res) {
+                console.log('success');
+                form.innerHTML = '<p><strong class="text-success">Viesti lähetetty onnistuneesti!</strong></p>';
+                dataLayer.push({event:"form submit", form: "tarjouspyynto"});
+                
+              },
+              error : function(err){
+                console.log('err');
+                console.log(err);
+                form.innerHTML = '<p class="text-danger">Hmm... Lomakkeen lähetyksessä tapahtui virhe. Yritä ottaa yhteyttä sähköpostilla tai puhelimella.</p>';
+                dataLayer.push({event:"error", error : "form error", detail : e.message});
+
+              },
+              complete : function(){
+                loadingScreen.remove();
+              }
+            })
+          }
+        });
+      })();
+
+
+    </script>
+  </div>
+
+  <div class="col-12 col-md-4 text-center mt-2 mt-md-0">
+    <img src="<%- assetSrc('img/pauli-aalto-2.jpg') %>"  class="rounded-circle border border-light" />
+    <p><h3>Pauli Aalto</h3>
+    <strong>Toimitusjohtaja</strong><br/>
+    <a href="tel:040-7483818">040-7483818</a><br/>
+    pauli.aalto@tdp.fi</p>
+  </div>
+
+
+
+</div>

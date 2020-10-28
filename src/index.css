@@ -1,0 +1,180 @@
+/* custom styles */
+/* @import url("./styles/style.css"); */
+
+/*
+    ** Bootstrap breakpoints **
+        Extra small devices (portrait phones, less than 576px) No media query for `xs` since this is the default in Bootstrap
+        @media (min-width: 576px) { ... } // Small devices (landscape phones, 576px and up)
+        @media (min-width: 768px) { ... } // Medium devices (tablets, 768px and up)
+        @media (min-width: 992px) { ... } // Large devices (desktops, 992px and up)
+        @media (min-width: 1200px) { ... } // Extra large devices (large desktops, 1200px and up)
+*/
+
+/* overrider bootrap heading sizes */
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 1rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+h1 {
+    font-size:1.5rem;
+    margin:1rem 0 2rem 0;
+    /*
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    */
+}
+@media (min-width: 576px) { 
+    h1 {
+        font-size:2.8rem;
+        margin:1.5rem 0 2.5rem 0;
+        /*
+        text-decoration-line: underline;
+        text-decoration-style: double;
+        */
+    }
+}
+h2 {
+    font-size:1.5rem;
+}
+h3 {
+    font-size:1.3rem;
+}
+h4 {
+    font-size:1.2rem;
+}
+h5 {
+    font-size: 1.1rem;
+}
+
+.breadcrumb {
+    background:transparent;
+    font-size:0.80rem;
+    padding:0.35rem 0rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    white-space: nowrap;
+}
+
+
+/* add bootstrap button breakpoints */
+@media (max-width: 767px) {
+    .btn-xs-block {
+        display: block;
+        width: 100%;
+    }
+    input[type="submit"].btn-xs-block,
+    input[type="reset"].btn-xs-block,
+    input[type="button"].btn-xs-block {
+        width: 100%;
+    }
+    .btn-block + .btn-xs-block,
+    .btn-xs-block + .btn-block,
+    .btn-xs-block + .btn-xs-block {
+        margin-top: 0.5rem;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .btn-sm-block {
+        display: block;
+        width: 100%;
+    }
+    input[type="submit"].btn-sm-block,
+    input[type="reset"].btn-sm-block,
+    input[type="button"].btn-sm-block {
+        width: 100%;
+    }
+    .btn-block + .btn-sm-block,
+    .btn-sm-block + .btn-block,
+    .btn-sm-block + .btn-sm-block {
+        margin-top: 0.5rem;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    .btn-md-block {
+        display: block;
+        width: 100%;
+    }
+    input[type="submit"].btn-md-block,
+    input[type="reset"].btn-md-block,
+    input[type="button"].btn-md-block {
+        width: 100%;
+    }
+    .btn-block + .btn-md-block,
+    .btn-md-block + .btn-block,
+    .btn-md-block + .btn-md-block {
+        margin-top: 0.5rem;
+    }
+}
+@media (min-width: 1200px) {
+    .btn-lg-block {
+        display: block;
+        width: 100%;
+    }
+    input[type="submit"].btn-lg-block,
+    input[type="reset"].btn-lg-block,
+    input[type="button"].btn-lg-block {
+        width: 100%;
+    }
+    .btn-block + .btn-lg-block,
+    .btn-lg-block + .btn-block,
+    .btn-lg-block + .btn-lg-block {
+        margin-top: 0.5rem;
+    }
+}
+
+
+/* home */
+.dashed-bottom {
+    border-bottom:1px dashed #888;
+}
+
+#home-company-badges {
+    margin:15px 0;
+    opacity:1;
+}
+#home-company-badges img {
+    width: 100px;
+    margin-right:10px;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+#footer-logos img {
+    width: 100px;
+    margin-right:10px;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+/* specific stuff */
+.tdp-grad {
+    background-image: radial-gradient(#FFDE5E, #F9B026)
+}
+div.list-square-checkmark ul {
+    margin:22px 0 18px 8px;
+    padding:0;
+}
+div.list-square-checkmark ul li {
+    background:url('./icons/checkmark-square-black.svg') left top no-repeat;
+    background-size:24px 24px;
+    line-height:24px;
+    padding-left: 38px;
+    margin-bottom:10px;
+    list-style: none;
+}
+/* css for inputs on esimerkkipaketit page */
+.HintaInput{
+	 all: unset; 
+	 width:75px; 
+	 text-align: center;	
+}
+::placeholder {
+	 color: white;
+	 opacity: 1;
+}
+:-ms-input-placeholder { 
+	 color: white;
+}
+::-ms-input-placeholder { 
+    color: white;
+}

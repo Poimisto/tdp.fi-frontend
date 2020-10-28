@@ -1,0 +1,64 @@
+<%-
+  include('partials/head', {
+    head : head 
+  });
+%>
+
+<body class="post">
+
+<nav>
+    <%- include('partials/topnav') %>
+
+</nav>
+
+
+
+
+<div class="container">
+
+    <%- body %>
+
+
+    <br/><br/>
+    TEST
+    <br/><br/>
+
+    <input type="range" min="1" max="100" value="10" role="input-range">
+
+    <script>
+    
+    $('input[type="range"]').rangeslider({
+      polyfill: false
+    });
+    
+    </script>
+
+<div class="card m-3">
+  <div class="card-body">
+      <div class="custom-control-lg custom-control custom-checkbox">
+          <input class="custom-control-input" id="checkbox-large" type="checkbox"/>
+          <label class="custom-control-label" for="checkbox-large">
+              Checkbox label for large input!
+          </label>
+      </div>
+      <div class="custom-control custom-checkbox">
+          <input class="custom-control-input" id="checkbox-small" type="checkbox"/>
+          <label class="custom-control-label" for="checkbox-small">
+              Checkbox label for small input!
+          </label>
+      </div>
+  </div>
+  </div>
+
+
+</div>
+
+
+<footer>
+    <%- include('partials/footer') %>
+
+</footer>
+
+
+
+</body>

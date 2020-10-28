@@ -1,0 +1,34 @@
+<%-
+  include('partials/head', {
+    head : head 
+  });
+%>
+<body class="page">
+  
+
+  <nav><%- include('partials/topnav') %></nav>
+
+  <% if(typeof breadcrumb !== 'undefined') { %>
+    <%- include('partials/breadcrumb', breadcrumb) %>
+  <% } %>
+
+  <div class="container-xl pt-4 pb-4">
+    <div class="row">
+      <div class="col-12 col-md-6">
+        <%- body %>
+      </div>
+      <div class="col-12 col-md-6 mt-5 p-5" style="background:#f3f3f3">
+        
+        <h3>Lähetä tukipyyntö</h3>
+        <%- include('partials/support-form') %>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="container-xl mt-5">
+    <%- include('partials/footer') %>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+
+.pmt-pagination {
+  margin:20px 0;
+  text-align:center;
+}
+.pmt-pagination a {
+  cursor:pointer;
+  border-radius:8px;
+  margin:0 2px;
+  padding:4px 8px;
+  background:#666;
+  color:#f3f3f3;
+}
+.pmt-pagination a:hover {
+  background:#222;
+  color:#fff;
+}
+
+.pmt-pagination a.curr_page {
+  cursor:default;
+  background:#f3f3f3;
+  color:#999;
+}
+.pmt-pagination a.curr_page:hover {
+  background:#f3f3f3;
+}

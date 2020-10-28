@@ -1,0 +1,21 @@
+<div class="container-fluid" style="background:#ffeda6">
+<div class="container-xl p-0 p-sm-1">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb mb-0">
+            <% for(var i = 0; i < breadcrumb.length; i++) { %>
+                <% if( typeof breadcrumb[i].path !== 'undefined' ) { %>
+                <li class="breadcrumb-item">
+                    <a href="<%- linkTo(breadcrumb[i].path) %>">
+                        <%- breadcrumb[i].label %>
+                    </a>
+                </li>
+                <% } else { %>
+                    <li class="breadcrumb-item">
+                        <%- breadcrumb[i].label %>
+                    </li>
+                <% } %>
+             <% } %>
+        </ol>
+    </nav>
+</div>
+</div>
