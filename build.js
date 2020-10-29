@@ -4,6 +4,7 @@ const marked = require('marked');
 const fse = require('fs-extra');
 const glob = require('glob');
 const ejs = require('ejs')
+const ssg = require('./utils/utils')
 const browserify = require('browserify');
 
 
@@ -22,6 +23,10 @@ const PUBLIC_DIR = __dirname + '/public';
 const TEMPLATES_DIR = __dirname + '/src/views';
 const DEFAULT_TEMPLATE = 'page';
 const SEARCH_INDEX_FILE = 'searchIndex.json';
+const srcPath = './src'
+const distPath = './public'
+
+ssg.copyAdminFolder(srcPath, distPath)
 
 /*
   passed to template rendering 
