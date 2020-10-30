@@ -1,13 +1,16 @@
 ---
 template: page-nocontainer
 path: /it-laitteet/
-head: 
+head:
   title: Tietokoneet ja muut IT-laitteet yritykselle - TDP
-  description: Edulliset ja tehokkaat tietokone-leasing ratkaisut yrityksille luotettavasti ja ammattitaidolla - pidä tietotekniikka jatkuvasti nykyaikaisena
+  description: Edulliset ja tehokkaat tietokone-leasing ratkaisut yrityksille
+    luotettavasti ja ammattitaidolla - pidä tietotekniikka jatkuvasti
+    nykyaikaisena
   keywords: tietokoneet yritykselle, yrityksen it-laitteet
 contactForm:
   title: Haluan tarjouksen IT-laitteista
   id: contactform
+title: Title
 ---
 
 
@@ -16,7 +19,7 @@ contactForm:
 <div class="row">
 <div class="col-md-6 list-square-checkmark">
 
-## Pyydä tarjous yrityksesi IT-laitteista
+## Pyydä tarjous yrityksesi IT-laitteista (change made on netlify cms)
 
 * Toimitamme IT-laitteet kaikkialle Suomeen
 * Työntekijöiden työvälineet, liiketilojen infonäytöt, neuvotteluhuoneiden tekniikka, verkkolaitteet... 
