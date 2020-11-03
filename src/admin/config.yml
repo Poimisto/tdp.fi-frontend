@@ -29,9 +29,9 @@ collections:
             widget: "object"
             fields:
               - { label: "Title", name: "title", widget: "string" }
-  - name: "it-laitteet"
-    label: "It-laitteet"
-    folder: "_pages/it-laitteet"
+  - name: "Pages"
+    label: "Pages"
+    folder: "_pages"
     identifier_field: path
     create: true
     slug: "{{path}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -51,7 +51,8 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Id", name: "id", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown", required: false }
+          - { label: "Checkboxes", name: "checkboxes", widget: boolean }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
   # - name: "it-palvelut"
   #   label: "It-palvelut"
   #   folder: "_pages/it-palvelut"
