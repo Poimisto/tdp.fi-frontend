@@ -1,12 +1,12 @@
 backend:
   name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  branch: master # Branch to update (optional; defaults to master)
 
 # This line should *not* be indented
 publish_mode: editorial_workflow
 localhost_backend: true
 # These lines should *not* be indented
-media_folder: "src/_assets/img" # Media files will be stored in the repo under static/images/uploads
+media_folder: "_assets/img" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/assets/img" # The src attribute for uploaded media will begin with /images/uploads
 
 slug:
