@@ -1,0 +1,201 @@
+backend:
+  name: git-gateway
+  branch: main
+  #name: proxy
+  #proxy_url: http://localhost:8081/api/v1
+  # change repo to your git repository url
+  # repo: Poimisto/poimisto.com-frontend
+
+# when using the default proxy server port, run npx netlify-cms-proxy-server
+local_backend: true
+#local_backend:
+  # when using a custom proxy server port
+  #url: http://localhost:8081/api/v1
+  # when accessing the local site from a host other than 'localhost' or '127.0.0.1'
+  # allowed_hosts: ['192.168.0.1']
+
+publish_mode: editorial_workflow
+
+media_folder: static/assets
+public_folder: /assets
+
+collections:
+  - name: pages
+    label: Pages
+    folder: content/pages
+    create: true
+    summary: '{{fields.path}}'
+    fields: 
+      - name: path
+        label: Path
+        widget: string
+        pattern: [^/,"Path must start with /"]
+      - label: Featured Image
+        name: thumbnail
+        widget: image
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - { name: date, label: Date, widget: datetime }
+      - { name: title, label: Title }
+      - { label: Meta Description, name: metaDescription, widget: text, required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+
+  - name: settings
+    label: Settings
+    files:
+      - name: config
+        label: Config
+        file: content/settings.json
+        fields:
+          - label: Home page
+            name: homepage
+            widget: relation
+            collection: pages
+            search_fields: ["title", "path"]
+            value_field: '{{slug}}'
+            display_fields: ["title"]
+          - widget: string
+            name: title
+            label: Site Title
+            required: true
+          - widget: string
+            name: siteUrl
+            label: Website URL
+            required: true
+          - widget: text
+            name: description
+            label: Description
+            default: ''
+            required: false
+          - widget: image
+            name: thumbnail
+            label: Default image for metadata (FB, Twitter...)
+            
+
+          - label: Navigation Type
+            name: navtype
+            widget: select
+            options: [normal, dropdown]
+            default: normal
+          - label: Navigation
+            name: navigation
+            widget: list
+            types:
+              - label: Page
+                name: page
+                widget: object
+                summary: '{{fields.title}}'
+                fields:
+                  - { label: Title, name: title, widget: string }
+                  - label: Link
+                    name: link
+                    widget: relation
+                    collection: pages
+                    search_fields: ["title", "path"]
+                    value_field: 'path'
+                    display_fields: ["title"]
+              - label: Post
+                name: post
+                widget: object
+                summary: '{{fields.title}}'
+                fields:
+                  - { label: Title, name: title, widget: string }
+                  - label: Link
+                    name: link
+                    widget: relation
+                    collection: posts
+                    search_fields: ["title", "path"]
+                    value_field: 'path'
+                    display_fields: ["title"]
+              - label: Link
+                name: link
+                widget: object
+                summary: '{{fields.title}}'
+                fields:
+                  - { label: Title, name: title, widget: string }
+                  - label: Link
+                    name: link
+                    widget: string
+
+  - name: posts
+    label: Posts
+    folder: content/posts
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
+    fields:
+      - {
+          label: Template,
+          name: template,
+          widget: hidden,
+          default: BlogPost,
+        }
+      - name: author
+        label: Author
+        widget: relation
+        collection: employees
+        search_fields: ["authorname",]
+        value_field: '{{fields.authorname}}'
+        display_fields: ["authorname"]
+        required: false
+      - name: path
+        label: Path
+        widget: string
+        pattern: [^/,"Path must start with /"]
+      - { name: date, label: Date, widget: datetime }
+      - { name: title, label: Title }
+      - label: Meta Description
+        name: metaDescription
+        widget: text
+        required: false
+      - label: Featured Image
+        name: thumbnail
+        widget: image
+        hint: "Image size 1280x800 works best :)"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - { name: body, label: Body, widget: markdown }
+
+  - name: people
+    label: People
+    folder: content/people
+    slug: '{{fields.authorname}}'
+    create: true
+    summary: '{{fields.authorname}} | {{fields.title}}'
+    fields:
+      - { name: isemployee, label: Is Employee?, widget: boolean, default: true }
+      - { name: title, label: Title }
+      - { name: authorname, label: Author/Public Name }
+      - label: Featured Image
+        name: image
+        widget: image
+        required: true
+      - label: Description
+        name: description
+        widget: markdown
+        required: true
+      - label: Phone
+        name: phone
+        widget: string
+        required: false
+      - label: Email
+        name: email
+        widget: string
+        required: false
+      - label: Linkedin
+        name: linkedin
+        widget: string
+        required: false
+      - label: Work Experience
+        name: workexperience
+        widget: markdown
+        required: false
+      - label: Technical Skills
+        name: technicalskills
+        widget: markdown
+        required: false
+      - { name: body, label: Body, widget: markdown, required: false }

@@ -1,0 +1,28 @@
+{
+  "homepage": "home",
+  "title": "Poimisto Starter",
+  "siteUrl": "https://pmt-gatsby-starter-v0.netlify.app",
+  "home": {
+    "title": "Poimisto Oy"
+  },
+  "navigation": [
+    {
+      "type": "link",
+      "title": "Ota yhteyttä",
+      "link": "/yhteystiedot"
+    },
+    {
+      "type": "page",
+      "link": "/yhteystiedot",
+      "title": "Yhteystiedot"
+    },
+    {
+      "type": "post",
+      "title": "My cool post",
+      "link": "/miten-hyodynnat-dataa-jota-sinulla-ei-ole"
+    }
+  ],
+  "navtype": "normal",
+  "thumbnail": "/assets/poimisto-short-300x300.png",
+  "description": "This is the default description to be used"
+}
