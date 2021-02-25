@@ -1,0 +1,8 @@
+{
+  "isEmployee": false,
+  "name": "Pauli Aalto",
+  "title": "Toimitusjohtaja",
+  "phone": "41242124",
+  "image": "/assets/pauli-aalto-2.jpg",
+  "email": "pauli.aalto@tdp.fi"
+}

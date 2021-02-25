@@ -8,6 +8,7 @@ export default {
   id: "cta",
   // Visible label
   label: "Call to Action",
+  summary: '{{fields.text}}',
   // Fields the user need to fill out when adding an instance of the component
   fields: [
     { label: "Background Color", name: "bgColor", widget: "select", options: colors, default: colors[0] },
@@ -16,7 +17,7 @@ export default {
     { label: "Text", name: "text", widget: "string" },
   ],
   // Pattern to identify a block as being an instance of this component
-  pattern: /<CallToAction bgColor="([^\"]+)" url="([^\"]+)" align="([^\"]+)">(.*)<\/CallToAction>/s,
+  pattern: /<CallToAction bgColor="([^\"]+)" url="([^\"]+)" align="([^\"]+)">(.*?)<\/CallToAction>/s,
   // Function to extract data elements from the regexp match
   fromBlock: function(match) {
     return {

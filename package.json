@@ -30,6 +30,7 @@
     "gatsby-remark-copy-linked-files": "^2.10.0",
     "gatsby-remark-images": "^3.10.0",
     "gatsby-source-filesystem": "^2.5.0",
+    "gatsby-transformer-json": "^2.11.0",
     "gatsby-transformer-remark": "^2.15.0",
     "gatsby-transformer-sharp": "^2.6.0",
     "install": "^0.13.0",
@@ -39,11 +40,14 @@
     "polished": "^4.1.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
+    "react-burger-menu": "^3.0.3",
     "react-dom": "^16.12.0",
     "react-helmet": "^6.1.0",
+    "react-hook-form": "^6.15.1",
     "styled-components": "^5.2.1"
   },
   "devDependencies": {
+    "dotenv": "^8.2.0",
     "prettier": "2.2.1"
   },
   "keywords": [

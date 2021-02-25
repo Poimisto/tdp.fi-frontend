@@ -14,7 +14,7 @@ function SEO({ description, lang, meta, title, author, image }) {
   const settings = require('../../content/settings.json')
 
   const metaDescription = description || settings.description;
-  const defaultTitle = settings.title
+  const siteTitle = settings.title
   const img = settings.siteUrl + (image || settings.thumbnail);
 
   return (
@@ -23,7 +23,7 @@ function SEO({ description, lang, meta, title, author, image }) {
         lang,
       }}
       title={title}
-      titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
+      titleTemplate={siteTitle ? `%s | ${siteTitle}` : null}
       meta={[
         {
           name: `description`,

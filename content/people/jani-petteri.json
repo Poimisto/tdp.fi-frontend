@@ -1,0 +1,8 @@
+{
+  "isEmployee": false,
+  "name": "Jani Petteri",
+  "title": "Kirka",
+  "image": "/assets/wtn_2739-2000.jpg",
+  "phone": "32132131",
+  "email": "janipetteri@example.com"
+}

@@ -1,14 +1,15 @@
 export default {
-  containerMaxWidth: 800,
+  containerMaxWidth: 1080,
   colors: {
-    brand: '#EB4A40',
-    brandSecondary: '#66E89C',
+    brand: 'rgb(251,194,60)',
+    brandSecondary: 'rgb(255,181,0)',
     success: '#5DE744',
     danger: '#B70000',
-    dark : '#38100D',
+    dark : '#343A40',
     darkest : '#111',
     light : '#D3D4C1',
-    lightest : '#fff'
+    lightest : '#fff',
+    link: '#0f89d4',
   },
   bodyFontFamily: 'Open Sans, sans-serif',
   headingFontFamily: 'Crete Round, serif',

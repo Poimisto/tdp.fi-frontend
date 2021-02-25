@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-author: Santeri Salonen
+author: Pauli Aalto
 path: /miten-hyodynnat-dataa-jota-sinulla-ei-ole
 date: 2020-12-30T09:06:33.306Z
 title: Miten hyödynnät dataa, jota sinulla ei ole?

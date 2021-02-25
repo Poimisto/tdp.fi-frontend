@@ -1,11 +1,12 @@
 ---
 template: BlogPost
+author: Jani Petteri
 path: /testi-teppo
 date: 2021-02-05T11:59:26.049Z
 title: Another example of a transformation relationship is the
   gatsby-source-filesystem...
 metaDescription: Hello
-thumbnail: /assets/isaac-smith-at77q0njnt0-unsplash.jpg
+thumbnail: ""
 ---
 Another example of a transformation relationship is the gatsby-source-filesystem plugin used with the gatsby-transformer-remark plugin. This combination transforms a parent File node’s markdown string into a MarkdownRemark node. The remark transformer plugin adds its newly created child node as a child of the parent node using the action createParentChildLink. Transformation relationships like this are used when a new node is completely derived from a single parent node. E.g. the markdown node is derived from the parent File node and would not exist if the parent File node hadn’t been created.
 

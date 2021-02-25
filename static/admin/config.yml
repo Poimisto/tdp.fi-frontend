@@ -30,6 +30,7 @@ collections:
         label: Path
         widget: string
         pattern: [^/,"Path must start with /"]
+        required: false
       - label: Featured Image
         name: thumbnail
         widget: image
@@ -38,9 +39,29 @@ collections:
           config:
             multiple: false
       - { name: date, label: Date, widget: datetime }
-      - { name: title, label: Title }
-      - { label: Meta Description, name: metaDescription, widget: text, required: false }
+      - name: head
+        label: Meta
+        widget: object
+        summary: '{{fields.title}}'
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Description
+            name: description
+            widget: text
+          - label: keywords (comma separated)
+            name: keywords 
+            widget: string
       - { label: "Body", name: "body", widget: "markdown" }
+      - name: contactForm
+        label: Yhteydenottolomake
+        widget: relation
+        collection: contactForms
+        search_fields: ["title"]
+        value_field: '{{fields.title}}'
+        display_fields: ['title']
+        required: false
 
 
   - name: settings
@@ -94,9 +115,9 @@ collections:
                     name: link
                     widget: relation
                     collection: pages
-                    search_fields: ["title", "path"]
-                    value_field: 'path'
-                    display_fields: ["title"]
+                    search_fields: ["path"]
+                    value_field: '{{fields.path}}'
+                    display_fields: ["path"]
               - label: Post
                 name: post
                 widget: object
@@ -107,9 +128,9 @@ collections:
                     name: link
                     widget: relation
                     collection: posts
-                    search_fields: ["title", "path"]
-                    value_field: 'path'
-                    display_fields: ["title"]
+                    search_fields: ["path"]
+                    value_field: '{{fields.path}}'
+                    display_fields: ["path"]
               - label: Link
                 name: link
                 widget: object
@@ -135,21 +156,26 @@ collections:
       - name: author
         label: Author
         widget: relation
-        collection: employees
-        search_fields: ["authorname",]
-        value_field: '{{fields.authorname}}'
-        display_fields: ["authorname"]
+        collection: people
+        search_fields: ["name",]
+        value_field: '{{fields.name}}'
+        display_fields: ["name"]
         required: false
-      - name: path
-        label: Path
-        widget: string
-        pattern: [^/,"Path must start with /"]
       - { name: date, label: Date, widget: datetime }
-      - { name: title, label: Title }
-      - label: Meta Description
-        name: metaDescription
-        widget: text
-        required: false
+      - name: head
+        label: Meta
+        widget: object
+        summary: '{{fields.title}}'
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Description
+            name: description
+            widget: text
+          - label: keywords (comma separated)
+            name: keywords 
+            widget: string
       - label: Featured Image
         name: thumbnail
         widget: image
@@ -163,13 +189,14 @@ collections:
   - name: people
     label: People
     folder: content/people
-    slug: '{{fields.authorname}}'
+    slug: '{{fields.name}}'
     create: true
-    summary: '{{fields.authorname}} | {{fields.title}}'
+    format: json
+    summary: '{{fields.name}} | {{fields.title}}'
     fields:
-      - { name: isemployee, label: Is Employee?, widget: boolean, default: true }
+      - { name: name, label: Public Name }
+      - { name: isEmployee, label: Is Employee?, widget: boolean, default: true }
       - { name: title, label: Title }
-      - { name: authorname, label: Author/Public Name }
       - label: Featured Image
         name: image
         widget: image
@@ -177,7 +204,7 @@ collections:
       - label: Description
         name: description
         widget: markdown
-        required: true
+        required: false
       - label: Phone
         name: phone
         widget: string
@@ -190,12 +217,67 @@ collections:
         name: linkedin
         widget: string
         required: false
-      - label: Work Experience
-        name: workexperience
+
+  - name: leasingPackages
+    label: Leasing Packages
+    folder: content/leasing-packages
+    slug: '{{fields.name}}'
+    create: true
+    format: md
+    summary: '{{fields.name}}'
+    fields:
+      - { name: name, label: Name }
+      - { name: title, label: Title }
+      - label: Featured Image
+        name: image
+        widget: image
+        required: true
+      - label: Summary Content
+        name: description
         widget: markdown
         required: false
-      - label: Technical Skills
-        name: technicalskills
-        widget: markdown
+      - label: Priced Items
+        name: pricedItems
+        widget: list
+        types:
+          - label: Priced Item
+            name: item
+            widget: object
+            summary: '{{fields.title}} - {{price.price}} €'
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: Is optional, name: isOptional, widget: boolean, default: false }
+              - label: Price
+                name: price
+                widget: object
+                fields:
+                  - label: Direct Purchase Price
+                    name: price
+                    widget: number
+                    value_type: float
+                  - label: 24 Month Leasing Price
+                    name: price24months
+                    widget: number
+                    value_type: float
+                  - label: 36 Month Leasing Price
+                    name: price36months
+                    widget: number
+                    value_type: float
+
+      - { label: "Package details", name: "body", widget: "markdown" }
+
+  - name: contactForms
+    label: Contact Forms
+    folder: content/forms
+    create: true
+    format: json
+    fields:
+      - { name: title, label: Title }
+      - name: contactPerson
+        label: Contact Person
+        widget: relation
+        collection: people
+        search_fields: ["name",]
+        value_field: '{{fields.name}}'
+        display_fields: ["name"]
         required: false
-      - { name: body, label: Body, widget: markdown, required: false }

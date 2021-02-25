@@ -7,13 +7,19 @@ import CallToAction from './../components/CallToAction'
 import Link from '../components/Link'
 import Seo from '../components/Seo'
 import HeroBlock from '../components/HeroBlock'
-import Grid from '@material-ui/core/Grid';
-import Hidden from '@material-ui/core/Hidden';
+import Cards from '../components/Cards'
 import Img from 'gatsby-image';
 import styled from 'styled-components';
 import LatestPosts from './../components/LatestPosts'
+import ListOfEmployees from '../components/ListOfEmployees'
+import ListOfLeasingPackages from '../components/ListOfLeasingPackages'
+
 import { getContrast } from 'polished'
 import { createGlobalStyle } from 'styled-components'
+import Grid from '@material-ui/core/Grid'
+
+
+import ContactForm from './../components/ContactForm'
 
 const GlobalStyle = createGlobalStyle`
   * {
@@ -29,8 +35,7 @@ const GlobalStyle = createGlobalStyle`
   }
   a {
     text-decaration:none;
-    text-transform:uppercase;
-    color:red;
+    color: ${props => props.theme.colors.link};
   }
   button {
     text-decoration:none;
@@ -68,13 +73,11 @@ const GlobalStyle = createGlobalStyle`
   }
   font-size: ${props => props.theme.fontSize};
   line-height: ${props => props.theme.bodyLineHeight};
+
 `;
 
 const ArticleImg = styled(Img)`
-  margin: -60px 0px;
-  @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
-    margin: -40px -40px;
-  }
+
 `;
 const ArticleTitle = styled.h1`
 
@@ -109,7 +112,6 @@ const ArticleContent = styled.div`
 const ArticleMetadata = styled.div`
   float:left;
   margin-top:6px;
-
   .date {
     background:red;
     padding:6px;
@@ -121,64 +123,118 @@ const ArticleMetadata = styled.div`
   @media (max-width: ${props => props.theme.mobileBreakpoint}px) {    
     display:none;
   }
-
+`;
+const PageWrapper = styled.div`
+  margin-bottom:40px;
 `;
 
 
-const shortcodes = { Link, CallToAction, HeroBlock, Grid, Hidden, LatestPosts }
+const shortcodes = { Link, CallToAction, HeroBlock, LatestPosts, Cards, ListOfEmployees, Grid, ListOfLeasingPackages }
 
 
-const EntryTemplate = ({data}) => {
-  return (
-    <Layout collection={data.mdx.fields.collection} slug={data.mdx.fields.slug}>
-      <GlobalStyle/>
-      <Seo 
-        lang="fi" 
-        description={data.mdx.frontmatter.metaDescription} 
-        title={data.mdx.frontmatter.title}
-        image={data.mdx.frontmatter.thumbnail ? data.mdx.frontmatter.thumbnail.childImageSharp.fixed.src : null}
-      />
-      {data.mdx.fields.collection === 'posts' && (
-        <div>
-          <ArticleTitle>{data.mdx.frontmatter.title}</ArticleTitle>
-          {!!data.mdx.frontmatter.thumbnail && (
-            <HeroBlock bgColor="brand">
-              <ArticleImg
-                fluid={data.mdx.frontmatter.thumbnail.childImageSharp.fluid}
-                alt={data.mdx.frontmatter.title + "- Featured Shot"}
-              />   
-              </HeroBlock>
-          )}
-          <ArticleMetadata>
-            <p>
-              <span className="date">{data.mdx.frontmatter.date}</span>
-            </p>
-          </ArticleMetadata>          
-          <ArticleContent>
+const EntryTemplate = ({data, pageContext}) => {
+  if (data.leasingPackagesJson) {
+    return (
+      <Layout breadcrumb={[
+        {
+          label : "It-laitteet",
+          path: "/it-laitteet"
+        },
+        {
+          label: "Tietokone-leasing",
+          path: "/tietokone-leasing",
+        },
+        {
+          label: "Esimerkkipaketit",
+          path: "/tietokone-leasing-esimerkkipaketit",
+        },
+        {
+          label: data.leasingPackagesJson.name
+        }
+      ]}>
+        <GlobalStyle/>
+        <Seo 
+          lang="fi" 
+          description={data.leasingPackagesJson.description || null} 
+          title={data.leasingPackagesJson.title || null}
+          image={data.leasingPackagesJson.image.childImageSharp.fixed.src || null}
+        />
+        <PageWrapper>
+          <MDXProvider components={shortcodes}>
+            <MDXRenderer>
+              {data.leasingPackagesJson.fields.markdownBody.childMdx.body}
+            </MDXRenderer>
+          </MDXProvider>
+        </PageWrapper>
+      </Layout>
+
+
+    )
+  }
+  if (data.mdx) {
+    return (
+      <Layout collection={data.mdx.fields.collection} slug={data.mdx.fields.slug} breadcrumb={data.mdx.frontmatter.breadcrumb || null}>
+        <GlobalStyle/>
+        <Seo 
+          lang="fi" 
+          description={data.mdx.frontmatter.head ? data.mdx.frontmatter.head.description : null} 
+          title={data.mdx.frontmatter.head ? data.mdx.frontmatter.head.title : null}
+          image={data.mdx.frontmatter.thumbnail ? data.mdx.frontmatter.thumbnail.childImageSharp.fixed.src : null}
+        />
+  
+        {data.mdx.fields.collection === 'posts' && (
+          <div>
+            <ArticleTitle>{data.mdx.frontmatter.title}</ArticleTitle>
+            {!!data.mdx.frontmatter.thumbnail && (
+              <HeroBlock bgColor="brand" columns={2}>
+               
+                <ArticleImg
+                  fluid={data.mdx.frontmatter.thumbnail.childImageSharp.fluid}
+                  alt={data.mdx.frontmatter.title + "- Featured Shot"}
+                />   
+                </HeroBlock>
+            )}
+            <ArticleMetadata>
+              <p>
+                <span className="date">{data.mdx.frontmatter.date}</span>
+              </p>
+            </ArticleMetadata>          
+            <ArticleContent>
+              <MDXProvider components={shortcodes}>
+                <MDXRenderer>
+                  {data.mdx.body}
+                </MDXRenderer>
+              </MDXProvider>
+            </ArticleContent>
+          </div>
+        )}
+        {data.mdx.fields.collection === 'pages' && (
+          <PageWrapper>
             <MDXProvider components={shortcodes}>
               <MDXRenderer>
-                {data.mdx.body}
+                  {data.mdx.body}
               </MDXRenderer>
             </MDXProvider>
-          </ArticleContent>
-        </div>
-      )}
-      {data.mdx.fields.collection === 'pages' && (
-        <MDXProvider components={shortcodes}>
-          <MDXRenderer>
-            {data.mdx.body}
-          </MDXRenderer>
-        </MDXProvider>
-      )}
-      {data.mdx.fields.collection === 'people' && (
-        <MDXProvider components={shortcodes}>
-          <MDXRenderer>
-            {data.mdx.body}
-          </MDXRenderer>
-        </MDXProvider>
-      )}
-    </Layout>
-  )
+          </PageWrapper>
+        )}
+  
+  
+        {pageContext.contactForm && (
+          
+          <ContactForm
+            title={pageContext.contactForm.title} 
+            contactName={pageContext.contactForm.contactPerson.name}
+            contactTitle={pageContext.contactForm.contactPerson.title}
+            contactEmail={pageContext.contactForm.contactPerson.email}
+            contactPhone={pageContext.contactForm.contactPerson.phone}
+            contactImage={pageContext.contactForm.contactPerson.image.childImageSharp.fixed.src}
+            
+          />
+        )}
+        </Layout>
+    )
+  
+  }
 }
 
 export default EntryTemplate
@@ -187,13 +243,20 @@ export const pageQuery = graphql`
   query($path: String!) {
     mdx(fields: { slug: { eq: $path } }) {
       fields {
-        collection
         slug
+        collection
       }
       frontmatter {
         date(formatString: "DD.MM.YYYY")
         title
-        metaDescription
+        head {
+          title
+          description
+        }
+        breadcrumb {
+          label
+          path
+        }
         thumbnail {
           childImageSharp {
             fluid(maxWidth: 900) {
@@ -202,6 +265,35 @@ export const pageQuery = graphql`
             fixed(width: 600, height: 600) {
               src
             }
+          }
+        }
+      }
+      body
+    }
+    leasingPackagesJson(fields: { slug: { eq: $path } }) {
+      fields {
+        slug
+        markdownBody {
+          childMdx {
+            body
+          }
+        }
+      }
+      pricedItems {
+        price {
+          price
+          price24months
+          price36months
+        }
+        title
+      }
+      name
+      title
+      description
+      image {
+        childImageSharp {
+          fixed(width: 200) {
+            ...GatsbyImageSharpFixed
           }
         }
       }

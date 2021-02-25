@@ -1,3 +1,5 @@
+require("dotenv").config();
+
 module.exports = {
   siteMetadata: require('./content/settings.json'),
   plugins: [
@@ -13,7 +15,15 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    `gatsby-remark-images`,
+    {
+      resolve: `gatsby-remark-images`,
+      options: {
+        maxWidth: 1200,
+        backgroundColor: 'transparent', // required to display blurred image first
+        linkImagesToOriginal: false,
+        disableBgImageOnAlpha: true,
+      },
+    },
     // required here so frontmatter stuff works
     {
       resolve: `gatsby-plugin-netlify-cms-paths`,
@@ -21,6 +31,7 @@ module.exports = {
         cmsConfig: `/static/admin/config.yml`,
       }
     }, 
+    'gatsby-transformer-json',
     {
       resolve: `gatsby-plugin-mdx`,
       options: {
@@ -38,6 +49,8 @@ module.exports = {
             options: {
               maxWidth: 1200,
               backgroundColor: 'transparent', // required to display blurred image first
+              linkImagesToOriginal: false,
+              disableBgImageOnAlpha: true,
             },
           },
         ],
@@ -71,6 +84,20 @@ module.exports = {
         path: `${__dirname}/content/people`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `forms`,
+        path: `${__dirname}/content/forms`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `leasingPackages`,
+        path: `${__dirname}/content/leasing-packages`,
+      },
+    },
 
 
     {
@@ -101,7 +128,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/tdp-logo.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
@@ -111,7 +138,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-google-tagmanager",
       options: {
-        id: "GTM-12345678",
+        id: "GTM-NK4HB4B",
         includeInDevelopment: true,
         defaultDataLayer: { platform: "gatsby" },
         routeChangeEventName: "RouteChange",
@@ -141,6 +168,6 @@ module.exports = {
     },
   ],
   mapping: {
-    'mdx.frontmatter.thumbnail': `imageSharp.original.src`
+    'Mdx.frontmatter.contactFormPerson': `Mdx.frontmatter.personName`
   },
 }

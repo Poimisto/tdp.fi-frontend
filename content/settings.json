@@ -1,28 +1,33 @@
 {
   "homepage": "home",
-  "title": "Poimisto Starter",
+  "title": "TDP",
   "siteUrl": "https://pmt-gatsby-starter-v0.netlify.app",
   "home": {
     "title": "Poimisto Oy"
   },
   "navigation": [
     {
-      "type": "link",
-      "title": "Ota yhteyttä",
-      "link": "/yhteystiedot"
+      "type": "page",
+      "link": "/it-palvelut/",
+      "title": "IT-palvelut"
     },
     {
       "type": "page",
-      "link": "/yhteystiedot",
-      "title": "Yhteystiedot"
+      "title": "IT-laitteet",
+      "link": "/it-laitteet/"
     },
     {
-      "type": "post",
-      "title": "My cool post",
-      "link": "/miten-hyodynnat-dataa-jota-sinulla-ei-ole"
+      "type": "page",
+      "link": "/uusi-yrittaja/",
+      "title": "Uusi yrittäjä"
+    },
+    {
+      "type": "page",
+      "link": "/yritys",
+      "title": "Yritys"
     }
   ],
   "navtype": "normal",
-  "thumbnail": "/assets/poimisto-short-300x300.png",
-  "description": "This is the default description to be used"
+  "thumbnail": "/assets/tdp-logojpeg.jpg",
+  "description": "Tampereen Datapiste on Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva yritysten IT-palveluntuottaja. Kauttamme saatte kaikki yrityksenne tarvitsemat IT-laitteet ja -palvelut."
 }

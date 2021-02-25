@@ -1,0 +1,19 @@
+{
+  "name": "Laatukone",
+  "title": "Laatukone-pakettimme on suunniteltu palvelemaan sinua kuvankäsittelyssä, videoeditoinnissa tai suunnittelussa",
+  "description": "Tämä leasingpaketti on suunniteltu vastaamaan tarpeitasi, jos tarvitset edullisen, mutta silti suorituskykyisen tehotyöaseman sekä tarkan näytön. Laitteistossa on kiinnitetty erityistä huomiota myös lämmönhallintaan ja käyntiääneen, joten tämä paketti sopii mainiosti myös hiljaiseen toimistoon.\n\nJos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, niin katso [tehokone ammattimaiseen kuvankäsittelyyn, suunnitteluun ja mallinnukseen.](/leasing-paketit/tehokone)",
+  "image": "/assets/dell_3630_250x296.jpg",
+  "body": "\n\n\n\n### Dell Precision 3630\n\n\n\nTehokkaalla suorittimella ja erinomaisella grafiikkateholla varustettu  pitkän elinkaaren kone kuvankäsittelyyn, suunnitteluun ja muotoiluun\n\nErittäin hiljainen ja helposti laajennettavissa usean näytön kokoonpanoihin.\n\n\n\n* Intel Core i7 8-ydinprosessori\n* Windows 10 Professional 64 bit\n* Integoitu Intel HD Graphics 630 näytönohjain\n* NVIDIA Quadro P620 näytönohjain. Jopa RTX 4000 optiona\n* 16 Gt muistia, 256 SSD kiintolevy, 6 x USB 3.1, DP\n* Integroitu muistikortinlukija / Optinen asema DVD+/-RW\n* 3 vuoden onsite-huolto ja Tekninen tuki – puhelinneuvonta – 1 vuosi\n* Tuotekoodit:PDNC2,490-BDTE,P2X1X3X_3813,DELL-U2719D\n\n\n<iframe src=\"https://www.youtube.com/embed/tV6JqBAzCd8\" allowfullscreen=\"\" />\n\n### Dell 27\" Ultrasharp U2719D QHD/16:9/IPS/HAS/PIVOT\n\n\nDell Ultrasharp U2719D vastaa vaativan-käyttäjän tarpeisiin QHD-tarkkuudella ja kattavilla ominaisuuksillaan\n\nLED-taustavalaistussa 27” IPS laajakuvanäytössä on huipputarkka kuva ja alhainen virrankulutus. Monipuolisesti säädettävä PIVOT jalusta ja korkeudensäätö.",
+  "pricedItems": [
+    {
+      "type": "item",
+      "price": {
+        "price24months": 70,
+        "price": 1695,
+        "price36months": 48
+      },
+      "title": " Precision 3630 Yhdellä näytöllä ja Quadro P620 näytönohjaimella",
+      "isOptional": false
+    }
+  ]
+}
