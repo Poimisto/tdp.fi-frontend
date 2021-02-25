@@ -218,53 +218,6 @@ collections:
         widget: string
         required: false
 
-  - name: leasingPackages
-    label: Leasing Packages
-    folder: content/leasing-packages
-    slug: '{{fields.name}}'
-    create: true
-    format: json
-    summary: '{{fields.name}}'
-    fields:
-      - { name: name, label: Name }
-      - { name: title, label: Title }
-      - label: Featured Image
-        name: image
-        widget: image
-        required: true
-      - label: Summary Content
-        name: description
-        widget: markdown
-        required: false
-      - label: Priced Items
-        name: pricedItems
-        widget: list
-        types:
-          - label: Priced Item
-            name: item
-            widget: object
-            summary: '{{fields.title}} - {{price.price}} €'
-            fields:
-              - { label: Title, name: title, widget: string }
-              - { label: Is optional, name: isOptional, widget: boolean, default: false }
-              - label: Price
-                name: price
-                widget: object
-                fields:
-                  - label: Direct Purchase Price
-                    name: price
-                    widget: number
-                    value_type: float
-                  - label: 24 Month Leasing Price
-                    name: price24months
-                    widget: number
-                    value_type: float
-                  - label: 36 Month Leasing Price
-                    name: price36months
-                    widget: number
-                    value_type: float
-
-      - { label: "Package details", name: "body", widget: "markdown" }
 
   - name: contactForms
     label: Contact Forms
