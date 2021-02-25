@@ -35,7 +35,7 @@ exports.onCreateNode = async ({ node, getNode, actions }) => {
 
     let slug = createFilePath({ node, getNode })
     if (node.frontmatter.path) slug = node.frontmatter.path
-    if (slug.replace(/^\//, '') === config.homepage) slug = '/'
+    if (slug === config.homepage) slug = '/'
     createNodeField({
       node,
       name: `slug`,
@@ -49,6 +49,9 @@ exports.onCreateNode = async ({ node, getNode, actions }) => {
       value: collection,
     });
   }
+
+  /*
+    This is how to force a field to be processed as markdown
 
   if (node.internal.type === 'LeasingPackagesJson') {
     let slug = createFilePath({ node, getNode })
@@ -81,6 +84,7 @@ exports.onCreateNode = async ({ node, getNode, actions }) => {
       value: textNode.id,
     })
   }
+  */
 };
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
@@ -103,15 +107,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             frontmatter {
               contactForm
               author
-            }
-          }
-        }
-      }
-      allLeasingPackagesJson {
-        edges {
-          node {
-            fields {
-              slug
             }
           }
         }
@@ -173,18 +168,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       }, // additional data can be passed via context
     })
   })
-  query.data.allLeasingPackagesJson.edges.forEach(({ node }) => { 
 
-    createPage({
-      path: node.fields.slug,
-      component: template,
-      context: {
-        contactForm: query.data.allFormsJson.edges.find( form => form.node.title === "Ota yhteyttä")
-      }
-    })
-
-
-  });
   
 
   

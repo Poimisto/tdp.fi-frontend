@@ -91,14 +91,6 @@ module.exports = {
         path: `${__dirname}/content/forms`,
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `leasingPackages`,
-        path: `${__dirname}/content/leasing-packages`,
-      },
-    },
-
 
     {
       resolve: 'gatsby-plugin-netlify-cms',

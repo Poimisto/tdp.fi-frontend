@@ -1,13 +1,14 @@
 ---
 path: /yritys
+date: 2021-02-25T07:42:23.615Z
 head:
-    title: Tietoa yrityksestä - Yhteystiedot
-    description: 
-    keywords: yritys, yhteystiedot, Tampereen Datapiste, TDP
+  title: Tietoa yrityksestä - Yhteystiedot
+  description: Tampereen Datapiste on vuonna 2007 perustettu IT-alan
+    asiantuntijayritys. Tehtävämme on toimittaa, asentaa ja edelleen kehittää
+    yritysten todellisia tarpeita vastaavia IT-järjestelmiä.
+  keywords: yritys, yhteystiedot, Tampereen Datapiste, TDP
 contactForm: Ota yhteyttä
 ---
-
-
 # Pienten ja keskisuurten yritysten IT-kumppani
 
 <Grid container spacing={2}>
@@ -31,11 +32,11 @@ Olemme pieni mutta vakavaraisesti kasvava yritys. Tavoitteemme on saavuttaa yli 
 #### Tutustu
 
 * <a href="/yritys/hinnasto">Palveluhinnasto</a>
-* <a href="/pdf/Laskutustiedot.pdf') %>" target="_blank">Laskutustiedot (PDF)</a> 
-* <a href="/pdf/Tietosuojaseloste.pdf" target="_blank">Tietosuojaseloste (PDF)</a> 
-* <a href="/pdf/Yleiset_sopimusehdot.pdf" target="_blank">Yleiset sopimusehdot (PDF)</a> 
+* <a href="/assets/laskutustiedot.pdf" target="_blank">Laskutustiedot (PDF)</a> 
+* <a href="/assets/tietosuojaseloste.pdf" target="_blank">Tietosuojaseloste (PDF)</a> 
+* <a href="/assets/yleiset_sopimusehdot.pdf" target="_blank">Yleiset sopimusehdot (PDF)</a> 
 
-#### Toimiston yhteystiedot 
+#### Toimiston yhteystiedot
 
 * Tampereen Datapiste
 * yhteys@tdp.fi
@@ -51,6 +52,4 @@ Olemme pieni mutta vakavaraisesti kasvava yritys. Tavoitteemme on saavuttaa yli 
 
 ### Työntekijämme
 
-<ListOfEmployees />
-
-
+<ListOfEmployees />Y

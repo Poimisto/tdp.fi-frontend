@@ -9,55 +9,59 @@ const PackageGrid = styled.div`
 const Package = styled.div`
   display:grid;
   grid-template-columns: 0.2fr 1fr;
+  grid-gap: 16px;
   @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 0.2fr 1fr;
   }
 `;
 
 export default () => {
   const data = useStaticQuery(graphql`
-    query leasingPackageQuery {
-      allLeasingPackagesJson {
+    query MyQuery {
+      allMdx(
+        filter: {
+          fields: {
+            slug: {
+              regex: "/^\/leasing-paketit.*/"
+            }
+          }
+        }
+      ) {
         edges {
           node {
-            fields {
-              slug
-            }
-            pricedItems {
-              price {
-                price
-                price24months
-                price36months
-              }
-              title
-            }
-            name
-            title
-            description
-            image {
-              childImageSharp {
-                fixed(width: 200) {
-                  ...GatsbyImageSharpFixed
+            fields {slug}
+            frontmatter {
+              thumbnail {
+                childImageSharp {
+                  fixed(width: 175, height:240) {
+                    ...GatsbyImageSharpFixed
+                  }
                 }
               }
+              head {
+                description
+                title
+              }
+
             }
           }
         }
       }
     }
-  
+    
   `)
   return (
     <PackageGrid>
-      {data.allLeasingPackagesJson.edges.map( (node) => {
+      {data.allMdx.edges.map( (node) => {
         return (
           <Package>
 
-              <Img className="img" fixed={node.node.image.childImageSharp.fixed} />
+              <Img className="img" fixed={node.node.frontmatter.thumbnail.childImageSharp.fixed} />
          
             <div className="content">
-              <a href={node.node.fields.slug}><h2 className="title">{node.node.title}</h2></a>
-              <p>{node.node.description}</p>
+              <a href={node.node.fields.slug}><h2 className="title">{node.node.frontmatter.head.title}</h2></a>
+              <p>{node.node.frontmatter.head.description}</p>
+              <a href={node.node.fields.slug}>Tutustu tarkemmin</a>
 
             </div>
 

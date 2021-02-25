@@ -73,6 +73,16 @@ const GlobalStyle = createGlobalStyle`
   }
   font-size: ${props => props.theme.fontSize};
   line-height: ${props => props.theme.bodyLineHeight};
+  table {
+    width : 100%;
+    margin-bottom:40px;
+  }
+   table td {
+    padding:8px;
+  }
+  table :nth-child(odd) td {
+    background:#f3f3f3;
+  }
 
 `;
 
@@ -133,108 +143,69 @@ const shortcodes = { Link, CallToAction, HeroBlock, LatestPosts, Cards, ListOfEm
 
 
 const EntryTemplate = ({data, pageContext}) => {
-  if (data.leasingPackagesJson) {
-    return (
-      <Layout breadcrumb={[
-        {
-          label : "It-laitteet",
-          path: "/it-laitteet"
-        },
-        {
-          label: "Tietokone-leasing",
-          path: "/tietokone-leasing",
-        },
-        {
-          label: "Esimerkkipaketit",
-          path: "/tietokone-leasing-esimerkkipaketit",
-        },
-        {
-          label: data.leasingPackagesJson.name
-        }
-      ]}>
-        <GlobalStyle/>
-        <Seo 
-          lang="fi" 
-          description={data.leasingPackagesJson.description || null} 
-          title={data.leasingPackagesJson.title || null}
-          image={data.leasingPackagesJson.image.childImageSharp.fixed.src || null}
-        />
+
+  return (
+    <Layout collection={data.mdx.fields.collection} slug={data.mdx.fields.slug} breadcrumb={data.mdx.frontmatter.breadcrumb || null}>
+      <GlobalStyle/>
+      <Seo 
+        lang="fi" 
+        description={data.mdx.frontmatter.head ? data.mdx.frontmatter.head.description : null} 
+        title={data.mdx.frontmatter.head ? data.mdx.frontmatter.head.title : null}
+        image={data.mdx.frontmatter.thumbnail ? data.mdx.frontmatter.thumbnail.childImageSharp.fixed.src : null}
+      />
+
+      {data.mdx.fields.collection === 'posts' && (
+        <div>
+          <ArticleTitle>{data.mdx.frontmatter.title}</ArticleTitle>
+          {!!data.mdx.frontmatter.thumbnail && (
+            <HeroBlock bgColor="brand" columns={2}>
+              
+              <ArticleImg
+                fluid={data.mdx.frontmatter.thumbnail.childImageSharp.fluid}
+                alt={data.mdx.frontmatter.title + "- Featured Shot"}
+              />   
+              </HeroBlock>
+          )}
+          <ArticleMetadata>
+            <p>
+              <span className="date">{data.mdx.frontmatter.date}</span>
+            </p>
+          </ArticleMetadata>          
+          <ArticleContent>
+            <MDXProvider components={shortcodes}>
+              <MDXRenderer>
+                {data.mdx.body}
+              </MDXRenderer>
+            </MDXProvider>
+          </ArticleContent>
+        </div>
+      )}
+      {data.mdx.fields.collection === 'pages' && (
         <PageWrapper>
           <MDXProvider components={shortcodes}>
             <MDXRenderer>
-              {data.leasingPackagesJson.fields.markdownBody.childMdx.body}
+                {data.mdx.body}
             </MDXRenderer>
           </MDXProvider>
         </PageWrapper>
-      </Layout>
+      )}
 
 
-    )
-  }
-  if (data.mdx) {
-    return (
-      <Layout collection={data.mdx.fields.collection} slug={data.mdx.fields.slug} breadcrumb={data.mdx.frontmatter.breadcrumb || null}>
-        <GlobalStyle/>
-        <Seo 
-          lang="fi" 
-          description={data.mdx.frontmatter.head ? data.mdx.frontmatter.head.description : null} 
-          title={data.mdx.frontmatter.head ? data.mdx.frontmatter.head.title : null}
-          image={data.mdx.frontmatter.thumbnail ? data.mdx.frontmatter.thumbnail.childImageSharp.fixed.src : null}
-        />
-  
-        {data.mdx.fields.collection === 'posts' && (
-          <div>
-            <ArticleTitle>{data.mdx.frontmatter.title}</ArticleTitle>
-            {!!data.mdx.frontmatter.thumbnail && (
-              <HeroBlock bgColor="brand" columns={2}>
-               
-                <ArticleImg
-                  fluid={data.mdx.frontmatter.thumbnail.childImageSharp.fluid}
-                  alt={data.mdx.frontmatter.title + "- Featured Shot"}
-                />   
-                </HeroBlock>
-            )}
-            <ArticleMetadata>
-              <p>
-                <span className="date">{data.mdx.frontmatter.date}</span>
-              </p>
-            </ArticleMetadata>          
-            <ArticleContent>
-              <MDXProvider components={shortcodes}>
-                <MDXRenderer>
-                  {data.mdx.body}
-                </MDXRenderer>
-              </MDXProvider>
-            </ArticleContent>
-          </div>
-        )}
-        {data.mdx.fields.collection === 'pages' && (
-          <PageWrapper>
-            <MDXProvider components={shortcodes}>
-              <MDXRenderer>
-                  {data.mdx.body}
-              </MDXRenderer>
-            </MDXProvider>
-          </PageWrapper>
-        )}
-  
-  
-        {pageContext.contactForm && (
+      {pageContext.contactForm && (
+        
+        <ContactForm
+          title={pageContext.contactForm.title} 
+          contactName={pageContext.contactForm.contactPerson.name}
+          contactTitle={pageContext.contactForm.contactPerson.title}
+          contactEmail={pageContext.contactForm.contactPerson.email}
+          contactPhone={pageContext.contactForm.contactPerson.phone}
+          contactImage={pageContext.contactForm.contactPerson.image.childImageSharp.fixed.src}
           
-          <ContactForm
-            title={pageContext.contactForm.title} 
-            contactName={pageContext.contactForm.contactPerson.name}
-            contactTitle={pageContext.contactForm.contactPerson.title}
-            contactEmail={pageContext.contactForm.contactPerson.email}
-            contactPhone={pageContext.contactForm.contactPerson.phone}
-            contactImage={pageContext.contactForm.contactPerson.image.childImageSharp.fixed.src}
-            
-          />
-        )}
-        </Layout>
-    )
+        />
+      )}
+      </Layout>
+  )
   
-  }
 }
 
 export default EntryTemplate
@@ -265,35 +236,6 @@ export const pageQuery = graphql`
             fixed(width: 600, height: 600) {
               src
             }
-          }
-        }
-      }
-      body
-    }
-    leasingPackagesJson(fields: { slug: { eq: $path } }) {
-      fields {
-        slug
-        markdownBody {
-          childMdx {
-            body
-          }
-        }
-      }
-      pricedItems {
-        price {
-          price
-          price24months
-          price36months
-        }
-        title
-      }
-      name
-      title
-      description
-      image {
-        childImageSharp {
-          fixed(width: 200) {
-            ...GatsbyImageSharpFixed
           }
         }
       }

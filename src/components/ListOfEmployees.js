@@ -38,7 +38,7 @@ export default () => {
             isEmployee
             image {
               childImageSharp {
-                fixed(width: 200) {
+                fixed(width: 175, height:175) {
                   ...GatsbyImageSharpFixed
                 }
               }

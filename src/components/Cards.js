@@ -5,6 +5,8 @@ import CallToAction from './CallToAction'
 import { getContrast, shade } from 'polished'
 import theme from './../theme';
 import Link from './Link'
+import marked from 'marked';
+
 const Cards = styled.div`
   display: grid;
   grid-template-columns: ${ (props) => { 
@@ -36,6 +38,8 @@ const Card = styled.div`
   border: 1px solid ${props => shade(0.2, props.bgColor)};
 `;
 
+
+
 export default ({cardsPerRow, cards, children}) => {
   cards = JSON.parse(cards); // passed from MDX file
   return (
@@ -45,6 +49,11 @@ export default ({cardsPerRow, cards, children}) => {
 
         return (
         <Card bgColor={bg}>
+          {card.image && (
+            <div style={{textAlign:"center"}}>
+              <img src={card.image} style={{margin:"0 auto",maxWidth:"100%"}}/>
+            </div>
+          )}
           {card.link && ( 
             <Link to={card.link}>
               <span className="title">{card.title}</span>
@@ -53,7 +62,7 @@ export default ({cardsPerRow, cards, children}) => {
           {!card.link && (
             <span className="title">{card.title}</span>
           )}
-          <span className="content">{card.content}</span>
+          <span className="content" dangerouslySetInnerHTML={{__html: marked(card.content)}} />
           {card.link && card.linkText && (
             <div style={{marginTop:"10px"}}>
               <CallToAction url={card.link} bgColor={card.linkBgColor || "brand"} align="center">{card.linkText}</CallToAction>

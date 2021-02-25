@@ -18,8 +18,9 @@ export default {
       summary: '{{fields.title}}',
       fields: [
        { label: "Background Color", name: "bgColor", widget: "select", options: colors, default: 'lightest'},
-       {label: 'Title', name: 'title', widget: 'string', default: "Everything is awesome!"},
-       {label: "Content", name: "content", widget:"text"},
+       { label: 'Title', name: 'title', widget: 'string', default: "Everything is awesome!"},
+       { label: "Image", name: "image", widget: 'image', required: false},
+       { label: "Content", name: "content", widget:"text"},
        { label: "CTA Link", name: "link", widget: "string" },
        { label: "CTA Text", name: "linkText", widget: "string" },
        { label: "CTA Color", name: "linkBgColor", widget: "select", options: colors, default: 'darkest' },

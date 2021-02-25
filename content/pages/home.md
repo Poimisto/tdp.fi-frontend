@@ -10,7 +10,6 @@ head:
   keywords: TDP, Tampereen Datapiste, etusivu
 contactForm: Ota yhteyttä
 ---
-
 <HeroBlock bgColor="brand" imageAlign="right">
 
 <div className="HeroBlockImage">
@@ -33,6 +32,25 @@ Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja asi
 
 </HeroBlock>
 
+<HeroBlock bgColor="light" imageAlign="right">
+
+<div className="HeroBlockImage">
+
+![TDP Slim](/assets/tdp-slim.png)
+
+</div>
+
+<div className="HeroBlockContent">
+
+### Oletko harkinnut ulkoistaa yrityksesi IT-palvelut ja haluat nopean arvion yrityksesi kaikista IT-kustannuksista? 
+
+Laskuri antaa luotettavan hinta-arvion yrityksesi IT-kustannuksista. Syötät laskuriin vain tarvitsemasi laitteet ja palvelut ja TDP Slim antaa nopeasti kokonaissumman.
+
+<CallToAction bgColor="brand" url="/tdp-slim" align="center">Lue lisää</CallToAction>
+
+</div>
+
+</HeroBlock>
 
 
 <HeroBlock bgColor="lightest" imageAlign="left">
@@ -56,6 +74,5 @@ Olemme 2007 perustettu IT-alan palveluyritys. Tehtävämme on toimittaa, asentaa
 </div>
 
 </HeroBlock>
-
 
 <Cards cardsPerRow="3" cards='[{"title":"Laitehankinnat ja rahoitus","content":"Oletko hankkimassa yrityksellesi tietokoneita tai muita IT-laitteita? Pyydä aina tarjous myös meiltä!","link":"/it-laitteet/","linkText":"Lue lisää","bgColor":"lightest","linkBgColor":"brand"},{"title":"IT-palvelusopimukset","content":"Haluatko ulkoistaa IT-palvelut? Tai hankkia asiantuntijan esimerkiksi yrityksen verkon toteuttamiseen?","linkText":"Lue lisää","link":"/it-palvelut/","bgColor":"lightest","linkBgColor":"brand"},{"title":"Uuden yrittäjän palvelut","content":"Mitä uusi yritys tarvitsee? Tietokoneiden lisäksi kauttamme saat domainit, sähköpostit ja liiketoimintasovellukset ja muut IT-palvelut.\n\n","link":"/uusi-yrittaja/","linkText":"Lue lisää","bgColor":"lightest","linkBgColor":"brand"}]' />

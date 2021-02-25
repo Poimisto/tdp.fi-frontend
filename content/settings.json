@@ -1,5 +1,5 @@
 {
-  "homepage": "home",
+  "homepage": "/home",
   "title": "TDP",
   "siteUrl": "https://pmt-gatsby-starter-v0.netlify.app",
   "home": {
@@ -15,6 +15,11 @@
       "type": "page",
       "title": "IT-laitteet",
       "link": "/it-laitteet/"
+    },
+    {
+      "type": "page",
+      "title": "TDP Slim™",
+      "link": "/tdp-slim"
     },
     {
       "type": "page",
