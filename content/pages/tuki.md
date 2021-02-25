@@ -1,24 +1,18 @@
 ---
-template: page
-path: /it-palvelut/tuki-ja-huolto
+path: /tuki
 head:
-    title: Yrityksen työntekijöiden etätuki ja laitehuolto- TDP
-    description: 
-    keywords: IT etätuki, IT lähituki, IT puhelintuki, työntekijöiden etätuki
-contactForm: Ota yhteyttä
-breadcrumb:
-  - path: /
-    label: TDP
-  - path: /it-palvelut/
-    label: IT-palvelut
-  - label: Tukipalvelu
+    title:  Tekninen tuki
+    description: Tietoa teknisestä tuesta
+    keywords: TDP Tuki
+
 ---
 
-# Tuki- ja huoltopalvelun avulla minimoit keskeytykset
+# Tekninen tuki
 
-TDP:n tukipalvelu kattaa etätuen, lähituen sekä puhelintuen. Tuki auttaa ratkaisemaan IT-laitteistoon ja sen käyttöön liittyvät ongelmat. Tuen avulla ratkaistaan useimmat ongelmat heti niiden ilmaantuessa. Etätuen hyödyntämiseen riittää internet-yhteys ja ladattava tai esiasennettu etähallintaohjelmisto.
+Huolehdimme joustavasti asiakasyritystemme laitteistojen ja ohjelmistojen toimivuudesta. Huolto- ja ylläpitosopimukset saat edulliseen kuukausihintaan.
 
-Joskus ongelma johtuu laiteviasta ja ratkaisu vaatii laitteen vaihtoa tai huoltoa. Tällöin TDP:n varalaitepalvelun kautta saa korvaavan laitteen käyttöön huollon ajaksi.
+<a href="/yritys">Katso yhteystietomme ja ota yhteyttä</a>
 
-Tuki- ja huoltopalvelumme sisällytetään yleensä osaksi <a href="/it-palvelut/palvelusopimus">palvelusopimusta</a> ja ne ovat yrityksen työntekijöiden käytössä palvelusopimuksen mukaisesti. Sopimukseen voidaan liittää työntekijöiden työvälineiden lisäksi ohjelmistojen käyttö sekä muut IT-laitteet kuten vaikkapa toimiston tulostimet tai monitoimilaitteet. 
+## Lataa TDP:n etätuen mahdollistava etätukisovellus
 
+<a href="https://get.teamviewer.com/vcgecef" class="btn btn-large btn-primary">Lataa  Teamviewer -tukisovellus tästä</a>

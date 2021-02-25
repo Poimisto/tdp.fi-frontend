@@ -9,22 +9,6 @@ head:
 
 # Palveluhinnasto
 
-<style>{`
-#hinnasto table {
-    width : 100%;
-    margin-bottom:40px;
-}
-#hinnasto table td {
-    padding:8px;
-}
-#hinnasto table :nth-child(odd) td {
-    background:#f3f3f3;
-}
-`}</style>
-
-
-<div id="hinnasto">
-
 ## Asennushinnasto
 
 |                                                               |                   |
@@ -48,8 +32,6 @@ head:
 | Google G-Suite liiketoimintasovellukset - Business            | 10,40 € / kk      |
 | Google G-Suite liiketoimintasovellukset - Enterprise          | 23,00 € / kk      |
 
-
-</div>
 
 <a href="/">Katso konepakettien esimerkkejä tästä</a>
 

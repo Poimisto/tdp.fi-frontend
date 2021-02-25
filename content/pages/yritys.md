@@ -52,4 +52,4 @@ Olemme pieni mutta vakavaraisesti kasvava yritys. Tavoitteemme on saavuttaa yli 
 
 ### Työntekijämme
 
-<ListOfEmployees />Y
+<ListOfEmployees />
