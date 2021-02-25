@@ -16,7 +16,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![TDP Slim tarjouslaskuri](/assets/tdp-slim.png)
+![TDP Slim tarjouslaskuri](/assets/tdp-slim-poster-dark.jpg)
 
 </div>
 
