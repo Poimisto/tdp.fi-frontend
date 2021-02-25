@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: main
+  branch: master
   #name: proxy
   #proxy_url: http://localhost:8081/api/v1
   # change repo to your git repository url
@@ -223,7 +223,7 @@ collections:
     folder: content/leasing-packages
     slug: '{{fields.name}}'
     create: true
-    format: md
+    format: json
     summary: '{{fields.name}}'
     fields:
       - { name: name, label: Name }
