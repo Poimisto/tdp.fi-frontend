@@ -58,8 +58,10 @@ Palvelun avulla löydät yrityksellesi kustannustehokkaimman kokonaisuuden paris
 
 TDP Slim tarjoaa nopean  ja läpinäkyvän tavan vertailla IT-toimintojen hintatasoa. Palvelun tarjonta ei sido sinua pakettiratkaisuun, vaan voit valikoida räätälöidysti tarvitsemasi palvelut ja laitteet. 
 
-Ei keskeytyksiä työhön onsite-takuulla / Onsite-takuulla sanot EI keskeytyksille
+### Ei keskeytyksiä työhön onsite-takuulla / Onsite-takuulla sanot EI keskeytyksille
 
 Tarjoamme kaikki laitteet 3 vuoden onsite-takuulla, joka varmistaa töittesi sujuvuuden laiterikosta huolimatta. Takuu kattaa kaikki laiteviat ja huolto tapahtuu viimeistään seuraavana arkipäivänä. Et maksa ylimääräistä, sillä takuu sisältyy koneidemme hintaan.
+
+<CallToAction bgColor="dark" url="https://slim.tdp.fi" align="center">Lue takuusta lisää</CallToAction>
 
 **CTA laatikko “Lue lisää takuusta”**
