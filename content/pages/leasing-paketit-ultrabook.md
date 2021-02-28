@@ -19,9 +19,9 @@ Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, 
 
 | Konepakettien hinta          | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
 | ---------------------------- | --------------------- | --------------------- | ----------------- |
-| DELL Latitude 7420           | 86,35 €/kk            | 58,00 €/kk            | 1938,00 €         |
-| DELL 24 PRO P2419H -näytöllä | 95,35 €/kk            | 64,00 €/kk            | 2138,00 €         |
-| DELL Telakointiasemalla      | 111,35 €/kk           | 76,00 €/kk            | 2487,00 €         |
+| DELL Latitude 7420           | 84,35 €/kk            | 58,00 €/kk            | 1598,00 €         |
+| DELL 27 PRO P2719H -näyttö | 11,35 €/kk            | 8,11 €/kk            | 198,00 €         |
+| DELL WD 19TBS 180w Telakointiasema    | 15,98 €/kk           | 11,46 €/kk            | 273,00 €         |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
@@ -31,11 +31,11 @@ Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, 
 <Cards cardsPerRow="2" cards='[{"bgColor":"lightest","title":"DELL Latitude 7420 Yrityskannettava","linkBgColor":"darkest","image":"/assets/dell_e7490_full.jpg","content":"Mikäli sinua kiinnostaa ohut muotoilu, laadukas ja kestävä rakenne sekä liikuteltavuus yhdistettynä tehokkaaksi ja turvalliseksi kokonaisuudeksi niin sinun kannattaa huomioida Dell Latitude 7000-sarja
 \n\nSuorituskyvystä vastaa 11.sukupolven Intel suorittimet. Dell Latitude 7420 nostaa ultrabookin vaatimukset uudelle tasolle.
 \n\Erinomainen kannettava yhtä lailla työmatkoille kuin työpisteellekin
-\n\n* Prosessori: Intel Core i5-8265U (Max. 3.90 GHz, 6M Cache)
-\n* Muisti: 8GB/16GB
-\n* Kiintolevy: 256GB/512GB SSD
-\n* Verkko-ominaisuudet: Intel Dual Band Wireless-AC 9560 + Bluetooth 5.0 + Gigabit ethernet
-\n* Laajennuspaikat: HDMI,RJ45,Telakointi,USB 3.1,mini DisplayPort
+\n\n* Prosessori: Intel Core i5-1145G7 4-ydinsuoritin (vPro)
+\n* Muisti: 16GB
+\n* Kiintolevy: 512GB SSD
+\n* Verkko-ominaisuudet: Wi-Fi 6 AX201 2x2 802.11ax 160MHz + Bluetooth 5.1
+\n* Laajennuspaikat: HDMI,USB 3.2, 2x USB Type C™ Thunderbolt 4 (DP/PD/USB4)
 \n* Käyttöjärjestelmä: Windows 10 Professional 64-bit
 \n* Takuu: kolmen vuoden kansainvälinen ProSupport on-site takuu, vasteaika seuraava työpäivä
 \n* Tuotekoodit: YG2DY, 0C6PP, 0VT79, 41NVJ, JX76K, DELL-WD19TB, DELL-P2419H DELL-P2419H"},{"bgColor":"lightest","title":"DELL 24 PRO P2419H FHD IPS HAS PIVOT","linkBgColor":"darkest","content":"Koe erinomainen värintoisto, tarkkuus ja suorituskyky Dell P2419H 24″ FHD -näytöllä.
