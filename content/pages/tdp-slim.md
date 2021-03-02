@@ -7,7 +7,7 @@ head:
   description: >-
     Oletko harkinnut ulkoistaa yrityksesi IT-palvelut ja 
 
-    haluat nopean arvion yrityksesi kaikista IT-kustannuksista? Kokeile TDP Slim™ -laskuripalvelua! 
+    haluat nopean arvion yrityksesi kaikista IT-kustannuksista? Kokeile TDP SLIM™ -laskuripalvelua! 
   keywords: TDP Slim, hintalaskuri, tarjouslaskuri
 contactForm: Ota yhteyttä
 ---
@@ -42,7 +42,7 @@ haluat nopean arvion yrityksesi kaikista IT-kustannuksista? Kokeile TDP SLIM™ 
 
 Arvio ottaa huomioon kaikki valitsemasi laitteet ja palvelut. Voit myös määrittää laitteille ja palveluille haluamasi tason tarpeidesi mukaan. Kun lomake on valmis, [lähetä tarjouspyyntö](https://www.tdp.fi/yritys/) tai [ota yhteyttä](https://www.tdp.fi/yritys/) varmistaaksesi arvion tarkkuuden. Huomaathan, että kaikki laskurissa tarjotut laitteet ja palvelut ovat edelleen räätälöitävissä yrityksesi tarpeiden mukaisiksi.
 
-### TDP SLIM™ -palvelu on suunnattu yrittäjille
+### TDP SLIM™ -palvelu yrittäjien apuna
 
 Startup-yrittäjille, pienille asiantuntijayrityksille, yrittäjille eri toimialoilta ja monille muille. Ininööritoimistoille, hammaslääkäreille tai rakennusfirmoille. Tärkeintä ei ole toimialasi tai yrityksesi koko, vaan todellinen tarpeesi. Palvelu keskittyy arvioimaan nimenomaan tarpeesi laadun ja kustannukset.
 
