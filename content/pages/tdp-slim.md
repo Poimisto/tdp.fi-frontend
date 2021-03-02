@@ -50,7 +50,7 @@ On käyttämäsi ohjelmisto sitten SolidWorks, AutoCAD, BIM tai jokin CRM-järje
 
 ### Helppoutta IT-toimintojen valintaan
 
-TDP SLIM on helppo. Saat pohtia ilman myyntipuheita yrityksellesi sopivinta kokonaisuutta aikaan ja paikkaan katsomatta. Halutessasi tarjoamme tietenkin asiantuntemustamme tarpeidesi määrittämisessä, soita vain numeroon 040-7483 818 tai 010-2921 640.
+TDP SLIM on helppo. Saat pohtia ilman myyntipuheita yrityksellesi sopivinta kokonaisuutta aikaan ja paikkaan katsomatta. Halutessasi tarjoamme tietenkin asiantuntemustamme tarpeidesi määrittämisessä, soita vain numeroon 040-7483 818/010-2921 640.
 
 ### Kustannussäästöjä hetkessä
 
