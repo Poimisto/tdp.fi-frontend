@@ -157,15 +157,7 @@ const EntryTemplate = ({data, pageContext}) => {
       {data.mdx.fields.collection === 'posts' && (
         <div>
           <ArticleTitle>{data.mdx.frontmatter.title}</ArticleTitle>
-          {!!data.mdx.frontmatter.thumbnail && (
-            <HeroBlock bgColor="brand" columns={2}>
-              
-              <ArticleImg
-                fluid={data.mdx.frontmatter.thumbnail.childImageSharp.fluid}
-                alt={data.mdx.frontmatter.title + "- Featured Shot"}
-              />   
-              </HeroBlock>
-          )}
+
           <ArticleMetadata>
             <p>
               <span className="date">{data.mdx.frontmatter.date}</span>
