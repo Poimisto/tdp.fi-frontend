@@ -27,7 +27,7 @@ Tampereen Datapiste on **Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva y
 
 Palvelumme on suunnattu startup- ja pk-yrityksille, joille tietotekniikan toimivuus järkevällä hintatasolla on tärkeää. Toimitamme työntekijöiden koneet ja puhelimet, toimiston laitteet ja yritysverkot käyttökuntoon asennettuna. Kauttamme saatte myös muut **IT-osaston palvelut palvelusopimuksella.**
 
-Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja asiakkainamme on paljon eri toimialoilla toimivia yrityksiä. Soita, lähetä sähköpostia tai kokeile TDP SLIM!
+Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja asiakkainamme on paljon eri toimialoilla toimivia yrityksiä. Ota yhteyttä ja koe asiakkaanamme tietotekniikan käytön helppous. Soita, lähetä sähköpostia tai kokeile TDP SLIMiä!
 
 </div>
 
@@ -45,9 +45,9 @@ Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja asi
 
 <div className="HeroBlockContent">
 
-### Oletko harkinnut ulkoistaa yrityksesi IT-palvelut ja haluat nopean arvion yrityksesi kaikista IT-kustannuksista? 
+### Olet harkinnut ulkoistaa yrityksesi IT-palvelut ja haluat nopean arvion yrityksesi kaikista IT-kustannuksista?
 
-Laskuri antaa luotettavan hinta-arvion yrityksesi IT-kustannuksista. Syötät laskuriin vain tarvitsemasi laitteet ja palvelut ja TDP Slim antaa nopeasti kokonaissumman.
+TDP SLIM   -laskuri antaa luotettavan hinta-arvion yrityksesi IT-kustannuksista. Syötät laskuriin vain tarvitsemasi laitteet ja palvelut ja TDP Slim antaa nopeasti kokonaissumman.
 
 <CallToAction bgColor="brand" url="/tdp-slim" align="center">Lue lisää</CallToAction>
 
@@ -71,7 +71,7 @@ Laskuri antaa luotettavan hinta-arvion yrityksesi IT-kustannuksista. Syötät la
 
 Tampereen Datapiste on vuonna 2007 perustettu IT-palveluyritys. Toimipisteemme sijaitsevat Tampereella ja Helsingissä, mutta palvelemme yrityksiä myös muualla Suomessa.
 
-Ydinosaamistamme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä. Koulutettu, kokenut henkilökuntamme palvelee nopealla vasteajalla niin uuden laitteen asennuksissa kuin vikatilanteissa.
+Ydinosaamistamme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä. Koulutettu, kokenut henkilökuntamme palvelee nopealla vasteajalla niin uusien laitteiden asennuksissa kuin vikatilanteissa.
 
 <CallToAction bgColor="brand" url="/yhteystiedot" align="center">Tietoa yrityksestä</CallToAction>
 
