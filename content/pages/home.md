@@ -57,6 +57,28 @@ TDP SLIM -laskuri antaa nopeasti hinta-arvion kaikista yrityksesi tarvitsemista 
 
 
 
+<HeroBlock bgColor="brand" imageAlign="left">
+
+<div className="HeroBlockImage">
+
+![TDP referenssit](/assets/20210226_151913.jpg)
+
+</div>
+
+<div className="HeroBlockContent">
+
+### Referenssit
+
+Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen toimintamme nojaa. Lue tyytyväisten asiakkaidemme ajatuksia ja liity heidän joukkoonsa.
+
+<CallToAction bgColor="light" url="/referenssit" align="center">Lue lisää</CallToAction>
+
+</div>
+
+</HeroBlock>
+
+
+
 <HeroBlock bgColor="lightest" imageAlign="left">
 
 <div className="HeroBlockImage">
