@@ -27,7 +27,9 @@ Tampereen Datapiste on **Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva y
 
 Palvelumme on suunnattu startup- ja pk-yrityksille, joille tietotekniikan toimivuus järkevällä hintatasolla on tärkeää. Toimitamme työntekijöiden koneet ja puhelimet, toimiston laitteet ja yritysverkot käyttökuntoon asennettuna. Kauttamme saatte myös muut **IT-osaston palvelut palvelusopimuksella.**
 
-Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja asiakkainamme on paljon eri toimialoilla toimivia yrityksiä. Ota yhteyttä ja koe asiakkaanamme tietotekniikan käytön helppous. Soita, lähetä sähköpostia tai kokeile TDP SLIMiä!
+Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja asiakkainamme on paljon eri toimialoilla toimivia yrityksiä. Tutustu 
+
+Koe asiakkaanamme tietotekniikan käytön helppous. Soita, lähetä sähköpostia tai kokeile TDP SLIMiä!
 
 </div>
 
@@ -48,8 +50,6 @@ Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja asi
 ### Hetkessä arvio yrityksesi IT-kustannuksista
 
 TDP SLIM -laskuri antaa nopeasti hinta-arvion kaikista yrityksesi tarvitsemista IT-palveluista. Syötä laskuriin vain tarvitsemasi laitteet ja palvelut ja TDP Slim antaa hetkessä kokonaissumman.
-
-<CallToAction bgColor="brand" url="/tdp-slim" align="center">Lue lisää</CallToAction>
 
 </div>
 
