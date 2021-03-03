@@ -10,6 +10,7 @@ head:
   keywords: TDP, Tampereen Datapiste, etusivu
 contactForm: Ota yhteyttä
 ---
+
 <HeroBlock bgColor="brand" imageAlign="right">
 
 <div className="HeroBlockImage">
@@ -20,17 +21,19 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-## Tietotekniikka voi olla myös helppoa
+## Tietotekniikka on meillä helppoa
 
 Tampereen Datapiste on **Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva yritysten IT-palveluntuottaja**. Kauttamme saatte kaikki yrityksenne tarvitsemat IT-laitteet ja -palvelut.
 
-Palvelumme on suunnattu 1-100 hengen yrityksille, joille tietotekniikan toimivuus on tärkeää. Toimitamme työntekijöiden koneet ja puhelimet, toimiston laitteet ja yritysverkot käyttökuntoon asennettuna. Kauttamme saatte myös muut **IT-osaston palvelut palvelusopimuksella.**
+Palvelumme on suunnattu startup- ja pk-yrityksille, joille tietotekniikan toimivuus järkevällä hintatasolla on tärkeää. Toimitamme työntekijöiden koneet ja puhelimet, toimiston laitteet ja yritysverkot käyttökuntoon asennettuna. Kauttamme saatte myös muut **IT-osaston palvelut palvelusopimuksella.**
 
-Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja asiakkaanamme on paljon eri toimialoilla toimivia yrityksiä. Soita tai jätä tarjouspyyntö!
+Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja asiakkainamme on paljon eri toimialoilla toimivia yrityksiä. Soita, lähetä sähköpostia tai kokeile TDP SLIM!
 
 </div>
 
 </HeroBlock>
+
+
 
 <HeroBlock bgColor="light" imageAlign="right">
 
@@ -53,6 +56,7 @@ Laskuri antaa luotettavan hinta-arvion yrityksesi IT-kustannuksista. Syötät la
 </HeroBlock>
 
 
+
 <HeroBlock bgColor="lightest" imageAlign="left">
 
 <div className="HeroBlockImage">
@@ -65,14 +69,15 @@ Laskuri antaa luotettavan hinta-arvion yrityksesi IT-kustannuksista. Syötät la
 
 ### IT-palveluita vuodesta 2007
 
-Tampereen Datapiste on vuonna 2007 perustettu IT-palveluyritys. Toimipisteemme sijaitsevat Tampereella ja Helsingissä mutta palvemme yrityksiä myös muualla Suomessa.
+Tampereen Datapiste on vuonna 2007 perustettu IT-palveluyritys. Toimipisteemme sijaitsevat Tampereella ja Helsingissä, mutta palvelemme yrityksiä myös muualla Suomessa.
 
-Olemme 2007 perustettu IT-alan palveluyritys. Tehtävämme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä.
+Ydinosaamistamme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä. Koulutettu, kokenut henkilökuntamme palvelee nopealla vasteajalla niin uuden laitteen asennuksissa kuin vikatilanteissa.
 
 <CallToAction bgColor="brand" url="/yhteystiedot" align="center">Tietoa yrityksestä</CallToAction>
 
 </div>
 
 </HeroBlock>
+
 
 <Cards cardsPerRow="3" cards='[{"title":"Laitehankinnat ja rahoitus","content":"Oletko hankkimassa yrityksellesi tietokoneita tai muita IT-laitteita? Pyydä aina tarjous myös meiltä!","link":"/it-laitteet/","linkText":"Lue lisää","bgColor":"lightest","linkBgColor":"brand"},{"title":"IT-palvelusopimukset","content":"Haluatko ulkoistaa IT-palvelut? Tai hankkia asiantuntijan esimerkiksi yrityksen verkon toteuttamiseen?","linkText":"Lue lisää","link":"/it-palvelut/","bgColor":"lightest","linkBgColor":"brand"},{"title":"Uuden yrittäjän palvelut","content":"Mitä uusi yritys tarvitsee? Tietokoneiden lisäksi kauttamme saat domainit, sähköpostit ja liiketoimintasovellukset ja muut IT-palvelut.\n\n","link":"/uusi-yrittaja/","linkText":"Lue lisää","bgColor":"lightest","linkBgColor":"brand"}]' />
