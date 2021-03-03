@@ -14,7 +14,7 @@ local_backend: true
   # when accessing the local site from a host other than 'localhost' or '127.0.0.1'
   # allowed_hosts: ['192.168.0.1']
 
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 media_folder: static/assets
 public_folder: /assets
@@ -24,6 +24,7 @@ collections:
     label: Pages
     folder: content/pages
     create: true
+    slug: '{{fields.path}}'
     summary: '{{fields.path}}'
     fields: 
       - name: path
@@ -144,7 +145,8 @@ collections:
   - name: posts
     label: Posts
     folder: content/posts
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{fields.path}}'
+    summary: '{{fields.path}}'
     create: true
     fields:
       - {
@@ -153,6 +155,11 @@ collections:
           widget: hidden,
           default: BlogPost,
         }
+      - name: path
+        label: Path
+        widget: string
+        pattern: [^/,"Path must start with /"]
+        required: false 
       - name: author
         label: Author
         widget: relation
