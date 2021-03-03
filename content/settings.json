@@ -30,6 +30,11 @@
       "type": "page",
       "link": "/yritys",
       "title": "Yritys"
+    },
+    {
+      "type": "page",
+      "title": "Referenssit",
+      "link": "/referenssit"
     }
   ],
   "navtype": "normal",
