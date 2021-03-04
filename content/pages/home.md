@@ -35,7 +35,7 @@ Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [as
 
 
 
-<HeroBlock bgColor="light" imageAlign="right">
+<HeroBlock bgColor="lightest" imageAlign="right">
 
 <div className="HeroBlockImage">
 
@@ -49,12 +49,12 @@ Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [as
 
 TDP SLIM -laskuri antaa nopeasti hinta-arvion kaikista yrityksesi tarvitsemista IT-palveluista. Syötä laskuriin vain tarvitsemasi laitteet ja palvelut ja TDP Slim laskee hetkessä kokonaissumman.
 
+<CallToAction bgColor="brand" url="/tdp-slim" align="center">Kokeile laskuria!</CallToAction>
+
 </div>
 
 </HeroBlock>
 
-
-<CallToAction bgColor="brand" url="/tdp-slim" align="left">Kokeile laskuria!</CallToAction>
 
 
 <HeroBlock bgColor="brand" imageAlign="left">
@@ -102,6 +102,4 @@ Ydinosaamistamme on toimittaa, asentaa ja edelleen kehittää yritysten todellis
 </HeroBlock>
 
 
-<Cards cardsPerRow="3" cards='\[{"title":"Laitehankinnat ja rahoitus","content":"Oletko hankkimassa yrityksellesi tietokoneita tai muita IT-laitteita? Pyydä aina tarjous myös meiltä!","link":"/it-laitteet/","linkText":"Lue lisää","bgColor":"lightest","linkBgColor":"brand"},{"title":"IT-palvelusopimukset","content":"Haluatko ulkoistaa IT-palvelut? Tai hankkia asiantuntijan esimerkiksi yrityksen verkon toteuttamiseen?","linkText":"Lue lisää","link":"/it-palvelut/","bgColor":"lightest","linkBgColor":"brand"},{"title":"Uuden yrittäjän palvelut","content":"Mitä uusi yritys tarvitsee? Tietokoneiden lisäksi kauttamme saat domainit, sähköpostit ja liiketoimintasovellukset ja muut IT-palvelut.\n\n","link":"/uusi-yrittaja/","linkText":"Lue lisää","bgColor":"lightest","linkBgColor":"brand"}]' />
-
-<LatestPosts maxNumberOfPosts="4" title="Viimeimmät uutiset ja artikkelit"/>
+<Cards cardsPerRow="3" cards='[{"title":"Laitehankinnat ja rahoitus","content":"Oletko hankkimassa yrityksellesi tietokoneita tai muita IT-laitteita? Pyydä aina tarjous myös meiltä!","link":"/it-laitteet/","linkText":"Lue lisää","bgColor":"lightest","linkBgColor":"brand"},{"title":"IT-palvelusopimukset","content":"Haluatko ulkoistaa IT-palvelut? Tai hankkia asiantuntijan esimerkiksi yrityksen verkon toteuttamiseen?","linkText":"Lue lisää","link":"/it-palvelut/","bgColor":"lightest","linkBgColor":"brand"},{"title":"Uuden yrittäjän palvelut","content":"Mitä uusi yritys tarvitsee? Tietokoneiden lisäksi kauttamme saat domainit, sähköpostit ja liiketoimintasovellukset ja muut IT-palvelut.\n\n","link":"/uusi-yrittaja/","linkText":"Lue lisää","bgColor":"lightest","linkBgColor":"brand"}]' />
