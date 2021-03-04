@@ -24,12 +24,13 @@ contactForm: Ota yhteyttä
 
 ## IT-menojen hintalaskuri – TDP SLIM™
 
-Oletko harkinnut ulkoistaa yrityksesi IT-palvelut ja\
-haluat nopean arvion yrityksesi kaikista IT-kustannuksista? Kokeile TDP SLIM™ -laskuripalvelua!
-
 * Harkitset yrityksesi IT-toimintojen ulkoistamista?
 * Haluat nopean arvion kaikista kustannuksista?
 * Haluat pohtia itsenäisesti ennen yhteydenottoa?
+
+[TDP SLIM](http://slim.tdp.fi) on tähän tarvitsemasi työkalu. Laskuri antaa luotettavan hinta-arvion yrityksesi IT-kustannuksista. Syötät laskuriin vain tarvitsemasi laitteet ja palvelut, ja TDP SLIM antaa nopeasti kokonaissumman.
+
+TDP SLIM ottaa huomioon kaikki valitsemasi laitteet ja palvelut. Voit myös määrittää laitteille ja palveluille haluamasi tason tarpeidesi mukaan. Kun lomake on valmis, [lähetä tarjouspyyntö](https://www.tdp.fi/yritys/) tai [ota yhteyttä](https://www.tdp.fi/yritys/) varmistaaksesi arvion tarkkuuden. Huomaathan, että kaikki laskurissa tarjotut laitteet ja palvelut ovat edelleen räätälöitävissä yrityksesi tarpeiden mukaisiksi.
 
 <CallToAction bgColor="dark" url="https://slim.tdp.fi" align="center">Kokeile laskuria</CallToAction>
 
@@ -38,15 +39,13 @@ haluat nopean arvion yrityksesi kaikista IT-kustannuksista? Kokeile TDP SLIM™ 
 </HeroBlock>
 
 
-[TDP SLIM](http://slim.tdp.fi) on tähän tarvitsemasi työkalu. Laskuri antaa luotettavan hinta-arvion yrityksesi IT-kustannuksista. Syötät laskuriin vain tarvitsemasi laitteet ja palvelut ja TDP SLIM antaa nopeasti kokonaissumman.
-
-Arvio ottaa huomioon kaikki valitsemasi laitteet ja palvelut. Voit myös määrittää laitteille ja palveluille haluamasi tason tarpeidesi mukaan. Kun lomake on valmis, [lähetä tarjouspyyntö](https://www.tdp.fi/yritys/) tai [ota yhteyttä](https://www.tdp.fi/yritys/) varmistaaksesi arvion tarkkuuden. Huomaathan, että kaikki laskurissa tarjotut laitteet ja palvelut ovat edelleen räätälöitävissä yrityksesi tarpeiden mukaisiksi.
-
 ### TDP SLIM™ -palvelu yrittäjien apuna
 
-Startup-yrittäjille, pienille asiantuntijayrityksille, yrittäjille eri toimialoilta ja monille muille. Ininööritoimistoille, hammaslääkäreille tai rakennusfirmoille. Tärkeintä ei ole toimialasi tai yrityksesi koko, vaan todellinen tarpeesi. Palvelu keskittyy arvioimaan nimenomaan tarpeesi laadun ja kustannukset.
+Startup-yrittäjille, pienille asiantuntijayrityksille ja muille yrittäjille eri toimialoilta. Insinööritoimistoille, hammaslääkäreille tai rakennusfirmoille. 
 
-On käyttämäsi ohjelmisto sitten SolidWorks, AutoCAD, BIM tai jokin CRM-järjestelmä, löydät sen vaatimuksiin yltävät laitteet ja palvelut TDP SLIMistä.
+Tärkeintä ei ole toimialasi tai yrityksesi koko, vaan todellinen tarpeesi. Palvelu keskittyy arvioimaan nimenomaan tarpeesi laadun ja kustannukset.
+
+On käyttämäsi ohjelmisto sitten SolidWorks, AutoCAD, BIM tai jokin CRM-järjestelmä, löydät sen vaatimuksiin yltävät laitteet ja palvelut TDP SLIMistä. 
 
 ### Helppoutta IT-toimintojen valintaan
 
@@ -58,7 +57,7 @@ Palvelun avulla löydät yrityksellesi kustannustehokkaimman kokonaisuuden paris
 
 TDP Slim tarjoaa nopean  ja läpinäkyvän tavan vertailla IT-toimintojen hintatasoa. Palvelun tarjonta ei sido sinua kiinteään pakettiratkaisuun, vaan voit valikoida räätälöidysti tarvitsemasi palvelut ja laitteet. 
 
-### Ei keskeytyksiä työhön onsite-takuulla / Onsite-takuulla sanot EI keskeytyksille
+### Ei keskeytyksiä työhön onsite-takuulla
 
 Tarjoamme kaikki laitteet 3 vuoden onsite-takuulla, joka varmistaa töittesi sujuvuuden laiterikosta huolimatta. Takuu kattaa kaikki laiteviat ja huolto tapahtuu viimeistään seuraavana arkipäivänä. Et maksa ylimääräistä, sillä takuu sisältyy koneidemme hintaan.
 
