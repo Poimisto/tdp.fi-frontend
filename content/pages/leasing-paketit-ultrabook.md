@@ -21,7 +21,7 @@ Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, 
 | ---------------------------------- | --------------------- | --------------------- | ----------------- |
 | DELL Latitude 7420                 | 84,35 €/kk            | 58,00 €/kk            | 1598,00 €         |
 | DELL 27 PRO P2719H -näyttö         | 11,35 €/kk            | 8,11 €/kk             | 198,00 €          |
-| DELL WD 19TBS 180w Telakointiasema | 15,98 €/kk            | 11,46 €/kk            | 273,00 €          |
+| DELL WD 19TBS 180w Telakointiasema | 15,98 €/kk            | 11,46 €/kk            | 274,00 €          |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
