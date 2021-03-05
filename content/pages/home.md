@@ -39,7 +39,7 @@ Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [as
 
 <div className="HeroBlockImage">
 
-![TDP Slim](/assets/tdp-slim-hand-bg-yellow.jpg)
+![TDP Slim](/assets/tdp-slim-logo.png)
 
 </div>
 
