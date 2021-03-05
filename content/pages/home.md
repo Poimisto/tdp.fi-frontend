@@ -1,6 +1,6 @@
 ---
 path: /home
-thumbnail: /assets/proxyclick-visitor-management-system-s86whghp25y-unsplash.jpg
+thumbnail: /assets/tdp-logojpeg.jpg
 date: 2020-11-15T20:33:13.757Z
 head:
   title: Tietotekniikka voi olla myös helppoa
@@ -39,7 +39,7 @@ Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [as
 
 <div className="HeroBlockImage">
 
-![TDP Slim](/assets/tdp-slim.png)
+![TDP Slim](/assets/tdp-slim-hand-bg-yellow.jpg)
 
 </div>
 

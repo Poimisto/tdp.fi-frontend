@@ -1,6 +1,6 @@
 ---
 path: /tdp-slim
-thumbnail: /assets/tdp-slim.png
+thumbnail: /assets/tdp-slim-hand-bg-yellow.jpg
 date: 2021-02-25T07:52:19.053Z
 head:
   title: IT-menojen hintalaskuri – TDP SLIM™
@@ -16,7 +16,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![TDP Slim tarjouslaskuri](/assets/tdp-slim-poster-dark.jpg)
+![TDP Slim tarjouslaskuri](/assets/tdp-slim-hand-bg-white.jpg)
 
 </div>
 
