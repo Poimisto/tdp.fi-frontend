@@ -30,7 +30,7 @@ contactForm: Ota yhteyttä
 
 [TDP SLIM](http://slim.tdp.fi) on tähän tarvitsemasi työkalu. Laskuri antaa luotettavan hinta-arvion yrityksesi IT-kustannuksista. Syötät laskuriin vain tarvitsemasi laitteet ja palvelut, ja TDP SLIM antaa nopeasti kokonaissumman.
 
-TDP SLIM ottaa huomioon kaikki valitsemasi laitteet ja palvelut. Voit myös määrittää laitteille ja palveluille haluamasi tason tarpeidesi mukaan. Kun lomake on valmis, [lähetä tarjouspyyntö](https://www.tdp.fi/yritys/) tai [ota yhteyttä](https://www.tdp.fi/yritys/) varmistaaksesi arvion tarkkuuden. Huomaathan, että kaikki laskurissa tarjotut laitteet ja palvelut ovat edelleen räätälöitävissä yrityksesi tarpeiden mukaisiksi.
+TDP SLIM ottaa huomioon kaikki valitsemasi laitteet ja palvelut. Voit myös määrittää laitteille ja palveluille haluamasi tason tarpeidesi mukaan. Kun lomake on valmis, [lähetä tarjouspyyntö](/yritys/) tai [ota yhteyttä](/yritys/) varmistaaksesi arvion tarkkuuden. Huomaathan, että kaikki laskurissa tarjotut laitteet ja palvelut ovat edelleen räätälöitävissä yrityksesi tarpeiden mukaisiksi.
 
 <CallToAction bgColor="dark" url="https://slim.tdp.fi" align="center">Kokeile laskuria</CallToAction>
 
@@ -39,9 +39,9 @@ TDP SLIM ottaa huomioon kaikki valitsemasi laitteet ja palvelut. Voit myös mä�
 </HeroBlock>
 
 
-### TDP SLIM™ -palvelu yrittäjien apuna
+### TDP SLIM™ -palvelu - kenelle?
 
-Startup-yrittäjille, pienille asiantuntijayrityksille ja muille yrittäjille eri toimialoilta. Insinööritoimistoille, hammaslääkäreille tai rakennusfirmoille. 
+Startup-yrittäjille, pienille asiantuntijayrityksille ja muille yrittäjille eri toimialoilta. [Insinööritoimistoille](/referenssit), hammaslääkäreille tai rakennusfirmoille. 
 
 Tärkeintä ei ole toimialasi tai yrityksesi koko, vaan todellinen tarpeesi. Palvelu keskittyy arvioimaan nimenomaan tarpeesi laadun ja kustannukset.
 
