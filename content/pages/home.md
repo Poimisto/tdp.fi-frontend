@@ -95,7 +95,7 @@ Tampereen Datapiste on vuonna 2007 perustettu IT-palveluyritys. Toimipisteemme s
 
 Ydinosaamistamme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä. Koulutettu, kokenut henkilökuntamme palvelee nopealla vasteajalla niin uusien laitteiden asennuksissa kuin vikatilanteissa.
 
-<CallToAction bgColor="brand" url="/yhteystiedot" align="center">Tietoa yrityksestä</CallToAction>
+<CallToAction bgColor="lightest" url="/yhteystiedot" align="center">Tietoa yrityksestä</CallToAction>
 
 </div>
 
