@@ -22,9 +22,9 @@ contactForm: Ota yhteyttä
 
 ## Referenssit
 
-TDP:lle on ollut alusta alkaen tärkeää huolehtia asiakkaistaan mahdollisimman hyvin. Asiakaskokemuksistamme voit lukea, miten IT-palveluiden ydin ei ole vain edullinen hintataso, vaan palvelun kattavuus ja laatu.
+TDP:lle on ollut alusta alkaen tärkeää huolehtia asiakkaistaan mahdollisimman hyvin. Asiakaskokemuksistamme voit lukea, miten IT-palveluidemme ydin ei ole vain maltillinen hintataso, vaan palvelun kattavuus ja laatu.
 
-Tutustu referensseihimme. Jos asiakasyritystemme kokemukset kertovat palvelutasosta, jota sinunkin yrityksesi tarvitsee, [ole meihin yhteydessä](/yritys).
+Tutustu referensseihimme. Asiakasyritystemme kokemukset kertovat palvelutasosta, jota sinunkin yrityksesi tarvitsee, joten [ole meihin yhteydessä](/yritys).
 
 </div>
 
