@@ -13,13 +13,13 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![undefined](/assets/metecnologo2018_471x196.jpg)
+![undefined](/assets/netlify-1280-x-800-metecno.png)
 
 </div>
 
 <div className="HeroBlockContent">
 
-## Referenssitarina
+## Metecno Oy
 
 *"Metecno Oy oli kahden työntekijän startup-yritys vuonna 2011, kun hankin Datapisteeltä yhden kannettavan ja hieman myöhemmin oman serverin. Kaikki meni hienosti, joten yritykseni kasvun myötä keskitin vähitellen kaiken IT-tarpeistamme huolehtimisen heille.*
 
