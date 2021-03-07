@@ -1,6 +1,6 @@
 ---
 path: /referenssit/insinooritoimisto
-thumbnail: /assets/metecnologo2018_471x196.jpg
+thumbnail: ""
 date: 2021-03-06T07:22:52.854Z
 head:
   title: Referenssitarina - Insinööritoimisto - TDP
@@ -18,5 +18,5 @@ contactForm: Ota yhteyttä
 
 *Jos joku kysyisi minulta laadukasta täyden palvelun IT-taloa, antaisin empimättä Datapisteen tiedot. Kokemuksesta tiedän heidän olevan etenkin uudelle yrittäjälle hyvä kumppani, koska he osaavat ehdottaa oikeita työkaluja kasvun tukemiseen. Aikoinaan muun muassa yrityksemme viestinnän keskittäminen Googlen ympärille tapahtui täysin Datapisteen aloitteesta, mikä oli erinomainen ratkaisu ja nosti monella tavalla toimintaamme korkeammalle tasolle.”*
 
-Matti Metsähonkala, toimitusjohtaja\
+Matti Metsähonkala, toimitusjohtaja
 Metecno Oy
