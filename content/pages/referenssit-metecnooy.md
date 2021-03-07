@@ -8,6 +8,17 @@ head:
   description: "Referenssit "
 contactForm: Ota yhteyttä
 ---
+
+<HeroBlock bgColor="lightest" imageAlign="right">
+
+<div className="HeroBlockImage">
+
+![undefined](/assets/metecnologo2018_471x196.jpg)
+
+</div>
+
+<div className="HeroBlockContent">
+
 ## Referenssitarina
 
 *"Metecno Oy oli kahden työntekijän startup-yritys vuonna 2011, kun hankin Datapisteeltä yhden kannettavan ja hieman myöhemmin oman serverin. Kaikki meni hienosti, joten yritykseni kasvun myötä keskitin vähitellen kaiken IT-tarpeistamme huolehtimisen heille.*
@@ -20,3 +31,7 @@ contactForm: Ota yhteyttä
 
 Matti Metsähonkala, toimitusjohtaja
 Metecno Oy
+
+</div>
+
+</HeroBlock>
