@@ -10,8 +10,8 @@ thumbnail: /assets/netlify-1280-x-800-2.png
 ---
 ## Onsite-takuu takaa mielenrauhan työnteolle
 
-Onsite-takuu minimoi laiterikoista aiheutuvat haitat yritykselle. 3 vuoden ajan ostosta kaikki laiteviat korjataan nopealla aikataululla yrityksesi tiloissa etkä menetä arvokasta aikaasi vian selvittelyyn. Sinun asiakkaana tarvitsee vain ilmoittaa meille viasta ja otamme täyden vastuun  
+Onsite-takuu tarkoittaa 3 vuoden takuuta laitteelle, jonka aikana kaikki viat korjataan nopeasti yrityksesi tiloissa. Käytännössä maksat siitä, että saat 3 vuoden ajaksi mielenrauhan ostosta etkä menetä arvokasta aikaasi vikojen selvittelyyn. Saat arvokkaalle laitteellesi Sinun asiakkaana tarvitsee vain ilmoittaa myyjälle ongelmasta, jonka jälkeenotamme täyden vastuun sen nopeasta ratkaisemisesta.
 
 ## Esimerkkejä onsite-takuusta
 
-Ota yhteyttä, jos vaikkapa näyttö rikkoutuu, niin lähetämme uuden ja haemme vanhan pois. Tietokonevian tullen valmistajan huolto tulee paikan päälle ja korjaa laitteen normaalisti seuraavaan arkipäivään mennessä. Ainoastaan ohjelmistovikoja takuu ei kata.
+Ota yhteyttä, jos vaikkapa näyttö rikkoutuu. Lähetämme uuden postitse ja kuriiripalvelu hakee vanhan pois. Tietokonevian tullen valmistajan huolto tulee paikan päälle ja korjaa laitteen normaalisti seuraavaan arkipäivään mennessä. Ainoastaan ohjelmistovikoja takuu ei kata.
