@@ -69,7 +69,7 @@ TDP SLIM -laskuri antaa nopeasti hinta-arvion kaikista yrityksesi tarvitsemista 
 
 ### Referenssit
 
-Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen nojaa toimintamme. Lue tyytyväisten asiakkaidemme ajatuksia ja liity heidän joukkoonsa.
+Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen nojaa toimintamme. Meillä on asiakkaina yrityksiä monelta eri toimialalta. Lue tyytyväisten asiakkaidemme ajatuksia ja liity heidän joukkoonsa.
 
 <CallToAction bgColor="lightest" url="/referenssit" align="center">Asiakkaidemme ajatuksia</CallToAction>
 
