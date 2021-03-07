@@ -15,5 +15,3 @@ head:
 Riina Larmela, hallituksen puheenjohtaja\
 Sanna-Maria Reincke, toimitusjohtaja\
 Eläinklinikka Livet
-
-<CallToAction bgColor="brand" url="/referenssit/elainlaakariasema" align="center">Lue lisää</CallToAction>
