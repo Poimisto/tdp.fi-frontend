@@ -28,9 +28,11 @@ contactForm: Ota yhteyttä
 * Haluat nopean arvion kaikista kustannuksista?
 * Haluat pohtia itsenäisesti ennen yhteydenottoa?
 
-[TDP SLIM™](http://slim.tdp.fi) on tähän tarvitsemasi työkalu. Laskuri antaa luotettavan hinta-arvion yrityksesi IT-kustannuksista. Syötät laskuriin vain tarvitsemasi laitteet ja palvelut, ja TDP SLIM antaa nopeasti kokonaissumman.
+[TDP SLIM™](http://slim.tdp.fi) **on tähän tarvitsemasi työkalu. Laskuri antaa nopeasti luotettavan hinta-arvion yrityksesi IT-kustannuksista.** Syötät laskuriin vain tarvitsemasi laitteet ja palvelut, ja TDP SLIM antaa nopeasti kokonaissumman.
 
-TDP SLIM ottaa huomioon kaikki valitsemasi laitteet ja palvelut. Voit myös määrittää laitteille ja palveluille haluamasi tason tarpeidesi mukaan. Kun lomake on valmis, [lähetä tarjouspyyntö](/yritys/) tai [ota yhteyttä](/yritys/) varmistaaksesi arvion tarkkuuden. Huomaathan, että kaikki laskurissa tarjotut laitteet ja palvelut ovat edelleen räätälöitävissä yrityksesi tarpeiden mukaisiksi.
+TDP SLIM ottaa huomioon kaikki valitsemasi laitteet ja palvelut. Voit myös määrittää laitteille ja palveluille haluamasi tason tarpeidesi mukaan. 
+
+Kun lomake on valmis, [lähetä tarjouspyyntö](/yritys/) tai [ota yhteyttä](/yritys/) varmistaaksesi arvion tarkkuuden. Huomaathan, että kaikki laskurissa tarjotut laitteet ja palvelut ovat edelleen räätälöitävissä yrityksesi tarpeiden mukaisiksi.
 
 <CallToAction bgColor="dark" url="https://slim.tdp.fi" align="center">Kokeile laskuria</CallToAction>
 
@@ -39,7 +41,7 @@ TDP SLIM ottaa huomioon kaikki valitsemasi laitteet ja palvelut. Voit myös mä�
 </HeroBlock>
 
 
-### TDP SLIM™ -palvelu - kenelle?
+### TDP SLIM™ -palvelu – kenelle?
 
 Startup-yrittäjille, pienille asiantuntijayrityksille ja muille yrittäjille eri toimialoilta. [Insinööritoimistoille](/referenssit), hammaslääkäreille tai rakennusfirmoille. 
 
@@ -55,7 +57,7 @@ TDP SLIM on helppo. Saat pohtia ilman myyntipuheita yrityksellesi sopivinta koko
 
 Palvelun avulla löydät yrityksellesi kustannustehokkaimman kokonaisuuden parissa minuutissa. Palvelu ei tarjoa kalleinta vaihtoehtoa, mikäli tarpeesi on perustasoa, mutta se ottaa huomioon vaativatkin tarpeet.
 
-TDP Slim tarjoaa nopean  ja läpinäkyvän tavan vertailla IT-toimintojen hintatasoa. Palvelun tarjonta ei sido sinua kiinteään pakettiratkaisuun, vaan voit valikoida räätälöidysti tarvitsemasi palvelut ja laitteet. 
+TDP SLIM tarjoaa nopean  ja läpinäkyvän tavan vertailla IT-toimintojen hintatasoa. Palvelun tarjonta ei sido sinua kiinteään pakettiratkaisuun, vaan voit valikoida räätälöidysti tarvitsemasi palvelut ja laitteet. 
 
 ### Ei keskeytyksiä työhön onsite-takuulla
 
