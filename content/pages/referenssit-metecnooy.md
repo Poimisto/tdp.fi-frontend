@@ -19,7 +19,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-## Metecno Oy
+## Erikoiskonevalmistaja Metecno Oy
 
 *"Metecno Oy oli kahden työntekijän startup-yritys vuonna 2011, kun hankin Datapisteeltä yhden kannettavan ja hieman myöhemmin oman serverin. Kaikki meni hienosti, joten yritykseni kasvun myötä keskitin vähitellen kaiken IT-tarpeistamme huolehtimisen heille.*
 
