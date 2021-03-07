@@ -20,7 +20,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-## Referenssit
+# Referenssit
 
 TDP:lle on ollut alusta alkaen tärkeää huolehtia asiakkaistaan mahdollisimman hyvin. Asiakaskokemuksistamme voit lukea, miten **IT-palveluidemme ydin ei ole vain maltillinen hintataso, vaan myös palveluiden kattavuus ja laatu**.
 
