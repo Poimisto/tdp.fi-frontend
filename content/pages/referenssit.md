@@ -14,7 +14,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Asiakaspalaute](/assets/asiakaspalaute.PNG)
+![Asiakaspalaute](/assets/netlify-1280-x-800-ref.png)
 
 </div>
 
