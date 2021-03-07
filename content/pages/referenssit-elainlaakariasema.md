@@ -6,13 +6,11 @@ head:
   description: Referenssit
   keywords: TDP referenssit, asiakas, eläinlääkäriasema
 ---
+*”Halusimme tuoreina yrittäjinä kattavan palvelusopimuksen, joka sisältäisi kaikki tarvitsemamme IT-palvelut. Etsimme netin hakukoneella sopivia palveluntarjoajia ja näin löysimme tiemme TDP:n kotisivuille. Pyysimme tarjousta ja TDP teki heti vaikutuksen asiantuntevalla, erittäin ystävällisellä palvelulla – valinta oli helppo ja oikea.*
 
+*TDP huolehtii kaikista klinikkamme IT-järjestelmistä, kommunikoi puolestamme nettioperaattorin kanssa vikatilanteissa, on alussa järjestänyt tietokoneidemme leasing-sopimukset ja tarjoaa jatkuvan asiakastuen. Datapisteen palvelu on ollut erittäin joustavaa, asiantuntevaa ja ystävällistä yhteistyömme alusta tähän päivään asti. Kaikki ongelmamme on ratkaistu tehokkaasti ja mikä parasta, meille on oma-aloitteisesti ehdotettu parannusehdotuksia, kun niille on ollut tarvetta.*
 
-**”**Halusimme tuoreina yrittäjinä kattavan palvelusopimuksen, joka sisältäisi kaikki tarvitsemamme IT-palvelut. Etsimme netin hakukoneella sopivia palveluntarjoajia ja näin löysimme tiemme TDP:n kotisivuille. Pyysimme tarjousta ja TDP teki heti vaikutuksen asiantuntevalla, erittäin ystävällisellä palvelulla – valinta oli helppo ja oikea.
-
-TDP huolehtii kaikista klinikkamme IT-järjestelmistä, kommunikoi puolestamme nettioperaattorin kanssa vikatilanteissa, on alussa järjestänyt tietokoneidemme leasing-sopimukset ja tarjoaa jatkuvan asiakastuen. Datapisteen palvelu on ollut erittäin joustavaa, asiantuntevaa ja ystävällistä yhteistyömme alusta tähän päivään asti. Kaikki ongelmamme on ratkaistu tehokkaasti ja mikä parasta, meille on oma-aloitteisesti ehdotettu parannusehdotuksia, kun niille on ollut tarvetta.
-
-Etenkin Datapisteen palveluiden käytön helppous on ollut meille hieno juttu. Ongelmat on aina saatu ratkaistua etänä tai paikan päällä vaivattomasti ja nopeasti, myös virka-ajan ulkopuolella. On helpottavaa keskittyä yrityksen omaan osaamisalueeseen, kun voi vahvasti luottaa näin keskeisen palvelun toimivuuteen eikä omaa aikaa kulu IT-asioista murehtimiseen. Kokonaisuutena annamme 10/10 pistettä palvelun laadusta ja erityiskiitoksen aina ystävällisestä asiakaspalvelusta!”
+*Etenkin Datapisteen palveluiden käytön helppous on ollut meille hieno juttu. Ongelmat on aina saatu ratkaistua etänä tai paikan päällä vaivattomasti ja nopeasti, myös virka-ajan ulkopuolella. On helpottavaa keskittyä yrityksen omaan osaamisalueeseen, kun voi vahvasti luottaa näin keskeisen palvelun toimivuuteen eikä omaa aikaa kulu IT-asioista murehtimiseen. Kokonaisuutena annamme 10/10 pistettä palvelun laadusta ja erityiskiitoksen aina ystävällisestä asiakaspalvelusta!”*
 
 Riina Larmela, hallituksen puheenjohtaja\
 Sanna-Maria Reincke, toimitusjohtaja\
