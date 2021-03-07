@@ -61,7 +61,7 @@ TDP SLIM -laskuri antaa nopeasti hinta-arvion kaikista yrityksesi tarvitsemista 
 
 <div className="HeroBlockImage">
 
-![TDP referenssit](/assets/asiakaspalaute.PNG)
+![TDP referenssit](/assets/netlify-1280-x-800-ref.png)
 
 </div>
 
