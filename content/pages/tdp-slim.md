@@ -63,4 +63,4 @@ TDP SLIM tarjoaa nopean  ja läpinäkyvän tavan vertailla IT-toimintojen hinta
 
 Tarjoamme kaikki laitteet 3 vuoden onsite-takuulla, joka varmistaa töittesi sujuvuuden laiterikosta huolimatta. Takuu kattaa kaikki laiteviat ja huolto tapahtuu viimeistään seuraavana arkipäivänä. Et maksa ylimääräistä, sillä takuu sisältyy koneidemme hintaan.
 
-<CallToAction bgColor="dark" url="https://slim.tdp.fi" align="center">Lue takuusta lisää</CallToAction>
+<CallToAction bgColor="dark" url="/onsite-takuu-on-yrityksen-arjen-turva" align="center">Lue takuusta lisää</CallToAction>
