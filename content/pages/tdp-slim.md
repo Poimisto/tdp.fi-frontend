@@ -22,7 +22,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-## IT-menojen hintalaskuri – TDP SLIM™
+# IT-menojen hintalaskuri – TDP SLIM™
 
 * Harkitset yrityksesi IT-toimintojen ulkoistamista?
 * Haluat nopean arvion kaikista kustannuksista?
