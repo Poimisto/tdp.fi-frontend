@@ -10,16 +10,22 @@ head:
   keywords: onsite, takuu, 3 vuotta, laiterikko
 thumbnail: /assets/netlify-1280-x-800-2.png
 ---
-## Onsite-takuu takaa mielenrauhan työnteolle
+## Onsite-takuu takaa työnteon jatkuvuuden
 
-Onsite-takuu tarkoittaa laitteelle myönnettävää 3 vuoden takuuta, jonka aikana kaikki viat korjataan nopeasti paikan päällä. Käytännössä maksat siitä, että saat 3 vuoden ajaksi mielenrauhan ostosta etkä menetä arvokasta aikaasi vikojen selvittelyyn. 
+Onsite-takuu tarkoittaa laitteelle myönnettävää 3 vuoden takuuta, jonka aikana kaikki laitteeseen tulevat viat korjataan nopeasti paikan päällä. Käytännössä maksat siitä, että saat 3 vuoden ajaksi mielenrauhan laitteiden toimivuudesta etkä menetä arvokasta aikaasi vikojen selvittelyyn. 
 
-Saat arvokkaalle laitteellesi lisäturvan yllätysten varalle. Vaikka laite on laadukas, siihenkin saattaa tulla odottamatonSinun asiakkaana tarvitsee vain ilmoittaa meille ongelmasta, jonka jälkeen otamme täyden vastuun sen nopeasta ratkaisemisesta.
+Onsite-takuu tarjoaa arvokkaalle laitteellesi lisäturvan yllätysten varalle. Vaikka laite on laadukas, siihenkin saattaa tulla odottamattomia vikoja. Sinun asiakkaana tarvitsee vain ilmoittaa meille ongelmasta, jonka jälkeen otamme täyden vastuun sen nopeasta ratkaisemisesta.
 
 ## Esimerkkejä onsite-takuusta
 
-Ota yhteyttä, jos vaikkapa näyttö rikkoutuu. Lähetämme uuden postitse ja kuriiripalvelu hakee vanhan pois. 
+Ota yhteyttä, kun näyttö rikkoutuu. Lähetämme uuden vastaavan postitse ja kuriiripalvelu hakee vanhan näytön pois. 
 
-Tietokonevian tullen valmistajan huolto tulee paikan päälle ja korjaa laitteen normaalisti seuraavaan arkipäivään mennessä. 
+Tietokonevian tullen ota meihin yhteyttä tai soita suoraan valmistajan tukinumeroon. Huolto tulee paikan päälle ja korjaa laitteen seuraavaan arkipäivään mennessä. 
 
-Ainoastaan ohjelmistovikoja takuu ei kata.
+Ohjelmistoviat jäävät takuun ulkopuolelle, mutta niissä pyrimme tietenkin auttamaan mahdollisimman nopeasti.
+
+## Onko onsite-takuu tarpeellinen?
+
+Meidän mielestämme on, mutta sinä päätät. Haluatko olla huolehtimatta koneen toimivuudesta 36 kk:n ajan? Vai luotatko, että ostamaasi laitteeseen ei tule mitään vikoja ensimmäisten 12 kk:n jälkeen?
+
+Onsite-takuu on ehdoton valinta niille, jotka haluavat keskittyä ydinosaamiseensa ja yrityksensä pyörittämiseen.
