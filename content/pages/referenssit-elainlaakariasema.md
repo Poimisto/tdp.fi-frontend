@@ -7,6 +7,17 @@ head:
   keywords: TDP referenssit, asiakas, eläinklinikka
 contactForm: Ota yhteyttä
 ---
+
+<HeroBlock bgColor="lightest" imageAlign="right">
+
+<div className="HeroBlockImage">
+
+![undefined](/assets/livet-logo-kys.png)
+
+</div>
+
+<div className="HeroBlockContent">
+
 ## Eläinklinikka Livet Oy
 
 *”Halusimme tuoreina yrittäjinä kattavan palvelusopimuksen, joka sisältäisi kaikki tarvitsemamme IT-palvelut. Etsimme netin hakukoneella sopivia palveluntarjoajia ja näin löysimme tiemme TDP:n kotisivuille. Pyysimme tarjousta ja TDP teki heti vaikutuksen asiantuntevalla, erittäin ystävällisellä palvelulla – valinta oli helppo ja oikea.*
@@ -17,3 +28,7 @@ contactForm: Ota yhteyttä
 
 Riina Larmela, hallituksen puheenjohtaja
 Sanna-Maria Reincke, toimitusjohtaja
+
+</div>
+
+</HeroBlock>
