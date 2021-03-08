@@ -28,9 +28,9 @@ contactForm: Ota yhteyttä
 
 *Vaikka olen ollut jo pitkään asiakas, olen edelleen positiivisesti yllättynyt siitä, miten kattavasti TDP kykenee tarjoamaan ratkaisut tarpeisiimme laidasta laitaan. Niin laitehankinnat, huollot, asennukset, palvelut kuin niiden tuki kulkevat heidän kauttaan. Kokonaisuuden tasolla Datapisteen huolenpito vapauttaa henkilöstöltämme paljon aikaa ja voimme keskittyä ydinosaamiseemme, mikä tietenkin tuo meille kustannussäästöjä.*
 
-*Datapisteen toimittamat laitteistot ovat poikkeuksetta laadukkaita, ystävällinen asiakaspalvelu ratkaisee pulmamme parhaimmillaan kesken työpäivän minuuteissa ja palvelun sisältöä voi joustavasti räätälöidä. Kun summaan tämän kaiken, voin todeta nykyisen palvelusopimuksemme Datapisteen kanssa olevan meille erinomainen kokonaisratkaisu.”*\
- \
-Jaakko Mäkelä, \
+*Datapisteen toimittamat laitteistot ovat poikkeuksetta laadukkaita, ystävällinen asiakaspalvelu ratkaisee pulmamme parhaimmillaan kesken työpäivän minuuteissa ja palvelun sisältöä voi joustavasti räätälöidä. Kun summaan tämän kaiken, voin todeta nykyisen palvelusopimuksemme Datapisteen kanssa olevan meille erinomainen kokonaisratkaisu.”*
+ 
+Jaakko Mäkelä, 
 Asianajaja, varatuomari
 
 </div>
