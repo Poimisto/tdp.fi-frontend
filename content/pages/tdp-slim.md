@@ -28,7 +28,7 @@ contactForm: Ota yhteyttä
 * Haluat nopean arvion kaikista kustannuksista?
 * Haluat pohtia itsenäisesti ennen yhteydenottoa?
 
-[TDP SLIM™](http://slim.tdp.fi) **on tähän tarvitsemasi työkalu. Laskuri antaa nopeasti luotettavan hinta-arvion yrityksesi IT-kustannuksista.** Syötä laskuriin kaikki tarvitsemasi laitteet ja palvelut, ja TDP SLIM laskee hetkessä kokonaissumman kuukausitasolla.
+[TDP SLIM™](http://slim.tdp.fi) **on tarvitsemasi työkalu. Laskuri antaa nopeasti luotettavan hinta-arvion yrityksesi kaikista IT-kustannuksista.** Syötä laskuriin kaikki tarvitsemasi laitteet ja palvelut, ja TDP SLIM laskee hetkessä kokonaissumman kuukausitasolla.
 
 TDP SLIM ottaa huomioon kaikki valitsemasi laitteet ja palvelut. Voit myös määrittää laitteille ja palveluille haluamasi tason tarpeidesi mukaan. 
 
