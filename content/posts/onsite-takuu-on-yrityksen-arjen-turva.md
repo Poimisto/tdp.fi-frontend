@@ -39,7 +39,7 @@ Ohjelmistoviat jäävät takuun ulkopuolelle, mutta niissä pyrimme tietenkin au
 
 Meidän mielestämme on, mutta sinä päätät. Haluatko olla huolehtimatta koneen toimivuudesta 36 kk:n ajan? Vai luotatko, että ostamaasi laitteeseen ei tule mitään vikoja ensimmäisten 12 kk:n jälkeen?
 
-Onsite-takuu on ehdoton valinta heille, joille IT-kysymykset ovat vieraita ja jotka haluavat keskittyä ydinosaamiseensa. Se on myös järkevä valinta heille, joilla on kosolti kykyä IT-pulmien ratkaisemiseen, mutta jotka haluavat käyttää aikaansa mieluummin yrityksensä prosessien kehittämiseen.
+Onsite-takuu on ehdoton valinta niille yrittäjille, joille IT-kysymykset ovat vieraita ja jotka haluavat keskittyä ydinosaamiseensa. Se on myös järkevä valinta heille, joilla on kosolti kykyä IT-pulmien ratkaisemiseen, mutta jotka haluavat käyttää aikaansa mieluummin yrityksensä prosessien kehittämiseen.
 
 </div>
 
