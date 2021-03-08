@@ -8,7 +8,7 @@ head:
     onsite-takuulla. Onsite-takuun alainen laite korjataan vian sattuessa
     viipymättä asiakkaan tiloissa.
   keywords: onsite, takuu, 3 vuotta, laiterikko
-thumbnail: /assets/netlify-1280-x-800-2.png
+thumbnail: /assets/onsite-takuu.png
 ---
 
 <HeroBlock bgColor="lightest" imageAlign="right">
