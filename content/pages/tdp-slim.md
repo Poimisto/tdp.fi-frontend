@@ -43,7 +43,7 @@ Kun lomake on valmis, [lähetä tarjouspyyntö](/yritys/) tai [ota yhteyttä](/y
 
 ### TDP SLIM™ -palvelu – kenelle?
 
-Startup-yrittäjille, pienille asiantuntijayrityksille ja muille yrittäjille eri toimialoilta. [Insinööritoimistoille](/referenssit), hammaslääkäreille tai rakennusfirmoille. 
+Startup-yrittäjille, pienille asiantuntijayrityksille ja muille yrittäjille eri toimialoilta. [Insinööritoimistoille](/referenssit/insinooritoimisto), hammaslääkäreille tai rakennusfirmoille. 
 
 Tärkeintä ei ole toimialasi tai yrityksesi koko, vaan todellinen tarpeesi. Palvelu keskittyy arvioimaan nimenomaan tarpeesi laadun ja kustannukset.
 
