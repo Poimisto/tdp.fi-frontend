@@ -11,7 +11,7 @@ head:
 thumbnail: /assets/netlify-1280-x-800-2.png
 ---
 
-<HeroBlock bgColor="brand" imageAlign="right">
+<HeroBlock bgColor="lightest" imageAlign="right">
 
 <div className="HeroBlockImage">
 
