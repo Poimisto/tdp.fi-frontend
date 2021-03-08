@@ -28,7 +28,7 @@ contactForm: Ota yhteyttä
 * Haluat nopean arvion kaikista kustannuksista?
 * Haluat pohtia itsenäisesti ennen yhteydenottoa?
 
-[TDP SLIM™](http://slim.tdp.fi) **on tähän tarvitsemasi työkalu. Laskuri antaa nopeasti luotettavan hinta-arvion yrityksesi IT-kustannuksista.** Syötät laskuriin vain tarvitsemasi laitteet ja palvelut, ja TDP SLIM antaa nopeasti kokonaissumman kuukausitasolla.
+[TDP SLIM™](http://slim.tdp.fi) **on tähän tarvitsemasi työkalu. Laskuri antaa nopeasti luotettavan hinta-arvion yrityksesi IT-kustannuksista.** Syötä laskuriin kaikki tarvitsemasi laitteet ja palvelut, ja TDP SLIM laskee hetkessä kokonaissumman kuukausitasolla.
 
 TDP SLIM ottaa huomioon kaikki valitsemasi laitteet ja palvelut. Voit myös määrittää laitteille ja palveluille haluamasi tason tarpeidesi mukaan. 
 
@@ -57,10 +57,10 @@ TDP SLIM on helppo. Saat pohtia ilman myyntipuheita yrityksellesi sopivinta koko
 
 Palvelun avulla löydät yrityksellesi kustannustehokkaimman kokonaisuuden parissa minuutissa. Palvelu ei tarjoa kalleinta vaihtoehtoa, mikäli tarpeesi on perustasoa, mutta se ottaa huomioon vaativatkin tarpeet.
 
-TDP SLIM tarjoaa nopean  ja läpinäkyvän tavan vertailla IT-toimintojen hintatasoa. Palvelun tarjonta ei sido sinua kiinteään pakettiratkaisuun, vaan voit valikoida räätälöidysti tarvitsemasi palvelut ja laitteet. 
+TDP SLIM tarjoaa nopean ja läpinäkyvän tavan vertailla IT-toimintojen hintatasoa. Palvelun tarjonta ei sido sinua kiinteään pakettiratkaisuun, vaan voit valikoida räätälöidysti tarvitsemasi palvelut ja laitteet. 
 
 ### Ei keskeytyksiä työhön onsite-takuulla
 
 Tarjoamme kaikki laitteet 3 vuoden onsite-takuulla, joka varmistaa töittesi sujuvuuden laiterikosta huolimatta. Takuu kattaa kaikki laiteviat ja huolto tapahtuu viimeistään seuraavana arkipäivänä. Et maksa ylimääräistä, sillä takuu sisältyy koneidemme hintaan.
 
-<CallToAction bgColor="dark" url="/onsite-takuu-on-yrityksen-arjen-turva" align="center">Lue takuusta lisää</CallToAction>
+<CallToAction bgColor="dark" url="/onsite-takuu-on-yrityksen-arjen-turva" align="center">Tutustu onsite-takuuseen</CallToAction>
