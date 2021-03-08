@@ -47,7 +47,7 @@ Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [as
 
 ### Hetkessä arvio yrityksesi IT-kustannuksista
 
-TDP SLIM -laskuri antaa nopeasti hinta-arvion kaikista yrityksesi tarvitsemista IT-palveluista. Syötä laskuriin vain tarvitsemasi laitteet ja palvelut ja TDP SLIM laskee hetkessä kokonaissumman.
+TDP SLIM -laskuri antaa nopeasti hinta-arvion kaikista yrityksesi tarvitsemista IT-palveluista. Syötä laskuriin kaikki tarvitsemasi laitteet ja palvelut ja TDP SLIM laskee hetkessä kokonaiskustannukset. Yrityksesi IT-tarpeiden et saa vaivattomammin selville - tutustu!
 
 <CallToAction bgColor="brand" url="/tdp-slim" align="center">Kokeile laskuria!</CallToAction>
 
