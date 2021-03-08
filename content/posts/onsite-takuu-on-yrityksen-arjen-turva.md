@@ -10,7 +10,7 @@ head:
   keywords: onsite, takuu, 3 vuotta, laiterikko
 thumbnail: /assets/netlify-1280-x-800-2.png
 ---
-## Onsite-takuu takaa työnteon jatkuvuuden
+# Onsite-takuu takaa töille mielenrauhan
 
 Onsite-takuu tarkoittaa laitteelle myönnettävää 3 vuoden takuuta, jonka aikana kaikki laitteeseen tulevat viat korjataan nopeasti paikan päällä. Käytännössä maksat siitä, että saat 3 vuoden ajaksi mielenrauhan laitteiden toimivuudesta etkä menetä arvokasta aikaasi vikojen selvittelyyn. 
 
