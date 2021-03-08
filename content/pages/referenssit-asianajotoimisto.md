@@ -12,7 +12,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-
+![](/assets/makela-logo-kys.png)
 
 </div>
 
