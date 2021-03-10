@@ -54,9 +54,9 @@ TDP SLIM -palvelun avulla voit helposti katsoa, kuinka paljon yrityksesi IT-palv
 ## Mitä meistä sanotaan
 
 > Metecno Oy oli kahden työntekijän startup-yritys vuonna 2011, kun hankin Datapisteeltä yhden kannettavan ja hieman myöhemmin oman serverin. Kaikki meni hienosti, joten yritykseni kasvun myötä keskitin vähitellen kaiken IT-tarpeistamme huolehtimisen heille. - [Erikoiskonevalmistaja Metecno Oy](/referenssit/insinooritoimisto)
->
+
 > Hinnoittelu on edullinen ja toimistomme yhteydenottoihin vastataan ripeästi. Erityisesti minua miellyttää tapa, miten he kartoittavat asiakkaan kannalta aidosti järkevintä, ei kalleinta vaihtoehtoa meidän kulloisenkin tarpeemme täyttämiseksi. - [Asianajotoimisto Mäkelä & Penttilä Oy](/referenssit/asianajotoimisto)
->
+
 > On helpottavaa keskittyä yrityksen omaan osaamisalueeseen, kun voi vahvasti luottaa näin keskeisen palvelun toimivuuteen eikä omaa aikaa kulu IT-asioista murehtimiseen. Kokonaisuutena annamme 10/10 pistettä palvelun laadusta ja erityiskiitoksen aina ystävällisestä asiakaspalvelusta! - [Eläinklinikka Livet Oy](/referenssit/elainklinikka)
 
 Kokeile TDP SLIM -palvelun avulla, paljonko sinun yrityksesi IT-palvelut tulisivat kuukausitasolla maksamaan.
