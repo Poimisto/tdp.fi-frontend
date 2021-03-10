@@ -106,7 +106,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             }
             frontmatter {
               contactForm
-              author
             }
           }
         }

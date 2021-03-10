@@ -39,7 +39,7 @@ Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [as
 
 <div className="HeroBlockImage">
 
-![TDP SLIM](/assets/tdp-slim-logo.png)
+![TDP SLIM](/assets/tdp-slim-promo-light.jpg)
 
 </div>
 
@@ -47,7 +47,11 @@ Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [as
 
 ### Hetkessä arvio yrityksesi IT-kustannuksista
 
-TDP SLIM™ -laskuri antaa nopeasti hinta-arvion kaikista yrityksesi tarvitsemista IT-palveluista. Syötä vain laskuriin kaikki tarvitsemasi laitteet ja palvelut ja TDP SLIM laskee hetkessä kokonaiskustannukset. Yrityksesi IT-tarpeiden hintaa et saa vaivattomammin selville.
+TDP SLIM™ -tarjouslaskuri antaa nopeasti hinta-arvion kaikista yrityksesi tarvitsemista IT-palveluista. 
+
+Syötä vain laskuriin kaikki tarvitsemasi laitteet ja palvelut ja TDP SLIM laskee hetkessä kokonaiskustannukset. Yrityksesi IT-tarpeiden hintaa et saa vaivattomammin selville.
+
+
 
 <CallToAction bgColor="brand" url="/tdp-slim" align="center">Kokeile laskuria!</CallToAction>
 
@@ -57,7 +61,7 @@ TDP SLIM™ -laskuri antaa nopeasti hinta-arvion kaikista yrityksesi tarvitsemis
 
 
 
-<HeroBlock bgColor="brand" imageAlign="left">
+<HeroBlock bgColor="light" imageAlign="left">
 
 <div className="HeroBlockImage">
 
@@ -79,7 +83,7 @@ Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen 
 
 
 
-<HeroBlock bgColor="light" imageAlign="left">
+<HeroBlock bgColor="lightest" imageAlign="left">
 
 <div className="HeroBlockImage">
 
