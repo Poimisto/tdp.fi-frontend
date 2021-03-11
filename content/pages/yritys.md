@@ -23,7 +23,7 @@ Pyrimme edullisuuden lisäksi siihen, että palvelumme on aina asiakaslähtöist
 
 Päätoimialueemme ovat Pirkanmaalla, Etelä-Suomessa ja Keski-Suomessa. Konttorimme sijaitsee Nokialla Tampereen kupeessa. Asiakkaita meillä on lukuisilta eri toimialoilta.
 
-Olemme pieni mutta vakavaraisesti kasvava yritys. Tavoitteemme on saavuttaa yli miljoonan liikevaihto vuonna 2020.
+Olemme pieni mutta vakavaraisesti kasvava yritys. Tavoitteemme on saavuttaa yli miljoonan liikevaihto vuonna 2021.
 
 </Grid>
 
