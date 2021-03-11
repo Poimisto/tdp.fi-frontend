@@ -117,8 +117,8 @@ module.exports = {
         name: `TDP Tampereen Datapiste Oy`,
         short_name: `TDP`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#fff`,
+        theme_color: `#fbc23c`,
         display: `minimal-ui`,
         icon: `src/images/tdp-logo-46x40.png`, // This path is relative to the root of the site.
       },
