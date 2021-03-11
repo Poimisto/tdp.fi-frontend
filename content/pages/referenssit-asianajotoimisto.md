@@ -12,7 +12,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![logo](/assets/makela-logo-kys.png)
+![logo](/assets/asianajotoimisto-mp.png)
 
 </div>
 
