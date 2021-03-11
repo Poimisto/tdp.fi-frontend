@@ -12,7 +12,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![logo](/assets/livet-logo-kys.png)
+![logo](/assets/elainklinikka-livet.png)
 
 </div>
 
