@@ -11,6 +11,16 @@ head:
     Myös näyttö on huippuluokkaa.
   keywords: tietokone kuvankäsittelyyn, videoeditointiin ja suunnitteluun
 contactForm: Ota yhteyttä
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /it-laitteet/
+    label: IT-laitteet
+  - label: Tietokone-leasing
+    path: /tietokone-leasing
+  - label: Esimerkkipaketit
+    path: /tietokone-leasing-esimerkkipaketit
+  - label: Tehokone
 ---
 # Tehokone ammattimaiseen kuvankäsittelyyn, 3D-mallinnukseen tai suunnitteluun
 

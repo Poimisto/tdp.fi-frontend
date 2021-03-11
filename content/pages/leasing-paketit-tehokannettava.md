@@ -10,6 +10,16 @@ head:
     SSD-kiintolevy takaa nopeuden. Tästä koneesta ei suorituskyky lopu kesken
   keywords: tehokannettava
 contactForm: Ota yhteyttä
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /it-laitteet/
+    label: IT-laitteet
+  - label: Tietokone-leasing
+    path: /tietokone-leasing
+  - label: Esimerkkipaketit
+    path: /tietokone-leasing-esimerkkipaketit
+  - label: Tehokannettava
 ---
 # Kun vaadit kannettavalta tietokoneeltasi pöytäkoneen ominaisuuksia
 

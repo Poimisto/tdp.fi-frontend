@@ -11,6 +11,16 @@ head:
     hiljaiseen toimistoon.
   keywords: tietokone kuvankäsittelyyn, videoeditointiin ja suunnitteluun
 contactForm: Ota yhteyttä
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /it-laitteet/
+    label: IT-laitteet
+  - label: Tietokone-leasing
+    path: /tietokone-leasing
+  - label: Esimerkkipaketit
+    path: /tietokone-leasing-esimerkkipaketit
+  - label: Laatukone
 ---
 # Laatukone-pakettimme on suunniteltu palvelemaan sinua kuvankäsittelyssä, videoeditoinnissa tai suunnittelussa
 

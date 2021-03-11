@@ -10,6 +10,16 @@ head:
     modeemi takaavat miellyttävän käyttökokemuksen.
   keywords: Ultrabook, telakka
 contactForm: Ota yhteyttä
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /it-laitteet/
+    label: IT-laitteet
+  - label: Tietokone-leasing
+    path: /tietokone-leasing
+  - label: Esimerkkipaketit
+    path: /tietokone-leasing-esimerkkipaketit
+  - label: Ultrabook
 ---
 # Telakoitava Ultrabook tyylikästä laatua arvostavalle ammattilaiselle
 

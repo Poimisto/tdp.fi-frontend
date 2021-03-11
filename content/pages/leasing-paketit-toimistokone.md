@@ -9,6 +9,16 @@ head:
     SSD-levy ja yritystason tietoturvaominaisuudet.
   keywords: Peruskäyttöön tietokone yritykselle
 contactForm: Ota yhteyttä
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /it-laitteet/
+    label: IT-laitteet
+  - label: Tietokone-leasing
+    path: /tietokone-leasing
+  - label: Esimerkkipaketit
+    path: /tietokone-leasing-esimerkkipaketit
+  - label: Toimistokone
 ---
 # Toimistokone-pakettimme on suunniteltu palvelemaan sinua sujuvasti kaikissa toimiston tavallisissa IT-askareissa
 
