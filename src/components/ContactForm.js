@@ -154,7 +154,7 @@ export default (props) => {
 
             <TextField error={!!errors.name} helperText={!!errors.name ? errors.name : ''} onChange={(e) => setFormValue('name', e.target.value)} variant="filled" label="Yhteyshenkilön nimi" />
 
-            <TextField error={!!errors.email} helperText={!!errors.email ? errors.email : ''} onChange={(e) => setFormValue('email', e.target.value)} variant="filled" label="Sähköpost" />
+            <TextField error={!!errors.email} helperText={!!errors.email ? errors.email : ''} onChange={(e) => setFormValue('email', e.target.value)} variant="filled" label="Sähköposti" />
 
             <TextField variant="filled" onChange={(e) => setFormValue('phone', e.target.value)} variant="filled" label="Puhelinnumero" />
 
