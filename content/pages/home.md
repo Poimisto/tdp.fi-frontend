@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![undefined](/assets/home-services.png)
+![TDP palvelut](/assets/home-services.png)
 
 </div>
 
@@ -99,7 +99,7 @@ Tampereen Datapiste on vuonna 2007 perustettu IT-palveluyritys. Toimipisteemme s
 
 Ydinosaamistamme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä. Koulutettu, kokenut henkilökuntamme palvelee nopealla vasteajalla niin uusien laitteiden asennuksissa kuin vikatilanteissa.
 
-<CallToAction bgColor="lightest" url="/yhteystiedot" align="center">Tietoa yrityksestä</CallToAction>
+<CallToAction bgColor="lightest" url="/yritys" align="center">Tietoa yrityksestä</CallToAction>
 
 </div>
 
