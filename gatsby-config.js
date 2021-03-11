@@ -118,7 +118,7 @@ module.exports = {
         short_name: `TDP`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#fbc23c`,
+        theme_color: `#343A40`,
         display: `minimal-ui`,
         icon: `src/images/tdp-logo-46x40.png`, // This path is relative to the root of the site.
       },
