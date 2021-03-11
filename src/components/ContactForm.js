@@ -90,6 +90,8 @@ export default (props) => {
       data.append('source', window.location.href)
       data.append('formID', 'contact-form');
 
+      window.dataLayer = window.dataLayer || [];
+
       fetch(process.env.GATSBY_ContactApiEndpoint, {
           method: "POST",
           mode: "cors",
@@ -102,11 +104,13 @@ export default (props) => {
       .then((result) => {
         setIsLoading(false)
         setIsSubmitSuccess(true)
+        window.dataLayer.push({event:"form submit", form: "tarjouspyynto"});
       })
       .catch( (e)  => {
 
         setIsLoading(false)
         setIsSubmitError(true);
+        window.dataLayer.push({event:"error", error : "form error", detail : e.message});
       }) 
     }
   }
