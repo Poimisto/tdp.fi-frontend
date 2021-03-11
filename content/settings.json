@@ -8,6 +8,16 @@
   "navigation": [
     {
       "type": "page",
+      "title": "TDP Slim™",
+      "link": "/tdp-slim"
+    },
+    {
+      "type": "page",
+      "title": "Referenssit",
+      "link": "/referenssit"
+    },
+    {
+      "type": "page",
       "link": "/it-palvelut/",
       "title": "IT-palvelut"
     },
@@ -18,23 +28,13 @@
     },
     {
       "type": "page",
-      "title": "TDP Slim™",
-      "link": "/tdp-slim"
-    },
-    {
-      "type": "page",
       "link": "/uusi-yrittaja/",
-      "title": "Uusi yrittäjä"
+      "title": "Uusi yrittäjä?"
     },
     {
       "type": "page",
       "link": "/yritys",
       "title": "Yritys"
-    },
-    {
-      "type": "page",
-      "title": "Referenssit",
-      "link": "/referenssit"
     }
   ],
   "navtype": "normal",
