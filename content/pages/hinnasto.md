@@ -30,6 +30,6 @@ head:
 | Google Workspace Business Standard              | 10,40 € / kk  |
 | Google Workspace Enterprise                     | 23,00 € / kk  |
 
-<a href="/">Katso konepakettien esimerkkejä tästä</a>
+<a href="/tietokone-leasing-esimerkkipaketit">Katso konepakettien esimerkkejä tästä</a>
 
 Hintoihin lisätään alv.
