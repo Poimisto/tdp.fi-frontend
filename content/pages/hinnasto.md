@@ -12,7 +12,7 @@ head:
 
 |                                                       |               |
 | ----------------------------------------------------- | ------------- |
-| Vianselvitykset / asennukset                          | 68,00 € / h   |
+| Työasemien vianselvitykset / asennukset               | 68,00 € / h   |
 | Asennukset laitehankinnan yhteydessä                  | 41,00 € / h   |
 | Suunnittelu, verkkotyöt, palvelimet, ohjelmointi alk. | 84,00 € / h   |
 
