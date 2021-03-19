@@ -26,11 +26,11 @@ breadcrumb:
 
 Oletko 3D-mallinnuksen, kuvankäsittelyn tai konetehoja vaativan suunnittelun ammattilainen? Olemme suunnitelleet tämän leasing-konepaketin maksimitehoja vaativalle ammattilaiselle. Koneesta löytyy huippuluokan prosessori ja näytönohjain, mahdottoman paljon muistia ja nopea kiintolevy. Myös näyttö on huippuluokkaa.
 
-| Konepakettien hinta                     | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
-| --------------------------------------- | --------------------- | --------------------- | ----------------- |
-| DELL Precision T5820                    | 133,00 €/kk           | 83,00 €/kk            | 2994,00 €         |
-| DELL 32" ULTRASHARP U3219Q-näytöllä     | 168,15 €/kk           | 106,05 €/kk           | 3824,00 €         |
-| NVIDIA QUADRO RTX 4000-näytönohjaimella | 203,05 €/kk           | 129,00 €/kk           | 4644,00 €         |
+| Konepakettien hinta                 | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
+| ----------------------------------- | --------------------- | --------------------- | ----------------- |
+| DELL Precision T5820                | 106,28 €/kk           | 70,33 €/kk            | 2294,00 €         |
+| DELL 32" ULTRASHARP U3219Q-näyttö   | 36,97 €/kk            | 24,46 €/kk            | 798,00 €          |
+| NVIDIA QUADRO RTX 4000-näytönohjain | 36,04€/kk             | 23,85 €/kk            | 768,00 €          |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
