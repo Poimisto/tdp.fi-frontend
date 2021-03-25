@@ -27,8 +27,8 @@ Tämä huippukevyt ja kestävä kokoonpano on suunniteltu täyttämään vaativa
 
 | Konepakettien hinta           | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
 | ----------------------------- | --------------------- | --------------------- | ----------------- |
-| DELL Latitude 5520            | 54,00 €/kk            | 35,50 €/kk            | 1249,00 €         |
-| DELL 24 PRO P2419HC -näytöllä | 63,00 €/kk            | 41,50 €/kk            | 1449,00 €         |
+| DELL Latitude 5520            | 54,00 €/kk            | 35,50 €/kk            | 1149,00 €         |
+| DELL 24 PRO P2419HC -näytöllä | 63,00 €/kk            | 41,50 €/kk            | 1358,00 €         |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
