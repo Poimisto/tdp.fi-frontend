@@ -2,7 +2,7 @@
 path: /referenssit/elainklinikka
 date: 2021-03-07T07:57:20.064Z
 head:
-  title: Referenssit - Eläinklinikka - TDP
+  title: Referenssitarina - Eläinklinikka - TDP
   description: Referenssit
   keywords: TDP referenssit, asiakas, eläinklinikka
 contactForm: Ota yhteyttä
