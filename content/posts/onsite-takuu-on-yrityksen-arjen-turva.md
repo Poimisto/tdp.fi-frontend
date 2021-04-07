@@ -8,11 +8,11 @@ head:
     onsite-takuulla. Onsite-takuun alainen laite korjataan vian sattuessa
     viipymättä asiakkaan tiloissa.
   keywords: onsite, takuu, 3 vuotta, laiterikko
-thumbnail: /assets/onsite-takuu2netlify-1280-x-800-min.png
+thumbnail: /assets/onsitetakuu-tdp-post.png
 ---
 # Onsite-takuu takaa mielenrauhan työnteolle
 
-![Onsite-takuu](/assets/onsite-takuu2netlify-1280-x-800-min.png)
+![Onsite-takuu](/assets/onsitetakuu-tdp-post.png)
 
 Onsite-takuu tarkoittaa laitteelle myönnettävää lisätakuuta, jonka aikana kaikki laitteeseen tulevat viat korjataan nopeasti paikan päällä. Käytännössä maksat siitä, että saat 3 vuoden ajaksi mielenrauhan laitteiden toimivuudesta etkä menetä arvokasta aikaasi vikojen selvittelyyn. 
 
