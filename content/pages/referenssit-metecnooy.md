@@ -29,9 +29,7 @@ contactForm: Ota yhteyttä
 
 *Jos joku kysyisi minulta laadukasta täyden palvelun IT-taloa, antaisin empimättä Datapisteen tiedot. Kokemuksesta tiedän heidän olevan etenkin uudelle yrittäjälle hyvä kumppani, koska he osaavat ehdottaa oikeita työkaluja kasvun tukemiseen. Aikoinaan muun muassa yrityksemme viestinnän keskittäminen Googlen ympärille tapahtui täysin Datapisteen aloitteesta, mikä oli erinomainen ratkaisu ja nosti monella tavalla toimintaamme korkeammalle tasolle.”*
 
-
-**Matti Metsähonkala**<br>
-Toimitusjohtaja
+Toimitusjohtaja, **Matti Metsähonkala**
 
 </div>
 
