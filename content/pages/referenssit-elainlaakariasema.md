@@ -26,7 +26,7 @@ contactForm: Ota yhteyttä
 
 *Etenkin Datapisteen palveluiden käytön helppous on ollut meille hieno juttu. Ongelmat on aina saatu ratkaistua etänä tai paikan päällä vaivattomasti ja nopeasti, myös virka-ajan ulkopuolella. On helpottavaa keskittyä yrityksen omaan osaamisalueeseen, kun voi vahvasti luottaa näin keskeisen palvelun toimivuuteen eikä omaa aikaa kulu IT-asioista murehtimiseen. Kokonaisuutena annamme 10/10 pistettä palvelun laadusta ja erityiskiitoksen aina ystävällisestä asiakaspalvelusta!”*
 
-Hallituksen puheenjohtaja, **Riina Larmela** & toimitusjohtaja, **Sanna-Maria Reincke**
+Hallituksen puheenjohtaja **Riina Larmela** & toimitusjohtaja **Sanna-Maria Reincke**
 
 </div>
 
