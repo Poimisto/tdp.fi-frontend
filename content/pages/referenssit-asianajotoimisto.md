@@ -30,8 +30,7 @@ contactForm: Ota yhteyttä
 
 *Datapisteen toimittamat laitteistot ovat poikkeuksetta laadukkaita, ystävällinen asiakaspalvelu ratkaisee pulmamme parhaimmillaan kesken työpäivän minuuteissa ja palvelun sisältöä voi joustavasti räätälöidä. Kun summaan tämän kaiken, voin todeta nykyisen palvelusopimuksemme Datapisteen kanssa olevan meille erinomainen kokonaisratkaisu.”*
 
-**Jaakko Mäkelä**<br>
-Asianajaja, varatuomari
+Asianajaja, varatuomari, **Jaakko Mäkelä**
 
 </div>
 
