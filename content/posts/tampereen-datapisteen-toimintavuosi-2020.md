@@ -28,8 +28,4 @@ Asiakkuuksien kasvun luonnollisena jatkumona on Datapisteellä kuluvana vuonna s
 
 Lopuksi lämpimät kiitokset kaikille asiakkaillemme viime vuodesta ja toivottavasti tehdään hyvää yhteistyötä taas tänäkin vuonna!
 
-**Lisätietoja**\
-Pauli Aalto\
-040 7483 818\
-pauli.aalto@tdp.fi \
-Tampereen Datapiste
+**Lisätietoja:** Pauli Aalto | 040 7483 818 | pauli.aalto@tdp.fi | Tampereen Datapiste
