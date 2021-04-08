@@ -3,7 +3,7 @@ template: BlogPost
 path: /tampereen-datapisteen-toimintavuosi-2020
 date: 2021-04-08T10:24:51.561Z
 head:
-  title: Tampereen Datapisteen toimintavuosi 2020
+  title: Tampereen Datapiste Oy:n toimintavuosi 2020
   description: Tampereen Datapiste Oy:n toimintavuosi 2020 oli kaikin puolin
     onnistunut. Talouden tunnusluvut olivat hyvät, prosesseja saatiin kehitettyä
     ja tyytyväisiä asiakkaita oli entistä enemmän.
