@@ -9,6 +9,8 @@ head:
   keywords: TDP, helpdesk, tukihenkilö, lähituki, etätuki, asiakaspalvelu
 thumbnail: /assets/rekry-netlify-1280-x-800.png
 ---
+# Haemme Nokian toimipisteeseemme HELPDESK-tukihenkilöä
+
 ![TDP hakee HELPDESK-tukihenkilöä!](/assets/rekry-netlify-1280-x-800.png)
 
 <i>Tampereen Datapiste Oy on yrityksille IT-palveluita tarjoava vakavarainen yritys, jonka toimipisteet sijaitsevat Nokialla ja Helsingissä. Olemme täyden palvelun IT-talo, jonka toiminta-ajatuksena on tarjota yrityksille kaikki niiden arjessa tarvitsemansa laitteet ja tukipalvelut.</i>
