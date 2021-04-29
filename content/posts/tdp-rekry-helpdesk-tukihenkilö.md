@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /tdp-rekry-helpdesk-tukihenkilö
+path: /tdp-rekry-helpdesk-osaaja
 date: 2021-04-29T11:32:17.599Z
 head:
   title: Haemme Nokian toimipisteeseemme kokoaikaista HELPDESK-tukihenkilöä
