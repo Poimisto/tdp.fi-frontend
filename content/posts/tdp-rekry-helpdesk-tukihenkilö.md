@@ -11,7 +11,7 @@ thumbnail: /assets/rekry-netlify-1280-x-800.png
 ---
 ![TDP hakee HELPDESK-tukihenkilöä!](/assets/rekry-netlify-1280-x-800.png)
 
-***Tampereen Datapiste Oy** on yrityksille IT-palveluita tarjoava vakavarainen yritys, jonka toimipisteet sijaitsevat Nokialla ja Helsingissä. Olemme täyden palvelun IT-talo, jonka toiminta-ajatuksena on tarjota yrityksille kaikki niiden arjessa tarvitsemansa laitteet ja tukipalvelut.*
+<i>**Tampereen Datapiste Oy** on yrityksille IT-palveluita tarjoava vakavarainen yritys, jonka toimipisteet sijaitsevat Nokialla ja Helsingissä. Olemme täyden palvelun IT-talo, jonka toiminta-ajatuksena on tarjota yrityksille kaikki niiden arjessa tarvitsemansa laitteet ja tukipalvelut.</i>
 
 Haemme nyt yrityksemme kasvun myötä Nokian toimipisteeseemme
 
