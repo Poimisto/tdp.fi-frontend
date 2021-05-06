@@ -7,7 +7,7 @@ head:
   description: Yrityksen kasvaessa tarvitsemme lisää osaajia. Tule joukkoomme
     huolehtimaan yritysten IT-infrasta!
   keywords: TDP, helpdesk, tukihenkilö, lähituki, etätuki, asiakaspalvelu
-thumbnail: /assets/rekry-netlify-1280-x-800.png
+thumbnail: /assets/rekry3.png
 ---
 # Haemme Nokian toimipisteeseemme HELPDESK-tukihenkilöä
 
