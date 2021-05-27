@@ -6,7 +6,7 @@ head:
   description: |-
     Käytetyt koneet listaus
     <meta name="robots" content="noindex" />
-    <meta name="AdsBot-Google" content="noindex" />)
+    <meta name="AdsBot-Google" content="noindex" />
   keywords: <meta name="AdsBot-Google" content="noindex" />, <meta name="robots"
     content="noindex" />
 ---
