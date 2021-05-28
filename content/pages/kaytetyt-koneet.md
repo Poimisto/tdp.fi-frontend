@@ -10,6 +10,6 @@ head:
   keywords: <meta name="AdsBot-Google" content="noindex" />, <meta name="robots"
     content="noindex" />
 ---
-## Listaus tämän hetkisistä hyllyssä olevista käytetyistä koneista:
+## Listaus tämänhetkisistä hyllyssä olevista käytetyistä koneista:
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQjIFdMirFmLlF7gQ1REsBAOOyojfBgp_yGSfSq3jKF8pXesUfvsbMxVpBhQ71KtjJ5RKkIvjyxAhrY/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width:1175px; height:650px;"></iframe>
