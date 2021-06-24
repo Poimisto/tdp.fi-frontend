@@ -10,8 +10,9 @@ head:
     kumppanuuden myötä TDP on ottanut kokonaisvastuun kaikkien Unfairin laite-,
     ohjelmisto- ja tukitarpeiden täyttämisestä. "
   keywords: Unfair, IT-ulkoistus, palvelusopimus
+thumbnail: /assets/unfair-kumppanuus2.png
 ---
-![](/assets/unfair-kumppanuus2.png)
+![](/assets/unfair-kumppanuus2.png "Sopimus IT-palveluiden ulkoistuksesta")
 
 # TDP ja Unfair Lean Marketing sopimukseen IT-palveluiden ulkoistuksesta
 
