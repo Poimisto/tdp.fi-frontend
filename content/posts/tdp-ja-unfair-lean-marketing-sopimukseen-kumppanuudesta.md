@@ -25,3 +25,4 @@ thumbnail: /assets/unfair-kumppanuus2.png
 ”Löysimme keskusteluissa Tuomon kanssa nopeasti yhteisen sävelen siitä, mitä he odottavat ja tulevat saamaan uudelta IT-kumppaniltaan”, kommentoi Datapisteen toimitusjohtaja **Pauli Aalto**. ”Sopimusprosessi sujui jouhevasti ja yhteistyökykyisen yrityksen kanssa on aina mukavaa lähteä rakentamaan uutta. Unfairin kaipaama kokonaisvaltainen IT-palveluratkaisu on juuri sellainen, johon haluamme jatkossa keskittyä ja tarjota muillekin yrityksille.”
 
 &nbsp;
+&nbsp;
