@@ -10,7 +10,7 @@ head:
   keywords: onsite, takuu, 3 vuotta, laiterikko
 thumbnail: /assets/onsitetakuu-tdp-post.png
 ---
-# Onsite-takuu takaa mielenrauhan työnteolle
+
 
 ![Onsite-takuu](/assets/onsitetakuu-tdp-post.png)
 

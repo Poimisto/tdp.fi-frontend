@@ -20,6 +20,7 @@ import Grid from '@material-ui/core/Grid'
 
 
 import ContactForm from './../components/ContactForm'
+import { Divider } from "@material-ui/core";
 
 const GlobalStyle = createGlobalStyle`
   * {
@@ -103,7 +104,7 @@ const ArticleContent = styled.div`
     float: left;
     line-height: 1;
   }
-  padding:0px 0px 0px 120px;
+  padding:0px 140px 40px 140px;
   p {
     padding-right:0px;
   }
@@ -123,7 +124,6 @@ const ArticleMetadata = styled.div`
   float:left;
   margin-top:6px;
   .date {
-    background:red;
     padding:6px;
     border-radius:10px;
     background: ${props => props.theme.colors.brand};
@@ -131,7 +131,22 @@ const ArticleMetadata = styled.div`
     font-family:${props => props.theme.headingFontFamily};
   }
   @media (max-width: ${props => props.theme.mobileBreakpoint}px) {    
-    display:none;
+   float:none;
+   position:relative;
+   text-align:right;
+   margin-top:-50px;
+   p {
+     margin:0;
+   }
+   .date {
+      font-size:80%;
+      padding:0px;
+      border-radius:0px;
+      background: transparent;
+      color:${props => getContrast(props.theme.colors.darkest, props.theme.colors.brand) > 10 ? props.theme.colors.darkest : props.theme.colors.lightest };
+      font-family:${props => props.theme.headingFontFamily};
+
+   }
   }
 `;
 const PageWrapper = styled.div`
@@ -156,7 +171,7 @@ const EntryTemplate = ({data, pageContext}) => {
 
       {data.mdx.fields.collection === 'posts' && (
         <div>
-          <ArticleTitle>{data.mdx.frontmatter.title}</ArticleTitle>
+          <ArticleTitle>{data.mdx.frontmatter.head.title}</ArticleTitle>
 
           <ArticleMetadata>
             <p>

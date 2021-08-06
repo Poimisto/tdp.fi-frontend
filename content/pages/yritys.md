@@ -31,6 +31,7 @@ Olemme pieni mutta vakavaraisesti kasvava yritys. Tavoitteemme on saavuttaa yli 
 
 #### Tutustu
 
+* <a href="/uutiset">Ajankohtaista</a>
 * <a href="/yritys/hinnasto">Palveluhinnasto</a>
 * <a href="/assets/laskutustiedot.pdf" target="_blank">Laskutustiedot (PDF)</a> 
 * <a href="/assets/tietosuojaseloste.pdf" target="_blank">Tietosuojaseloste (PDF)</a> 

@@ -1,10 +1,8 @@
 {
-  "homepage": "/home",
-  "title": "TDP",
   "siteUrl": "https://www.tdp.fi",
-  "home": {
-    "title": "Poimisto Oy"
-  },
+  "thumbnail": "/assets/tdp-logojpeg.jpg",
+  "homepage": "/home",
+  "blogpage": "/uutiset",
   "navigation": [
     {
       "type": "page",
@@ -35,9 +33,17 @@
       "type": "page",
       "link": "/yritys",
       "title": "Yritys"
+    },
+    {
+      "type": "page",
+      "title": "Tuki",
+      "link": "/tuki"
     }
   ],
+  "title": "TDP",
+  "description": "Tampereen Datapiste on Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva yritysten IT-palveluntuottaja. Kauttamme saatte kaikki yrityksenne tarvitsemat IT-laitteet ja -palvelut.",
   "navtype": "normal",
-  "thumbnail": "/assets/tdp-logojpeg.jpg",
-  "description": "Tampereen Datapiste on Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva yritysten IT-palveluntuottaja. Kauttamme saatte kaikki yrityksenne tarvitsemat IT-laitteet ja -palvelut."
+  "home": {
+    "title": "Poimisto Oy"
+  }
 }

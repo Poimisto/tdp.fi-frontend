@@ -9,7 +9,7 @@ head:
   keywords: TDP, helpdesk, tukihenkilö, lähituki, etätuki, asiakaspalvelu
 thumbnail: /assets/rekry3.png
 ---
-# Haemme Nokian toimipisteeseemme HELPDESK-tukihenkilöä
+
 
 ![TDP hakee HELPDESK-tukihenkilöä!](/assets/rekry3.png)
 

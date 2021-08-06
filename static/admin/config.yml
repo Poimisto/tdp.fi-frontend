@@ -79,6 +79,13 @@ collections:
             search_fields: ["path"]
             value_field: '{{fields.path}}'
             display_fields: ["path"]
+          - label: Blog page
+            name: blogpage
+            widget: relation
+            collection: pages
+            search_fields: ["path"]
+            value_field: '{{fields.path}}'
+            display_fields: ["path"] 
           - widget: string
             name: title
             label: Site Title

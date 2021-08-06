@@ -12,6 +12,8 @@ import Grid from '@material-ui/core/Grid';
 
 import { StaticQuery, graphql, Link } from "gatsby"
 
+
+
 import Img from "gatsby-image"
 import styled from 'styled-components'
 const PostTitle = styled.h3`
@@ -20,6 +22,9 @@ const PostTitle = styled.h3`
   line-height:160%;
 `;
 
+const config = require('./../../content/settings.json');
+
+
 const PostLink = ({ post }) => (
   <Link to={post.fields.slug}>
     <Card>
@@ -27,15 +32,15 @@ const PostLink = ({ post }) => (
         {post.frontmatter.thumbnail && (
           <CardMedia
           component="img"
-          alt={post.frontmatter.title}
-          height="240"
+          alt={post.frontmatter.head.title}
+          height="170"
           image={post.frontmatter.thumbnail.childImageSharp.fluid.src}
           title={post.frontmatter.title}
           style={{textDecoration:"none"}}
           />
         )}
         <CardContent>
-          <PostTitle>{post.frontmatter.title}</PostTitle>
+          <PostTitle>{post.frontmatter.head.title}</PostTitle>
           {post.excerpt}
         </CardContent>    
     </CardActionArea>
@@ -61,7 +66,10 @@ export default function PostList(props) {
                 frontmatter {
                   date(formatString: "MMMM DD, YYYY")
                   path
-                  title
+                  head {
+                    title
+                    description
+                  }
                   thumbnail {
                     childImageSharp {
                       fluid {
@@ -90,11 +98,16 @@ export default function PostList(props) {
         }) 
         .map(edge => <Grid item xs={12} sm={6} key={edge.node.id}><PostLink post={edge.node} /></Grid>)
         return (
-          <div>
+          <div style={{margin:"40px 0px 20px 0px"}}>
             <h2>{props.title} &darr;</h2>
-            <Grid container spacing={2}>
+            <Grid container spacing={4}>
               {Posts}
             </Grid>
+            {data.allMdx.edges.length > maxNumberOfPosts && (
+              <div style={{marginTop:"10px"}}>
+                <a href={config.blogpage}>&raquo; Katso kaikki</a>
+              </div>
+            )}
 
           </div>
 

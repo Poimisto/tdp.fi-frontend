@@ -10,11 +10,12 @@ head:
   keywords: Tampereen Datapiste, toimintavuosi, 2020, tilinpäätös, liikevaihto
 thumbnail: /assets/toimintavuosi-kotisivut-1280x800-min.png
 ---
-# Tampereen Datapiste Oy:n toimintavuosi 2020
+
 
 ![TDP:n toimintavuosi 2020](/assets/toimintavuosi-kotisivut-1280x800-min.png)
 
 Kokonaisuutena Tampereen Datapisteen toimintavuotta 2020 voidaan luonnehtia onnistuneeksi. Liikevaihto kasvoi aiempaan vuoteen nähden, yrityksen toimintaprosesseja ja asiakaspalvelua saatiin kehitettyä ja asiakaspalaute oli poikkeuksetta myönteistä.
+
 
 Koronan osalta vuosi oli TDP:llekin toki haastava. Asioita ja asiakkuuksia jouduttiin hoitamaan entistä enemmän etänä, lisäksi koronan vaatimiin muutoksiin kului resursseja. Toisaalta vuosi tarjosi luontevan syyn kehittää pidemmälle etätukipalvelujamme, jotka näemme keskeisenä, asiakkaillemme arvoa tuovana osa-alueena.
 
