@@ -3,7 +3,7 @@ path: /home
 thumbnail: /assets/tdp-logojpeg.jpg
 date: 2020-11-15T20:33:13.757Z
 head:
-  title: Tietotekniikka voi olla myös helppoa
+  title: Tietotekniikka on meillä helppoa
   description: Tampereen Datapiste on Pirkanmaalta ja pääkaupunkiseudulta käsin
     toimiva yritysten IT-palveluntuottaja. Kauttamme saatte kaikki yrityksenne
     tarvitsemat IT-laitteet ja -palvelut.

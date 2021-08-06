@@ -19,7 +19,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-## Erikoiskonevalmistaja Metecno Oy
+## Teollisuuden erikoiskonevalmistaja Metecno Oy
 
 *"Metecno Oy oli kahden työntekijän startup-yritys vuonna 2011, kun hankin Datapisteeltä yhden kannettavan ja hieman myöhemmin oman serverin. Kaikki meni hienosti, joten yritykseni kasvun myötä keskitin vähitellen kaiken IT-tarpeistamme huolehtimisen heille.*
 
@@ -29,8 +29,7 @@ contactForm: Ota yhteyttä
 
 *Jos joku kysyisi minulta laadukasta täyden palvelun IT-taloa, antaisin empimättä Datapisteen tiedot. Kokemuksesta tiedän heidän olevan etenkin uudelle yrittäjälle hyvä kumppani, koska he osaavat ehdottaa oikeita työkaluja kasvun tukemiseen. Aikoinaan muun muassa yrityksemme viestinnän keskittäminen Googlen ympärille tapahtui täysin Datapisteen aloitteesta, mikä oli erinomainen ratkaisu ja nosti monella tavalla toimintaamme korkeammalle tasolle.”*
 
-Matti Metsähonkala, 
-Toimitusjohtaja
+Toimitusjohtaja **Matti Metsähonkala**
 
 </div>
 

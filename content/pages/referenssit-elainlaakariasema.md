@@ -2,7 +2,7 @@
 path: /referenssit/elainklinikka
 date: 2021-03-07T07:57:20.064Z
 head:
-  title: Referenssit - Eläinklinikka - TDP
+  title: Referenssitarina - Eläinklinikka - TDP
   description: Referenssit
   keywords: TDP referenssit, asiakas, eläinklinikka
 contactForm: Ota yhteyttä
@@ -26,8 +26,7 @@ contactForm: Ota yhteyttä
 
 *Etenkin Datapisteen palveluiden käytön helppous on ollut meille hieno juttu. Ongelmat on aina saatu ratkaistua etänä tai paikan päällä vaivattomasti ja nopeasti, myös virka-ajan ulkopuolella. On helpottavaa keskittyä yrityksen omaan osaamisalueeseen, kun voi vahvasti luottaa näin keskeisen palvelun toimivuuteen eikä omaa aikaa kulu IT-asioista murehtimiseen. Kokonaisuutena annamme 10/10 pistettä palvelun laadusta ja erityiskiitoksen aina ystävällisestä asiakaspalvelusta!”*
 
-Riina Larmela, hallituksen puheenjohtaja,\
-Sanna-Maria Reincke, toimitusjohtaja
+Hallituksen puheenjohtaja **Riina Larmela** & toimitusjohtaja **Sanna-Maria Reincke**
 
 </div>
 
