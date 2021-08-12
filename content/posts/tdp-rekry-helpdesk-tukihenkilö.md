@@ -10,10 +10,11 @@ head:
 thumbnail: /assets/rekry3.png
 ---
 
-
 ![TDP hakee HELPDESK-tukihenkilöä!](/assets/rekry3.png)
 
-<i>Tampereen Datapiste Oy on yrityksille IT-palveluita tarjoava vakavarainen yritys, jonka toimipisteet sijaitsevat Nokialla ja Helsingissä. Olemme täyden palvelun IT-talo, jonka toiminta-ajatuksena on tarjota yrityksille kaikki niiden arjessa tarvitsemansa laitteet ja tukipalvelut.</i>
+*Huom! Tämä rekrytointi on jo päättynyt. Voit kuitenkin jättää avoimen hakemuksen.*
+
+Tampereen Datapiste Oy on yrityksille IT-palveluita tarjoava vakavarainen yritys, jonka toimipisteet sijaitsevat Nokialla ja Helsingissä. Olemme täyden palvelun IT-talo, jonka toiminta-ajatuksena on tarjota yrityksille kaikki niiden arjessa tarvitsemansa laitteet ja tukipalvelut.
 
 Haemme nyt yrityksemme kasvun myötä Nokian toimipisteeseemme
 
