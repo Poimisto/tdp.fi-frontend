@@ -39,7 +39,7 @@ Kyse ei ole siitä, löytääkö yritys tarvitsemansa työkalut Workspacesta vaa
 
 Workspace-paketteja löytyy eritasoisina yritysten erilaisiin tarpeisiin. Huokeimpaan pakettiin, **Business Starteriin**, sisältyy muun muassa räätälöity ja suojattu bisnessähköposti omalla verkkotunnuksella sekä 30 Gt tallennustilaa pilvessä käyttäjää kohti.
 
-Mitä enemmän sijoittaa paketin tasoon, sitä enemmän luonnollisesti saa, mutta monen yrityksen kohdalla jo kevyt paketti keskitettyyn hallintaan tuo sekä aika- että kustannussäästöjä.
+Mitä enemmän sijoittaa paketin tasoon, sitä enemmän luonnollisesti saa. Monen yrityksen kohdalla kuitenkin jo kevyt paketti keskitettyyn hallintaan tuo sekä aika- että kustannussäästöjä.
 
 Seuraavan tason paketti, **Business Standard**, tarjoaakin jo huimat 2 Tt tallennustilaa käyttäjää kohti ja muun muassa 150 osallistujan videokokoukset ja tallennuksen. Suomenkielinen tuki klo 8-18 välillä on lähtökohtaisesti kaikissa paketeissa ja varmasti hyödyllinen apu monessa tilanteessa.
 
