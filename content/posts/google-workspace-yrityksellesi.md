@@ -77,7 +77,7 @@ Yrityksen näkökulmasta Workspacen hankintaa tai paremminkin siihen siirtymist�
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**TDP** on Googlen tuotteiden jälleenmyyjä ja autamme yrityksiä mielellämme siirtymävaiheessa nykyisistä ratkaisuista Google Workspacen käyttöönottoon. Asiakkaidemme kokemukset Workspacesta ja sen edeltäjästä G Suitesta ovat olleet poikkeuksetta positiiviset ja uskomme paketin täyttävän monen erikokoisen yrityksen tarpeet.
+**TDP** on Googlen tuotteiden jälleenmyyjä ja autamme yrityksiä asiantuntevasti siirtymävaiheessa nykyisistä ratkaisuista Google Workspacen käyttöönottoon. Asiakkaidemme kokemukset Workspacesta ja sen edeltäjästä G Suitesta ovat olleet poikkeuksetta positiiviset ja uskomme paketin täyttävän monen erikokoisen yrityksen tarpeet.
 
 TDP auttaa:
 
