@@ -33,7 +33,7 @@ Google Workspace tunnettiin aiemmin nimellä **G Suite**. Kuten G Suitekin, Wor
 
 Workspace on yhteydenpito- ja yhteiskäyttötyökalu, joka **mahdollistaa sujuvan ja monikanavaisen tietoliikenteen yrityksen sisällä yrityksen koosta riippumatta.** Voit olla yhteydessä kollegoihin ja työstää yhteisiä projekteja, vaikka aamulla bussissa matkalla töihin tai illalla kotona etätöitä tehden, osin työskentely onnistuu jopa ilman verkkoyhteyttä.
 
-Kyse ei ole siitä, löytääkö yritys tarvitsemansa työkalut Workspacesta vaan haluaako yritys nimenomaisesti keskittää kaikki toiminnot yhden ohjelmiston piiriin. Keskitetty hallinta on yrityksen moderni tapa
+Kyse ei ole siitä, löytääkö yritys tarvitsemansa työkalut Workspacesta vaan haluaako yritys nimenomaisesti keskittää kaikki toiminnot yhden ohjelmiston piiriin. Keskitetty hallinta on yritykselle moderni tapa huolehtia sen kaikista tietoon liittyvistä tarpeista.
 
 ## Jokaiselle jotakin – Google Workspace eri tarpeisiin
 
