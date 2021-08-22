@@ -3,7 +3,7 @@ template: BlogPost
 path: /google-workspace-yrityksellesi
 date: 2021-08-22T13:58:47.457Z
 head:
-  title: Google Workspace – pilvipalvelu yritysten vaativaan tiedon hallintaan
+  title: Google Workspace – pilvipalvelu yritysten tarvitsemaan tiedon hallintaan
   keywords: google, workspace, pilvipalvelu, yrityksille
   description: Google Workspace on moderni ratkaisu yritysten tietoliikenteen
     hallintaan joka arkipäivä. Se mahdollistaa yhteydenpidon kollegoihin ja
