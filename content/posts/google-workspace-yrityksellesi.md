@@ -73,7 +73,7 @@ Jos siis yrityksesi kaipaa vahvaa tietoturvaa viestinnässään, se varmasti nau
 
 ## Yritykselle Google Workspace merkitsee…
 
-Yrityksen näkökulmasta Workspacen hankintaa tai paremminkin siihen siirtymistä ei kannata perustella ensimmäisenä kustannuksen tai edes sovellusten riittävyydenkään kulmasta. Tärkeintä on miettiä, **miten arvokasta tiedon helppo saatavuus, sen muokkaamisen ja jakamisen joustavuus sekä tiedon hallinnassa ”yhden varaston periaate” on yritykselle.** Yhtä tärkeää on myös pohtia ja vaikka listata dokumentille, kuinka monta eri varastoa tiedolle yrityksellä on tällä hetkellä ja onko niiden rinnakkainen käyttö aikatehokasta ja miellyttävää.
+Yrityksen näkökulmasta Workspacen hankintaa tai paremminkin siihen siirtymistä ei kannata perustella ensimmäisenä kustannuksen tai edes sovellusten riittävyydenkään kulmasta. Tärkeintä on miettiä, **miten arvokasta tiedon helppo saatavuus, sen muokkaamisen ja jakamisen joustavuus sekä tiedon hallinnassa ”yhden varaston periaate” on yritykselle.** Yhtä tärkeää on myös pohtia ja vaikka listata dokumentille, kuinka monta eri varastoa tiedolle yrityksellä on tällä hetkellä ja onko niiden rinnakkainen käyttö aikatehokasta ja mielekästä.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
