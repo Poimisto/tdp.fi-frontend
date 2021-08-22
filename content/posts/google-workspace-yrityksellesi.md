@@ -69,7 +69,7 @@ Tiedostojen päivitykset tallentuvat automaattisesti, joten sekaannuksia ei pä�
 
 Workspaceen luodut turvallisuusasetukset varmistavat niin datan kuin laitteiden suojauksen. Kaksivaiheinen tunnistus ja kertakirjautuminen ovat jo perustason oletuksia, jotka tuovat mielenrauhaa päivittäiseen tekemiseen. Niiden lisäksi turvatasoa voi korottaa päätelaitteiden hallinnalla, ryhmiin perustuvilla käytäntöasetuksilla, suojatulla LDAP:lla ja tietojen menetyksen esto -ohjelmistolla.
 
-Jos siis yrityksesi kaipaa tietoturvaa viestinnässään, se varmasti nauttii Workspacen suojausratkaisuista.
+Jos siis yrityksesi kaipaa vahvaa tietoturvaa viestinnässään, se varmasti nauttii Workspacen moninaisista suojausratkaisuista.
 
 ## Yritykselle Google Workspace merkitsee…
 
