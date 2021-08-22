@@ -10,6 +10,8 @@ head:
     yhteisten projektien työstämisen ajasta ja paikasta riippumatta.
 thumbnail: /assets/google-workspace-netlify2.png
 ---
+![Google Workspace vie yritysten tietoliikenteen uudelle tasolle.](/assets/google-workspace-netlify2.png)
+
 **Google Workspace** tarjoaa työntekijöidesi käyttöön päivittäisessä käytössä olevat sovellukset kuukausihinnalla:
 
 * Sähköpostit ja käyttäjähallinnan
@@ -82,8 +84,6 @@ TDP auttaa:
 * Oikean palvelupaketin valinnassa
 * Palvelun luotettavassa ylläpidossa
 * Eri sovellusten käytön opastuksessa asiantuntevasti ja viipymättä.
-
-
 
 *Ota yhteyttä asiantuntijaamme ja viedään yrityksesi pilveen, jossa muutkin jo ovat!*
 
