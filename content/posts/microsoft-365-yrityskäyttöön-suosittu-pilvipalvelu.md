@@ -9,6 +9,10 @@ head:
   title: Microsoft 365 -työympäristö yritysten vaativaan arkeen
 thumbnail: /assets/netlify-1280-x-800-1-min.png
 ---
+
+
+![Microsoft 365 - suosittu pilvipalvelu yrityksen tietokäyttöön](/assets/netlify-1280-x-800-1-min.png)
+
 **Microsoft 365** on yrityskäyttöön suunniteltu työympäristö digitaalisessa muodossa ja tunnetaan alan standardina jo pidemmältä ajalta. Se sisältää:
 
 * toimivat Office-sovellukset
@@ -80,5 +84,4 @@ Microsoft 365:n selkeä kuukausilaskutus tekee siitä yritykselle helposti halli
 Pauli Aalto | pauli.aalto@tdp.fi | 040 7483 818\
 Joni Leino  | joni.leino@tdp.fi   | 050 4410 834
 
-
-![Microsoft 365 - suosittu pilvipalvelu yrityksen tietokäyttöön](/assets/netlify-1280-x-800-1-min.png)
+![]()
