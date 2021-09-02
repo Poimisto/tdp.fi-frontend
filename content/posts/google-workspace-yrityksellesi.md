@@ -8,9 +8,9 @@ head:
   description: Google Workspace on moderni ratkaisu yritysten tietoliikenteen
     hallintaan joka arkipäivä. Se mahdollistaa yhteydenpidon kollegoihin ja
     yhteisten projektien työstämisen ajasta ja paikasta riippumatta.
-thumbnail: /assets/google-workspace-netlify2.png
+thumbnail: /assets/google-workspace-netlify3.png
 ---
-![Google Workspace vie yritysten tietoliikenteen uudelle tasolle.](/assets/google-workspace-netlify2.png)
+![Google Workspace vie yritysten tietoliikenteen uudelle tasolle.](/assets/google-workspace-netlify3.png)
 
 **Google Workspace** tarjoaa työntekijöidesi käyttöön päivittäisessä käytössä olevat sovellukset kuukausihinnalla:
 
