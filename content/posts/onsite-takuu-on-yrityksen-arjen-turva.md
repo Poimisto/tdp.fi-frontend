@@ -10,11 +10,9 @@ head:
   keywords: onsite, takuu, 3 vuotta, laiterikko
 thumbnail: /assets/onsitetakuu-tdp-post.png
 ---
-
-
 ![Onsite-takuu](/assets/onsitetakuu-tdp-post.png)
 
-Onsite-takuu tarkoittaa laitteelle myönnettävää lisätakuuta, jonka aikana kaikki laitteeseen tulevat viat korjataan nopeasti paikan päällä. Käytännössä maksat siitä, että saat 3 vuoden ajaksi mielenrauhan laitteiden toimivuudesta etkä menetä arvokasta aikaasi vikojen selvittelyyn. 
+**Onsite-takuu tarkoittaa laitteelle myönnettävää lisätakuuta, jonka aikana kaikki laitteeseen tulevat viat korjataan nopeasti paikan päällä. Käytännössä maksat siitä, että saat 3 vuoden ajaksi mielenrauhan laitteiden toimivuudesta etkä menetä arvokasta aikaasi vikojen selvittelyyn.** 
 
 Onsite-takuu tarjoaa arvokkaalle laitteellesi lisäturvan yllätysten varalle. Vaikka laite on laadukas, siihen saattaa tulla odottamattomia vikoja. Tällöin sinun asiakkaana tarvitsee vain ilmoittaa meille ongelmasta, jonka jälkeen otamme täyden vastuun sen nopeasta ratkaisemisesta.
 
