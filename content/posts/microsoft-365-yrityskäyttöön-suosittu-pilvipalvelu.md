@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /microsoft-365-yrityskäyttöön-suosittu-pilvipalvelu
+path: /microsoft-365-yrityskayttoon-suosittu-pilvipalvelu
 date: 2021-09-02T07:46:55.452Z
 head:
   keywords: Microsoft, 365, pilvipalvelu, yrityskäyttö, sovellukset
