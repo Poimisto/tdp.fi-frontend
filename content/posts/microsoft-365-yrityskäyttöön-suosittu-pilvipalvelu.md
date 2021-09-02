@@ -60,16 +60,16 @@ Vaikka kyseessä on moderni pilvipalveluteknologia, sen käyttö ei edellytä er
 
 ## Tietoturva korkeaa luokkaa
 
-Microsoft 365 tarjoaa yrityksille ennen kaikkea mahdollisuuden keskittyä arjen töihin ilman huolta tietoturva-aukoista. MS 365:n tarjoamaan kokonaisuuteen kuuluvat muun muassa:
+Microsoft 365 tarjoaa yrityksille ennen kaikkea mahdollisuuden keskittyä arjen töihin ilman huolta tietoturva-aukoista. 365:n tarjoamaan kokonaisuuteen kuuluvat muun muassa:
 
-* **monivaiheinen tunnistautuminen kirjautumisessa**
-* **dokumenttien suojaus**
-* **arkaluontoisten dokumenttien lähetyksen esto**
-* **huijausviestien tunnistus.**
+* monivaiheinen tunnistautuminen kirjautumisessa
+* dokumenttien suojaus
+* arkaluontoisten dokumenttien lähetyksen esto
+* huijausviestien tunnistus.
 
-## Yritykselle MS 365
+## Yritykselle Microsoft 365
 
-MS 365:n hankinta on **yritykselle järkevä valinta niin laajan tietoturvan kuin tietotyöläisen tarvitsemien modernien työkalujen ansiosta**. Osa sen ominaisuuksista voi tuntua tällä hetkellä yrityksellesi tarpeettomilta. Kuitenkin, jahka opit hyödyntämään 365:n perustoiminnot rutiinilla, sen monipuoliset sovellukset saavat yrityksesi miettimään ”miksi emme hankkineet tätä pakettia jo aiemmin?”.
+Microsoft 365:n hankinta on **yritykselle järkevä valinta niin laajan tietoturvan kuin tietotyöläisen tarvitsemien modernien työkalujen ansiosta**. Osa sen ominaisuuksista voi tuntua tällä hetkellä yrityksellesi tarpeettomilta. Kuitenkin, jahka opit hyödyntämään 365:n perustoiminnot rutiinilla, sen monipuoliset sovellukset saavat yrityksesi miettimään ”miksi emme hankkineet tätä pakettia jo aiemmin?”.
 
 Microsoft 365:n selkeä kuukausilaskutus tekee siitä yritykselle helposti hallittavan kustannuserän. Sovelluksia voi käyttää aamusta iltaan ja tehokkaasta suojauksesta ei veloiteta erikseen.
 
