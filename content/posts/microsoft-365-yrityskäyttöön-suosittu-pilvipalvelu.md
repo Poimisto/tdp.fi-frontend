@@ -80,4 +80,5 @@ Microsoft 365:n selkeä kuukausilaskutus tekee siitä yritykselle helposti halli
 *Ota yhteyttä asiantuntijaamme ja viedään yrityksesi pilveen, jossa muutkin jo ovat!*
 
 Pauli Aalto | pauli.aalto@tdp.fi | 040 7483 818
+
 Joni Leino  | joni.leino@tdp.fi   | 050 4410 834
