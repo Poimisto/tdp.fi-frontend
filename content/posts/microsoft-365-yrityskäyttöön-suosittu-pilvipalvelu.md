@@ -6,7 +6,7 @@ head:
   keywords: Microsoft, 365, pilvipalvelu, yrityskäyttö, sovellukset
   description: Microsoft 365 ohjelmistopaketti tarjoaa yrityksen vaativaankin
     arkeen monipuoliset ja tehokkaat sovellukset tiedonhallintaan.
-  title: Microsoft 365 -työympäristö yritysten vaativaan arkeen
+  title: Microsoft 365 -työympäristö yritysten arjen tehostamiseksi
 thumbnail: /assets/netlify-1280-x-800-1-min.png
 ---
 ![Microsoft 365 - suosittu pilvipalvelu yrityksen tietokäyttöön](/assets/netlify-1280-x-800-1-min.png)
@@ -73,7 +73,7 @@ Microsoft 365:n hankinta on **yritykselle järkevä valinta niin laajan tietotur
 
 Microsoft 365:n selkeä kuukausilaskutus tekee siitä yritykselle helposti hallittavan kustannuserän. Sovelluksia voi käyttää aamusta iltaan ja tehokkaasta suojauksesta ei veloiteta erikseen.
 
-[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_](<>)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **TDP** on Microsoftin tuotteiden jälleenmyyjä ja autamme yrityksiä asiantuntevasti Microsoft 365:n käyttöönotossa. Microsoft on maailmanlaajuinen standardi ja tiedämme sen ohjelmistojen vastaavan monen erikokoisen yrityksen tarpeisiin. Autamme sekä konsultoimme Microsoft 365:n pilvipalveluiden käytössä niiden kaikissa eri vaiheissa.
 
