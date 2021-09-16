@@ -10,9 +10,9 @@ head:
     kuitenkin tärkeää tietää, mitä niiden luoma sekaympäristö merkitsee
     yritykselle, niin arjen toiminnan kuin kustannusten valossa.
   keywords: Mac, Windows, Apple, sekaympäristö, käyttöjärjestelmä, IT-palvelukumppani
-thumbnail: /assets/sekaympäristö-netlify-1280-x-800-.png
+thumbnail: /assets/sekaympäristö-netlify-1280-x-800-min.png
 ---
-![Yrityksen toimiva IT-ympäristö voi koostua niin Mac- kuin Windows-koneista.](/assets/sekaympäristö-netlify-1280-x-800-.png)
+![Yrityksen toimiva IT-ympäristö voi koostua niin Mac- kuin Windows-koneista.](/assets/sekaympäristö-netlify-1280-x-800-min.png)
 
 **Yritykselle tärkeä investointierä on IT-laitekanta, jonka fiksu valinta varmistaa yrityksen arjen sujuvuuden. Niin Applen kuin Microsoftinkin käyttöjärjestelmät ovat korkealaatuisia ja pitkän kehitystyön läpikäyneitä, jotka tarjoavat eri käyttäjille erilaisia hyötyjä. Kannattaako siis uusien laitteiden hankinta tehdä yrityksen aiempien kokemusten ja hinnan perusteella tai jopa yksittäistä työntekijää kuunnellen?**
 
@@ -79,6 +79,6 @@ Miten yritys sitten voi hyötyä sekaympäristöstä?
 
 **3. Työ- ja vapaa-aika limittyvät 2020-luvulla myös IT-laitteiden käytössä**. Jos työntekijä haluaa ottaa oman laitteensa työkäyttöön ja hän tietää sen lisäävän työtehoaan, yrityksen kannattaa se mahdollistaa. Tällaisessa tilanteessa tekniset esteet tulee voittaa ja antaa työntekijän kukoistaa.
 
--------------------------------------------------------------------------------------------
+- - -
 
 **TDP** on yritysten ripeä IT-palvelukumppani ja vahva Mac- ja Windows -ympäristön osaaja. Esittele meille yrityksesi IT-ympäristön tarve, me kerromme siihen ratkaisumallimme palvelulupausta ja hintatietoja myöten.
