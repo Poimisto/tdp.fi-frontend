@@ -79,6 +79,6 @@ Miten yritys sitten voi hyötyä sekaympäristöstä?
 
 **3. Työ- ja vapaa-aika limittyvät 2020-luvulla myös IT-laitteiden käytössä**. Jos työntekijä haluaa ottaa oman laitteensa työkäyttöön ja hän tietää sen lisäävän työtehoaan, yrityksen kannattaa se mahdollistaa. Tällaisessa tilanteessa tekniset esteet tulee voittaa ja antaa työntekijän kukoistaa.
 
-- - -
+-------------------------------------------------------------------------------------------
 
 **TDP** on yritysten ripeä IT-palvelukumppani ja vahva Mac- ja Windows -ympäristön osaaja. Esittele meille yrityksesi IT-ympäristön tarve, me kerromme siihen ratkaisumallimme palvelulupausta ja hintatietoja myöten.
