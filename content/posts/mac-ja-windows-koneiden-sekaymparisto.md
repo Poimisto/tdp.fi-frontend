@@ -12,7 +12,7 @@ head:
   keywords: Mac, Windows, Apple, sekaympäristö, käyttöjärjestelmä, IT-palvelukumppani
 thumbnail: /assets/sekaympäristö-netlify-1280-x-800-.png
 ---
-![Yrityksen IT-ympäristö voi koostua niin Mac- kuin Windows-koneista.](/assets/sekaympäristö-netlify-1280-x-800-.png)
+![Yrityksen toimiva IT-ympäristö voi koostua niin Mac- kuin Windows-koneista.](/assets/sekaympäristö-netlify-1280-x-800-.png)
 
 **Yritykselle tärkeä investointierä on IT-laitekanta, jonka fiksu valinta varmistaa yrityksen arjen sujuvuuden. Niin Applen kuin Microsoftinkin käyttöjärjestelmät ovat korkealaatuisia ja pitkän kehitystyön läpikäyneitä, jotka tarjoavat eri käyttäjille erilaisia hyötyjä. Kannattaako siis uusien laitteiden hankinta tehdä yrityksen aiempien kokemusten ja hinnan perusteella tai jopa yksittäistä työntekijää kuunnellen?**
 
