@@ -145,9 +145,11 @@ export default ({children, breadcrumb}) => {
               </ul>
             </div>
             <div className="badgeList">
+
               <BadgeImage src={require('./../images/AAA-logo-2020-FI-transparent.png')} alt="AAA-luottoluokitus"/>
               <BadgeImage src={require('./../images/luotettavakumppani_250x124.jpg')} alt="Luotettava kumppani" />
               <BadgeImage src={require('./../images/sy-jasenyritysbanneri-fi_250x124.jpg')} alt="Suomen yrittäjät jäsenyritys" />
+              <BadgeImage src={require('./../images/PL_LOGO_Tampereen_Datapiste_Oy_FI_417749_web.jpg')} alt="Asiakastieto"/>
             </div>
             <div className="longDescription">
               Tampereen Datapisteen toimipisteet sijaitsevat Nokialla ja Helsingissä. Päätoimialueemme on Pirkanmaa (Tampere, Kangasala, Lempäälä, Nokia, Pirkkala, Ylöjärvi) sekä Helsinki ja muu pääkaupunkiseutu. Toimitamme laitteistoja koko Suomen alueella. Noudatamme palveluissa IT 2018 sopimusehtoja. Olemme asiakkaidemme IT-kumppani ja toimitamme edulliset ja tehokkaat tietokone-leasing ratkaisut yrityksille luotettavasti ja ammattitaidolla.

@@ -25,6 +25,10 @@ Päätoimialueemme ovat Pirkanmaalla, Etelä-Suomessa ja Keski-Suomessa. Konttor
 
 Olemme pieni mutta vakavaraisesti kasvava yritys. Tavoitteemme on saavuttaa yli miljoonan liikevaihto vuonna 2021.
 
+### Työntekijämme
+
+<ListOfEmployees />
+
 </Grid>
 
 <Grid item xs={12} sm={4}>
@@ -47,10 +51,13 @@ Olemme pieni mutta vakavaraisesti kasvava yritys. Tavoitteemme on saavuttaa yli 
 
 <a href="https://goo.gl/maps/jTq2U2bC1NSFPXEh9">Katso osoite kartalla</a>
 
-</Grid>
+<br/><br/>
+
+
+<img src="/static/PL_LOGO_Tampereen_Datapiste_Oy_FI_417749_web-bfe57b3a6f8be4018692e62d9659625b.jpg" />
+
 
 </Grid>
 
-### Työntekijämme
+</Grid>
 
-<ListOfEmployees />

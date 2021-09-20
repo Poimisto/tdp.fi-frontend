@@ -5,7 +5,7 @@ import styled from 'styled-components'
 
 const PeopleGrid = styled.div`
   display:grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
     grid-template-columns: 1fr 1fr;
   }
