@@ -81,4 +81,10 @@ Miten yritys sitten voi hyötyä sekaympäristöstä?
 
 - - -
 
-**TDP** on yritysten ripeä IT-palvelukumppani ja vahva Mac- ja Windows -ympäristön osaaja. Esittele meille yrityksesi IT-ympäristön tarve, me kerromme siihen ratkaisumallimme palvelulupausta ja hintatietoja myöten.
+**TDP** on yritysten ripeä IT-palvelukumppani ja vahva Mac- ja Windows -ympäristön osaaja. Esittele meille yrityksesi IT-ympäristön tarve, me kerromme siihen ratkaisumallimme palvelulupausta ja hintatietoja myöten. Autamme sekä konsultoimme sekaympäristön laitteiston käytössä niiden kaikissa eri vaiheissa.
+
+*Ota yhteyttä asiantuntijaamme ja mahdollistetaan yrityksellesi tehokkain laitekanta!*
+
+Pauli Aalto | pauli.aalto@tdp.fi | 040 7483 818
+
+Joni Leino  | joni.leino@tdp.fi   | 050 4410 834
