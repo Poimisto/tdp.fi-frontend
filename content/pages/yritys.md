@@ -43,7 +43,7 @@ Olemme pieni mutta vakavaraisesti kasvava yritys. Tavoitteemme on saavuttaa yli 
 
 #### Toimiston yhteystiedot
 
-* Tampereen Datapiste
+* Avoinna arkisin klo 9.00 - 16.00
 * yhteys@tdp.fi
 * 010 292 1640
 * Pirkkalaistie 1
