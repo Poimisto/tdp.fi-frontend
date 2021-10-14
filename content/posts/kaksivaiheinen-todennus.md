@@ -18,8 +18,8 @@ Kaksivaiheinen todennus, tunnistautuminen tai vahvistus. Tietoturvan uudella mus
 
 ## Todennus käytännössä
 
-Monivaiheisena tunnistautumisenakin tunnettu suojaus on käytännössä tavallista tunnistautumista täydentävä tapa. Käyttäjänimen ja salasanan syöttämisen lisäksi kulloinenkin ohjelma pyytää vielä toistakin salasanaa. \
-\
+Monivaiheisena tunnistautumisenakin tunnettu suojaus on käytännössä tavallista tunnistautumista täydentävä tapa. Käyttäjänimen ja salasanan syöttämisen lisäksi kulloinenkin ohjelma pyytää vielä toistakin salasanaa. 
+
 Se voi olla puhelimeen lähetetty koodi tai jokin biometrinen tunnistin, kuten esimerkiksi sormenjälki. Mikä sitten onkaan todennuksen kulloinenkin menetelmä, sen käyttöä puoltaa kyberhyökkäysten kasvava määrä yhteiskunnassa.
 
 ## Miksi lisätunnistus on tärkeää?
