@@ -12,6 +12,8 @@ head:
   title: Kaksivaiheinen todennus ­– turhake vai yrityksen tietoturvalle välttämätöntä?
 thumbnail: /assets/2fa-netlify.jpg
 ---
+![Kaksivaiheinen todennus suojaa paremmin käyttäjätilisi ](/assets/2fa-netlify.jpg)
+
 Kaksivaiheinen todennus, tunnistautuminen tai vahvistus. Tietoturvan uudella mustalla on monta nimeä. Lyhenne 2FA, two-factor authentication, on kuitenkin asia, joka jokaisen yrityksen ja sen työntekijöiden pitäisi tuntea. Tunnistautumisen pitäisi myös olla jatkuva, päivittäinen rutiini. **Se on tapa varmistua siitä, että kukaan muu kuin tilin oikea käyttäjä ei pääse tiliisi käsiksi.**
 
 ## Todennus käytännössä
@@ -50,6 +52,6 @@ Tietoturvaan panostaminen aiheuttaa selkeitä lisäkustannuksia, mutta vahingon 
 
 Mielenrauha tietoturvasta on tärkeä tunne niin henkilöstölle kuin yrityksen johdolle; se vähentää henkistä kuormitusta. Ajan ja vaivan käyttö kaksivaiheiseen tunnistautumiseen on loppupeleissä kuitenkin pieni hinta optimoidusta tietoturvasta.
 
----
+- - -
 
 **TDP** on yritysten IT-palvelukumppani, joka haluaa kantaa kokonaisvastuun yritysten IT-ympäristön tietoturvasta. Haluamme tarjota yrityksille tasapainoisen IT-ympäristön, jossa sekä tietoturva että käyttökokemus laitteista on optimaalinen. Käyttöönotamme yrityksen puolesta viimeisimmät tietoturvapalvelut, päivitämme niitä säännöllisesti ja ratkaisemme pulmien ilmaantuessa ne ripeästi.
