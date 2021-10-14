@@ -55,3 +55,9 @@ Mielenrauha tietoturvasta on tärkeä tunne niin henkilöstölle kuin yrityksen 
 - - -
 
 **TDP** on yritysten IT-palvelukumppani, joka haluaa kantaa kokonaisvastuun yritysten IT-ympäristön tietoturvasta. Haluamme tarjota yrityksille tasapainoisen IT-ympäristön, jossa sekä tietoturva että käyttökokemus laitteista on optimaalinen. Käyttöönotamme yrityksen puolesta viimeisimmät tietoturvapalvelut, päivitämme niitä säännöllisesti ja ratkaisemme pulmien ilmaantuessa ne ripeästi.
+
+*Ota yhteyttä asiantuntijaamme ja viedään yrityksesi tietoturva 2020-luvulle!*
+
+Pauli Aalto | pauli.aalto@tdp.fi | 040 7483 818         
+
+Joni Leino  | joni.leino@tdp.fi  | 050 4410 834
