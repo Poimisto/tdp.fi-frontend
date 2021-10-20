@@ -7,9 +7,9 @@ head:
   description: Yrityksen kasvaessa tarvitsemme lisää osaajia. Tule joukkoomme
     huolehtimaan yritysten IT-infrasta!
   keywords: TDP, helpdesk, tukihenkilö, lähituki, etätuki, asiakaspalvelu
-thumbnail: /assets/uusin-rekry-netlify-1280-x-800-min.png
+thumbnail: /assets/netlify-1280-x-800-3-.jpg
 ---
-![TDP hakee HELPDESK-tukihenkilöä!](/assets/uusin-rekry-netlify-1280-x-800-min.png)
+![TDP hakee HELPDESK-tukihenkilöä!](/assets/netlify-1280-x-800-3-.jpg)
 
 *Huom! Tämä rekrytointi on jo päättynyt. Voit kuitenkin jättää avoimen hakemuksen.*
 
