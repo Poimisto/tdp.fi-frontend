@@ -15,9 +15,7 @@ thumbnail: /assets/it-perehdytys.jpg
 ---
 ![Huono IT-perehdytys voi johtaa huonoon työntekijäkokemukseen.](/assets/it-perehdytys.jpg)
 
-# Palkkasitko uuden työntekijän? Näin onnistut IT-perehdytyksessä
-
-Kävikö teillekin näin köpösti uuden henkilön rekrytoinnissa? Ensin laaditte timanttisen ilmoituksen vakanssista ja markkinoitte voimallisesti eri kanavissa. Saitte paljon kyselyitä ja hakemuksia, jotka kävitte tarkasti läpi. Järjestitte sopivan aikataulun ja haastattelitte muutaman hakijan. Teitte huolellisen valinnan ja olitte tyytyväisiä. 
+**Kävikö teillekin näin köpösti uuden henkilön rekrytoinnissa? Ensin laaditte timanttisen ilmoituksen vakanssista ja markkinoitte voimallisesti eri kanavissa. Saitte paljon kyselyitä ja hakemuksia, jotka kävitte tarkasti läpi. Järjestitte sopivan aikataulun ja haastattelitte muutaman hakijan. Teitte huolellisen valinnan ja olitte tyytyväisiä.** 
 
 Mutta kun uusi työntekijä tuli ensimmäistä päivää töihin, hänelle ei ollutkaan IT-välineitä hankittuna. Jostain komerosta löytyi vanha kannettava, mutta ilman tunnuksia ei siitäkään ollut hänelle hyötyä. Raskas rekrytointiprosessi koki mahalaskun ja työntekijän into upeasta työnantajasta muuttui huonoksi ensivaikutelmaksi. Tämä tarina on valitettavan usein totta.
 
