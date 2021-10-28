@@ -11,13 +11,21 @@ head:
     IT-palvelukumppanin hoitaa ne yrityksen puolesta. Hyvä tai joskus huono
     työntekijäkokemus alkaa syntyä jo työsuhteen ensimetreistä alkaen.
   keywords: IT-perehdytys, uusi, työntekijä, onboarding, työntekijäkokemus
+thumbnail: /assets/it-perehdytys.jpg
 ---
-Kävikö teillekin näin köpösti uuden henkilön rekrytoinnissa? Ensin laaditte timanttisen ilmoituksen vakanssista ja markkinoitte voimallisesti eri kanavissa. Saitte paljon kyselyitä ja hakemuksia, jotka kävitte tarkasti läpi. Järjestitte sopivan aikataulun ja haastattelitte muutaman hakijan. Teitte huolellisen valinnan ja olitte tyytyväisiä. 
+![](/assets/it-perehdytys.jpg)
+
+Kävikö teillekin näin köpösti uuden henkilön rekrytoinnissa? Ensin laaditte timanttisen ilmoituksen vakanssista ja markkinoitte voimallisesti eri kanavissa. Saitte paljon kyselyitä ja hakemuksia, jotka kävitte tarkasti läpi. Järjestitte sopivan aikataulun ja haastattelitte muutaman hakijan. Teitte huolellisen valinnan ja olitte tyytyväisiä.
+
 Mutta kun uusi työntekijä tuli ensimmäistä päivää töihin, hänelle ei ollutkaan IT-välineitä hankittuna. Jostain komerosta löytyi vanha kannettava, mutta ilman tunnuksia ei siitäkään ollut hänelle hyötyä. Raskas rekrytointiprosessi koki mahalaskun ja työntekijän into upeasta työnantajasta muuttui huonoksi ensivaikutelmaksi. Tämä tarina on valitettavan usein totta.
+
 ## Sujuva IT-prosessi osana hyvää onboarding-kokemusta
+
 Koska töitä tehdään yhä enemmän digitalisoituneessa ympäristössä, IT-välineiden merkitys on kiistämätön. Yrityksen IT-prosessien toimivuudella on työntekijäkokemuksessa yleensäkin iso rooli, mutta varsinkin työsuhteen alussa. 
 Tunnetun mittausorganisaation, Gallupin, tutkimuksen mukaan hyvä onboarding-kokemus nostaa erittäin tyytyväisten työntekijöiden osuuden jopa 2,6-kertaiseksi ja saa heidät paremmin jäämään yritykseen. (https://www.gallup.com/workplace/353096/practical-tips-leaders-better-onboarding-process.aspx) 
+
 ## Delegoi IT-prosessit osaavan kumppanin käsiin
+
 IT-prosessien ulkoistaminen antaa yritykselle mahdollisuuden keskittyä omaan ydinosaamiseensa. Etenkin työntekijän sisääntuloprosessissa se varmistaa IT-asioiden automaattisen sujuvuuden. Ja bonuksena, ulkopuolisen asiantuntijan toimesta tehty IT-prosessi tarjoaa uudelle työntekijälle ensiluokkaisen työnantajakokemuksen.
 
 TDP:n selkeä sisääntulon IT-prosessi ehkäisee tarinassa kuvatun ongelman synnyn ja parantaa uuden työntekijän fiilistä työnantajastaan.
@@ -45,7 +53,6 @@ Laitteille asennetaan valmiiksi myös uuden työntekijän tunnukset ja annetaan 
 ### 5) Toimitus
 
 TDP toimittaa uuden työntekijän laitteet työpaikalle työnantajan tai työntekijän haluamassa aikataulussa ennen aloituspäivää. Palvelusopimuksessa voidaan määrittää toimitus edellisenä arkipäivänä tai vaikkapa viikkoa ennen.
-
 
 ### 6) Käyttöönotto
 
