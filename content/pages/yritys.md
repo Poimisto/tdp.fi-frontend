@@ -44,7 +44,8 @@ Olemme pieni mutta vakavaraisesti kasvava yritys. Tavoitteemme on saavuttaa yli 
 #### Toimiston yhteystiedot
 
 * Avoinna arkisin klo 9.00 - 16.00
-* yhteys@tdp.fi
+* Myynti: myynti@tdp.fi
+* Tukipyynnöt: tuki@tdp.fi
 * 010 292 1640
 * Pirkkalaistie 1
 * 37100 Nokia
