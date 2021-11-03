@@ -140,7 +140,8 @@ export default ({children, breadcrumb}) => {
             <div className="footerBullets">
               <ul style={{listStyleType:'none',padding:0}}>
                 <li>Yritysten tietotekniikan kumppani</li>
-                <li>yhteys@tdp.fi</li>
+                <li>Myynti: myynti@tdp.fi</li>
+                <li>Tuki: tuki@tdp.fi</li>
                 <li>010-2921640</li>
               </ul>
             </div>
