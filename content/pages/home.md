@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![TDP palvelut](/assets/home-services.png)
+![TDP palvelut](/assets/image00001-min.jpeg)
 
 </div>
 
@@ -89,7 +89,7 @@ Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen 
 
 <div className="HeroBlockImage">
 
-![Tampereen Datapiste toimisto](/assets/image00001-min.jpeg)
+![Tampereen Datapiste toimisto](/assets/image00006-min.jpeg)
 
 </div>
 
