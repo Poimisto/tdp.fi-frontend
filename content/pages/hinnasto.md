@@ -13,7 +13,7 @@ head:
 |                                                       |               |
 | ----------------------------------------------------- | ------------- |
 | Työasemien vianselvitykset / asennukset               | 68,00 € / h   |
-| Asennukset laitehankinnan yhteydessä                  | 41,00 € / h   |
+| Asennukset laitehankinnan yhteydessä alk.             | 43,00 € / h   |
 | Suunnittelu, verkkotyöt, palvelimet, ohjelmointi alk. | 84,00 € / h   |
 
 ## Esimerkkejä huolto- ja ylläpitosopimuksien hinnoista
@@ -25,7 +25,7 @@ head:
 | Varmuuskopiointi alk.                           | 5,20 € / kk   |
 | Varalaitepalvelu alk.                           | 9,00 € / kk   |
 | Microsoft O365 sovelluspaketti alk.             | 5,50 € / kk   |
-| Koneiden ja käyttäjien keskitetty hallinta alk. | 10,50 € / kk  |
+| Koneiden ja käyttäjien keskitetty hallinta alk. | 11,00 € / kk  |
 | Google Workspace Business Starter               | 5,20 € / kk   |
 | Google Workspace Business Standard              | 10,40 € / kk  |
 | Google Workspace Enterprise                     | 23,00 € / kk  |
