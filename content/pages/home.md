@@ -89,7 +89,7 @@ Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen 
 
 <div className="HeroBlockImage">
 
-![Tampereen Datapiste toimisto](/assets/tdp-office.jpg)
+![Tampereen Datapiste toimisto](/assets/image00001-min.jpeg)
 
 </div>
 
