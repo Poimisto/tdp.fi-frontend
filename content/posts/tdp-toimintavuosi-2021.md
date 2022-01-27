@@ -8,6 +8,7 @@ head:
     ensijaisesti kasvu. Tavoiteltu miljoonan euron liikevaihto saavutettiin,
     uusia asiakassuhteita solmittiin ja monet muutkin asiat menivät eteenpäin.
   keywords: TDP, toimintavuosi, 2021, liikevaihto, rekrytointi
+thumbnail: /assets/toimintavuosi-sloganilla.jpg
 ---
 
 
