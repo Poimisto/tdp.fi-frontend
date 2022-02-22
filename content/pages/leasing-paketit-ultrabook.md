@@ -29,9 +29,9 @@ Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, 
 
 | Konepakettien hinta                | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
 | ---------------------------------- | --------------------- | --------------------- | ----------------- |
-| DELL Latitude 7420                 | TBA €/kk            | TBA €/kk            | TBA €         |
-| DELL 27 PRO P2722H -näyttö         | TBA €/kk            | TBA €/kk             | TBA €          |
-| DELL WD 19TBS 180w Telakointiasema | TBA €/kk            | TBA €/kk            | TBA €          |
+| DELL Latitude 7420                 | 75,97 €/kk            | 50,27 €/kk            | 1595,00 €         |
+| DELL 27 PRO P2722H -näyttö         | 12,90 €/kk            | 8,54 €/kk             | 265,00€           |
+| DELL WD 19TBS 180w Telakointiasema | 16,57 €/kk            | 10,97 €/kk            | 335,00 €          |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
