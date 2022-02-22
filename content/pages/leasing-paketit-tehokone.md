@@ -1,6 +1,6 @@
 ---
 path: /leasing-paketit/tehokone
-thumbnail: /assets/precision_t5820_200x273.jpg
+thumbnail: /assets/5820t_01.png
 date: 2022-02-22T07:53:53.434Z
 head:
   title: Ammattilaisen tehokone
@@ -29,7 +29,7 @@ Oletko 3D-mallinnuksen, kuvankäsittelyn tai konetehoja vaativan suunnittelun am
 | Konepakettien hinta           | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
 | ----------------------------- | --------------------- | --------------------- | ----------------- |
 | DELL Precision P5820          | TBA €/kk              | TBA €/kk              | TBA €             |
-| DELL 32" P3222QE-näyttö       | TBA €/kk              | TBA €/kk              | TBA €             |
+| DELL 32" P3223QE-näyttö       | TBA €/kk              | TBA €/kk              | TBA €             |
 | NVIDIA RTX A4000-näytönohjain | TBA €/kk              | TBA €/kk              | TBA €             |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
