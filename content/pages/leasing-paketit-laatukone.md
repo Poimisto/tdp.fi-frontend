@@ -1,7 +1,7 @@
 ---
 path: /leasing-paketit/laatukone
 thumbnail: /assets/dell_3630_250x296.jpg
-date: 2021-02-25T09:34:30.731Z
+date: 2022-02-22T06:42:57.663Z
 head:
   title: Edullista laatua kuvankäsittelyyn tai suunnitteluun
   description: Tämä leasingpaketti on suunniteltu vastaamaan tarpeitasi, jos
@@ -30,13 +30,13 @@ Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, 
 
 | Konepakettien hinta                                             | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
 | --------------------------------------------------------------- | --------------------- | --------------------- | ----------------- |
-| Precision 3640 Yhdellä näytöllä ja Quadro P620 näytönohjaimella | 70,65 €/kk            | 47,00 €/kk            | 1695,00 €         |
-| Kahdella 27" Ultrasharp näytöllä                                | 86,65 €/kk            | 59,00 €/kk            | 2044,00 €         |
-| P2000 näytönohjaimella                                          | 92.65 €/kk            | 61,90 €/kk            | 2144,00 €         |
+| Precision 3650 Yhdellä näytöllä ja NVIDIA T600 näytönohjaimella | TBA €/kk            | TBA €/kk            | TBA €         |
+| Kahdella 27" Ultrasharp näytöllä                                | TBA €/kk            | TBA €/kk            | TBA €         |
+| NVIDIA RTX A2000 näytönohjaimella                               | TBA €/kk            | TBA €/kk            | TBA €         |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
 * Sisältää esiasennuksen ja toimituksen
 * Paketti voidaan räätälöidä vastaamaan teidän tarpeitanne
 
-<Cards cardsPerRow="2" cards='[{"bgColor":"lightest","title":"Dell Precision 3640","linkBgColor":"darkest","image":"/assets/dell_3630_250x296.jpg","content":"Tehokkaalla suorittimella ja erinomaisella grafiikkateholla varustettu pitkän elinkaaren kone kuvankäsittelyyn, suunnitteluun ja muotoiluun.\n\nErittäin hiljainen ja helposti laajennettavissa usean näytön kokoonpanoihin.\n\n* Intel Core i7 8-ydinprosessori\n* Windows 10 Professional 64 bit\n* Integoitu Intel HD Graphics 630 näytönohjain\n* NVIDIA Quadro P620 näytönohjain. Jopa RTX 4000 optiona\n* 16 Gt muistia, 256 SSD kiintolevy, 6 x USB 3.1, DP\n* Integroitu muistikortinlukija / Optinen asema DVD+/-RW\n* 3 vuoden onsite-huolto ja Tekninen tuki – puhelinneuvonta – 1 vuosi"},{"bgColor":"lightest","title":"Dell 27\" Ultrasharp U2719D QHD/16:9/IPS/HAS/PIVOT","linkBgColor":"darkest","content":"Dell Ultrasharp U2719D vastaa vaativan-käyttäjän tarpeisiin QHD-tarkkuudella ja kattavilla ominaisuuksillaan\n\nLED-taustavalaistussa 27” IPS laajakuvanäytössä on huipputarkka kuva ja alhainen virrankulutus. Monipuolisesti säädettävä PIVOT jalusta ja korkeudensäätö.","image":"/assets/dell_u2719d_250x207.jpg"}]' />
+<Cards cardsPerRow="2" cards='[{"bgColor":"lightest","title":"Dell Precision 3650","linkBgColor":"darkest","image":"/assets/dell_pmini_3650_2.jpg","content":"Tehokkaalla suorittimella ja erinomaisella grafiikkateholla varustettu pitkän elinkaaren kone kuvankäsittelyyn, suunnitteluun ja muotoiluun.\n\nErittäin hiljainen ja helposti laajennettavissa usean näytön kokoonpanoihin.\n\n* Intel Core i7 8-ydinprosessori\n* Windows 10 tai 11 Professional 64 bit\n* Integoitu Intel HD Graphics 630 näytönohjain\n* NVIDIA T600-näytönohjain. Jopa NVIDIA RTX A6000 optiona\n* 16 Gt muistia, 512GB M.2 NVMe SSD kiintolevy, 5 x USB (2.0, 3.2 Gen 1 ja Gen 2), 2 x DP\n* Integroitu muistikortinlukija / Optinen asema DVD+/-RW\n* 3 vuoden onsite-huolto ja Tekninen tuki – puhelinneuvonta – 1 vuosi"},{"bgColor":"lightest","title":"Dell 27\" Ultrasharp U2722D QHD/16:9/IPS/HAS/PIVOT/MST","linkBgColor":"darkest","content":"Dell Ultrasharp U2722D vastaa vaativan-käyttäjän tarpeisiin QHD-tarkkuudella ja kattavilla ominaisuuksillaan\n\nLED-taustavalaistussa 27” IPS laajakuvanäytössä on huipputarkka kuva ja alhainen virrankulutus. Monipuolisesti säädettävä PIVOT jalusta ja korkeudensäätö","image":"/assets/dell_dell-u2722d_int_1.jpg"}]' />
