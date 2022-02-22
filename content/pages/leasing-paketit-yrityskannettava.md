@@ -1,7 +1,7 @@
 ---
 path: /leasing-paketit/yrityskannettava
 thumbnail: /assets/24vf0.jpg
-date: 2021-02-25T09:34:30.731Z
+date: 2022-02-22T09:44:19.342Z
 head:
   title: Edullinen yrityskannettava
   description: Tämä huippukevyt ja kestävä kokoonpano on suunniteltu täyttämään
