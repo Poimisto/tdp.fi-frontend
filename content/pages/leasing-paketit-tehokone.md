@@ -1,7 +1,7 @@
 ---
 path: /leasing-paketit/tehokone
 thumbnail: /assets/precision_t5820_200x273.jpg
-date: 2021-02-25T09:34:30.731Z
+date: 2022-02-22T07:53:53.434Z
 head:
   title: Ammattilaisen tehokone
   description: Oletko 3D-mallinnuksen, kuvankäsittelyn tai konetehoja vaativan
