@@ -1,12 +1,12 @@
 ---
 path: /leasing-paketit/toimistokone
-thumbnail: /assets/dell_3060sff_170x258.jpg
-date: 2021-02-25T09:34:30.731Z
+thumbnail: /assets/509vt.jpg
+date: 2022-02-22T10:30:59.355Z
 head:
   title: Peruskäyttöön suunniteltu yritystyöasema
   description: Tarjoamme myös edullisia perustyöasemia yrityskäyttöön. Näissä
-    pienissä koteloissa yhdistyvät Intelin luotettava suoritintekniikka, nopea
-    SSD-levy ja yritystason tietoturvaominaisuudet.
+    todella pienissä koteloissa yhdistyvät Intelin luotettava suoritintekniikka,
+    nopea SSD-levy ja yritystason tietoturvaominaisuudet.
   keywords: Peruskäyttöön tietokone yritykselle
 contactForm: Ota yhteyttä
 breadcrumb:
@@ -26,14 +26,15 @@ Tämä leasingpaketti tarjoaa edullisen ja toimivan perustyöaseman yrityskäytt
 
 Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, niin katso <a href="/leasing-paketit/laatukone">laatukone-pakettimme</a> hieman tehokkaampaan työskentelyyn
 
-| Konepakettien hinta                  | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
-| ------------------------------------ | --------------------- | --------------------- | ----------------- |
-| DELL OptiPlex 3080 SFF ja 24" näyttö | 41,00 €/kk            | 28,00 €/kk            | 1008,00 €         |
-| DELL 27" PRO P2719H näytöllä         | 48,00 €/kk            | 34,00 €/kk            | 1157,00 €         |
+| Konepakettien hinta          | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
+| ---------------------------- | --------------------- | --------------------- | ----------------- |
+| DELL OptiPlex 3090 MFF       | 37,61 €/kk            | 24,89 €/kk            | 765,00 €          |
+| DELL 24" PRO P2422H näytöllä | 46,75 €/kk            | 30,94 €/kk            | 1000,00 €         |
+| DELL 27" PRO P2722H näytöllä | 48,20 €/kk            | 31,90 €/kk            | 1030,00 €         |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
 * Sisältää esiasennuksen ja toimituksen
 * Paketti voidaan räätälöidä vastaamaan teidän tarpeitanne
 
-<Cards cardsPerRow="2" cards='[{"bgColor":"lightest","title":"DELL OptiPlex 3080 SFF","linkBgColor":"darkest","image":"/assets/dell_3060sff_170x258.jpg","content":"Dell OptiPlex 3080 SFF on yrityskäyttöön suunniteltu luotettava ja hankintahinnaltaan edullinen perustyöasema.\n\nPienikokoisen SFF pöytäkotelon ansiosta 3080 asentuu vaivattomasti ahtaampiinkin tiloihin.\n\n* Intel Core i5-10500 (Max. 4.10GHz, 9M, 6C) prosessori\n* Windows 10 Pro 64 bit\n* Intel UHD Graphics 630\n* 8Gt muistia, 256SSD, 4x USB3.1, 4x USB2.0, DP\n* Integroitu muistikortinlukija / Optinen asema DVD+/-RW\n* 3 vuoden onsite-huolto ja Tekninen tuki – puhelinneuvonta – 1 vuosi"},{"bgColor":"lightest","title":"DELL 24\" P2419H FHD/IPS/HAS/PIVOT","linkBgColor":"darkest","content":"Dell U2419H vastaa vaativan-käyttäjän tarpeisiin FullHD-tarkkuudella ja kattavilla ominaisuuksillaan\n\nLED-taustavalaistussa 24” IPS laajakuvanäytössä on huipputarkka kuva ja alhainen virrankulutus. Monipuolisesti säädettävä PIVOT jalusta ja korkeudensäätö.\n\nLED-taustavalaistussa 27” IPS laajakuvanäytössä on huipputarkka kuva ja alhainen virrankulutus. Monipuolisesti säädettävä PIVOT jalusta ja korkeudensäätö.","image":"/assets/dell_u2419h_250x207.jpg"}]' />
+<Cards cardsPerRow="2" cards='[{"bgColor":"lightest","title":"DELL OptiPlex 3090 MFF","linkBgColor":"darkest","image":"/assets/509vt.jpg","content":"Dell OptiPlex 3090 SFF on yrityskäyttöön suunniteltu luotettava ja hankintahinnaltaan edullinen perustyöasema.\n\nPienikokoisen MFF pöytäkotelon ansiosta 3090 asentuu vaivattomasti ahtaampiinkin tiloihin.\n\n* Kymmenennen sukupolven Intel Core i5-10500T neliydinprosessori\n* Windows 10 tai 11 Pro 64 bit\n* Intel UHD Graphics 630\n* 16GB muistia (max 64GB), 256SSD, 4x USB-A, 2x DP, WLAN\n* Integroitu muistikortinlukija / Optinen asema DVD+/-RW\n* 3 vuoden onsite-huolto ja Tekninen tuki – puhelinneuvonta – 1 vuosi"},{"bgColor":"lightest","title":"DELL 24\" P2422H FHD/IPS/HAS/PIVOT","linkBgColor":"darkest","content":"Dell U2422H vastaa vaativan-käyttäjän tarpeisiin FullHD-tarkkuudella ja kattavilla ominaisuuksillaan\n\nLED-taustavalaistussa 24” IPS laajakuvanäytössä on huipputarkka kuva ja alhainen virrankulutus. Monipuolisesti säädettävä PIVOT jalusta ja korkeudensäätö.\n\nLED-taustavalaistussa 27” IPS laajakuvanäytössä on huipputarkka kuva ja alhainen virrankulutus. Monipuolisesti säädettävä PIVOT jalusta ja korkeudensäätö.","image":"/assets/dell_u2419h_250x207.jpg"}]' />
