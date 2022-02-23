@@ -29,7 +29,7 @@ Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, 
 | Konepakettien hinta          | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
 | ---------------------------- | --------------------- | --------------------- | ----------------- |
 | DELL OptiPlex 3090 MFF       | 37,61 €/kk            | 24,89 €/kk            | 765,00 €          |
-| DELL 24" PRO P2422H näytöllä | 46,75 €/kk            | 30,94 €/kk            | 1000,00 €         |
+| DELL 24" PRO P2422H näytöllä | 46,75 €/kk            | 30,94 €/kk            | 997,00 €          |
 | DELL 27" PRO P2722H näytöllä | 48,20 €/kk            | 31,90 €/kk            | 1030,00 €         |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
