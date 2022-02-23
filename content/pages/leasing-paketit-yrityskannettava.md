@@ -1,6 +1,6 @@
 ---
 path: /leasing-paketit/yrityskannettava
-thumbnail: /assets/24vf0.jpg
+thumbnail: /assets/5520_400x282.jpg
 date: 2022-02-22T09:44:19.342Z
 head:
   title: Edullinen yrityskannettava
