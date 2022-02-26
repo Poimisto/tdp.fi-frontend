@@ -6,8 +6,8 @@ head:
   title: Telakoitava Ultrabook ammattilaiselle
   description: Tämä huippukevyt ja kestävä kokoonpano on suunniteltu täyttämään
     vaativammankin käyttäjän tarpeet. Tehokas prosessori, metallirunko,
-    FullHD-näyttö, SSD-levy, sekä langaton telakointi ja sisäänrakennettu
-    modeemi takaavat miellyttävän käyttökokemuksen.
+    FullHD-näyttö, SSD-levy, helppo telakointi ja sisäänrakennettu modeemi
+    takaavat miellyttävän käyttökokemuksen.
   keywords: Ultrabook, telakka
 contactForm: Ota yhteyttä
 breadcrumb:
