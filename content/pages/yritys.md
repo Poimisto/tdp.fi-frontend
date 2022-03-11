@@ -23,7 +23,7 @@ Pyrimme edullisuuden lisäksi siihen, että palvelumme on aina asiakaslähtöist
 
 Päätoimialueemme ovat Pirkanmaalla, Etelä-Suomessa ja Keski-Suomessa. Konttorimme sijaitsee Nokialla Tampereen kupeessa. Asiakkaita meillä on lukuisilta eri toimialoilta.
 
-Olemme pieni mutta vakavaraisesti kasvava yritys. Tavoitteemme on saavuttaa yli miljoonan liikevaihto vuonna 2021.
+Olemme dynaaminen ja vakavaraisesti kasvava yritys. Siitä osoituksena saavutimme ensimmäistä kertaa yli miljoonan euron liikevaihdon vuonna 2021 ja nyt vuonna 2022 tavoitteemme on tarjota palvelukokonaisuuttamme yhä useammalle yritykselle.
 
 ### Työntekijämme
 
@@ -54,11 +54,8 @@ Olemme pieni mutta vakavaraisesti kasvava yritys. Tavoitteemme on saavuttaa yli 
 
 <br/><br/>
 
-
 <img src="/static/PL_LOGO_Tampereen_Datapiste_Oy_FI_417749_web-bfe57b3a6f8be4018692e62d9659625b.jpg" />
 
-
 </Grid>
 
 </Grid>
-
