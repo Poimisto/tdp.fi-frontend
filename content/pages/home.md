@@ -1,6 +1,6 @@
 ---
 path: /home
-thumbnail: /assets/tdp-logojpeg.jpg
+thumbnail: /assets/tdp-logo_valkoinen-teksti.png
 date: 2020-11-15T20:33:13.757Z
 head:
   title: Tietotekniikka on meillä helppoa
