@@ -31,11 +31,11 @@ Työkalut voidaan karkeasti ajatellen jakaa kolmeen kategoriaan:
 * Käyttöoikeuksien hallintaan soveltuvat työkalut
 * Enterprise -tason työkalut
 
-Näitä voidaan myös ajatella hallinnan tasoina, joita tarvitaan yrityksen kasvaessa. Ensimmäisellä ja toisella tasolla johtavien brändien pilviratkaisut, kuten **Googlen Drive**, **Microsoftin OneDrive** ja **Sharepoint**, ovat tämän hetken tunnetuimmat hallintajärjestelmät. 
+Näitä voidaan myös ajatella hallinnan tasoina, joita tarvitaan yrityksen kasvaessa. Ensimmäisellä ja toisella tasolla johtavien brändien pilviratkaisut, kuten [**Googlen Drive**](https://www.google.com/intl/fi_fi/drive/), [**Microsoftin OneDrive**](https://www.microsoft.com/fi-fi/microsoft-365/onedrive/online-cloud-storage) ja [**Sharepoint**](https://www.microsoft.com/fi-fi/microsoft-365/sharepoint/collaboration), ovat tämän hetken tunnetuimmat hallintajärjestelmät. 
 
-### Työkalut tiedostojen tallentamiseen ja jakamiseen
+### Työkalut tiedostojen tallentamiseen ja jakamiseen 
 
-Kevyeksi hallintajärjestelmäksi sopivat pilvitallennustilaa tarjoavat palvelut, kuten **Microsoft OneDrive**, **Google Drive** ja **Dropbox**.
+Kevyeksi hallintajärjestelmäksi sopivat pilvitallennustilaa tarjoavat palvelut, kuten Microsoft OneDrive, Google Drive ja [**Dropbox**](https://www.dropbox.com/).
 
 Näiden avulla tietoja voidaan tallentaa yhteiseen sijaintiin, käyttää eri päätelaitteilla sekä jakaa helposti yritysten sisällä tai asiakkaille. Palvelut myös huolehtivat tiedon salaamisesta. 
 
@@ -45,19 +45,19 @@ Vähänkin isommalle yritykselle tarvitaan parempia mahdollisuuksia käyttöoike
 
 Pilvipalveluiden hinnoittelussa ei ole juuri eroa ja helppojen integraatioiden vuoksi yrityksen dokumenttien hallintajärjestelmä kannattaa usein valita sen mukaan, onko yrityksessä muutoin käytössä Microsoftin vai Googlen palvelut. 
 
-Googlen puolella työkaluna on yrityksille tarkoitettu **Google Workspace** sisältäen tallennustilaa tarjoavan Google Driven. Työkalujen avulla voit määrittää kullekin työntekijälle roolin, minkä perusteella hänelle annetaan oikeuksia tarpeellisiin tietoihin.
+Googlen puolella työkaluna on yrityksille tarkoitettu [**Google Workspace**](https://workspace.google.com/intl/fi/) sisältäen tallennustilaa tarjoavan Google Driven. Työkalujen avulla voit määrittää kullekin työntekijälle roolin, minkä perusteella hänelle annetaan oikeuksia tarpeellisiin tietoihin.
 
 Microsoftin puolella vähänkään monimutkaisempaa tietojen ja käyttöoikeuksien hallintaa kannattaa ryhtyä rakentamaan Sharepointin avulla.
 
-Sharepointilla on pitkä historia ja se on ollut tarjolla jo kauan ennen pilviaikaa omalle palvelimelle asennettavana ohjelmistona. Esimerkiksi suuri osa yritysten intraneteistä on rakennettu Sharepointin päälle. Nykyään Sharepointin pilviversio on osa **Microsoftin Office 365** -pakettia ja se integroituu Microsoftin muihin 365-tuotteisiin, kuten **Teamsiin**.
+Sharepointilla on pitkä historia ja se on ollut tarjolla jo kauan ennen pilviaikaa omalle palvelimelle asennettavana ohjelmistona. Esimerkiksi suuri osa yritysten intraneteistä on rakennettu Sharepointin päälle. Nykyään Sharepointin pilviversio on osa [**Microsoftin 365** -pakettia](https://www.microsoft.com/fi-fi/microsoft-365) ja se integroituu Microsoftin muihin 365-tuotteisiin, kuten **Teamsiin**.
 
 Toki on mahdollista käyttää samanaikaisesti myös muiden osapuolien palveluita eri käyttötarpeisiin. Esimerkiksi Sharepointia sisäisiin tiedostoihin ja Dropboxia asiakkaille jaettaviin materiaaleihin. Olennaista on kuitenkin välttää tilanteita, joissa samaan tarpeeseen käytetään samaan aikaan useampia eri palveluita. Tämä johtaa tietojen siiloutumiseen ja hallinnan vaikeutumiseen.
 
 ### Yrityksen tietojen kokonaisvaltainen hallinta
 
-Vaikka yrityksellä olisi käytössä dokumenttien hallintaan hyvin soveltuvat työkalut, voi kokonaisuuden hallinta silti osoittautua haasteeksi. Varsinkin yrityksissä, joissa tietoa syntyy paljon ja työntekijät jakavat käyttöoikeuksia edelleen. Isommille yrityksille löytyy kokonaisvaltaisempaan tietohallintaan erityisesti soveltuvia työkaluja, kuten suomalainen **M-Files**.
+Vaikka yrityksellä olisi käytössä dokumenttien hallintaan hyvin soveltuvat työkalut, voi kokonaisuuden hallinta silti osoittautua haasteeksi. Varsinkin yrityksissä, joissa tietoa syntyy paljon ja työntekijät jakavat käyttöoikeuksia edelleen. Isommille yrityksille löytyy kokonaisvaltaisempaan tietohallintaan erityisesti soveltuvia työkaluja, kuten suomalainen [**M-Files**](https://www.m-files.com/fi/).
 
-Myös Googlen ekosysteemin ympärille on hiljalleen syntymässä parempia välineitä. Yksi hyvä esimerkki on **Nira**, jonka avulla voi hallita ja luoda sääntöjä tiedostoille ja käyttöoikeuksille. Niran ohjelmistolla voi automaattisesti valvoa tiedostoja, niiden jakamisia ja tarvittaessa päivittää tietojen käyttöoikeuksia. Säännön avulla voidaan esimerkiksi estää yritysten dokumenttien jako työntekijän henkilökohtaiselle tilille ja muuttaa automaattisesti lähtevän työntekijän käyttöoikeudet. 
+Myös Googlen ekosysteemin ympärille on hiljalleen syntymässä parempia välineitä. Yksi hyvä esimerkki on [**Nira**](https://nira.com/), jonka avulla voi hallita ja luoda sääntöjä tiedostoille ja käyttöoikeuksille. Niran ohjelmistolla voi automaattisesti valvoa tiedostoja, niiden jakamisia ja tarvittaessa päivittää tietojen käyttöoikeuksia. Säännön avulla voidaan esimerkiksi estää yritysten dokumenttien jako työntekijän henkilökohtaiselle tilille ja muuttaa automaattisesti lähtevän työntekijän käyttöoikeudet. 
 
 ## Miten luodaan toimivat käytänteet dokumentinhallintaan?
 
