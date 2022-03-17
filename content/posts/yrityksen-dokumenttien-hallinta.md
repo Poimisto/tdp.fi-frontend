@@ -14,7 +14,7 @@ thumbnail: /assets/dokumentinhallinta-netlify.jpg
 ---
 ![Yrityksen dokumenttien hallinta – tehokkaasti pilvessä](/assets/dokumentinhallinta-netlify.jpg)
 
-Mistä tietää, että yrityksen dokumenttien hallinta on retuperällä? Ainakin seuraavista asioista:
+**Mistä tietää, että yrityksen dokumenttien hallinta on retuperällä? Ainakin seuraavista asioista:**
 
 * Työntekijät tallentavat tietoa omalle tietokoneelleen ja milloin mihinkin. Kun työntekijä vaihtaa maisemaa, kukaan ei oikein tiedä mitä tietoja hänen mukanaan lähti.
 * Myyntiesityksissä asiakkaalle esitellään vanhentuneita tuote- tai palvelukuvauksia. Kukaan ei oikein tiedä, mikä tieto on ajantasaista, ja työaikaa kuluu tietojen oikeellisuuden varmistamiseen.
