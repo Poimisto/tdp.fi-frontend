@@ -120,7 +120,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#343A40`,
         display: `minimal-ui`,
-        icon: `src/images/tdp-logo-46x40.png`, // This path is relative to the root of the site.
+        icon: `src/images/tdp-logo-2022-512x512.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

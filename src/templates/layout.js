@@ -104,7 +104,7 @@ export default ({children, breadcrumb}) => {
           <NavGridContainer container>
             <Grid item>
               <Link to="/">
-                <LogoImage src={require('../images/tdp-logo-140x40.png')} alt="TDP Logo" />
+                <LogoImage src={require('../images/tdp-logo-2022-60x60.png')} alt="TDP Logo" />
               </Link>
             </Grid>
             <Grid item>
@@ -135,7 +135,7 @@ export default ({children, breadcrumb}) => {
       <Footer>
         <Container className="footerContainer">
             <div className="footerLogo">
-              <img src={require('./../images/tdp-logo-nobg.png')} />
+              <img src={require('./../images/tdp-logo-2022-120x120.png')} />
             </div>
             <div className="footerBullets">
               <ul style={{listStyleType:'none',padding:0}}>
