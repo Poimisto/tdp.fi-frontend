@@ -49,7 +49,7 @@ Googlen puolella työkaluna on yrityksille tarkoitettu [**Google Workspace**](ht
 
 Microsoftin puolella vähänkään monimutkaisempaa tietojen ja käyttöoikeuksien hallintaa kannattaa ryhtyä rakentamaan Sharepointin avulla.
 
-Sharepointilla on pitkä historia ja se on ollut tarjolla jo kauan ennen pilviaikaa omalle palvelimelle asennettavana ohjelmistona. Esimerkiksi suuri osa yritysten intraneteistä on rakennettu Sharepointin päälle. Nykyään Sharepointin pilviversio on osa [**Microsoftin 365** -pakettia](https://www.microsoft.com/fi-fi/microsoft-365) ja se integroituu Microsoftin muihin 365-tuotteisiin, kuten **Teamsiin**.
+Sharepointilla on pitkä historia ja se on ollut tarjolla jo kauan ennen pilviaikaa omalle palvelimelle asennettavana ohjelmistona. Esimerkiksi suuri osa yritysten intraneteistä on rakennettu Sharepointin päälle. Nykyään Sharepointin pilviversio on osa [**Microsoftin 365**](https://www.microsoft.com/fi-fi/microsoft-365) -pakettia ja se integroituu Microsoftin muihin 365-tuotteisiin, kuten **Teamsiin**.
 
 Toki on mahdollista käyttää samanaikaisesti myös muiden osapuolien palveluita eri käyttötarpeisiin. Esimerkiksi Sharepointia sisäisiin tiedostoihin ja Dropboxia asiakkaille jaettaviin materiaaleihin. Olennaista on kuitenkin välttää tilanteita, joissa samaan tarpeeseen käytetään samaan aikaan useampia eri palveluita. Tämä johtaa tietojen siiloutumiseen ja hallinnan vaikeutumiseen.
 
@@ -77,7 +77,7 @@ Dokumentteja ei saa ajatella yhtenäisenä säilöttävänä joukkona, vaan eril
 
 **3. Millaisia käyttäjäryhmiä yrityksessä on? Millanen organisaatiorakenne?**
 
-Henkilötason oikeuksien hallinta kannattaa unohtaa yrityksessäsi heti, se ei tule onnistumaan! Yrityksen dokumenttien tehokkaassa hallinnassa on olennaista periaate, että kaikki yrityksen tieto ei ole kaikkien saatavilla. Yrityksessä kaikki tieto ei muutenkaan ole yhteistä; on omia, tiimin ja koko organisaation tietoja. 
+Henkilötason oikeuksien hallinta kannattaa minimoida, se on riskialtista. Yrityksen dokumenttien tehokkaassa hallinnassa on olennaista periaate, että kaikki yrityksen tieto ei ole kaikkien saatavilla. Yrityksessä kaikki tieto ei muutenkaan ole yhteistä; on omia, tiimin ja koko organisaation tietoja. 
 
 **4. Miten käyttöoikeuksia hallitaan?**
 
