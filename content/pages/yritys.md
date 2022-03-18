@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <Grid item xs={12} sm={8}>
 
-Tampereen Datapiste on vuonna 2007 perustettu IT-alan asiantuntijayritys. Tehtävämme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä.
+Tampereen Datapiste Oy on vuonna 2007 perustettu IT-alan asiantuntijayritys. Tehtävämme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä.
 
 Kauttamme saatte kaikki tarvitsemanne IT-palvelut. Laitteistojen lisäksi palveluihimme kuuluvat ohjelmistot, huollot, tuki- ja palvelusopimukset sekä tietoturvapalvelut.
 
