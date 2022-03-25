@@ -4,9 +4,9 @@ thumbnail: /assets/tdp-logo-slogan-horizontal-rgb.png
 date: 2020-11-15T20:33:13.757Z
 head:
   title: Tietotekniikka on meillä helppoa
-  description: Tampereen Datapiste on Pirkanmaalta ja pääkaupunkiseudulta käsin
-    toimiva yritysten IT-palveluntuottaja. Kauttamme saatte kaikki yrityksenne
-    tarvitsemat IT-laitteet ja -palvelut.
+  description: TDP on Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva yritysten
+    IT-palveluntuottaja. Kauttamme saatte kaikki yrityksenne tarvitsemat
+    IT-laitteet ja -palvelut.
   keywords: TDP, Tampereen Datapiste, etusivu
 contactForm: Ota yhteyttä
 ---
@@ -23,7 +23,7 @@ contactForm: Ota yhteyttä
 
 ## Tietotekniikka on meillä helppoa
 
-Tampereen Datapiste on **Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva yritysten IT-palveluntuottaja**. Kauttamme saatte kaikki yrityksenne tarvitsemat IT-laitteet ja -palvelut.
+TDP on **Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva yritysten IT-palveluntuottaja**. Kauttamme saatte kaikki yrityksenne tarvitsemat IT-laitteet ja -palvelut.
 
 Palvelumme on suunnattu startup- ja pk-yrityksille, joille tietotekniikan toimivuus järkevällä hintatasolla on tärkeää. Toimitamme työntekijöiden koneet ja puhelimet, toimiston laitteet ja yritysverkot käyttökuntoon asennettuna. Kauttamme saatte myös muut **IT-osaston palvelut palvelusopimuksella.**
 
@@ -73,7 +73,7 @@ Syötä vain laskuriin kaikki tarvitsemasi laitteet ja palvelut ja TDP SLIM lask
 
 ### Referenssit
 
-Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen Datapisteen toiminta nojaa. Meillä on asiakkaina yrityksiä monelta eri toimialalta. Lue tyytyväisten asiakkaidemme kokemuksista ja liity heidän joukkoonsa.
+Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen TDP:n toiminta nojaa. Meillä on asiakkaina yrityksiä monelta eri toimialalta. Lue tyytyväisten asiakkaidemme kokemuksista ja liity heidän joukkoonsa.
 
 <CallToAction bgColor="lightest" url="/referenssit" align="center">Lue asiakaskokemuksista</CallToAction>
 
@@ -97,7 +97,7 @@ Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen 
 
 ### IT-palveluita vuodesta 2007
 
-Tampereen Datapiste on vuonna 2007 perustettu IT-palveluyritys. Toimipisteemme sijaitsevat Tampereella ja Helsingissä, mutta palvelemme yrityksiä myös muualla Suomessa.
+Tampereen Datapiste Oy on vuonna 2007 perustettu IT-palveluyritys. Toimipisteemme sijaitsevat Tampereella ja Helsingissä, mutta palvelemme yrityksiä myös muualla Suomessa.
 
 Ydinosaamistamme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä. Koulutettu, kokenut henkilökuntamme palvelee nopealla vasteajalla niin uusien laitteiden asennuksissa kuin vikatilanteissa.
 
