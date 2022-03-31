@@ -73,8 +73,8 @@ Rahoitussopimus solmitaan rahoitusyhtiön kanssa ja Tampereen Datapiste toimitta
 
 ## Miksi leasing-sopimus kauttamme on yrityksellesi turvallinen valinta?
 
-Tampereen Datapiste on vuonna 2007 perustettu tietotekniikan asiantuntijayritys, jolla on kasvava joukko tyytyväisiä asiakkaita. 
+Tampereen Datapiste Oy on vuonna 2007 perustettu tietotekniikan asiantuntijayritys, jolla on kasvava joukko tyytyväisiä asiakkaita. 
 
 Suurin osa liikevaihdostamme tulee palvelusopimuksista, joissa toimimme asiakkaidemme IT-kumppanina. Myös meidän etumme on tällöin varmistaa, että toimitetut laitteet ovat luotettavia ja vastaavat käyttötarkoitustaan. 
 
-<a href="/yritys">» Lue lisää Tampereen Datapisteestä.</a>
+<a href="/yritys">» Lue lisää TDP:stä.</a>
