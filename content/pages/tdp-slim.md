@@ -41,7 +41,7 @@ TDP SLIM™ -palvelu on suunnattu pienille asiantuntijayrityksille ja startupeil
 
 ## Yrityksesi IT-palvelut helposti
 
-TDP SLIM -palvelu Tampereen Datapiste Oy:n kehittämä. TDP on vuonna 2007 perustettu luotettava suomalainen IT-palvelutoimittaja, joka palvelee yritysasiakkaita kaikkialla Etelä-Suomessa.
+TDP SLIM -palvelu on Tampereen Datapiste Oy:n kehittämä. TDP on vuonna 2007 perustettu luotettava suomalainen IT-palvelutoimittaja, joka palvelee yritysasiakkaita kaikkialla Etelä-Suomessa.
 
 Olemme toimineet pitkään tietotyötä tekevien yrittäjien ja yritysten IT-kumppanina. Asiakkaanamme on esimerkiksi insinööritoimistoja ja -yrittäjiä, lakitoimistoja sekä mainostoimistoja. 
 
