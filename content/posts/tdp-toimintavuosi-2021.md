@@ -8,9 +8,9 @@ head:
     ensijaisesti kasvu. Tavoiteltu miljoonan euron liikevaihto saavutettiin,
     uusia asiakassuhteita solmittiin ja monet muutkin asiat menivät eteenpäin.
   keywords: TDP, toimintavuosi, 2021, liikevaihto, rekrytointi
-thumbnail: /assets/toimintavuosi-sloganilla-päät-esille.jpg
+thumbnail: /assets/toimintavuosi-sloganitta3.jpg
 ---
-![TDP:n toimintavuosi 2021](/assets/toimintavuosi-sloganilla-päät-esille.jpg)
+![TDP:n toimintavuosi 2021](/assets/toimintavuosi-sloganitta3.jpg)
 
 **TDP:n toimintavuosi 2021 oli erittäin onnistunut. Tarkempia lukuja odotellessa voimme juhlia liikevaihdon osalta miljoonan euron lasikaton rikkomista, mutta mikä tärkeintä, kasvoimme ja kehityimme organisaationa koko yrityksen leveydellä.**
 
