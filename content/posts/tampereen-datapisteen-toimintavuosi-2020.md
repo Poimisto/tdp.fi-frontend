@@ -8,9 +8,9 @@ head:
     onnistunut. Talouden tunnusluvut olivat hyvät, prosesseja saatiin kehitettyä
     ja tyytyväisiä asiakkaita oli entistä enemmän.
   keywords: Tampereen Datapiste, toimintavuosi, 2020, tilinpäätös, liikevaihto
-thumbnail: /assets/toimintavuosi-kotisivut-1280x800-min.png
+thumbnail: /assets/uusi-toimintavuosi.jpg
 ---
-![TDP:n toimintavuosi 2020](/assets/toimintavuosi-kotisivut-1280x800-min.png)
+![TDP:n toimintavuosi 2020](/assets/uusi-toimintavuosi.jpg)
 
 **Kokonaisuutena Tampereen Datapisteen toimintavuotta 2020 voidaan luonnehtia onnistuneeksi. Liikevaihto kasvoi aiempaan vuoteen nähden, yrityksen toimintaprosesseja ja asiakaspalvelua saatiin kehitettyä ja asiakaspalaute oli poikkeuksetta myönteistä.**
 
