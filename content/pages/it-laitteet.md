@@ -14,7 +14,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Tietokone-leasing ja työntekijöiden laitteet](/assets/devices.png)
+![Tietokone-leasing ja työntekijöiden laitteet](/assets/image00006-min.jpeg)
 
 </div>
 
