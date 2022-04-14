@@ -29,6 +29,10 @@ contactForm: Ota yhteyttä
 * Käyttäjätunnusten, ohjelmistojen ja tietoturvan hallinta ja päivitykset 
 * Hinta skaalautuu tarpeen ja työntekijämäärän mukaan
 
+
+
+
+
 <CallToAction bgColor="dark" url="#contact-form" align="left">Jätä tarjouspyyntö</CallToAction>
 
 <CallToAction bgColor="lightest" url="/it-palvelut/palvelusopimus" align="left">Lue lisää palvelusopimuksesta</CallToAction>
