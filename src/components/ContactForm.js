@@ -156,7 +156,7 @@ export default (props) => {
 
             <TextField error={!!errors.email} helperText={!!errors.email ? errors.email : ''} onChange={(e) => setFormValue('email', e.target.value)} variant="filled" label="Sähköposti" />
 
-            <TextField variant="filled" onChange={(e) => setFormValue('phone', e.target.value)} variant="filled" label="Puhelinnumero" />
+            <TextField variant="filled" onChange={(e) => setFormValue('phone', e.target.value)} label="Puhelinnumero" />
 
             <input type="text" style={{display:'none'}} onChange={(e) => setFormValue('phone', e.target.value)} name="__zipcode" />
           </FormControl>

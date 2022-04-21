@@ -20,7 +20,7 @@ import Grid from '@material-ui/core/Grid'
 
 
 import ContactForm from './../components/ContactForm'
-import { Divider } from "@material-ui/core";
+import NewsletterForm from "../components/NewsletterForm";
 
 const GlobalStyle = createGlobalStyle`
   * {
@@ -113,7 +113,7 @@ const ArticleContent = styled.div`
       padding-right:0px;
     }
   }
-  a {
+  > a {
     text-decoration:underline;
   }
   blockquote:before {
@@ -154,7 +154,7 @@ const PageWrapper = styled.div`
 `;
 
 
-const shortcodes = { Link, CallToAction, HeroBlock, LatestPosts, Cards, ListOfEmployees, Grid, ListOfLeasingPackages }
+const shortcodes = { Link, CallToAction, HeroBlock, LatestPosts, Cards, ListOfEmployees, Grid, ListOfLeasingPackages, NewsletterForm }
 
 
 const EntryTemplate = ({data, pageContext}) => {
@@ -189,6 +189,8 @@ const EntryTemplate = ({data, pageContext}) => {
       )}
       {data.mdx.fields.collection === 'pages' && (
         <PageWrapper>
+
+
           <MDXProvider components={shortcodes}>
             <MDXRenderer>
                 {data.mdx.body}

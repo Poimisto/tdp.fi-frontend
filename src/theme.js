@@ -7,7 +7,7 @@ export default {
     danger: '#B70000',
     dark : '#343A40',
     darkest : '#111',
-    light : '#D3D4C1',
+    light : '#f3f3f3',
     lightest : '#fff',
     link: '#0f89d4',
   },
