@@ -124,7 +124,7 @@ export default (props) => {
                 {props.successMessage ?  props.successMessage:'Kiitos tilauksesta!'} 
               </p>
               {props.redirectTo ? (
-                <p>Selain aukaisee pian uuden ikkunan. Voit myös siirtyä tiedostoon <a href="' + props.redirectTo + '">tästä linkistä</a></p>
+                <p>Selain aukaisee pian uuden ikkunan. Voit myös siirtyä tiedostoon <a target="_blank" href={props.redirectTo}>tästä linkistä</a></p>
                ) : ''}
 
             </div>
