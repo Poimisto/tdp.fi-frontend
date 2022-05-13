@@ -33,7 +33,7 @@ Oppaassa kerrotaan tarkemmin keskitetyn hallinnan monista hyödyistä. Näitä o
 
 Opas kannattaa ladata, jos yrityksessänne on havaittavissa hallinnan puutteesta johtuvia ongelmia. Esimerkiksi: 
 
-* hukkuneita salasanoja,
+* hukkuneita salasanoja
 * yhteiskäytössä olevia tunnuksia tai salasanoja
 * vanhentuneita tai toimimattomia IT-laitteita tai 
 * hitaita manuaalisia IT-laitteiden käyttöönottoja, esimerkiksi uuden työntekijän kohdalla
@@ -52,4 +52,6 @@ Oppaastamme löydät lisää tietoa myös JumpCloudista. 
 
 - - -
 
-TDP on yritysten ripeä, asiantunteva IT-palvelukumppani. Olemme JumpCloudin virallinen jälleenmyyjä ja keskitetyn hallinnan suuri puolestapuhuja. Esittele meille yrityksesi haasteet laitteiden, käyttäjien ja tunnusten hallinnassa, me kerromme siihen ratkaisumallimme palvelulupausta ja hintatietoja myöten.
+TDP on yritysten ripeä, asiantunteva IT-palvelukumppani. Olemme JumpCloudin virallinen jälleenmyyjä ja keskitetyn hallinnan suuri puolestapuhuja. 
+
+Esittele meille yrityksesi haasteet laitteiden, käyttäjien ja tunnusten hallinnassa, me kerromme siihen ratkaisumallimme palvelulupausta ja hintatietoja myöten.
