@@ -9,6 +9,8 @@ head:
   title: Kokoaikaisen Service Desk -tukihenkilön tehtävä avoinna
 thumbnail: /assets/service-desk2-netlify-1280-x-800.jpg
 ---
+![Hae Service Desk -tukihenkilön paikkaa.](/assets/service-desk2-netlify-1280-x-800.jpg)
+
 *TDP on yrityksille IT-palveluita tarjoava kasvava, vakavarainen yritys, jonka toimipisteet sijaitsevat Nokialla ja Vantaalla. Olemme täyden palvelun IT-talo, jonka toiminta-ajatuksena on tarjota yrityksille kaikki niiden arjessa tarvitsemansa IT-laitteet ja -palvelut uusimmilla teknologisilla ratkaisuilla.*
 
 Haemme yrityksemme kasvun myötä Vantaan toimipisteeseemme: 
@@ -36,7 +38,7 @@ Service Desk -henkilönä huolehdit asiakasyritystemme monipuolisista tarpeista 
 * **Ajokortti on pakollinen**
 * **Erityisenä plussana** näemme kyvyn ymmärtää asiakkaan IT-ympäristöä ja nähdä siihen liittyviä kehitysmahdollisuuksia.
 
-### Taustasi 
+### Taustasi
 
 Voit olla opintoja vielä suorittava, vastavalmistunut tai jo pitkän työuran IT-alalla tehnyt. Muodollinen koulutus ei siis ole tärkein kriteeri, vaan osaamisesi taso, asenne työhön ja halu kehittää itseäsi edelleen. 
 
@@ -48,7 +50,7 @@ Työpisteesi voi olla toimistorakennuksessa tai voit tehdä töitä myös omasta
 
 **Tehtävän palkkaus** on kaavailtu tasolle 2500-3000 €/kk. Lopullinen palkka täsmentyy osaamisesi mukaan ja on neuvoteltavissa. 
 
-### Jos kiinnostuit tehtävästä 
+### Jos kiinnostuit tehtävästä
 
 Lähetä vapaamuotoinen hakemuksesi, CV:si ja palkkatoiveesi osoitteeseen: [rekry@tdp.fi](mailto:rekry@tdp.fi) 
 
