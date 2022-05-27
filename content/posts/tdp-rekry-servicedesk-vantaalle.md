@@ -11,8 +11,6 @@ thumbnail: /assets/service-desk2-netlify-1280-x-800.jpg
 ---
 ![Hae Service Desk -tukihenkilön paikkaa.](/assets/service-desk2-netlify-1280-x-800.jpg)
 
-*TDP on yrityksille IT-palveluita tarjoava kasvava, vakavarainen yritys, jonka toimipisteet sijaitsevat Nokialla ja Vantaalla. Olemme täyden palvelun IT-talo, jonka toiminta-ajatuksena on tarjota yrityksille kaikki niiden arjessa tarvitsemansa IT-laitteet ja -palvelut uusimmilla teknologisilla ratkaisuilla.*
-
 Haemme yrityksemme kasvun myötä Vantaan toimipisteeseemme: 
 
 ## **Kokoaikaista Service Desk -tukihenkilöä**
