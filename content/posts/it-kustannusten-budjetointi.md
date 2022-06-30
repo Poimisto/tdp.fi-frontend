@@ -38,7 +38,7 @@ Budjetoinnissa voidaan soveltaa erilaisia tapoja. **Yksinkertaisin tapa on laati
 
 Budjetti laaditaan ja hyväksytään hieman ennen seuraavan budjettikauden alkua. Budjetoinnin perusteena toimii lähtökohtaisesti edellisen vuoden budjetti ja laskelma siitä, pysyttiinkö budjetin raameissa vai ei. 
 
-Ensimmäistä kertaa laskelmien perusteena ei tietenkään voi käyttää aiempia budjetteja, koska sellaisia ei ole. 
+Ensimmäisellä kerralla laskelmien perusteena ei tietenkään voi käyttää aiempia budjetteja, koska sellaisia ei ole. 
 
 ### IT-budjetti osuutena liikevaihdosta
 
@@ -88,8 +88,8 @@ Harkinnanvaraiset kulut kasvattavat budjettia. Ne tulee erikseen perustella saav
 
 ## Mitä IT-budjetilla sitten saa?
 
-**IT-ulkoistus on IT-budjetin fiksua “tuhlausta”.** Sillä yritys saa itselleen ei vain tarvitsemansa laitteet ja palvelut, vaan alan asiantuntijan jatkuvan läsnäolon yrityksen arjessa. Ei tule tilanteita, joissa yritys ei voisi kysyä apua eikä saisi sitä nopeasti.\
-\
+**IT-ulkoistus on IT-budjetin fiksua “tuhlausta”.** Sillä yritys saa itselleen ei vain tarvitsemansa laitteet ja palvelut, vaan alan asiantuntijan jatkuvan läsnäolon yrityksen arjessa. Ei tule tilanteita, joissa yritys ei voisi kysyä apua eikä saisi sitä nopeasti.
+
 Lisäksi tietoturva, joka monessa yrityksessä on valitettavasti vielä vaillinainen, nousee osaavan IT-kumppanin myötä uudelle tasolle. 
 
 IT-kumppanin kanssa on tuottavaa pohtia yhdessä kumppanuuden ensimetreillä:
