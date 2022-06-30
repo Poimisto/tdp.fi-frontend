@@ -28,7 +28,7 @@ On osittain määrittelykysymys, mitä ylipäätään lasketaan IT-kuluiksi. **I
 * Erilaiset ohjelmistolisenssit ja kuukausimaksulliset pilvipalvelut
 * IT-tukeen ja IT-ongelmien ratkomiseen käytettyjä työpäiviä
 * Verkkosivuston ylläpito- ja kehitystyö
-* Erilaisten IT-järjestelmien, kuten toiminnanohjausjärjestelmän käyttöönotto ja ylläpito
+* Erilaisten IT-järjestelmien, kuten toiminnanohjausjärjestelmän, käyttöönotto ja ylläpito
 
 Tässä artikkelissa IT:sta syntyviin kustannuksiin lasketaan PK-yrityksen näkökulmasta tärkeimmät kulut, eli työntekijöiden ja toimistojen laitteet sekä työnteossa käytettävät palvelut ja ohjelmistot sekä näihin liittyvät tukitoiminnot, kuten tietoturva ja ylläpito. 
 
