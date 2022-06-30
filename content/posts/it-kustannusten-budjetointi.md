@@ -48,7 +48,7 @@ Tällainen ylätason lähestymistapa on melko alkeellinen, koska se ei auta kohd
 
 ### IT-budjetti työntekijäkohtaisesti laskettuna
 
-**Kolmas vaihtoehto on miettiä kustannuksia työntekijä- ja roolikohtaisesti, ja sitten kertoa kulut työntekijämäärällä.** Työtekijäkohtaiset IT-kulut voivat vaihdella todella paljon: suunnittelutyötä tekevä vaatii tehokkaammat ja kalliimmat laitteet (esim. 100 EUR / kk), kun taas toimistotyössä selvitään kevyemmällä varustuksella (esim. 50 EUR / kk). Joissakin rooleissa IT-kuluja ei välttämättä synny lainkaan. 
+**Kolmas vaihtoehto on miettiä kustannuksia työntekijä- ja roolikohtaisesti, ja sitten kertoa kulut työntekijämäärällä.** Työntekijäkohtaiset IT-kulut voivat vaihdella todella paljon: suunnittelutyötä tekevä vaatii tehokkaammat ja kalliimmat laitteet (esim. 100 EUR / kk), kun taas toimistotyössä selvitään kevyemmällä varustuksella (esim. 50 EUR / kk). Joissakin rooleissa IT-kuluja ei välttämättä synny lainkaan. 
 
 Työntekijäkohtaisten kustannusten lisäksi tulee tietysti jaetut kustannukset, kuten toimiston verkot tai yhteisesti käytössä olevat ohjelmistolisenssit.
 
