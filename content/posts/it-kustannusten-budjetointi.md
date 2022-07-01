@@ -5,8 +5,9 @@ date: 2022-06-30T11:43:14.581Z
 head:
   title: Yrityksen IT-kustannusten budjetointi
   keywords: IT-kustannukset, budjetointi, IT-budjetti, IT-ulkoistus
-  description: Yrityksen IT-budjetti ei ole vain menoerä, vaan myös mahdollisuus
-    optimoida omaa liiketoimintaa.
+  description: Yrityksen IT-budjetti ei ole menoerä, vaan mahdollisuus. Oikein
+    toteutettuna budjetoinnilla ei ensisijaisesti karsita menoja, vaan
+    optimoidaan koko liiketoimintaa.
 thumbnail: /assets/yritysten-it-kustannukset.jpg
 ---
 ![Yritysten IT-kustannusten budjetointi | TDP –  IT on meillä helppoa](/assets/yritysten-it-kustannukset.jpg)
