@@ -32,7 +32,7 @@ On osittain määrittelykysymys, mitä ylipäätään lasketaan IT-kuluiksi. **I
 
 Tässä artikkelissa IT:sta syntyviin kustannuksiin lasketaan PK-yrityksen näkökulmasta tärkeimmät kulut, eli työntekijöiden ja toimistojen laitteet sekä työnteossa käytettävät palvelut ja ohjelmistot sekä näihin liittyvät tukitoiminnot, kuten tietoturva ja ylläpito. 
 
-### Erilaisia IT-kulujen budjetointitapoja
+## Erilaisia IT-kulujen budjetointitapoja
 
 Budjetoinnissa voidaan soveltaa erilaisia tapoja. **Yksinkertaisin tapa on laatia kiinteä budjetti koko tilikaudelle.** 
 
@@ -62,7 +62,7 @@ Joskus ajatellaan, että yrityksen kannattaa tehdä mahdollisimman paljon itse j
 
 Budjetoinnin näkökulmasta on kuitenkin aina helpointa, jos laitteet ja muut palvelut hankitaan kuukausittaisella hinnalla. Jos kulut ovat vieläpä pääosin työntekijäperustaisia, niin ne skaalautuvat ennustettavasti ylös- ja alaspäin liiketoiminnan kasvamisen tai supistumisen myötä.
 
-### Pakolliset ja harkinnanvaraiset IT-kulut
+## Pakolliset ja harkinnanvaraiset IT-kulut
 
 Entäpä jos IT-budjettia halutaan tarkastella lähemmin ja miettiä, tulisiko sitä leikata tai kasvattaa? IT-kulut voidaan jakaa kahteen eri kategoriaan: pakollisiin ja harkinnanvaraisiin.
 
