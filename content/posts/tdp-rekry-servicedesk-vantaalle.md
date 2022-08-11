@@ -6,7 +6,7 @@ head:
   description: TDP:n liiketoiminnan kasvaessa tarvitsemme lisää osaajia. Tule
     joukkoomme huolehtimaan yritysten IT-ympäristöstä!
   keywords: TDP, service desk, tukihenkilö, asiakaspalvelu, pk-seutu
-  title: Kokoaikaisen Service Desk -tukihenkilön tehtävä avoinna
+  title: Kokoaikainen Service Desk -tukihenkilö haussa
 thumbnail: /assets/service-desk2-netlify-1280-x-800.jpg
 ---
 ![Hae Service Desk -tukihenkilön paikkaa.](/assets/service-desk2-netlify-1280-x-800.jpg)
