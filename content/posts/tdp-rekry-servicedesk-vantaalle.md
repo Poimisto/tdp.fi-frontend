@@ -11,6 +11,8 @@ thumbnail: /assets/service-desk2-netlify-1280-x-800.jpg
 ---
 ![Hae Service Desk -tukihenkilön paikkaa.](/assets/service-desk2-netlify-1280-x-800.jpg)
 
+*Huom! Tämä rekrytointi on jo päättynyt. Voit kuitenkin jättää avoimen hakemuksen.*
+
 Haemme yrityksemme kasvun myötä Vantaan toimipisteeseemme: 
 
 ## **Kokoaikaista Service Desk -tukihenkilöä**
