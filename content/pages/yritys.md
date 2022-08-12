@@ -25,6 +25,10 @@ Päätoimialueemme ovat Pirkanmaalla, Etelä-Suomessa ja Keski-Suomessa. Konttor
 
 Olemme dynaaminen ja vakavaraisesti kasvava yritys. Siitä osoituksena saavutimme ensimmäistä kertaa yli miljoonan euron liikevaihdon vuonna 2021 ja nyt vuonna 2022 tavoitteemme on tarjota palvelukokonaisuuttamme yhä useammalle yritykselle.
 
+Jos haluat tietää enemmän IT-alasta ja yrityksemme uusista käänteistä, ryhdy uutiskirjeemme tilaajaksi:
+
+<CallToAction bgColor="brand" url="https://bit.ly/3zsDs3q" align="center">Tilaa uutiskirje</CallToAction>
+
 ### Työntekijämme
 
 <ListOfEmployees />
