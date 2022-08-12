@@ -27,7 +27,9 @@ Olemme dynaaminen ja vakavaraisesti kasvava yritys. Siitä osoituksena saavutimm
 
 Jos haluat tietää enemmän IT-alasta ja yrityksemme uusista käänteistä, ryhdy uutiskirjeemme tilaajaksi:
 
+
 <CallToAction bgColor="brand" url="https://bit.ly/3zsDs3q" align="center">Tilaa uutiskirje</CallToAction>
+
 
 ### Työntekijämme
 
