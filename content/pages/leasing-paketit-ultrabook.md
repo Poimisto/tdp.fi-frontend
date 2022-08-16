@@ -29,8 +29,8 @@ Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, 
 
 | Konepakettien hinta                | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
 | ---------------------------------- | --------------------- | --------------------- | ----------------- |
-| DELL Latitude 7430                 | 75,97 €/kk            | 50,27 €/kk            | 1585,00 €         |
-| DELL 27 PRO P2722H -näyttö         | 12,90 €/kk            | 8,54 €/kk             | 258,00€           |
+| DELL Latitude 7430                 | 79,43 €/kk            | 52,57 €/kk            | 1719,00 €         |
+| DELL 27 PRO P2722H -näyttö         | 14,42 €/kk            | 9,54 €/kk             | 312,00€           |
 | DELL WD 19TBS 180w Telakointiasema | 16,57 €/kk            | 10,97 €/kk            | 319,00 €          |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
