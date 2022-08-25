@@ -26,11 +26,11 @@ Tämä leasingpaketti tarjoaa edullisen ja toimivan perustyöaseman yrityskäytt
 
 Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, niin katso <a href="/leasing-paketit/laatukone">laatukone-pakettimme</a> hieman tehokkaampaan työskentelyyn
 
-| Konepakettien hinta          | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
-| ---------------------------- | --------------------- | --------------------- | ----------------- |
-| DELL OptiPlex 3090 MFF       | 39,23 €/kk            | 25,96 €/kk            | 849,00 €          |
-| DELL 24" PRO P2422H näyttö   | 9,48 €/kk             | 6,27 €/kk             | 205,00 €          |
-| DELL 27" PRO P2722H näyttö   | 14,42 €/kk            | 9,54 €/kk             | 312,00 €          |
+| Konepakettien hinta        | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
+| -------------------------- | --------------------- | --------------------- | ----------------- |
+| DELL OptiPlex 3000 MFF     | 39,23 €/kk            | 25,96 €/kk            | 849,00 €          |
+| DELL 24" PRO P2422H näyttö | 9,48 €/kk             | 6,27 €/kk             | 205,00 €          |
+| DELL 27" PRO P2722H näyttö | 14,42 €/kk            | 9,54 €/kk             | 312,00 €          |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
