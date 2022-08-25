@@ -25,10 +25,10 @@ breadcrumb:
 
 Tämä huippukevyt ja kestävä kokoonpano on suunniteltu täyttämään vaativam>mankin käyttäjän tarpeet. Tehokas prosessori, metallirunko, FullHD-näyttö, SSD-levy, sekä helppo telakointi suoraan näyttöön takaavat miellyttävän käyttökokemuksen.
 
-| Konepakettien hinta            | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
-| ------------------------------ | --------------------- | --------------------- | ----------------- |
-| DELL Latitude 5530             | 59,01 €/kk            | 39,05 €/kk            | 1277,00 €         |
-| DELL 24" PRO P2422HE -näyttö   | 12,02 €/kk            | 7,95 €/kk             | 260,00 €         |
+| Konepakettien hinta          | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
+| ---------------------------- | --------------------- | --------------------- | ----------------- |
+| DELL Latitude 5530           | 59,01 €/kk            | 39,05 €/kk            | 1277,00 €         |
+| DELL 24" PRO P2422HE -näyttö | 12,02 €/kk            | 7,95 €/kk             | 258,00 €          |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
