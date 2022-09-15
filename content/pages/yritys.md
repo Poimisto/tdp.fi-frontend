@@ -60,7 +60,7 @@ Jos haluat tietää enemmän IT-alasta ja yrityksemme uusista käänteistä, ryh
 
 <br/><br/>
 
-<img src="/src/images/PL_LOGO_Tampereen_Datapiste_Oy_FI_417749_web.jpg" />
+<img src="/images/PL_LOGO_Tampereen_Datapiste_Oy_FI_417749_web.jpg" />
 
 </Grid>
 
