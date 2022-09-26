@@ -18,19 +18,17 @@ breadcrumb:
 ---
 # Google Workspace
 
-Google Workspace on monipuolinen digitaalinen työympäristö, joka sujuvoittaa yrityksesi liiketoimintaa. Workspace on turvallinen pilvipalvelu hyödyllisillä työsovelluksilla, johon saat TDP:ltä jatkuvan, ripeän käyttötuen.
-
-Hanki alan johtava toimisto-ohjelmistopaketti Google Workspace arjen töihin sen sijaan, että käyttäisit useaa eri ohjelmistoa.
-
 ![Google Workspace](/assets/image6.jpg "Google Workspace")
 
-Workspace tarjoaa yrityksellesi kaikki arjen töissä tarvitsemasi työkalut yhdessä paketissa, yhdellä kiinteällä hinnalla
+Google Workspace on monipuolinen digitaalinen työympäristö, joka sujuvoittaa yrityksesi liiketoimintaa. Workspace on turvallinen pilvipalvelu hyödyllisillä työsovelluksilla, johon saat TDP:ltä jatkuvan, ripeän käyttötuen.
+
+Hanki alan johtava toimisto-ohjelmistopaketti Google Workspace arjen töihin sen sijaan, että käyttäisit useaa eri ohjelmistoa. Workspace tarjoaa yrityksellesi kaikki arjen töissä tarvitsemasi työkalut yhdessä paketissa, yhdellä kiinteällä hinnalla
 
 * Yrityssähköposti Gmailina
 * Tallennustila Drivessa
-* Sähköinen kalenteri
 * Toimisto-ohjelmat Docs, Slides ja Sheets
 * Kokoustyökalu Meet
+* Sähköinen kalenteri
 * Helppo käyttäjähallinta
 * Vankasti suojattu
 
@@ -50,7 +48,7 @@ Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtais
 | Kaksivaiheinen tunnistus                         | ✔                | ✔                 | ✔                   |
 | Jaetut Drivet koko yritykselle                   |                  | ✔                 | ✔                   |
 | Enterprise -ominaisuudet (esim. data governance) |                  |                   | ✔                   |
-| Hinta (EUR/kk/käyttäjä):                         | 5,20             | 10,40             | 23,00               |
+| **Hinta (EUR/kk/käyttäjä):**                     | **5,20**         | **10,40**         | **23,00**           |
 
 ### Suomenkielinen tukipalvelu
 
@@ -60,9 +58,11 @@ Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelm
 
 - - -
 
-Olemme virallinen Google Cloud -kumppani ja autamme yrityksiä asiantuntevasti siirtymävaiheessa nykyisistä ratkaisuista Workspacen käyttöönottoon. Asiakkaidemme kokemukset Workspacesta ja sen edeltäjästä G Suitesta ovat olleet poikkeuksetta positiiviset, ja tiedämme paketin täyttävän monen erikokoisen yrityksen tarpeet.
+**TDP on virallinen Google Cloud -kumppani.** 
 
-TDP auttaa:
+Autamme yrityksiä asiantuntevasti siirtymävaiheessa nykyisistä ratkaisuista Workspacen käyttöönottoon. Asiakkaidemme kokemukset Workspacesta ja sen edeltäjästä G Suitesta ovat olleet poikkeuksetta positiiviset, ja tiedämme paketin täyttävän monen erikokoisen yrityksen tarpeet.
+
+Autamme:
 
 * Oikean palvelupaketin valinnassa
 * Palvelun luotettavassa ylläpidossa
