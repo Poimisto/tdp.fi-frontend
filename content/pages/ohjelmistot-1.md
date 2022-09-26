@@ -25,7 +25,7 @@ contactForm: Ota yhteyttä
 
 * Tehokkaat työsovellukset tekevät työstä tuottavampaa ja nopeuttavat yritysten arkisia prosesseja
 * TDP:n asiantuntemus sovelluksista helpottaa oikeiden sovellusten löytämistä ja käyttöönottoa
-* TDP:n tukipalveluasiakkaana saatte täyden tuen myös sovelluksten käyttöön
+* TDP:n tukipalveluasiakkaana saatte täyden tuen myös sovellusten käyttöön
 
 </div>
 
