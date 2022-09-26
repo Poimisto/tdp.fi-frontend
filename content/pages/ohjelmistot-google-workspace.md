@@ -20,9 +20,9 @@ breadcrumb:
 
 ![Google Workspace](/assets/image6.jpg "Google Workspace")
 
-Google Workspace on monipuolinen digitaalinen työympäristö, joka sujuvoittaa yrityksesi liiketoimintaa. Workspace on turvallinen pilvipalvelu hyödyllisillä työsovelluksilla, johon saat TDP:ltä jatkuvan, ripeän käyttötuen.
+**Google Workspace on monipuolinen digitaalinen työympäristö, joka sujuvoittaa yrityksesi liiketoimintaa.** Workspace on turvallinen pilvipalvelu hyödyllisillä työsovelluksilla, johon saat TDP:ltä jatkuvan, ripeän käyttötuen.
 
-Hanki alan johtava toimisto-ohjelmistopaketti Google Workspace arjen töihin sen sijaan, että käyttäisit useaa eri ohjelmistoa. Workspace tarjoaa yrityksellesi kaikki arjen töissä tarvitsemasi työkalut yhdessä paketissa, yhdellä kiinteällä hinnalla
+Hanki alan johtava toimisto-ohjelmistopaketti Google Workspace arjen töihin sen sijaan, että käyttäisit useaa eri ohjelmistoa. Workspace tarjoaa yrityksellesi kaikki arjen töissä tarvitsemasi työkalut yhdessä paketissa, yhdellä kiinteällä hinnalla:
 
 * Yrityssähköposti Gmailina
 * Tallennustila Drivessa
@@ -68,4 +68,4 @@ Autamme:
 * Palvelun luotettavassa ylläpidossa
 * Eri sovellusten käytön opastuksessa asiantuntevasti ja viipymättä
 
-Ota yhteyttä ja viedään yrityksesi Googlen pilveen, jossa muutkin jo ovat!
+*Ota yhteyttä ja viedään yrityksesi Googlen pilveen, jossa muutkin jo ovat!*
