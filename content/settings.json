@@ -26,6 +26,11 @@
     },
     {
       "type": "page",
+      "title": "Ohjelmistot",
+      "link": "/ohjelmistot"
+    },
+    {
+      "type": "page",
       "link": "/uusi-yrittaja/",
       "title": "Uusi yrittäjä?"
     },
