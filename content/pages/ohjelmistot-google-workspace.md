@@ -26,13 +26,13 @@ Hanki alan johtava toimisto-ohjelmistopaketti Google Workspace arjen töihin sen
 
 Workspace tarjoaa yrityksellesi kaikki arjen töissä tarvitsemasi työkalut yhdessä paketissa, yhdellä kiinteällä hinnalla
 
-* rityssähköposti Gmailina
+* Yrityssähköposti Gmailina
 * Tallennustila Drivessa
 * Sähköinen kalenteri
 * Toimisto-ohjelmat Docs, Slides ja Sheets
 * Kokoustyökalu Meet
 * Helppo käyttäjähallinta
-* Vankka salasanahallinta
+* Vankasti suojattu
 
 ### Google Workspacen hinta
 
