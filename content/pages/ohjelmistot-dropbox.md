@@ -15,12 +15,11 @@ breadcrumb:
   - path: /ohjelmistot
     label: ohjelmistot
   - label: Dropbox
-thumbnail: /assets/tdp-ohjelmistot-2160x1543.jpg
+thumbnail: /assets/dropbox-1280x800.jpg
 ---
 # Dropbox
 
-![Dropbox - pilvipohjainen tiedostonjakopalvelu](/assets/tdp-ohjelmistot-2160x1543.jpg)
-
+![Dropbox - pilvipohjainen tiedostonjakopalvelu](/assets/dropbox-1280x800.jpg)
 
 Kun yrityksesi tarvitsee selkeän tiedostonjakopalvelun pilvessä, Dropbox on järkivalinta. Dropbox on luotettava, helppokäyttöinen pilviratkaisu ja sillä et maksa totuttua ylimääräistä ominaisuuksista, joita et käytä.
 
