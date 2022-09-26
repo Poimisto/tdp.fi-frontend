@@ -42,7 +42,9 @@ Dropbox niputtaa toimivaksi kokonaisuudeksi sekä pilvisisällön, pikakuvakkeet
 
 ### Dropboxin hinta
 
-Dropbox tarjoaa erikokoisille yrityksille juuri sopivan kokoiset paketit. Paketin voi valita niin kuukausi- kuin vuosisopimukseen sidottuna.
+Dropbox tarjoaa erikokoisille yrityksille juuri sopivan kokoiset paketit. 
+
+Paketin voi valita niin kuukausi- kuin vuosisopimukseen sidottuna.
 
 | Ominaisuus                                 | BUSINESS STANDARD             | BUSINESS ADVANCED     |
 | ------------------------------------------ | ----------------------------- | --------------------- |
@@ -75,7 +77,7 @@ Jätä siis Dropboxin käyttöönotto meille!
 
 - - -
 
-TDP on yritysten ripeä, asiantunteva IT-palvelukumppani. Olemme Dropboxin suomalainen jälleenmyyjä ja korkean tietoturvan puolestapuhuja.
+**TDP on yritysten ripeä, asiantunteva IT-palvelukumppani.** Olemme Dropboxin suomalainen jälleenmyyjä ja korkean tietoturvan puolestapuhuja.
 
 Esittele meille yritystäsi rasittavat pulmat tiedostojen käyttöoikeuksissa, me kerromme niihin ratkaisumallimme palvelulupausta ja hintatietoja myöten.
 
