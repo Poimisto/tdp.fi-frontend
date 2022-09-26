@@ -17,13 +17,19 @@ contactForm: Ota yhteyttä
 
 Tampereen Datapiste Oy on vuonna 2007 perustettu IT-alan asiantuntijayritys. Tehtävämme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä.
 
-Kauttamme saatte kaikki tarvitsemanne IT-palvelut. Laitteistojen lisäksi palveluihimme kuuluvat ohjelmistot, huollot, tuki- ja palvelusopimukset sekä tietoturvapalvelut.
+Toteutamme kaikki tarvitsemanne IT-palvelut ja räätälöimme ne toiveidenne mukaan. Laitteistojen lisäksi palveluihimme kuuluvat ohjelmistot, huollot, tuki- ja palvelusopimukset sekä tietoturvapalvelut.
 
 Pyrimme edullisuuden lisäksi siihen, että palvelumme on aina asiakaslähtöistä. Toivomme, että ensimmäisestä laitteistohankinnasta alkaa kumppanuus, jossa me vastaamme yrityksenne IT-ympäristöstä ja sen kehityksestä pitkälle tulevaisuuteen.
 
 Päätoimialueemme ovat Pirkanmaalla, Etelä-Suomessa ja Keski-Suomessa. Konttorimme sijaitsee Nokialla Tampereen kupeessa. Asiakkaita meillä on lukuisilta eri toimialoilta.
 
 Olemme dynaaminen ja vakavaraisesti kasvava yritys. Siitä osoituksena saavutimme ensimmäistä kertaa yli miljoonan euron liikevaihdon vuonna 2021 ja nyt vuonna 2022 tavoitteemme on tarjota palvelukokonaisuuttamme yhä useammalle yritykselle.
+
+Jos haluat tietää enemmän IT-alasta ja yrityksemme uusista käänteistä, ryhdy uutiskirjeemme tilaajaksi:
+
+
+<CallToAction bgColor="brand" url="https://bit.ly/3zsDs3q" align="center">Tilaa uutiskirje</CallToAction>
+
 
 ### Työntekijämme
 
@@ -54,7 +60,7 @@ Olemme dynaaminen ja vakavaraisesti kasvava yritys. Siitä osoituksena saavutimm
 
 <br/><br/>
 
-<img src="/static/PL_LOGO_Tampereen_Datapiste_Oy_FI_417749_web-bfe57b3a6f8be4018692e62d9659625b.jpg" />
+<img src="/static/PL_LOGO_Tampereen_Datapiste_Oy_FI_417749_web-609826c60bab87cad1ae98c7d054530a.jpg" />
 
 </Grid>
 
