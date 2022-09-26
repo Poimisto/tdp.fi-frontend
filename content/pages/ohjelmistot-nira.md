@@ -3,7 +3,10 @@ path: /ohjelmistot/nira
 date: 2022-09-26T09:47:38.826Z
 head:
   title: Nira
-  description: Nira on reaaliaikainen pääsynhallintajärjestelmä, jolla hallinnoidaan yrityksen dokumentteja Google Workspacessa. Älä hyväksy tilannetta, jossa entisellä työntekijällä on edelleen oikeudet nähdä esimerkiksi yrityksen asiakasrekisteri!
+  description: Nira on reaaliaikainen pääsynhallintajärjestelmä, jolla
+    hallinnoidaan yrityksen dokumentteja Google Workspacessa. Älä hyväksy
+    tilannetta, jossa entisellä työntekijällä on edelleen oikeudet nähdä
+    esimerkiksi yrityksen asiakasrekisteri!
   keywords: Nira
 contactForm: Ota yhteyttä
 breadcrumb:
@@ -12,11 +15,13 @@ breadcrumb:
   - path: /ohjelmistot
     label: ohjelmistot
   - label: Nira
+thumbnail: /assets/nira-kuvituskuva2.png
 ---
-
 # Nira
 
-Yli 50 hengen yrityksille suunnattu Nira on Workspaceen luontevasti yhdistyvä pilvityökalu, joka ratkaisee tiedostojen säilyttämiseen, jakamiseen ja käyttöoikeuksiin liittyvät ongelmat. Oletko tietoinen näistä konkreettisista ongelmista, joita organisaatiossasi on kenties jo nyt?
+![Pilvityökalu Nira yritysten tiedostojen suojeluun](/assets/nira-kuvituskuva2.png)
+
+Yli 50 hengen ja sitä suuremmille yrityksille suunnattu Nira on Workspaceen luontevasti yhdistyvä pilvityökalu, joka ratkaisee tiedostojen säilyttämiseen, jakamiseen ja käyttöoikeuksiin liittyvät ongelmat. Oletko tietoinen näistä konkreettisista ongelmista, joita organisaatiossasi on kenties jo nyt?
 
 * Työntekijän lähtiessä hänen tilioikeutensa eivät pyyhkiydy
 * Ulkopuolisten tilioikeudet säilyvät ilman väliintuloa
@@ -24,9 +29,8 @@ Yli 50 hengen yrityksille suunnattu Nira on Workspaceen luontevasti yhdistyvä p
 * Hallintapulmiin puuttuminen myöhässä kasvattaa kustannuksia
 * Kokonaisnäkemystä yrityksen sisäisen tiedon hallinnasta ei ole kenelläkään
 * Saapuvien tiedostojen luoma riski 
- 
-Tiedon ja tiedostojen yhteiskäyttö on suuri mahdollisuus, jolla on kuitenkin oikeinkin käytettynä lieveilmiönsä. Niralla suurikin PK-yritys tulppaa ne pienetkin tietoturva-aukot, joita syntyy vääjäämättä tiedon volyymikäytön myötä ja mikä tärkeintä, yritys näkee yhdestä paikasta kaikki työntekijöiden käyttämät dokumentit.
 
+Tiedon ja tiedostojen yhteiskäyttö on suuri mahdollisuus, jolla on kuitenkin oikeinkin käytettynä lieveilmiönsä. Niralla suurikin PK-yritys tulppaa ne pienetkin tietoturva-aukot, joita syntyy vääjäämättä tiedon volyymikäytön myötä ja mikä tärkeintä, yritys näkee yhdestä paikasta kaikki työntekijöiden käyttämät dokumentit.
 
 ### Nira ratkaisuksi
 
@@ -38,22 +42,21 @@ SaaS-palveluna tämäkin ohjelmisto on hyvä renki, joka tarjoaa organisaatiolle
 
 Nira on melko arvokas sovellus, mutta suurelle yritykselle hintansa arvoinen. 
 
+| Ominaisuus                       | NIRA STANDARD | NIRA PLUS |
+| -------------------------------- | ------------- | --------- |
+| Rajattomasti sovelluksia         | ✔             | ✔         |
+| Dokumenttien tallennushistoria   | 2 v.          | 5 v.      |
+| Joka dokumentille rikas metadata | ✔             | ✔         |
+| Luo dokumentit suoraan Nirassa   | ✔             | ✔         |
+| Typeahead-hakemisto              | ✔             | ✔         |
+| Henkilösuodatin haussa           | ✔             | ✔         |
+| Sovellussuodatin haussa          | ✔             | ✔         |
+| Kertakirjautuminen               | ✔             | ✔         |
+| Käyttäjähallinta                 | ✔             | ✔         |
+| Salasanojen hallinta             | ✔             | ✔         |
+| Edistynyt hakutoiminto           |               | ✔         |
 
-| Ominaisuus                            | CORE DIRECTORY PACKAGE | JUMPCLOUD PLATFORM | PLATFORM PLUS
-| ------------------------------------- | -------------- | ----------------- | ---------------|
-| Rajattomasti sovelluksia              | ✔ | ✔ |
-| Dokumenttien tallennushistoria        | 2v. | 5v. | 
-| Joka dokumentille rikas metadata      | ✔ | ✔ |
-|  Luo dokumentit suoraan Nirassa       | ✔ | ✔ |
-| Typeahead-hakemisto                   | ✔ | ✔ |
-| Henkilösuodatin haussa                | ✔ | ✔ |
-| Sovellussuodatin haussa               | ✔ | ✔ |
-| Kertakirjautuminen                    | ✔ | ✔ |
-| Käyttäjähallinta                      | ✔ | ✔ |
-| Edistynyt hakutoiminto                |    | ✔ |
-
-Älä tyydy soittoon sovelluspaketin määrittämisessä, vaan voimme sopia videotapaamisen! Esittelemme siinä Niran yksityiskohtaiset käyttömahdollisuudet ja saat kokonaiskuvan Niran potentiaalista.
-
+Älä tyydy soittoon sovelluspaketin määrittämisessä, vaan sovi videotapaaminen! Esittelemme siinä Niran yksityiskohtaiset käyttömahdollisuudet ja saat kokonaiskuvan Niran potentiaalista.
 
 ### Suomenkielinen tukipalvelu
 
@@ -61,8 +64,7 @@ Vaihtoehto englanninkieliselle chat-tuelle: kun hankit ohjelmistolisenssit suora
 
 Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelmasi selvällä suomen kielellä ilman jonotusta. Palvelun vasteaika määritetään sopimuksessa etukäteen haluamaksesi.
 
-
-_ _ _ 
+- - -
 
 TDP on yritysten ripeä, asiantunteva IT-palvelukumppani. Olemme Niran suomalainen jälleenmyyjä ja korkean tietoturvan puolestapuhuja.
 Esittele meille yrityksesi yksityiskohtaiset haasteet tiedostojen käyttöoikeuksissa, me kerromme siihen ratkaisumallimme palvelulupausta ja hintatietoja myöten.
