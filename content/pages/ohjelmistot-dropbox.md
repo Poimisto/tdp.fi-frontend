@@ -78,8 +78,10 @@ Jätä siis Dropboxin käyttöönotto meille.
 
 - - -
 
-**TDP on yritysten ripeä, asiantunteva IT-palvelukumppani.** Olemme Dropboxin suomalainen jälleenmyyjä ja korkean tietoturvan puolestapuhuja.
+**TDP on yritysten ripeä, asiantunteva IT-palvelukumppani.** 
+
+Olemme Dropboxin suomalainen jälleenmyyjä ja korkean tietoturvan puolestapuhuja.
 
 Esittele meille yritystäsi rasittavat pulmat tiedostojen käyttöoikeuksissa, me kerromme niihin ratkaisumallimme palvelulupausta ja hintatietoja myöten.
 
-Ota yhteyttä ja viedään yrityksesi pilvihallintaan, jossa jo muutkin ovat!
+*Ota yhteyttä ja viedään yrityksesi pilvihallintaan, jossa jo muutkin ovat!*
