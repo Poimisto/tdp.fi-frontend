@@ -53,4 +53,12 @@ Vaihtoehto englanninkieliselle chat-tuelle: kun hankit ohjelmistolisenssit suora
 
 Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelmasi selvällä suomen kielellä ilman jonotusta. Palvelun vasteaika määritetään sopimuksessa etukäteen haluamaksesi.
 
-Autamme yrityksiä asiantuntevasti Microsoft 365 käyttöönotossa. Ota yhteyttä, niin autamme!
+- - -
+
+**TDP on yritysten ripeä, asiantunteva IT-palvelukumppani.** 
+
+Olemme Microsoft 365:n suomalainen jälleenmyyjä ja modernien ohjelmistojen edelläkävijä. 
+
+Autamme yrityksiä asiantuntevasti Microsoft 365:n käyttöönotossa ja kerromme ratkaisumallimme yrityksesi sujuvaan viestintään palvelulupausta sekä hintatietoja myöten. 
+
+*Ota yhteyttä ja viedään yrityksesi pilvihallintaan, jossa jo muutkin ovat!*
