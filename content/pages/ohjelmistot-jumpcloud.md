@@ -20,13 +20,17 @@ breadcrumb:
 
 ![Jumpcloud](/assets/image5.jpg "Jumpcloud")
 
-JumpCloudin tuottama keskitetty hallinta vapauttaa yritykseltä työaikaa ja resursseja. Se luo yritykseen selkeät periaatteet laitteiden hallinnalle ja niiden tehokkaalle käytölle nostaen samalla koko organisaation tietoturvan tasoa. Yksi hallinta varmistaa, että laitteet eivät ole enää hukassa, monet IT-asiat automatisoituvat ja esimerkiksi tukipyynnöt salasanojen palauttamiseksi vähenevät.
+**JumpCloudin tuottama keskitetty hallinta vapauttaa yritykseltä työaikaa ja resursseja.** Se luo yritykseen selkeät periaatteet laitteiden hallinnalle ja niiden tehokkaalle käytölle nostaen samalla koko organisaation tietoturvan tasoa. 
+
+Yksi hallinta varmistaa, että laitteet eivät ole enää hukassa, monet IT-asiat automatisoituvat ja esimerkiksi tukipyynnöt salasanojen palauttamiseksi vähenevät.
 
 ### JumpCloudin ominaisuudet ja hinnoittelu
 
-JumpCloud mahdollistaa verkon, sovelluksen ja palvelimen turvallisen tunnistuksen. Ohjelmisto tukee niin Windows-, Mac- kuin Linux-järjestelmiä ja satoja integroitavia sovelluksia. 
+JumpCloud mahdollistaa verkon, sovelluksen ja palvelimen turvallisen tunnistuksen. Ohjelmisto tukee niin Windows-, Mac- kuin Linux-järjestelmiä sekä satoja integroitavia sovelluksia. 
 
-Kiinteän kuukausimaksun ansiosta yrityksesi IT-kulujen budjetoinnista tulee entistä läpinäkyvämpää ja hintavat, ylimääräiset tuntityöt jäävät pois. Vertaile vaihtoehtoja:
+Kiinteän kuukausimaksun ansiosta yrityksesi IT-kulujen budjetoinnista tulee entistä läpinäkyvämpää ja hintavat, ylimääräiset tuntityöt jäävät pois. 
+
+Vertaile vaihtoehtoja:
 
 | Ominaisuus                                     | CORE DIRECTORY PACKAGE | JUMPCLOUD PLATFORM | PLATFORM PLUS |
 | ---------------------------------------------- | ---------------------- | ------------------ | ------------- |
