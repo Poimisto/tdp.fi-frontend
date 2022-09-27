@@ -21,15 +21,17 @@ thumbnail: /assets/dropbox-1280x800.jpg
 
 ![Dropbox - pilvipohjainen tiedostonjakopalvelu](/assets/dropbox-1280x800.jpg)
 
-Kun yrityksesi tarvitsee selkeän tiedostonjakopalvelun pilvessä, Dropbox on järkivalinta. Dropbox on luotettava, helppokäyttöinen pilviratkaisu ja sillä et maksa totuttua ylimääräistä ominaisuuksista, joita et käytä.
+Kun yrityksesi tarvitsee selkeän tiedostonjakopalvelun pilvessä, Dropbox on järkivalinta. **Dropbox on luotettava, helppokäyttöinen pilviratkaisu,  jolla et maksa totuttua ylimääräistä ominaisuuksista, joita et käytä.**
 
-Dropbox Business on parempi tapa saada parhaat työsi tehtyä. Se on yksi selkeä paikka, jossa voit nähdä, jakaa, luoda ja tehdä yhteistyötä sisällön parissa käyttämällä työkaluja, jotka jo tunnet ja joihin luotat. Se on jokaisen projektin kotipesä, joten työntekijä voi pysyä synkronoituna hyppimättä sovelluksesta toiseen.
+Dropbox Business on parempi tapa saada parhaat työsi tehtyä. Se on yksi selkeä paikka, jossa voit nähdä, jakaa, luoda ja tehdä yhteistyötä sisällön parissa käyttämällä työkaluja, jotka jo tunnet ja joihin luotat. Dropbox on jokaisen projektin kotipesä, joten työntekijä voi pysyä synkronoituna hyppimättä sovelluksesta toiseen. 
 
 Koska Dropbox tarjoaa todistetusti suojaa, voit suojata työsi ja asiakkaidesi tiedot ilman IT-tiimiä. Dropboxin avulla pidät kaiken järjestyksessä, asiakkaasi tyytyväisinä ja yrityksesi toimii sujuvasti - yksinkertainen työkalu, joka korvaa kaaoksen yhteistyöllä.
 
 ### Näissä Dropbox loistaa
 
-Yli 500 miljoonaa käyttäjää ja 200 000 yritystä luottavat Dropboxiin yhteistyön tehokeinona. Dropboxissa maksat yhdestä tehokkaasta 3-in-1 työkalusta, jolla tallentaa tiedostoja, jakaa ja varmuuskopioida niitä. Dropbox on yhteensopiva niin Windows-, Mac-, Android- kuin iOS-käyttöjärjestelmien kanssa.
+Yli 500 miljoonaa käyttäjää ja 200 000 yritystä luottavat Dropboxiin yhteistyön tehokeinona. 
+
+Dropboxissa maksat yhdestä tehokkaasta 3-in-1 työkalusta, jolla tallentaa tiedostoja, jakaa ja varmuuskopioida niitä. Dropbox on yhteensopiva niin Windows-, Mac-, Android- kuin iOS-käyttöjärjestelmien kanssa.
 
 Dropbox niputtaa toimivaksi kokonaisuudeksi sekä pilvisisällön, pikakuvakkeet että tavalliset tiedostot. Se myös integroituu hyvin muiden tunnettujen työsovellusten kanssa, kuten:
 
@@ -43,22 +45,22 @@ Dropbox niputtaa toimivaksi kokonaisuudeksi sekä pilvisisällön, pikakuvakkeet
 
 Dropbox tarjoaa erikokoisille yrityksille juuri sopivan kokoiset paketit. 
 
-Paketin voi valita niin kuukausi- kuin vuosisopimukseen sidottuna.
+Paketin voi valita niin kuukausi- kuin vuosisopimukseen sidottuna:
 
-| Ominaisuus                                 | BUSINESS STANDARD             | BUSINESS ADVANCED     |
-| ------------------------------------------ | ----------------------------- | --------------------- |
-| Tallennustila                              | Jaettu 5 TB yli 3 käyttäjälle | Rajaton tallennustila |
-| Salasanojen synkronointi                   | ✔                             | ✔                     |
-| Versiohistoria                             | 6 kk                          | 12 kk                 |
-| Kaksivaiheinen tunnistautuminen            | ✔                             | ✔                     |
-| Automaattinen varmuuskopiointi pilveen     | ✔                             | ✔                     |
-| HelloSign sähköinen allekirjoitus          | ✔                             | ✔                     |
-| Hallintakonsoli                            | ✔                             | ✔                     |
-| Tiedostojen siirto                         | 2GB                           | 100GB                 |
-| Tiedostojen katseluhistoria                |                               | ✔                     |
-| Haittaohjelmien havainnointi ja palautus   |                               | ✔                     |
-| Hinta (EUR/kk/käyttäjä):                   | 14,50                         | 21,50                 |
-| Hinta, vuosilisenssillä (EUR/kk/käyttäjä): | 12,00                         | 18,80                 |
+| Ominaisuus                                     | BUSINESS STANDARD             | BUSINESS ADVANCED     |
+| ---------------------------------------------- | ----------------------------- | --------------------- |
+| Tallennustila                                  | Jaettu 5 TB yli 3 käyttäjälle | Rajaton tallennustila |
+| Salasanojen synkronointi                       | ✔                             | ✔                     |
+| Versiohistoria                                 | 6 kk                          | 12 kk                 |
+| Kaksivaiheinen tunnistautuminen                | ✔                             | ✔                     |
+| Automaattinen varmuuskopiointi pilveen         | ✔                             | ✔                     |
+| HelloSign sähköinen allekirjoitus              | ✔                             | ✔                     |
+| Hallintakonsoli                                | ✔                             | ✔                     |
+| Tiedostojen siirto                             | 2GB                           | 100GB                 |
+| Tiedostojen katseluhistoria                    |                               | ✔                     |
+| Haittaohjelmien havainnointi ja palautus       |                               | ✔                     |
+| **Hinta (EUR/kk/käyttäjä):**                   | **14,50**                     | **21,50**             |
+| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):** | **12,00**                     | **18,80**             |
 
 ### Suomenkielinen tukipalvelu
 
@@ -72,7 +74,7 @@ Luota meihin: ottamalla käyttöön markkinoilla tarjolla olevan 30 päivän kok
 
 Omin voimin käyttöönotettuna huolimattomat hallinta- ja kansioasetukset tuottavat aikaa myöten monia pulmia, joiden siivoaminen jälkikäteen on vaivalloista ja siten kallista.
 
-Jätä siis Dropboxin käyttöönotto meille!
+Jätä siis Dropboxin käyttöönotto meille.
 
 - - -
 
