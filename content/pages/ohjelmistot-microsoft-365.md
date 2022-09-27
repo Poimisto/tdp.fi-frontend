@@ -18,17 +18,17 @@ breadcrumb:
 ---
 # Microsoft 365
 
-Microsoft 365 -työympäristö vapauttaa työntekoa ja vähentää kustannuksia tietoturvaa unohtamatta. Tarjoamme saman Microsoft 365-ohjelmistopaketin yrityksellesi kuin kilpailijamme, mutta muita paremmalla käyttäjätuella.
-
 ![Microsoft 365](/assets/image4.jpg "Microsoft 365")
 
-Microsoft 365 on yrityksille toimintavarma pilvipalvelu hyvällä käytettävyydellä, mikä mahdollistaa tehokkaan viestinnän ja yhteiskäytön. Sen korkea tietoturvataso ja monet sovellukset tekevät työntekijöiden päivittäisestä viestinnästä helppoa ja turvallista. 
+**Microsoft 365 on yrityksille toimintavarma pilvipalvelu hyvällä käytettävyydellä, mikä mahdollistaa tehokkaan viestinnän ja yhteiskäytön.** Sen korkea tietoturvataso ja monet sovellukset tekevät työntekijöiden päivittäisestä viestinnästä helppoa ja turvallista. 
 
 Nykyajan työnteon ideaalin mukaisesti Microsoft 365 mahdollistaa tehokkaan etätyön ajasta, paikasta ja laitteesta riippumatta. Viimeksi käytetyt tiedostot ja sähköpostit löytyvät helposti parilla klikkauksella eivätkä mittavatkaan projektit jää sovellusten ominaisuuksista kiinni.
 
-### Microsoft 365 hinta
+### Microsoft 365:n hinta
 
-Valittavanasi on useita eritasoisia yrityspaketteja yrityksesi koon ja tarpeiden mukaan. IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti kiinteään kuukausihintaan sisältyen.
+Valittavanasi on useita eritasoisia yrityspaketteja yrityksesi koon ja tarpeiden mukaan. 
+
+IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti kiinteään kuukausihintaan sisältyen:
 
 | Ominaisuus                                                   | BUSINESS BASIC | APPS FOR BUSINESS | BUSINESS STANDARD | BUSINESS STANDARD |
 | ------------------------------------------------------------ | -------------- | ----------------- | ----------------- | ----------------- |
@@ -40,10 +40,10 @@ Valittavanasi on useita eritasoisia yrityspaketteja yrityksesi koon ja tarpeiden
 | Kalenteri                                                    | ✔              | ✔                 | ✔                 | ✔                 |
 | 1 Tt tallennustilaa tiedostojen jakamiseen ja tallentamiseen | ✔              | ✔                 | ✔                 | ✔                 |
 | Webinaarien isännöinti ja raportointityökalut                |                |                   | ✔                 | ✔                 |
-| Käyttöoikeuksien ja tietojen hallinta                        |                |                   |                   | ✔                 |
-| Kyberuhkasuojau                                              |                |                   |                   | ✔                 |
-| Hinta (EUR/kk/käyttäjä):                                     | 6,10           | 10,50             | 12,60             | 22,30             |
-| Hinta, vuosilisenssillä (EUR/kk/käyttäjä):                   | 5,10           | 8,80              | 10,50             | 19,60             |
+| Käyttöoikeuksien ja -tietojen hallinta                       |                |                   |                   | ✔                 |
+| Kyberuhkasuojaus                                             |                |                   |                   | ✔                 |
+| **Hinta (EUR/kk/käyttäjä):**                                 | **6,10**       | **10,50**         | **12,60**         | **22,30**         |
+| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**               | **5,10**       | **8,80**          | **10,50**         | **19,60**         |
 
 \*Office-ohjelmistot kuten Word, Excel, PowerPoint, Outlook ja OneNote 
 
@@ -53,4 +53,4 @@ Vaihtoehto englanninkieliselle chat-tuelle: kun hankit ohjelmistolisenssit suora
 
 Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelmasi selvällä suomen kielellä ilman jonotusta. Palvelun vasteaika määritetään sopimuksessa etukäteen haluamaksesi.
 
-Autamme yrityksiä asiantuntevasti Microsoft 365 käyttöönotossa. Ota yhteyttä, niin autamme.
+Autamme yrityksiä asiantuntevasti Microsoft 365 käyttöönotossa. Ota yhteyttä, niin autamme!
