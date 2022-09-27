@@ -59,9 +59,7 @@ Nira on melko arvokas sovellus, mutta suurelle yritykselle hintansa arvoinen.
 | Käyttäjähallinta                 | ✔             | ✔         |
 | Salasanojen hallinta             | ✔             | ✔         |
 | Edistynyt hakutoiminto           |               | ✔         |
-| Hinta (EUR/kk/käyttäjä):         | 8,00          | 14,00     |
-
-
+| **Hinta (EUR/kk/käyttäjä):**     | **8,00**      | **14,00** |
 
 Älä tyydy soittoon sovelluspaketin määrittämisessä, vaan sovi videotapaaminen! Esittelemme siinä Niran yksityiskohtaiset käyttömahdollisuudet ja saat kokonaiskuvan Niran potentiaalista.
 
@@ -77,7 +75,6 @@ Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelm
 
 Olemme Niran suomalainen jälleenmyyjä ja korkean tietoturvan puolestapuhuja.
 
-
 Esittele meille yrityksesi yksityiskohtaiset haasteet tiedostojen käyttöoikeuksissa, me kerromme siihen ratkaisumallimme palvelulupausta ja hintatietoja myöten.
 
-Ota yhteyttä ja viedään yrityksesi pilvihallintaan, jossa muutkin jo ovat!
+*Ota yhteyttä ja viedään yrityksesi pilvihallintaan, jossa muutkin jo ovat!*
