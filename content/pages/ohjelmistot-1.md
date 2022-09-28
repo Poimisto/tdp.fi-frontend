@@ -1,6 +1,6 @@
 ---
 path: /ohjelmistot
-thumbnail: /assets/image4.jpg
+thumbnail: /assets/ohjelmistot-tinified.jpg
 date: 2022-09-26T09:32:50.954Z
 head:
   title: Ohjelmistot
@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Tietokone-leasing ja työntekijöiden laitteet](/assets/image4.jpg)
+![Ohjelmistot ja digitaaliset työympäristöt yrityksille ](/assets/ohjelmistot-tinified.jpg)
 
 </div>
 
