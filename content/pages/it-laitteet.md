@@ -2,7 +2,7 @@
 path: /it-laitteet/
 date: 2021-02-24T10:17:44.639Z
 head:
-  title: Tietokoneet ja muut IT-laitteet yritykselle
+  title: Tietokoneet ja muut IT-laitteet yrityksille
   description: Edulliset ja tehokkaat tietokone-leasing ratkaisut yrityksille
     luotettavasti ja ammattitaidolla - pidä tietotekniikka jatkuvasti
     nykyaikaisena
