@@ -23,7 +23,7 @@ contactForm: Ota yhteyttä
 
 ## Modernit ohjelmistot yrityksissä luovat pohjan liiketoiminnalle
 
-* Tehokkaat työsovellukset tekevät työstä tuottavampaa ja nopeuttavat yritysten arkisia prosesseja
+* Tehokkaat työsovellukset kuten **Google Workspace** ja **Microsoft 365** tekevät työstä helpompaa ja tuottavampaa
 * TDP:n asiantuntemus sovelluksista helpottaa oikeiden sovellusten löytämistä ja käyttöönottoa
 * TDP:n tukipalveluasiakkaana saatte täyden tuen myös sovellusten käyttöön
 
