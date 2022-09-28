@@ -18,7 +18,7 @@ breadcrumb:
 ---
 # Google Workspace
 
-![Google Workspace](/assets/image6.jpg "Google Workspace")
+![Google Workspace](/assets/workspace-tinified.jpg "Google Workspace")
 
 **Google Workspace on monipuolinen digitaalinen työympäristö, joka sujuvoittaa yrityksesi liiketoimintaa.** Workspace on turvallinen pilvipalvelu hyödyllisillä työsovelluksilla, johon saat TDP:ltä jatkuvan, ripeän käyttötuen.
 
