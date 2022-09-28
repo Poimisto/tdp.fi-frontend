@@ -27,6 +27,8 @@ contactForm: Ota yhteyttä
 * TDP:n asiantuntemus sovelluksista helpottaa oikeiden sovellusten löytämistä ja käyttöönottoa
 * TDP:n tukipalveluasiakkaana saatte täyden tuen myös sovellusten käyttöön
 
+  T﻿unnetuimpien työsovellusten lisäksi saatte meiltä muutkin ohjelmistot yrityksenne arkeen. Esimerkiksi WithSecure, AutoCAD, Assently, Bitwarden ja Adobe Creative Cloud ovat vahvoja tuotteita, joiden varaan voitte avullamme rakentaa yrityksenne digitaaliset prosessit.
+
 </div>
 
 </HeroBlock>
