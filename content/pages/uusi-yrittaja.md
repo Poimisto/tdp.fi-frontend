@@ -14,7 +14,7 @@ contactForm: Ota yhteyttä
 ---
 # TDP tarjoaa käyttöösi oman IT-osaston
 
-![Yrityksen IT-laitteet ja puhelimet](/assets/20220825-dsc07475-3-tinified.jpg)
+![Yrityksen IT-laitteet ja puhelimet]()
 
 TDP toteuttaa laitetoimitusten lisäksi myös IT-ympäristön hallinnan palveluita. Tarjoamme toimivien laitteiden lisäksi käyttöönne verkkotunnusten ja sähköpostien hallintaa, yhteensopivia viestintäsovelluksia, huoletonta tietoturvaa sekä nopeaa ongelmatilanteiden ratkaisua.
 
