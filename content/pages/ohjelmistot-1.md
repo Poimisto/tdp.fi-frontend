@@ -21,7 +21,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-## Modernit ohjelmistot luovat pohjan liiketoiminnalle ja parantavat yritysten kilpailukykyä
+## Modernit ohjelmistot yrityksissä luovat pohjan liiketoiminnalle
 
 * Tehokkaat työsovellukset tekevät työstä tuottavampaa ja nopeuttavat yritysten arkisia prosesseja
 * TDP:n asiantuntemus sovelluksista helpottaa oikeiden sovellusten löytämistä ja käyttöönottoa
