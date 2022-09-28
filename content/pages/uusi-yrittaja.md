@@ -9,7 +9,7 @@ head:
     ja sähköpostien hallintaa, yhteensopivia viestintäsovelluksia, huoletonta
     tietoturvaa sekä ripeää ongelmatilanteiden ratkaisua.
   keywords: tietokone ja puhelin, sähköposti, domain, kalenteri, verkkolevy
-  title: Uusi yrittäjä | TDP
+  title: "Uusi yrittäjä "
 contactForm: Ota yhteyttä
 ---
 # TDP tarjoaa käyttöösi oman IT-osaston
