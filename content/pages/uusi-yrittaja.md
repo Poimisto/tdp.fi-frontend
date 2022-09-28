@@ -1,14 +1,20 @@
 ---
 templte: page
 path: /uusi-yrittaja/
+date: 2022-09-28T05:46:15.370Z
 head:
-    tItle: Uuden yrittäjän IT-palvelut - TDP
-    description: 
-    keywords: tietokone ja puhelin, sähköposti, domain, kalenteri, verkkolevy
+  tItle: Uuden yrittäjän IT-palvelut - TDP
+  description: TDP toteuttaa laitetoimitusten lisäksi myös IT-ympäristön hallinnan
+    palvelut. Tarjoamme toimivien laitteiden lisäksi käyttöönne verkkotunnusten
+    ja sähköpostien hallintaa, yhteensopivia viestintäsovelluksia, huoletonta
+    tietoturvaa sekä ripeää ongelmatilanteiden ratkaisua.
+  keywords: tietokone ja puhelin, sähköposti, domain, kalenteri, verkkolevy
+  title: Uusi yrittäjä | TDP
 contactForm: Ota yhteyttä
 ---
-
 # TDP tarjoaa käyttöösi oman IT-osaston
+
+![Yrityksen IT-laitteet ja puhelimet](/assets/20220825-dsc07475-3-tinified.jpg)
 
 TDP toteuttaa laitetoimitusten lisäksi myös IT-ympäristön hallinnan palveluita. Tarjoamme toimivien laitteiden lisäksi käyttöönne verkkotunnusten ja sähköpostien hallintaa, yhteensopivia viestintäsovelluksia, huoletonta tietoturvaa sekä nopeaa ongelmatilanteiden ratkaisua.
 
@@ -32,4 +38,6 @@ Toteutamme ja ylläpidämme puolestanne verkkosivuston palvelinympäristöä. Pa
 
 Kaikissa tarjoamissamme palveluissa on huomioitu tietoturva ja laitteisiin voidaan esiasentaa erillinen tietoturvaohjelmisto. Kauttamme saat käyttöösi myös etä- ja puhelintuen tietoteknisten ongelmien ratkaisussa.
 
-TDP:llä on yli vuosikymmenen kokemus IT-palveluiden ja -laitteiden toimittamisesta pienille ja vähän isommille yrityksille. Asiakkaisiimme kuuluu lukuisten eri toimialojen yrityksiä ja organisaatioita. Ota rohkeasti yhteyttä, niin autamme sopivan laitteiston sekä palveluiden valinnassa. 
+TDP:llä on yli vuosikymmenen kokemus IT-palveluiden ja -laitteiden toimittamisesta pienille ja vähän isommille yrityksille. Asiakkaisiimme kuuluu lukuisten eri toimialojen yrityksiä ja organisaatioita. 
+
+Ota rohkeasti yhteyttä, niin autamme sopivan laitteiston sekä palveluiden valinnassa!
