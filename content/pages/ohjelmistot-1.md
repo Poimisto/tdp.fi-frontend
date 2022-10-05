@@ -3,11 +3,11 @@ path: /ohjelmistot
 thumbnail: /assets/ohjelmistot-tinified.jpg
 date: 2022-09-26T09:32:50.954Z
 head:
-  title: Ohjelmistot | Liiketoimintasovellukset yrityksille
+  title: Ohjelmistot | Digitaalinen työympäristö
   description: "Modernit ohjelmistot luovat pohjan liiketoiminnalle ja parantavat
     yritysten kilpailukykyä. Tehokkaat, turvalliset työsovellukset helpottavat
     niin yritysten arkea kuin tekevät työstä tuottavampaa. "
-  keywords: ohjelmistot
+  keywords: ohjelmistot, digitaalinen työympäristö, työsovellukset
 contactForm: Ota yhteyttä
 ---
 
