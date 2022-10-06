@@ -8,7 +8,7 @@ head:
     hyödyllisillä työsovelluksilla, johon saat TDP:ltä jatkuvan, ripeän
     käyttötuen.
   keywords: Google Workspace
-contactForm: Ota yhteyttä asiantuntijaamme
+contactForm: Ota yhteyttä
 breadcrumb:
   - path: /
     label: TDP
