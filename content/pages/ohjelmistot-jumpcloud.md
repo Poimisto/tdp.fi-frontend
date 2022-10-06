@@ -20,7 +20,8 @@ breadcrumb:
 
 ![Yrityksesi keskitetty hallinta JumpCloud-ohjelmistolla](/assets/jumpcloud-tinified.jpg "Jumpcloud")
 
-\
+
+
 **JumpCloudin tuottama keskitetty hallinta vapauttaa yritykseltä työaikaa ja resursseja.** Se luo yritykseen selkeät periaatteet laitteiden hallinnalle ja niiden tehokkaalle käytölle nostaen samalla koko organisaation tietoturvan tasoa. 
 
 Yksi hallinta varmistaa, että laitteet eivät ole enää hukassa, monet IT-asiat automatisoituvat ja esimerkiksi tukipyynnöt salasanojen palauttamiseksi vähenevät.
