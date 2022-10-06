@@ -21,6 +21,7 @@ thumbnail: /assets/nira-kuvituskuva2.png
 
 ![Pilvityökalu Nira yritysten tiedostojen suojeluun](/assets/nira-kuvituskuva2.png)
 
+\
 Yli 50 hengen ja sitä suuremmille yrityksille suunnattu **Nira on Workspaceen luontevasti yhdistyvä pilvityökalu, joka ratkaisee tiedostojen säilyttämiseen, jakamiseen ja käyttöoikeuksiin liittyvät ongelmat.** 
 
 ### Ongelmat yrityksessä
