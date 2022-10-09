@@ -67,4 +67,4 @@ Katso [Virtrun](virtru.com) omilta sivuilta, mitä kaikkea muuta ohjelmisto pit�
 
 Olemme Virtrun suomalainen jälleenmyyjä ja näemme sähköpostien salaamisen tärkeänä osana yrityksen viestinnän hallintaa.
 
-Ota yhteyttä asiantuntijaamme ja varmistetaan yhdessä organisaatiosi tiedon luottamuksellisuus!
+*Ota yhteyttä asiantuntijaamme ja varmistetaan yhdessä organisaatiosi tiedon luottamuksellisuus!*
