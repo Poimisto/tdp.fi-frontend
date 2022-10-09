@@ -59,7 +59,7 @@ Virtrun kustannus määräytyy palvelun käyttäjien mukaan.
 
 Virtrun käyttö ei vaadi salatun sähköpostin vastaanottajalta erillisiä tilien luomisia eikä kirjautumisia kolmannen osapuolen palveluihin, mikä tekee siitä erityisen vaivattoman vaihtoehdon. 
 
-Katso [Virtrun](virtru.com) omilta sivuilta, mitä kaikkea muuta ohjelmisto pitää sisällään![](http://www.virtru.com)
+Katso [Virtrun](virtru.com) omilta sivuilta, mitä kaikkea muuta ohjelmisto pitää sisällään!
 
 -﻿ - -
 
