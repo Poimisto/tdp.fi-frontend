@@ -20,11 +20,13 @@ breadcrumb:
 
 ![Google Workspace](/assets/workspace-tinified.jpg "Google Workspace")
 
+**Google Workspace on monipuolinen digitaalinen työympäristö, joka sujuvoittaa yrityksesi liiketoimintaa.** Hanki alan johtava toimisto-ohjelmistopaketti Google Workspace arjen töihin sen sijaan, että käyttäisit useaa eri ohjelmistoa. 
 
+### O﻿minaisuudet
 
-**Google Workspace on monipuolinen digitaalinen työympäristö, joka sujuvoittaa yrityksesi liiketoimintaa.** Workspace on turvallinen pilvipalvelu hyödyllisillä työsovelluksilla, johon saat TDP:ltä jatkuvan, ripeän käyttötuen.
+Workspace on turvallinen pilvipalvelu hyödyllisillä työsovelluksilla, johon saat TDP:ltä jatkuvan, osaavan käyttötuen. 
 
-Hanki alan johtava toimisto-ohjelmistopaketti Google Workspace arjen töihin sen sijaan, että käyttäisit useaa eri ohjelmistoa. Workspace tarjoaa yrityksellesi kaikki arjen töissä tarvitsemasi työkalut yhdessä paketissa, yhdellä kiinteällä hinnalla:
+Workspace tarjoaa yrityksellesi kaikki arjen töissä tarvitsemasi työkalut yhdessä paketissa, yhdellä kiinteällä hinnalla:
 
 * Yrityssähköposti Gmailina
 * Tallennustila Drivessa
@@ -58,16 +60,15 @@ Vaihtoehto englanninkieliselle chat-tuelle: kun hankit ohjelmistolisenssit suora
 
 Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelmasi selvällä suomen kielellä ilman jonotusta. Palvelun vasteaika määritetään sopimuksessa etukäteen haluamaksesi.
 
-- - -
-
-**TDP on virallinen Google Cloud -kumppani.** 
-
-Autamme yrityksiä asiantuntevasti siirtymävaiheessa nykyisistä ratkaisuista Workspacen käyttöönottoon. Asiakkaidemme kokemukset Workspacesta ja sen edeltäjästä G Suitesta ovat olleet poikkeuksetta positiiviset, ja tiedämme paketin täyttävän monen erikokoisen yrityksen tarpeet.
-
 Autamme:
 
 * Oikean palvelupaketin valinnassa
 * Palvelun luotettavassa ylläpidossa
 * Eri sovellusten käytön opastuksessa asiantuntevasti ja viipymättä
+- - -
+
+**TDP on virallinen Google Cloud -kumppani.** 
+
+Luotsaamme yritykset asiantuntevasti siirtymävaiheessa nykyisistä ratkaisuista Workspacen käyttöönottoon. Asiakkaidemme kokemukset Workspacesta ja sen edeltäjästä G Suitesta ovat olleet poikkeuksetta positiiviset, ja tiedämme paketin täyttävän monen erikokoisen yrityksen tarpeet. 
 
 *Ota yhteyttä ja viedään yrityksesi Googlen pilveen, jossa muutkin jo ovat!*
