@@ -2,11 +2,11 @@
 path: /ohjelmistot/microsoft-365
 date: 2022-09-26T09:47:38.826Z
 head:
-  title: Microsoft 365
+  title: Microsoft 365 | Yrityspaketti
   description: Microsoft 365 -työympäristö vapauttaa työntekoa ja vähentää
-    kustannuksia tietoturvaa unohtamatta. Tarjoamme saman Microsoft
-    365-ohjelmistopaketin yrityksellesi kuin kilpailijamme, mutta muita
-    paremmalla käyttäjätuella.
+    kustannuksia tietoturvaa unohtamatta. Tarjoamme saman Microsoft 365
+    -ohjelmistopaketin yrityksellesi kuin kilpailijamme, mutta muita paremmalla
+    käyttäjätuella.
   keywords: Google Workspace
 contactForm: Ota yhteyttä
 breadcrumb:
