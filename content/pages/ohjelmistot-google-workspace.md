@@ -2,7 +2,7 @@
 path: /ohjelmistot/google-workspace
 date: 2022-09-26T09:47:38.826Z
 head:
-  title: Google Workspace
+  title: Google Workspace | Toimistosovelluspaketti
   description: Google Workspace on monipuolinen digitaalinen työympäristö, joka
     sujuvoittaa yrityksesi liiketoimintaa. Workspace on turvallinen pilvipalvelu
     hyödyllisillä työsovelluksilla, johon saat TDP:ltä jatkuvan, ripeän
