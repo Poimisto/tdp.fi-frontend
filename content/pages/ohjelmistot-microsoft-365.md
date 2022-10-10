@@ -61,6 +61,6 @@ Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelm
 
 Olemme Microsoft 365:n suomalainen jälleenmyyjä ja modernien ohjelmistojen edelläkävijä. 
 
-Autamme yrityksiä asiantuntevasti Microsoft 365:n käyttöönotossa ja kerromme ratkaisumallimme yrityksesi sujuvaan viestintään palvelulupausta sekä hintatietoja myöten. 
+Autamme yrityksiä asiantuntevasti Microsoft 365:n käyttöönotossa ja kerromme ratkaisumallimme yrityksesi sujuvaan digiviestintään palvelulupausta sekä hintatietoja myöten. 
 
 *Ota yhteyttä ja viedään yrityksesi pilvihallintaan, jossa jo muutkin ovat!*
