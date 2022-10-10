@@ -21,9 +21,9 @@ thumbnail: /assets/dropbox-1280x800.jpg
 
 ![Dropbox - pilvipohjainen tiedostonjakopalvelu](/assets/dropbox-1280x800.jpg)
 
-
-
 Kun yrityksesi tarvitsee selkeän tiedostonjakopalvelun pilvessä, Dropbox on järkivalinta. **Dropbox on luotettava, helppokäyttöinen pilviratkaisu,  jolla et maksa totuttua ylimääräistä ominaisuuksista, joita et käytä.**
+
+### O﻿minaisuudet
 
 Dropbox Business on parempi tapa saada parhaat työsi tehtyä. Se on yksi selkeä paikka, jossa voit nähdä, jakaa, luoda ja tehdä yhteistyötä sisällön parissa käyttämällä työkaluja, jotka jo tunnet ja joihin luotat. Dropbox on jokaisen projektin kotipesä, joten työntekijä voi pysyä synkronoituna hyppimättä sovelluksesta toiseen. 
 
