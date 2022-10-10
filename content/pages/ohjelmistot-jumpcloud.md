@@ -2,7 +2,7 @@
 path: /ohjelmistot/jumpcloud
 date: 2022-09-26T09:47:38.826Z
 head:
-  title: JumpCloud
+  title: JumpCloud | Keskitetty hallinta
   description: Haluatko hallita yrityksesi kaikkia laitteita, työntekijöiden
     tunnuksia ja oikeuksia korkealla tietoturvalla yhdestä paikasta?
     Pilvipohjainen JumpCloud-ohjelmisto on erinomainen kokonaisratkaisu niin PK-
@@ -20,15 +20,15 @@ breadcrumb:
 
 ![Yrityksesi keskitetty hallinta JumpCloud-ohjelmistolla](/assets/jumpcloud-tinified.jpg "Jumpcloud")
 
-
-
 **JumpCloudin tuottama keskitetty hallinta vapauttaa yritykseltä työaikaa ja resursseja.** Se luo yritykseen selkeät periaatteet laitteiden hallinnalle ja niiden tehokkaalle käytölle nostaen samalla koko organisaation tietoturvan tasoa. 
+
+### Ominaisuudet 
+
+Kiteytettynä, JumpCloud mahdollistaa verkon, sovelluksen ja palvelimen turvallisen tunnistuksen. Ohjelmisto tukee niin Windows-, Mac- kuin Linux-järjestelmiä sekä satoja integroitavia sovelluksia. 
 
 Yksi hallinta varmistaa, että laitteet eivät ole enää hukassa, monet IT-asiat automatisoituvat ja esimerkiksi tukipyynnöt salasanojen palauttamiseksi vähenevät.
 
-### JumpCloudin ominaisuudet ja hinnoittelu
-
-JumpCloud mahdollistaa verkon, sovelluksen ja palvelimen turvallisen tunnistuksen. Ohjelmisto tukee niin Windows-, Mac- kuin Linux-järjestelmiä sekä satoja integroitavia sovelluksia. 
+### H﻿innoittelu
 
 Kiinteän kuukausimaksun ansiosta yrityksesi IT-kulujen budjetoinnista tulee entistä läpinäkyvämpää ja hintavat, ylimääräiset tuntityöt jäävät pois. 
 
