@@ -2,18 +2,20 @@
 path: /ohjelmistot/virtru
 date: 2022-10-09T14:30:07.797Z
 head:
-  title: Virtru | Sähköpostin salaaminen
+  title: Virtru | Sähköpostin salaus
   description: Virtru on Googlen suosittelema erinomainen täsmäohjelmisto tiedon
-    hallintaan, etenkin sähköpostien pätevälle salaamiselle. Suuret yritykset
-    kuten Netflix ja Tripadvisor luottavat Virtruhun - luota sinäkin!
-  keywords: Virtru, sähköpostin salaaminen
+    hallintaan, etenkin sähköpostien pätevään salaukseen. Suuret yritykset kuten
+    Netflix ja Tripadvisor luottavat Virtruhun - luota sinäkin!
+  keywords: Virtru, sähköpostin salaus
 contactForm: Ota yhteyttä
 ---
 # V﻿irtru
 
 ![Virtru tiedon salaukseen](/assets/virtru-logo-blue.png)
 
-**Virtru on Googlen suosittelema erinomainen täsmäohjelmisto tiedon hallintaan, etenkin sähköpostien pätevälle salaamiselle.** Virtru integroituu luontaisesti suosittuihin ohjelmistoihin kuten Google Workspaceen ja Microsoft 365:een, mikä tekee siitä järkevän lisätyökalun suuremmille PK-yrityksille tiedon hallintaan.
+
+
+**Virtru on Googlen suosittelema erinomainen täsmäohjelmisto tiedon hallintaan, etenkin sähköpostien salaukselle.** Virtru integroituu luontevasti suosittuihin ohjelmistoihin kuten Google Workspaceen ja Microsoft 365:een, mikä tekee siitä järkevän lisätyökalun suuremmille PK-yrityksille tiedon hallintaan. 
 
 Suuret yritykset kuten Netflix ja Tripadvisor luottavat Virtruun - luota sinäkin!
 
@@ -33,7 +35,7 @@ Virtrulla voit salata luottamuksellisen sähköpostin helposti vain nappia paina
 
 ### Integroi Virtru Google Workspaceen
 
-Virtru voi toimia laajalla skaalalla kaikissa Workspacen työsovelluksissa. Salaa tällä luottamukselliset sähköpostisi ja tiedostosi kaikissa näissä sovelluksissa:
+Virtru voi toimia laajalla skaalalla kaikissa Workspacen työsovelluksissa. Salaa tällä luottamukselliset tietosi ja tiedostosi kaikissa näissä sovelluksissa: 
 
 * Gmail
 * Drive
