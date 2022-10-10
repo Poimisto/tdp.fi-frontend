@@ -2,7 +2,7 @@
 path: /ohjelmistot/nira
 date: 2022-09-26T09:47:38.826Z
 head:
-  title: Nira
+  title: Nira | Pääsynhallintajärjestelmä
   description: Nira on reaaliaikainen pääsynhallintajärjestelmä, jolla
     hallinnoidaan yrityksen dokumentteja Google Workspacessa. Älä hyväksy
     tilannetta, jossa entisellä työntekijällä on edelleen oikeudet nähdä
@@ -21,8 +21,6 @@ thumbnail: /assets/nira-kuvituskuva2.png
 
 ![Pilvityökalu Nira yritysten tiedostojen suojeluun](/assets/nira-kuvituskuva2.png)
 
-
-
 Yli 50 hengen ja sitä suuremmille yrityksille suunnattu **Nira on Workspaceen luontevasti yhdistyvä pilvityökalu, joka ratkaisee tiedostojen säilyttämiseen, jakamiseen ja käyttöoikeuksiin liittyvät ongelmat.** 
 
 ### Ongelmat yrityksessä
@@ -36,11 +34,13 @@ Oletko tietoinen näistä konkreettisista ongelmista, joita organisaatiossasi on
 * Kokonaisnäkemystä yrityksen sisäisen tiedon hallinnasta ei ole kenelläkään
 * Saapuvien tiedostojen luoma riski 
 
-Tiedon ja tiedostojen yhteiskäyttö on suuri mahdollisuus, jolla on kuitenkin oikeinkin käytettynä lieveilmiönsä. Niralla suurikin PK-yritys tulppaa ne pienetkin tietoturva-aukot, joita syntyy vääjäämättä tiedon volyymikäytön myötä ja mikä tärkeintä, yritys näkee yhdestä paikasta kaikki työntekijöiden käyttämät dokumentit.
+Tiedon ja tiedostojen yhteiskäyttö on suuri mahdollisuus, jolla on kuitenkin oikeinkin käytettynä lieveilmiönsä. Niralla suurikin PK-yritys tulppaa ne pienetkin tietoturva-aukot, joita syntyy vääjäämättä tiedon volyymikäytön myötä. Ja mikä tärkeintä, yritys näkee yhdestä paikasta kaikki työntekijöidensä käyttämät dokumentit.  
 
 ### Nira ratkaisuksi
 
-Nira tarjoaa vaivattoman ohjelmallisen vaihtoehdon edellä kuvattujen ongelmien ratkaisemiseen. Se päihittää vaivalloisen, jatkuvan käsityön yrityksen IT-osaston toimesta selättää ja ennaltaehkäistä yhä uusia pulmia. Mikäli IT-osastoa ei edes ole, nämä tietoturvaongelmat menestyvät ja luovat siten riskin yrityksen koko liiketoiminnalle.
+Nira tarjoaa vaivattoman ohjelmallisen vaihtoehdon edellä kuvattujen ongelmien ratkaisemiseen. 
+
+Se päihittää vaivalloisen, jatkuvan käsityön yrityksen IT-osaston toimesta selättää ja ennaltaehkäistä yhä uusia pulmia. Mikäli IT-osastoa ei edes ole, nämä tietoturvaongelmat menestyvät ja luovat siten riskin yrityksen koko liiketoiminnalle.
 
 SaaS-palveluna tämäkin ohjelmisto on hyvä renki, joka tarjoaa organisaatiollesi helpolla mielenrauhaa ja korkeaa tietoturvaa. Google Workspacea käyttäville suuremmille PK-yrityksille Nira on miltei välttämätön hankinta.
 
@@ -60,14 +60,14 @@ Nira on melko arvokas sovellus, mutta suurelle yritykselle hintansa arvoinen.
 | Kertakirjautuminen               | ✔             | ✔         |
 | Käyttäjähallinta                 | ✔             | ✔         |
 | Salasanojen hallinta             | ✔             | ✔         |
-| Edistynyt hakutoiminto           |               | ✔         |
+| Edistynyt hakutoiminto           | \-﻿           | ✔         |
 | **Hinta (EUR/kk/käyttäjä):**     | **8,00**      | **14,00** |
 
-Älä tyydy soittoon sovelluspaketin määrittämisessä, vaan sovi videotapaaminen! Esittelemme siinä Niran yksityiskohtaiset käyttömahdollisuudet ja saat kokonaiskuvan Niran potentiaalista.
+Älä tyydy soittoon sovelluspaketin määrittämisessä, vaan sovi kanssamme videotapaaminen. Esittelemme siinä Niran yksityiskohtaiset käyttömahdollisuudet ja saat kokonaiskuvan Niran potentiaalista.  
 
 ### Suomenkielinen tukipalvelu
 
-Vaihtoehto englanninkieliselle chat-tuelle: kun hankit ohjelmistolisenssit suoraan meiltä, voit samalla hankkia virtaviivaisen TDP-tukipalvelun erillisellä palvelusopimuksella! 
+Vaihtoehto englanninkieliselle chat-tuelle: kun hankit ohjelmistolisenssit suoraan meiltä, voit samalla hankkia virtaviivaisen TDP-tukipalvelun erillisellä palvelusopimuksella.
 
 Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelmasi selvällä suomen kielellä ilman jonotusta. Palvelun vasteaika määritetään sopimuksessa etukäteen haluamaksesi.
 
