@@ -5,9 +5,9 @@ date: 2020-11-15T20:33:13.757Z
 head:
   title: Tietotekniikka on meillä helppoa
   description: TDP on Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva yritysten
-    IT-palveluntuottaja. Kauttamme saatte kaikki yrityksenne tarvitsemat
+    IT-palvelukumppani. Kauttamme saatte kaikki yrityksenne tarvitsemat
     IT-laitteet ja -palvelut.
-  keywords: TDP, Tampereen Datapiste, etusivu
+  keywords: TDP, Tampereen Datapiste, etusivu, IT-palvelukumppani
 contactForm: Ota yhteyttä
 ---
 
@@ -23,11 +23,13 @@ contactForm: Ota yhteyttä
 
 # Tietotekniikka on meillä helppoa
 
-TDP on **Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva yritysten IT-palveluntuottaja**. Kauttamme saatte kaikki yrityksenne tarvitsemat IT-laitteet ja -palvelut.
+TDP on **Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva yritysten IT-palvelukumppani**. Kauttamme saatte kaikki yrityksenne tarvitsemat IT-laitteet ja -palvelut.
 
-Palvelumme on suunnattu startup- ja pk-yrityksille, joille tietotekniikan toimivuus järkevällä hintatasolla on tärkeää. Toimitamme työntekijöiden koneet ja puhelimet, toimiston laitteet ja yritysverkot käyttökuntoon asennettuna. Saatte meiltä myös muut **IT-osaston palvelut palvelusopimuksella.**
+Palvelemme niin startup-, pk- kuin suuryrityksiä, joille tietotekniikan toimivuus järkevällä hintatasolla on tärkeää. Toimitamme työntekijöiden koneet ja puhelimet, toimiston laitteet ja yritysverkot käyttökuntoon asennettuna. Saatte meiltä myös muut **IT-osaston palvelut palvelusopimuksella.** 
 
-Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [asiakkainamme](/referenssit) on paljon eri toimialoilla toimivia yrityksiä. Koe sinäkin asiakkaanamme tietotekniikan käytön helppous. Soita, lähetä sähköpostia tai kokeile TDP SLIMiä!
+Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [asiakkainamme](/referenssit) on paljon eri toimialoilla toimivia yrityksiä. Koe sinäkin asiakkaanamme tietotekniikan käytön helppous. 
+
+Soita, lähetä sähköpostia tai kokeile TDP SLIMiä!
 
 </div>
 
