@@ -21,7 +21,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-# Tietotekniikka on meillä helppoa
+# IT on meillä helppoa
 
 TDP on **Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva yritysten IT-palvelukumppani**. Kauttamme saatte kaikki yrityksenne tarvitsemat IT-laitteet ja -palvelut.
 
