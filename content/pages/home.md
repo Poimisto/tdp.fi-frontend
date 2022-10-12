@@ -3,7 +3,7 @@ path: /home
 thumbnail: /assets/tdp-logo-slogan-horizontal-rgb.png
 date: 2020-11-15T20:33:13.757Z
 head:
-  title: Tietotekniikka on meillä helppoa
+  title: IT on meillä helppoa
   description: TDP on Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva yritysten
     IT-palvelukumppani. Kauttamme saatte kaikki yrityksenne tarvitsemat
     IT-laitteet ja -palvelut.
