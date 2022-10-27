@@ -27,6 +27,7 @@ head:
 
 *Koska tunnen saavani rahoilleni hyvän vastineen, en ole edes harkinnut nykyisen IT-sopimuksen kilpailutusta. Oman kokemukseni perusteella voin lämpimästi suositella muillekin TDP:tä IT-kumppanina.*
 
+
 **Hanne Nurmi**, toimitusjohtaja, [Arctic Safety Oy](https://arcticsafe.fi/)
 
 </div>
