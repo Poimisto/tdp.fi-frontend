@@ -12,7 +12,25 @@ head:
   title: "Uusi yrittäjä "
 contactForm: Ota yhteyttä
 ---
-![Yrityksen IT-osasto.](/assets/it-osasto-1200x1200.jpg)
+![Yrityksen IT-osasto.](/assets/it-osasto-800x800.jpg)
+
+
+<HeroBlock bgColor="brand" imageAlign="right">
+
+<div className="HeroBlockImage">
+
+
+
+</div>
+
+<div className="HeroBlockContent">
+
+
+
+</div>
+
+</HeroBlock>
+
 
 # TDP tarjoaa käyttöösi oman IT-osaston
 
