@@ -12,7 +12,7 @@ head:
   title: "Uusi yrittäjä "
 contactForm: Ota yhteyttä
 ---
-![Yrityksen IT-osasto.](/assets/yrityksen-it-sasto-tinified.jpg)
+![Yrityksen IT-osasto.](/assets/it-osasto-1200x1200.jpg)
 
 # TDP tarjoaa käyttöösi oman IT-osaston
 
