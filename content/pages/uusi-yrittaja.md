@@ -17,20 +17,6 @@ contactForm: Ota yhteyttä
 
 <HeroBlock bgColor="brand" imageAlign="right">
 
-<div className="HeroBlockImage">
-
-
-
-</div>
-
-<div className="HeroBlockContent">
-
-
-
-</div>
-
-</HeroBlock>
-
 
 # TDP tarjoaa käyttöösi oman IT-osaston
 
