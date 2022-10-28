@@ -40,4 +40,4 @@ Kaikissa tarjoamissamme palveluissa on huomioitu tietoturva ja laitteisiin voida
 
 TDP:llä on yli vuosikymmenen kokemus IT-palveluiden ja -laitteiden toimittamisesta pienille ja vähän isommille yrityksille. Asiakkaisiimme kuuluu lukuisten eri toimialojen yrityksiä ja organisaatioita. 
 
-Ota rohkeasti yhteyttä, niin autamme sopivan laitteiston sekä palveluiden valinnassa!
+*Ota rohkeasti yhteyttä, niin autamme sopivan laitteiston sekä palveluiden valinnassa!*
