@@ -13,7 +13,9 @@ contactForm: Ota yhteyttä
 
 ![Virtru tiedon salaukseen](/assets/tdp-linkedin-postaukset-1200-x-627.jpg)
 
-**Virtru on Googlen suosittelema erinomainen täsmäohjelmisto tiedon hallintaan, etenkin sähköpostien salaukselle.** Virtru integroituu luontevasti suosittuihin ohjelmistoihin kuten Google Workspaceen ja Microsoft 365:een, mikä tekee siitä järkevän lisätyökalun suuremmille PK-yrityksille tiedon hallintaan. 
+**Virtru on Googlen suosittelema erinomainen täsmäohjelmisto tiedon hallintaan, etenkin sähköpostien salaukselle.** 
+
+Virtru integroituu luontevasti suosittuihin ohjelmistoihin kuten Google Workspaceen ja Microsoft 365:een, mikä tekee siitä järkevän lisätyökalun suuremmille PK-yrityksille tiedon hallintaan. 
 
 Suuret yritykset kuten Netflix ja Tripadvisor luottavat Virtruun - luota sinäkin!
 
