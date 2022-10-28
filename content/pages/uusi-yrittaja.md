@@ -12,7 +12,7 @@ head:
   title: "Uusi yrittäjä "
 contactForm: Ota yhteyttä
 ---
-![Yrityksen IT-osasto.](/assets/it-osasto-800x800.jpg)
+![Yrityksen IT-osasto.](/assets/it-osasto-600x600.jpg)
 
 
 <HeroBlock bgColor="brand" imageAlign="right">
