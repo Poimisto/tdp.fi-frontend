@@ -14,10 +14,6 @@ contactForm: Ota yhteyttä
 ---
 ![Yrityksen IT-osasto.](/assets/it-osasto-600x600.jpg)
 
-
-<HeroBlock bgColor="brand" imageAlign="right">
-
-
 # TDP tarjoaa käyttöösi oman IT-osaston
 
 TDP toteuttaa laitetoimitusten lisäksi myös IT-ympäristön hallinnan palveluita. Tarjoamme toimivien laitteiden lisäksi käyttöönne verkkotunnusten ja sähköpostien hallintaa, yhteensopivia viestintäsovelluksia, huoletonta tietoturvaa sekä nopeaa ongelmatilanteiden ratkaisua.
