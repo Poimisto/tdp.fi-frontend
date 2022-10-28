@@ -77,7 +77,7 @@ Syötä vain laskuriin kaikki tarvitsemasi laitteet ja palvelut ja TDP SLIM lask
 
 Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen TDP:n toiminta nojaa. Meillä on asiakkaina yrityksiä monelta eri toimialalta. Lue tyytyväisten asiakkaidemme kokemuksista ja liity heidän joukkoonsa.
 
-<CallToAction bgColor="lightest" url="/referenssit" align="center">Lue asiakaskokemuksista</CallToAction>
+<CallToAction bgColor="brand" url="/referenssit" align="center">Lue asiakaskokemuksista</CallToAction>
 
 </div>
 
