@@ -12,8 +12,9 @@ head:
   title: "Uusi yrittäjä "
 contactForm: Ota yhteyttä
 ---
-# TDP tarjoaa käyttöösi oman IT-osaston
+![Yrityksen IT-osasto.](/assets/yrityksen-it-sasto-tinified.jpg)
 
+# TDP tarjoaa käyttöösi oman IT-osaston
 
 TDP toteuttaa laitetoimitusten lisäksi myös IT-ympäristön hallinnan palveluita. Tarjoamme toimivien laitteiden lisäksi käyttöönne verkkotunnusten ja sähköpostien hallintaa, yhteensopivia viestintäsovelluksia, huoletonta tietoturvaa sekä nopeaa ongelmatilanteiden ratkaisua.
 
