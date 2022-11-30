@@ -2,10 +2,20 @@
 path: /referenssit/teleammattilainen
 date: 2022-11-30T13:18:26.880Z
 head:
-  title: Referenssitarina | Digiajan teleammattilainen | TDP
+  title: Referenssitarina - Digiajan teleammattilainen - TDP
   keywords: "referenssi, asiakastarina, asiakasreferenssi, datko, teleammattilainen, "
   description: Digiajan teleammattilaisen Datkon asiakasreferenssi TDP:lle.
 ---
+<HeroBlock bgColor="lightest" imageAlign="right">
+
+<div className="HeroBlockImage">
+
+![Datko asiakastarina](/assets/datko_logo.jpg)
+
+</div>
+
+<div className="HeroBlockContent">
+
 ## Teleammattilainen Datko
 
 *“Yhteistyömme käynnistyi kotisivujen vaatimattomalla konsultointitarpeella, mutta nyt viiden vuoden kokonaisvaltaisen, tehokkaan palvelun jälkeen voin jälkiviisaana todeta, että olisi pitänyt täysin ulkoistaa IT TDP:lle jo aiemmin.”*
@@ -20,4 +30,6 @@ head:
 
 **Toni Koskinen**, toimitusjohtaja, [Datko Oy](https://www.datko.fi/)
 
-![Datko | Referenssi](/assets/datko_logo.jpg)
+</div>
+
+</HeroBlock>
