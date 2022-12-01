@@ -30,6 +30,8 @@ Hyvä käyttäjätuki tukee yrityksesi monien tavoitteiden toteutumista:
 
 [Lue lisää TDP:n asiakaspalvelusta](https://www.tdp.fi/referenssit)
 
+
+
 ![](/assets/image5.jpg)
 
 ## **2. Keskitetty hallinta tuo mielenrauhaa**
