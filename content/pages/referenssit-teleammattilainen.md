@@ -20,7 +20,7 @@ head:
 
 *“Yhteistyömme käynnistyi kotisivujen vaatimattomalla konsultointitarpeella, mutta nyt viiden vuoden kokonaisvaltaisen, tehokkaan palvelun jälkeen voin jälkiviisaana todeta, että olisi pitänyt täysin ulkoistaa IT TDP:lle jo aiemmin.”*
 
-*Hoidin itse pitkään yrittäjänä IT-asiat kaiken muun ohella, minkä jälkeen annoin muun toimiston väen hoitaa. Olisi kuitenkin pitänyt oivaltaa aiemmin, että yritykselle on parasta keskittyä vain omiin laskutettaviin asioihin ja muihin, jotka varmasti osataan. Nykyiseen sopimukseen sisältyy Google Workspace -paketti, perus IT-tuki, kotisivujen ja palvelintilan ylläpito ja kaikki toimii hienosti.*
+*Hoidin itse pitkään yrittäjänä IT-asiat kaiken muun ohella, minkä jälkeen annoin muun toimiston väen hoitaa. Olisi kuitenkin pitänyt oivaltaa aiemmin, että yritykselle on parasta keskittyä vain omiin laskutettaviin asioihin ja muihin, jotka varmasti osataan. Nykyiseen sopimukseen sisältyy Google Workspace -paketti, perus IT-tuki, apu kotisivujen ylläpidossa ja kaikki toimii hienosti.*
 
 *TDP:n paras puoli on asiakaslähtöinen ratkaisukeskeisyys. He joko hoitavat palvelupyynnöt välittömästi tai ratkaisevat ongelman niin, että Datkon arki ei rikkoudu. Tänä päivänä minulla on jo sokea luotto heidän osaamiseensa ja kykyynsä kehittää yrityksemme toimintaa IT:n avulla.* 
 
