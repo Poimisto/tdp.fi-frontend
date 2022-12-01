@@ -1,9 +1,9 @@
 ---
 template: BlogPost
-path: /kolme-syyta-miksi-tdp-on-yrityksellesi-paras-kumpppani-it-asioihin
+path: /kolme-syyta-miksi-tdp-on-yrityksellesi-paras-kumpppani-it-asioissa
 date: 2022-12-01T08:34:48.719Z
 head:
-  title: Kolme syytä, miksi TDP on yrityksellesi paras kumppani IT-asioihin
+  title: Kolme syytä, miksi TDP on yrityksellesi paras kumppani IT-asioissa
   description: IT-kumppanin valinnassa on huomioitava monia seikkoja. Edullista
     hintatasoa ei pidä arvostaa liikaa, vaan huomio kannattaa kiinnittää siihen,
     mitä rahalla saa oikeasti vastineeksi.
