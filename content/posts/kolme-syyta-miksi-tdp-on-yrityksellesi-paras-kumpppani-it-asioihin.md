@@ -44,7 +44,8 @@ TDP on virallinen JumpCloud -kumppani. JumpCloudin keskitetyllä hallinnalla voi
 
 Hajanaiset Excel-tiedostot salasanoista ja muut erillisratkaisut korvataan ohjelmistolla, joka hallitsee niin Windows-, Mac- kuin Linux-järjestelmät samanaikaisesti, ja työntekijä pääsee kertakirjautumisella käsiksi kaikkiin sovelluksiin.
 
-Keskitetty hallinta tarjoaa yrityksellesi useita etuja, joista voit lukea lisää täältä: [JumpCloud | Keskitetty hallinta | TDP](https://www.tdp.fi/ohjelmistot/jumpcloud)
+Keskitetty hallinta tarjoaa yrityksellesi useita etuja, joista voit lukea lisää täältä:\
+[JumpCloud | Keskitetty hallinta | TDP](https://www.tdp.fi/ohjelmistot/jumpcloud)
 
 ![](/assets/google-asiantuntija-tinified.jpg)
 
