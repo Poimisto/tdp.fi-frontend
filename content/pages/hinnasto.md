@@ -13,7 +13,6 @@ head:
 |                                                       |               |
 | ----------------------------------------------------- | ------------- |
 | Työasemien vianselvitykset / asennukset               | 68,00 € / h   |
-| Asennukset laitehankinnan yhteydessä alk.             | 43,00 € / h   |
 | Suunnittelu, verkkotyöt, palvelimet, ohjelmointi alk. | 84,00 € / h   |
 
 ## Esimerkkejä huolto- ja ylläpitosopimuksien hinnoista
