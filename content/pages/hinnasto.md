@@ -17,13 +17,13 @@ head:
 
 ## Huolto- ja ylläpitosopimukset
 
-|                                            |             |  
-| --------------------------------------------------   | --------- | 
-| Etätukipalvelu                             | 7,00 €/kk   |
-| Hallittu yritystietoturva                  | 7,00 €/kk   |
-| Varmuuskopiointi                           | 5,20 €/kk   |
-| Varalaitepalvelu                           | 9,00 €/kk   |
-| Koneiden ja käyttäjien keskitetty hallinta | 11,00 €/kk  |
+|                                                      |             |  
+| --------------------------------------------------   | ----------- | 
+| Etätukipalvelu                                       | 7,00 €/kk   |
+| Hallittu yritystietoturva                            | 7,00 €/kk   |
+| Varmuuskopiointi                                     | 5,20 €/kk   |
+| Varalaitepalvelu                                     | 9,00 €/kk   |
+| Koneiden ja käyttäjien keskitetty hallinta           | 11,00 €/kk  |
 
 ## Ohjelmistot
 
