@@ -10,10 +10,10 @@ head:
 
 ## Asennukset
 
-|                                                         |           |
-| ------------------------------------------------------- | --------- |
-| Työasemien vikaselvitykset / asennukset                 | 68,00 €/h |
-| Suunnittelu, verkkotyöt, palvelintyöt, ohjelmointi alk. | 84,00 €/h |
+|                                                      |           |
+| ---------------------------------------------------- | --------- |
+| Työasemien vikaselvitykset / asennukset              | 68,00 €/h |
+| Suunnittelu, verkkotyöt, palvelintyöt ja ohjelmointi | 84,00 €/h |
 
 ## Huolto- ja ylläpitosopimukset
 
@@ -34,18 +34,18 @@ head:
 | Nira                   | 8,00 €/kk      |
 | JumpCloud              | 11,00 €/kk     |
 | Dropbox                | 12,00 €/kk     |
-| ﻿ Virtru               | 79,99 €/kk     |
-| ﻿ WithSecure           | 4,20/7,00 €/kk |
-| ﻿ Bitwarden            | 4,00 €/kk      |
-| ﻿ Adobe Creative Cloud | 73,49 €/kk     |
-| ﻿ Nexetic Full         | 11,00 €/kk     |
+| ﻿Virtru                 | 79,99 €/kk     |
+| ﻿WithSecure             | 4,20/7,00 €/kk |
+| ﻿Bitwarden              | 4,00 €/kk      |
+| ﻿Adobe Creative Cloud   | 73,49 €/kk     |
+| ﻿Nexetic Full           | 11,00 €/kk     |
 
 ## Muut
 
 |                                     |           |
 | ----------------------------------- | --------- |
-| K﻿iiretyölisä                       | 100%      |
-| ﻿ Konsultointi- ja koulutuspalvelut | 84,00 €/h |
+| K﻿iiretyölisä                        | 100%      |
+| ﻿Konsultointi- ja koulutuspalvelut   | 84,00 €/h |
 
 <a href="/tietokone-leasing-esimerkkipaketit">Katso konepakettien esimerkkejä tästä</a>
 
