@@ -12,7 +12,7 @@ head:
 
 |                                                      |           |
 | ---------------------------------------------------- | --------- |
-| Työasemien vikaselvitykset / asennukset              | 68,00 €/h |
+| Työasemien vikaselvitykset ja asennukset             | 68,00 €/h |
 | Suunnittelu, verkkotyöt, palvelintyöt ja ohjelmointi | 84,00 €/h |
 
 ## Huolto- ja ylläpitosopimukset
