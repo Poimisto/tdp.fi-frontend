@@ -6,29 +6,47 @@ head:
   description: Asennushinnasto ja esimerkkejä huolto- ja ylläpitosopimusten hinnoista
   keywords: hinnasto, hinnat
 ---
-# Palveluhinnasto
+# Palveluhinnasto (hinnat alk.)
 
-## Asennushinnasto
+## Asennukset
 
-|                                                       |               |
-| ----------------------------------------------------- | ------------- |
-| Työasemien vianselvitykset / asennukset               | 68,00 € / h   |
-| Suunnittelu, verkkotyöt, palvelimet, ohjelmointi alk. | 84,00 € / h   |
+|                                                         |             | 
+| -----------------------------------------------------   | ------------|   
+| Työasemien vikaselvitykset / asennukset                 | 68,00 €/h | 
+| Suunnittelu, verkkotyöt, palvelintyöt, ohjelmointi alk. | 84,00 €/h |
 
-## Esimerkkejä huolto- ja ylläpitosopimuksien hinnoista
+## Huolto- ja ylläpitosopimukset
 
-|                                                 |               |
-| ----------------------------------------------- | ------------- |
-| Etätukipalvelu alk.                             | 7,00 € / kk   |
-| Hallittu yritystietoturva alk.                  | 4,20 € / kk   |
-| Varmuuskopiointi alk.                           | 5,20 € / kk   |
-| Varalaitepalvelu alk.                           | 9,00 € / kk   |
-| Microsoft O365 sovelluspaketti alk.             | 5,50 € / kk   |
-| Koneiden ja käyttäjien keskitetty hallinta alk. | 11,00 € / kk  |
-| Google Workspace Business Starter               | 5,20 € / kk   |
-| Google Workspace Business Standard              | 10,40 € / kk  |
-| Google Workspace Enterprise                     | 23,00 € / kk  |
+|                                                         |               | 
+| -----------------------------------------------         | ------------- |
+| Etätukipalvelu                                          | 7,00 €/kk   |
+| Hallittu yritystietoturva                               | 7,00 €/kk   |  
+| Varmuuskopiointi                                        | 5,20 €/kk   |
+| Varalaitepalvelu                                        | 9,00 €/kk   |
+| Koneiden ja käyttäjien keskitetty hallinta              | 11,00 €/kk  |
+
+#﻿# Ohjelmistot
+
+|                                                         |               |
+| -----------------------------------------------         | ------------- |
+| Google Workspace                                        | 5,20 €/kk   |
+| Microsoft 365                                           | 5,10 €/kk   |  
+| Nira                                                    | 8,00 €/kk   |
+| JumpCloud                                               | 11,00 €/kk  |
+| Dropbox                                                 | 12,00 €/kk  | 
+|﻿ Virtru                                                  | 79,99 €/kk  |
+|﻿ WithSecure                                              | 4,20/7,00 €/kk |
+|﻿ Bitwarden                                               | 4,00 €/kk   |
+|﻿ Adobe Creative Cloud                                    | 73,49 €/kk  |
+|﻿ Nexetic Full                                            | 11,00 €/kk  |
+
+#﻿# Muut
+
+|                                                         |               |
+| -----------------------------------------------         | ------------- |
+| K﻿iiretyölisä                                            | 100%          |
+|﻿ Konsultointi- ja koulutuspalvelut                       | 84,00 €/h
 
 <a href="/tietokone-leasing-esimerkkipaketit">Katso konepakettien esimerkkejä tästä</a>
 
-Hintoihin lisätään alv.
+Kaikki ovat alkaen hintoja ja hintoihin lisätään alv.
