@@ -41,7 +41,7 @@ Jos haluat tietää enemmän IT-alasta ja yrityksemme uusista käänteistä, ryh
 
 * <a href="/uutiset">Ajankohtaista</a>
 * <a href="/yritys/hinnasto">Palveluhinnasto</a>
-* <a href="/assets/Tampereen Datapiste Oy laskutustiedot.pdf" target="_blank">Laskutustiedot (PDF)</a> 
+* <a href="/assets/Laskutustiedot-2022.pdf" target="_blank">Laskutustiedot (PDF)</a>
 * <a href="/assets/tietosuojaseloste.pdf" target="_blank">Tietosuojaseloste (PDF)</a> 
 * <a href="/assets/yleiset_sopimusehdot.pdf" target="_blank">Yleiset sopimusehdot (PDF)</a> 
 
