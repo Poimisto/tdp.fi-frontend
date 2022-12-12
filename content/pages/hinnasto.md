@@ -35,6 +35,7 @@ head:
 | JumpCloud              | 11,00 €/kk     |
 | Dropbox                | 12,00 €/kk     |
 | ﻿Virtru                 | 79,99 €/kk     |
+|﻿ Assently               | 32,00 €/kk     |
 | ﻿WithSecure             | 4,20/7,00 €/kk |
 | ﻿Bitwarden              | 4,00 €/kk      |
 | ﻿Adobe Creative Cloud   | 73,49 €/kk     |
