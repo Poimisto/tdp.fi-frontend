@@ -40,6 +40,7 @@ head:
 | ﻿Bitwarden              | 4,00 €/kk      |
 | ﻿Adobe Creative Cloud   | 73,49 €/kk     |
 | ﻿Nexetic Full           | 11,00 €/kk     |
+|﻿ Muut ohjelmistot       | Kysy tarjousta |
 
 ## Muut
 
