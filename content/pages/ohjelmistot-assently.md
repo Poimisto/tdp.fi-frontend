@@ -65,7 +65,7 @@ Kun hankit Assentlyn ohjelmistolisenssin suoraan meiltä, voit samalla hankkia v
 
 Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelmasi selvällä suomen kielellä ilman jonotusta. Palvelun vasteaika määritetään sopimuksessa etukäteen haluamaksesi.
 
--﻿-- 
+- - -
 
 **TDP on yritysten ripeä, asiantunteva IT-palvelukumppani.** 
 
