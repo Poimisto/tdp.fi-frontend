@@ -29,35 +29,35 @@ Allekirjoituksen molemmat osapuolet saavat oman kappaleensa dokumentista. Voit v
 
 ## Assently-paketit
 
-| Ominaisuus                                               | PRO       | TEAM       | ENTERPRISE             |   
+| Ominaisuus                                   | PRO       | TEAM       | ENTERPRISE             |
 | -------------------------------------------- | --------- | ---------- | ---------------------- |
-| 20 tapausta/kk                                           | ✔         | ✔          | ✔                      |
-| Pankkitunnisteet/kosketusnäyttö/tekstiviesti             | ✔         | ✔          | ✔                      |
-| Brändättynä                                              | ✔         | ✔          | ✔                      |
-| Suojattu digitaalinen arkisto                            | ✔         | ✔          | ✔                      |
-| Asiakirjojen lähetys                                     | ✔         | ✔          | ✔                      |
-| Asiakirjamallit                                          | ✔         | ✔          | ✔                      |
-| Sopimuskopio sidosryhmille                               | ✔         | ✔          | ✔                      |
-| Määräajat ja muistutukset                                | ✔         | ✔          | ✔                      |
-| Allekirjoitusjärjestys                                   | ✔         | ✔          | ✔                      |
-| 2-vaiheinen tunnistautuminen                             | ✔         | ✔          | ✔                      |
-| 200 tapausta/kk                                          |           | ✔          | ✔                      |
-| Mukautetut käyttöoikeudet                                |           | ✔          | ✔                      |
-| Joukkopostitus                                           |           | ✔          | ✔                      |
-| Hyväksyntä ennen lähettämistä                            |           | ✔          | ✔                      |
-| Tilastot ja tunnusluvut                                  |           | ✔          | ✔                      |
-| Metatietojen käsittely                                   |           | ✔          | ✔                      |
-| Excel/CSV-tiedonsiirto                                   |           | ✔          | ✔                      |
-| Käyttöoikeusvalvonta                                     |           | ✔          | ✔                      |
-| X määrä tapauksia                                        |           |            | ✔                      |
-| SAML-kertakirjautuminen                                  |           |            | ✔                      |
-| IP-rajoitukset                                           |           |            | ✔                      |
-| Oma verkkotunnus                                         |           |            | ✔                      |
-| Sähköpostipalvelimet                                     |           |            | ✔                      |
-| Yksityinen pilvi                                         |           |            | ✔                      |
-| Mukautettu SLA-sopimus                                   |           |            | ✔                      |
-| Rajaton määrä käyttäjiä                                  |           |            | ✔                      |
-| **Hinta (EUR/kk):**                                      | **32,00** | **299,00** | **Tarpeiden pohjalta** |
+| 20 tapausta/kk                               | ✔         | ✔          | ✔                      |
+| Pankkitunnisteet/kosketusnäyttö/tekstiviesti | ✔         | ✔          | ✔                      |
+| Brändättynä                                  | ✔         | ✔          | ✔                      |
+| Suojattu digitaalinen arkisto                | ✔         | ✔          | ✔                      |
+| Asiakirjojen lähetys                         | ✔         | ✔          | ✔                      |
+| Asiakirjamallit                              | ✔         | ✔          | ✔                      |
+| Sopimuskopio sidosryhmille                   | ✔         | ✔          | ✔                      |
+| Määräajat ja muistutukset                    | ✔         | ✔          | ✔                      |
+| Allekirjoitusjärjestys                       | ✔         | ✔          | ✔                      |
+| 2-vaiheinen tunnistautuminen                 | ✔         | ✔          | ✔                      |
+| 200 tapausta/kk                              |           | ✔          |                        |
+| Mukautetut käyttöoikeudet                    |           | ✔          | ✔                      |
+| Joukkopostitus                               |           | ✔          | ✔                      |
+| Hyväksyntä ennen lähettämistä                |           | ✔          | ✔                      |
+| Tilastot ja tunnusluvut                      |           | ✔          | ✔                      |
+| Metatietojen käsittely                       |           | ✔          | ✔                      |
+| Excel/CSV-tiedonsiirto                       |           | ✔          | ✔                      |
+| Käyttöoikeusvalvonta                         |           | ✔          | ✔                      |
+| X määrä tapauksia                            |           |            | ✔                      |
+| SAML-kertakirjautuminen                      |           |            | ✔                      |
+| IP-rajoitukset                               |           |            | ✔                      |
+| Oma verkkotunnus                             |           |            | ✔                      |
+| Sähköpostipalvelimet                         |           |            | ✔                      |
+| Yksityinen pilvi                             |           |            | ✔                      |
+| Mukautettu SLA-sopimus                       |           |            | ✔                      |
+| Rajaton määrä käyttäjiä                      |           |            | ✔                      |
+| **Hinta (EUR/kk):**                          | **32,00** | **299,00** | **Tarpeiden pohjalta** |
 
 ## Suomenkielinen tukipalvelu
 
