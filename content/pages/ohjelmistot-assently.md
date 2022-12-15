@@ -27,41 +27,39 @@ Allekirjoituksen molemmat osapuolet saavat oman kappaleensa dokumentista. Voit v
 
 ## Assently-paketit
 
-| Ominaisuus                                     | PRO     | TEAM | ENTERPRISE |
-| ---------------------------------------------- | ---------------------- | ------------------ | ------------- |
-| 20 tapausta/kk                                 | ✔                      | ✔                  | ✔             |
-| Allekirjoituksena pankkitunnisteet/kosketusnäyttö/tekstiviesti                        | ✔                      | ✔                  | ✔             |
-| Brändättynä                            | ✔                      | ✔                  | ✔             |
-| Suojattu digitaalinen arkisto                    | ✔                      | ✔                  | ✔             |
-| Asiakirjojen lähetys                                          | ✔                      | ✔                  | ✔             |
-| Asiakirjamallit                        | ✔                      | ✔                  | ✔             |
-| Sopimuskopio sidosryhmille                                  | ✔                       | ✔                  | ✔             |
-| Määräajat ja muistutukset                           | ✔                       | ✔                  | ✔             |
-| Allekirjoitusjärjestys                      | ✔                       | ✔                  | ✔             |
-| 2-vaiheinen tunnistautuminen                           | ✔                       | ✔                   | ✔             |
-| 200 tapausta/kk                        |                        | ✔                   | ✔             |
-| Mukautetut käyttöoikeudet                          |                        | ✔                   | ✔             |
-| Joukkopostitus                          |                        | ✔                   | ✔             |
-| Hyväksyntä ennen lähettämistä                          |                        | ✔                   | ✔             |
-| Tilastot ja tunnusluvut                          |                        | ✔                   | ✔             |
-| Metatietojen käsittely                          |                        | ✔                   | ✔             |
-| Excel/CSV-tiedonsiirto                          |                        | ✔                   | ✔             |
-| Käyttöoikeusvalvonta                          |                        | ✔                   | ✔             |
-| X määrä tapauksia                          |                        |                    | ✔             | 
-| SAML-kertakirjautuminen                          |                        |                    | ✔             | 
-| IP-rajoitukset                          |                        |                    | ✔             | 
-| Oma verkkotunnus                          |                        |                    | ✔             | 
-| Sähköpostipalvelimet                          |                        |                    | ✔             | 
-| Yksityinen pilvi                          |                        |                    | ✔             |
-| Mukautettu SLA-sopimus                          |                        |                    | ✔             |
-| Rajaton määrä käyttäjiä                          |                        |                    | ✔             |   
-| **Hinta (EUR/kk):**                   | **32,00**              | **299,00**          | **Tarpeiden pohjalta**     |
-
- 
+| Ominaisuus                                                     | PRO       | TEAM       | ENTERPRISE             |
+| -------------------------------------------------------------- | --------- | ---------- | ---------------------- |
+| 20 tapausta/kk                                                 | ✔         | ✔          | ✔                      |
+| Allekirjoituksena pankkitunnisteet/kosketusnäyttö/tekstiviesti | ✔         | ✔          | ✔                      |
+| Brändättynä                                                    | ✔         | ✔          | ✔                      |
+| Suojattu digitaalinen arkisto                                  | ✔         | ✔          | ✔                      |
+| Asiakirjojen lähetys                                           | ✔         | ✔          | ✔                      |
+| Asiakirjamallit                                                | ✔         | ✔          | ✔                      |
+| Sopimuskopio sidosryhmille                                     | ✔         | ✔          | ✔                      |
+| Määräajat ja muistutukset                                      | ✔         | ✔          | ✔                      |
+| Allekirjoitusjärjestys                                         | ✔         | ✔          | ✔                      |
+| 2-vaiheinen tunnistautuminen                                   | ✔         | ✔          | ✔                      |
+| 200 tapausta/kk                                                |           | ✔          | ✔                      |
+| Mukautetut käyttöoikeudet                                      |           | ✔          | ✔                      |
+| Joukkopostitus                                                 |           | ✔          | ✔                      |
+| Hyväksyntä ennen lähettämistä                                  |           | ✔          | ✔                      |
+| Tilastot ja tunnusluvut                                        |           | ✔          | ✔                      |
+| Metatietojen käsittely                                         |           | ✔          | ✔                      |
+| Excel/CSV-tiedonsiirto                                         |           | ✔          | ✔                      |
+| Käyttöoikeusvalvonta                                           |           | ✔          | ✔                      |
+| X määrä tapauksia                                              |           |            | ✔                      |
+| SAML-kertakirjautuminen                                        |           |            | ✔                      |
+| IP-rajoitukset                                                 |           |            | ✔                      |
+| Oma verkkotunnus                                               |           |            | ✔                      |
+| Sähköpostipalvelimet                                           |           |            | ✔                      |
+| Yksityinen pilvi                                               |           |            | ✔                      |
+| Mukautettu SLA-sopimus                                         |           |            | ✔                      |
+| Rajaton määrä käyttäjiä                                        |           |            | ✔                      |
+| **Hinta (EUR/kk):**                                            | **32,00** | **299,00** | **Tarpeiden pohjalta** |
 
 ## Suomenkielinen tukipalvelu
 
-Kun hankit Assentlyn ohjelmistolisenssin suoraan meiltä, voit samalla hankkia virtaviivaisen TDP-tukipalvelun erillisellä palvelusopimuksella!
+Kun hankit Assentlyn ohjelmistolisenssin suoraan meiltä, voit samalla hankkia virtaviivaisen TDP-tukipalvelun erillisellä palvelusopimuksella.
 
 Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelmasi selvällä suomen kielellä ilman jonotusta. Palvelun vasteaika määritetään sopimuksessa etukäteen haluamaksesi.
 
@@ -69,6 +67,6 @@ Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelm
 
 **TDP on yritysten ripeä, asiantunteva IT-palvelukumppani.** 
 
-Olemme Assentlyn kotimainen jälleenmyyjä ja haluamme tuoda modernin, luotettavan allekirjoittamisen yritysten työkaluksi.
+Olemme Assentlyn kotimainen jälleenmyyjä ja haluamme tuoda modernin, luotettavan allekirjoittamisen yritysten työkaluksi. Tietoturvasta ei pidä tinkiä.
 
 Ota yhteyttä asiantuntijaamme ja varmistetaan yhdessä organisaatiosi asiakirjojen allekirjoittaja!
