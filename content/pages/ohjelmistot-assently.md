@@ -3,7 +3,7 @@ path: /ohjelmistot/assently
 thumbnail: /assets/assently-netlify-1280-x-800.jpg
 date: 2022-12-15T11:53:44.708Z
 head:
-  title: Assently
+  title: Assently | Sähköinen allekirjoitus
   description: Assentlyllä korvaat ajan ja paperin allekirjoittamisessa. Lisäksi
     vahvat sähköiset tunnisteet tekevät prosessista turvallisen kaikkialla
     Pohjoismaissa.
