@@ -69,6 +69,6 @@ Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelm
 
 **TDP on yritysten ripeä, asiantunteva IT-palvelukumppani.** 
 
-Olemme Assentlyn kotimainen jälleenmyyjä ja haluamme tuoda modernin, luotettavan allekirjoittamisen yritysten työkaluksi. Tietoturvasta ei pidä tinkiä.
+Olemme Assentlyn kotimainen jälleenmyyjä ja haluamme tuoda modernin, luotettavan allekirjoittamisen yritysten työkaluksi – tietoturvasta ei pidä tinkiä.
 
 Ota yhteyttä asiantuntijaamme ja varmistetaan yhdessä organisaatiosi asiakirjojen allekirjoittaja!
