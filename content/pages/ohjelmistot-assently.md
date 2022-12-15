@@ -11,7 +11,9 @@ head:
 ---
 ![Assently takaa allekirjoituksen.](/assets/assently-netlify-1280-x-800.jpg)
 
-Assentlyllä korvaat ajan ja paperin allekirjoittamisessa. Lisäksi vahvat sähköiset tunnisteet tekevät prosessista turvallisen kaikkialla Pohjoismaissa.
+**Assentlyllä korvaat ajan ja paperin allekirjoittamisessa.** 
+
+Lisäksi vahvat sähköiset tunnisteet tekevät allekirjoittamisen prosessista turvallisen kaikkialla Pohjoismaissa.
 
 ## Heti käyttövalmis
 
