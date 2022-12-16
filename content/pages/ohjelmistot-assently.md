@@ -9,7 +9,7 @@ head:
     Pohjoismaissa.
   keywords: assently, sähköinen allekirjoitus, henkilöllisyyden tunnistus
 ---
-#﻿ Assently
+# Assently
 
 ![Assently takaa allekirjoituksen.](/assets/assently-netlify-1280-x-800.jpg)
 
