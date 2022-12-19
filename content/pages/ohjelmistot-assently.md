@@ -8,6 +8,7 @@ head:
     vahvat sähköiset tunnisteet tekevät prosessista turvallisen kaikkialla
     Pohjoismaissa.
   keywords: assently, sähköinen allekirjoitus, henkilöllisyyden tunnistus
+contactForm: Ota yhteyttä
 ---
 # Assently
 
