@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /kolme-syyta-miksi-tdp-on-yrityksellesi-paras-kumpppani-it-asioissa
+path: /kolme-syyta-miksi-tdp-on-yrityksellesi-paras-kumppani-it-asioissa
 date: 2022-12-01T08:34:48.719Z
 head:
   title: Kolme syytä, miksi TDP on yrityksellesi paras kumppani IT-asioissa
