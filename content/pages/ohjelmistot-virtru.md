@@ -11,7 +11,7 @@ contactForm: Ota yhteyttä
 ---
 # V﻿irtru
 
-![Virtru tiedon salaukseen](/assets/tdp-linkedin-postaukset-1200-x-627.jpg)
+![Virtru tiedon salaukseen](/assets/ohjelmistot-tinified.jpg)
 
 **Virtru on Googlen suosittelema erinomainen täsmäohjelmisto tiedon hallintaan, etenkin sähköpostien salaukselle.** 
 
