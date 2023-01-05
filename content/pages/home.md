@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![TDP palvelut](/assets/image00001-min.jpeg)
+![TDP palvelut](/assets/tdp-etusivu-henkilöstö-netlify-1280-x-800.jpg)
 
 </div>
 
