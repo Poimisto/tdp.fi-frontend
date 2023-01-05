@@ -14,16 +14,17 @@ head:
 | ---------------------------------------------------- | --------- |
 | Työasemien vikaselvitykset ja asennukset             | 68,00 €/h |
 | Suunnittelu, verkkotyöt, palvelintyöt ja ohjelmointi | 84,00 €/h |
+| ﻿Sopimusasiakkaille asennukset                       | 44,50 €/h |
 
 ## Huolto- ja ylläpitosopimukset
 
-|                                                                          |             |
-| ------------------------------------------------------------------------ | ----------- |
-| Etätukipalvelu                                                           | 7,00 €/kk   |
-| Hallittu yritystietoturva                                                | 7,00 €/kk   |
-| Varmuuskopiointi                                                         | 5,20 €/kk   |
-| Varalaitepalvelu                                                         | 9,00 €/kk   |
-| Koneiden ja käyttäjien keskitetty hallinta                               | 11,00 €/kk  |
+|                                            |             |
+| ------------------------------------------ | ----------- |
+| Etätukipalvelu                             | 7,00 €/kk   |
+| Hallittu yritystietoturva                  | 7,00 €/kk   |
+| Varmuuskopiointi                           | 5,20 €/kk   |
+| Varalaitepalvelu                           | 9,00 €/kk   |
+| Koneiden ja käyttäjien keskitetty hallinta | 11,00 €/kk  |
 
 ## Ohjelmistot
 
@@ -31,7 +32,7 @@ head:
 | --------------------- | -------------- |
 | Google Workspace      | 5,20 €/kk      |
 | Microsoft 365         | 5,10 €/kk      |
-| Nira                  | 8,00 €/kk      |
+| Nira                  | 8,00 €/kk      |
 | JumpCloud             | 11,00 €/kk     |
 | Dropbox               | 12,00 €/kk     |
 | ﻿Virtru               | 79,99 €/kk     |
