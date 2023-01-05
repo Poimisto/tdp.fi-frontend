@@ -27,9 +27,7 @@ TDP on **Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva yritysten IT-palv
 
 Palvelemme niin startup-, PK- kuin suuryrityksiä, joille tietotekniikan toimivuus järkevällä hintatasolla on tärkeää. Toimitamme työntekijöiden koneet ja puhelimet, toimiston laitteet ja yritysverkot käyttökuntoon asennettuna. Saatte meiltä myös muut **IT-osaston palvelut palvelusopimuksella.** 
 
-Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [asiakkainamme](/referenssit) on paljon eri toimialoilla toimivia yrityksiä. Koe sinäkin asiakkaanamme tietotekniikan käytön helppous. 
-
-Soita, lähetä sähköpostia tai kokeile TDP SLIMiä!
+Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [asiakkainamme](/referenssit) on paljon eri toimialoilla toimivia yrityksiä. Koe sinäkin asiakkaanamme tietotekniikan käytön helppous!
 
 </div>
 
