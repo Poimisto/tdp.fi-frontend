@@ -36,7 +36,7 @@ Hyvä käyttäjätuki tukee yrityksesi monien tavoitteiden toteutumista:
 
 Yrityksesi taitavan IT-vastaavan ansiosta IT-huolia ei ole ilmennyt koskaan, mutta hänen osaamistaan ei voi varmuuskopioida. Mitä jos tämä henkilö päättää vaihtaa työpaikkaa?
 
-### Ratkaisu
+#### Ratkaisu
 
 TDP:n avulla toteutat käyttäjähallinnan ja hakemistopalvelut hallitusti, tietoturvallisesti ja tehokkaasti.
 
@@ -53,7 +53,7 @@ Keskitetty hallinta tarjoaa yrityksellesi useita etuja, joista voit lukea lisä�
 
 Onko sinunkin yrityksessäsi kasa erillisiä ohjelmistoja erillisellä koneella, yrityssähköpostit joltain jälleenmyyjältä, hukattuja yhteystietoja surraan tämän tästä eikä kaikkien tietojen varmuuskopiointiin ole mitään selkeää prosessia? 
 
-### Ratkaisu
+#### Ratkaisu
 
 Älkää jatkako näin! Ottamalla käyttöön Googlen liiketoimintasovellukset saatte tärkeimmät työkalut samasta paikasta. Lisäksi tarjolla on markkinoiden paras integroitavuus kolmannen osapuolen ohjelmistoihin.
 
