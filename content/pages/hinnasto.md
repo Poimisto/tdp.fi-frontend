@@ -28,20 +28,20 @@ head:
 
 ## Ohjelmistot
 
-|                       |                |
-| --------------------- | -------------- |
-| Google Workspace      | 5,20 €/kk      |
-| Microsoft 365         | 5,10 €/kk      |
-| Nira                  | 8,00 €/kk      |
-| JumpCloud             | 11,00 €/kk     |
-| Dropbox               | 12,00 €/kk     |
-| ﻿Virtru               | 79,99 €/kk     |
-| ﻿ Assently            | 32,00 €/kk     |
-| ﻿WithSecure           | 4,20/7,00 €/kk |
-| ﻿Bitwarden            | 4,00 €/kk      |
-| ﻿Adobe Creative Cloud | 73,49 €/kk     |
-| ﻿Nexetic Full         | 11,00 €/kk     |
-| ﻿Muut ohjelmistot     | Kysy tarjousta |
+|                                                                     |                |
+| ------------------------------------------------------------------- | -------------- |
+| [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace) | 5,20 €/kk      |
+| [Microsoft 365](https://www.tdp.fi/ohjelmistot/microsoft-365)       | 5,10 €/kk      |
+| Nira                                                                | 8,00 €/kk      |
+| JumpCloud                                                           | 11,00 €/kk     |
+| Dropbox                                                             | 12,00 €/kk     |
+| ﻿Virtru                                                             | 79,99 €/kk     |
+| ﻿ Assently                                                          | 32,00 €/kk     |
+| ﻿WithSecure                                                         | 4,20/7,00 €/kk |
+| ﻿Bitwarden                                                          | 4,00 €/kk      |
+| ﻿Adobe Creative Cloud                                               | 73,49 €/kk     |
+| ﻿Nexetic Full                                                       | 11,00 €/kk     |
+| ﻿Muut ohjelmistot                                                   | Kysy tarjousta |
 
 ## Muut
 
