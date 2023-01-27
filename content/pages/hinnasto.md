@@ -7,7 +7,7 @@ head:
   keywords: hinnasto, hinnat
 ---
 # Palveluhinnasto (hinnat alk.)
-
+V﻿oimassa 1.1.2023 alkaen
 ## Asennukset
 
 |                                                      |           |
