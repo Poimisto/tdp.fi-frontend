@@ -22,7 +22,7 @@ breadcrumb:
 
 **JumpCloudin tuottama keskitetty hallinta vapauttaa yritykseltä työaikaa ja resursseja.** Se luo yritykseen selkeät periaatteet laitteiden hallinnalle ja niiden tehokkaalle käytölle nostaen samalla koko organisaation tietoturvan tasoa. 
 
-### Ominaisuudet 
+### Ominaisuudet
 
 Kiteytettynä, JumpCloud mahdollistaa verkon, sovelluksen ja palvelimen turvallisen tunnistuksen. Ohjelmisto tukee niin Windows-, Mac- kuin Linux-järjestelmiä sekä satoja integroitavia sovelluksia. 
 
@@ -47,8 +47,8 @@ Vertaile vaihtoehtoja:
 | Järjestelmän käyttötiedot                      |                        | ✔                  | ✔             |
 | Zero Trust-toiminnot                           |                        |                    | ✔             |
 | JumpCloudin tuki 24/7                          |                        |                    | ✔             |
-| **Hinta (EUR/kk/käyttäjä):**                   | **13,00**              | **15,00**          | **18,00**     |
-| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):** | **11,00**              | **17,00**          | **20,00**     |
+| **Hinta (EUR/kk/käyttäjä):**                   | **13,00**              | **17,00**          | **20,00**     |
+| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):** | **11,00**              | **15,00**          | **18,00**     |
 
 ### Suomenkielinen tukipalvelu
 
