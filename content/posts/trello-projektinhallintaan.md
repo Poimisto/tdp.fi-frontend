@@ -29,7 +29,7 @@ Pilviratkaisuna Trello on yhtä turvallinen kuin mikä tahansa muukin pilvisovel
 
 ## Kenelle?
 
-Trello mukautuu monipuolisesti eri kohderyhmien tarpeisiin, on kyseessä sitten yksityinen tai julkinen toimija ja pieni tai suuri organisaatio. Yksittäiselle työntekijälle Trello näyttäytyy digitaalisena post-it varastona, josta voi yhdeltä taululta poimia muistettavat tehtävät ja tehdä ne valmiiksi ajoissa omaan tahtiin. 
+Trello mukautuu monipuolisesti eri kohderyhmien tarpeisiin, on kyseessä sitten yksityinen tai julkinen toimija ja pieni tai suuri organisaatio. Yksittäiselle työntekijälle Trello näyttäytyy digitaalisena post-it -varastona, josta voi yhdeltä taululta poimia muistettavat tehtävät ja tehdä ne valmiiksi ajoissa omaan tahtiin. 
 
 Suuremmalle työryhmälle Trello antaa vapauden viestiä projektikohtaisesti, mitkä asiat pitää suorittaa määrätyssä ajassa. Tarkistuslista automaattisine muistutuksineen on erityisen kätevä silloin, kun projekti kattaa paljon päällekkäisiä vaiheita usealla takarajalla.
 
