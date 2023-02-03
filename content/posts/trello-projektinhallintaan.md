@@ -101,7 +101,7 @@ Yrityksesi halutessa lisäominaisuuksia ja siten tehokkuutta Trello tarjoaa myö
 
 **Enterprise**-versio vastaa suurempien PK-yritysten tarpeisiin. Tällöin saatavilla on työtiloja rajoittamaton määrä, käyttöluvat voidaan asettaa organisaatiotasolla, kertakirjautuminen on oletuksena ja monta muuta lisäetua. 
 
--﻿ - -
+-﻿ - -                                                                                        
 
 **Olemme niin TDP:n omassa kuin asiakkaidemme arjessa huomanneet Trellon tuoman lisäarvon ja tehokkuuden arkisten töiden suorittamisessa. Vaikka Trellossa on maksullisia, edistyneempiä tasoja, voimme antaa vahvan suosituksemme jo Trellon ilmaisversion käyttöönottamiseksi.**
 
