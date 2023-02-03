@@ -103,6 +103,6 @@ Yrityksesi halutessa lisäominaisuuksia ja siten tehokkuutta Trello tarjoaa myö
 
 \-﻿--
 
-Olemme niin TDP:n omassa kuin asiakkaidemme arjessa huomanneet Trellon tuoman lisäarvon ja tehokkuuden arkisten töiden suorittamisessa. Vaikka Trellossa on maksullisia, edistyneempiä tasoja, voimme antaa vahvan suosituksemme jo Trellon ilmaisversion käyttöönottamiseksi.
+**Olemme niin TDP:n omassa kuin asiakkaidemme arjessa huomanneet Trellon tuoman lisäarvon ja tehokkuuden arkisten töiden suorittamisessa. Vaikka Trellossa on maksullisia, edistyneempiä tasoja, voimme antaa vahvan suosituksemme jo Trellon ilmaisversion käyttöönottamiseksi.**
 
 Voit tutustua Trelloon omaan tahtiisi sen omilla sivuilla: <https://trello.com/pricing>. Kun kaipaat apua sovelluksen käyttöönotossa, ota yhteyttä suoraan meihin!
