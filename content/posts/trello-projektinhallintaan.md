@@ -8,7 +8,7 @@ head:
     yritysten työntekoa visualisoimalla projektit ja työtehtävät helposti
     hallittavaan muotoon. Se palvelee niin yksittäistä käyttäjää, työryhmää kuin
     koko organisaatiota turvallisesti pilvessä.
-  title: Trello - Projektinhallinta
+  title: Trello | Projektinhallinta
 thumbnail: /assets/trello-netlify-1280-x-800.jpg
 ---
 ![Projektinhallintaohjelma Trello kulkee kaikkialla mukanasi.](/assets/trello-netlify-1280-x-800.jpg)
