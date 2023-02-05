@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /trello-projektinhallintaan
+path: /trello-tehokkaaseen-projektinhallintaan
 date: 2023-02-03T14:47:32.010Z
 head:
   keywords: Trello, projektinhallinta, työnhallinta, IT-työkalu, työkaluohjelma
