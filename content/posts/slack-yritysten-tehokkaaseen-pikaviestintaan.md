@@ -52,6 +52,7 @@ Kuten kaikissa työkaluissa, myös Slackissa on niin selviä plussia kuin miinuk
 
 P﻿lussat:
 
+* **Vähentää sähköpostia.** Slack korvaa monet sähköpostit ja pitää siten sähköpostilaatikon paremmassa ojennuksessa.
 * **Helppokäyttöinen.** Slack on erittäin käyttäjäystävällinen ja siinä on selkeä käyttöliittymä, joten käyttäjät voivat aloittaa Slackin käytön nopeasti ilman erillistä opastusta.
 * **Nopea tiedonkulku.** Slackin avulla voit lähettää viestejä ja jakaa tiedostoja nopeasti ja helposti, mikä nopeuttaa tiedon kulkua koko yrityksessä.
 * **Integraatiot.** Slack tukee monia erilaisia integraatioita, joten voit liittää sen muihin sovelluksiin, kuten Google Driveen, Trelloon, Asanaan jne.
@@ -92,7 +93,7 @@ Luonnollisesti maksullisista versioista löytyy lisää työkaluja yrityksen tar
 * Räätälöidyt käyttäjäryhmät
 * Valmistajan tuki 24/7
 
-## Slack vs. WhatsApp - paras ratkaisu yrityksesi pikaviestintään? 
+## Slack vs. WhatsApp - paras ratkaisu yrityksesi pikaviestintään?
 
 **Onko WhatsApp saanut yrityksessäsi virallisen viestintäkanavan aseman? Jos Slack ja WhatsApp tappelevat paikasta yrityksesi työkaluna, kumpi voittaa?** 
 
