@@ -40,7 +40,7 @@ Olet sillä tavoitettavissa aina, kun se sopii sinulle itsellesi!
 
 Slack on erittäin suosittu väline monilla aloilla, kuten teknologian, markkinoinnin, ja hallinnoinnin puolella, eikä sellaista organisaatiota varmaan ole, joka ei hyötyisi Slackin tarjoamasta tehokkaammasta viestinnästä. 
 
-Käytännössä se on ratkaisu kaikille, jotka haluavat helpottaa tiedon sisäistä kulkua ja parantaa tiimin tehokkuutta maksutta,pienellä vaivalla.  
+Käytännössä se on ratkaisu kaikille, jotka haluavat helpottaa tiedon sisäistä kulkua ja parantaa tiimin tehokkuutta maksutta, pienellä vaivalla.  
 
 Niin pienemmät kuin suuremmat PK-yritykset, järjestöt ja julkisen sektorin toimijat voivat hyötyä tästä luotettavasta pikaviestisovelluksesta etenkin siinä vaiheessa, kun he päättävät siirtyä maksuttomasta laajempien ominaisuuksien maksulliseen versioon.
 
