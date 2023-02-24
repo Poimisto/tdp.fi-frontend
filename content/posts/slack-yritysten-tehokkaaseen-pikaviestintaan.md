@@ -3,7 +3,7 @@ template: BlogPost
 path: /slack-yritysten-tehokkaaseen-pikaviestintaan
 date: 2023-02-24T11:06:55.133Z
 head:
-  title: Slack – ilmainen työsovellus yrityksen pikaviestintään
+  title: Slack – ilmainen työsovellus yritysten pikaviestintään
   description: Slack on ilmainen digitaalinen viestintä- ja yhteistyösovellus,
     jonka avulla voit kommunikoida tiimisi kanssa helposti ja nopeasti
     työpöydältä tai puhelimesta käsin.
