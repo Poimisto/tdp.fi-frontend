@@ -15,15 +15,27 @@ contactForm: Ota yhteyttä
 
 <Grid item xs={12} sm={8}>
 
-Tampereen Datapiste Oy on vuonna 2007 perustettu IT-alan asiantuntijayritys. Tehtävämme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä.
+**Tampereen Datapiste Oy on vuonna 2007 perustettu IT-alan asiantuntijayritys ja yritysten IT-ympäristöstä kokonaisvastuun kantava palvelukumppani.**
+
+Palvelemme yrityksiä toimittamalla, asentamalla ja edelleen kehittämällä niiden todellisia tarpeita vastaavia IT-järjestelmiä. 
 
 Toteutamme kaikki tarvitsemanne IT-palvelut ja räätälöimme ne toiveidenne mukaan. Laitteistojen lisäksi palveluihimme kuuluvat ohjelmistot, huollot, tuki- ja palvelusopimukset sekä tietoturvapalvelut.
 
-Pyrimme edullisuuden lisäksi siihen, että palvelumme on aina asiakaslähtöistä. Toivomme ensimmäisestä laitehankinnasta alkavan kumppanuuden, jossa me vastaamme yrityksenne IT-ympäristöstä ja sen kehityksestä pitkälle tulevaisuuteen.
+### T﻿avoite
 
-Päätoimialueemme ovat Pirkanmaalla, Etelä-Suomessa ja Keski-Suomessa ja pääkonttorimme sijaitsee Nokialla Tampereen kupeessa. Asiakkaita meillä on lukuisilta eri toimialoilta. 
+Pyrimme edullisuuden lisäksi aina asiakaslähtöiseen palveluun. Toivomme ensimmäisestä laitehankinnasta alkavan kumppanuuden, jossa me vastaamme yrityksenne IT-ympäristöstä ja sen kehityksestä pitkälle tulevaisuuteen.
 
-Olemme dynaaminen ja vakavaraisesti kasvava yritys. Siitä osoituksena saavutimme ensimmäistä kertaa yli miljoonan euron liikevaihdon vuonna 2021 ja nyt vuonna 2022 tavoitteemme on tarjota palvelukokonaisuuttamme yhä useammalle yritykselle.
+### P﻿alvelualueet
+
+Päätoimialueemme ovat Pirkanmaalla, Etelä-Suomessa ja Keski-Suomessa, ja pääkonttorimme sijaitsee Nokialla Tampereen kupeessa. Meillä on asiakkaita  lukuisilta eri toimialoilta, joten tunnistamme kokemukseemme perustuen yritysten yksilölliset tarpeet. 
+
+### Kasvuhalu
+
+Olemme dynaaminen ja vakavaraisesti kasvava yritys: siitä osoituksena saavutimme ensimmäistä kertaa yli miljoonan euron liikevaihdon vuonna 2021. 
+
+Nyt vuonna 2023 tavoitteemme on kehittää palvelukokonaisuuttamme entisestään ja olla siten kiinnostava vaihtoehto suurtenkin PK-yritysten vastuulliseksi kumppaniksi.  
+
+### S﻿euraa meitä
 
 Jos haluat tietää enemmän IT-alasta ja yrityksemme uusista käänteistä, ryhdy uutiskirjeemme tilaajaksi:
 
