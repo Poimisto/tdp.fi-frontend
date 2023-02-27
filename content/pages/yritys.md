@@ -30,7 +30,7 @@ Pyrimme edullisuuden lisäksi aina asiakaslähtöiseen palveluun. Toivomme ensim
 
 ### P﻿alvelualueet
 
-Päätoimialueemme ovat Pirkanmaalla, Etelä-Suomessa ja Keski-Suomessa, ja pääkonttorimme sijaitsee Nokialla Tampereen kupeessa. Meillä on asiakkaita  lukuisilta eri toimialoilta, joten tunnistamme kokemukseemme perustuen yritysten yksilölliset tarpeet. 
+Päätoimialueemme ovat Pirkanmaalla, Etelä-Suomessa ja Keski-Suomessa. Päätoimipisteemme löydät Nokialta Tampereen kupeesta. Meillä on asiakkaita  lukuisilta eri toimialoilta, joten tunnistamme kokemukseemme perustuen yritysten yksilölliset tarpeet.
 
 ### Kasvuhalu
 
