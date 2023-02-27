@@ -40,7 +40,7 @@ Nyt vuonna 2023 tavoitteemme on kehittää palvelukokonaisuuttamme entisestään
 
 ### S﻿euraa meitä
 
-Jos haluat tietää enemmän IT-alasta ja yrityksemme uusista käänteistä, ryhdy uutiskirjeemme tilaajaksi:
+Jos haluat tietää enemmän IT-alasta ja yrityksemme uusista käänteistä, ryhdy uutiskirjeemme tilaajaksi!
 
 <CallToAction bgColor="brand" url="https://bit.ly/3zsDs3q" align="center">Tilaa uutiskirje</CallToAction>
 
