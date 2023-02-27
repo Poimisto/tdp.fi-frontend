@@ -9,6 +9,8 @@ head:
   keywords: yritys, yhteystiedot, Tampereen Datapiste, TDP
 contactForm: Ota yhteyttä
 ---
+![TDP:n päätoimipiste.](/assets/tdp-päätoimipiste-tinified.jpg)
+
 # Pienten ja keskisuurten yritysten IT-kumppani
 
 <Grid container spacing={2}>
