@@ -34,7 +34,7 @@ Päätoimialueemme ovat Pirkanmaalla, Etelä-Suomessa ja Keski-Suomessa, ja pä�
 
 ### Kasvuhalu
 
-Olemme dynaaminen ja vakavaraisesti kasvava yritys: siitä osoituksena saavutimme ensimmäistä kertaa yli miljoonan euron liikevaihdon vuonna 2021. 
+Olemme dynaaminen ja vakavaraisesti kasvava yritys: siitä osoituksena saavutimme ensimmäistä kertaa yli miljoonan euron liikevaihdon vuonna 2021, viime vuonna ennätyksellisen 1,3 miljoonan euron.
 
 Nyt vuonna 2023 tavoitteemme on kehittää palvelukokonaisuuttamme entisestään ja olla siten kiinnostava vaihtoehto suurtenkin PK-yritysten vastuulliseksi kumppaniksi.  
 
