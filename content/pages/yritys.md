@@ -1,5 +1,6 @@
 ---
 path: /yritys
+thumbnail: /assets/tdp-päätoimipiste-tinified.jpg
 date: 2021-02-25T07:42:23.615Z
 head:
   title: Tietoa yrityksestä - Yhteystiedot
