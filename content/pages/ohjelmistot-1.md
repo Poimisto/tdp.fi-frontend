@@ -24,9 +24,9 @@ contactForm: Ota yhteyttä
 ## Modernit ohjelmistot yrityksissä luovat pohjan liiketoiminnalle
 
 * Tehokkaat työsovellukset kuten **Google Workspace** ja **Microsoft 365** tekevät työstä helpompaa ja tuottavampaa
-* TDP:n asiantuntemus sovelluksista helpottaa oikeiden sovellusten löytämistä ja käyttöönottoa
+* TDP:n asiantuntemus sovelluksista helpottaa oikeiden sovellusten valitsemista ja käyttöönottoa
 * TDP:n tukipalveluasiakkaana saatte täyden tuen myös sovellusten käyttöön
-* T﻿unnetuimpien työsovellusten lisäksi saatte meiltä muutkin ohjelmistot yrityksenne arkeen. Esimerkiksi **Adobe Creative Cloud,** **Assently, AutoCAD, Bitwarden sekä kotimaiset Nexetic ja Withsecure** ovat vahvoja tuotteita, joiden varaan voitte avullamme rakentaa yrityksenne digitaaliset prosessit 
+* T﻿unnetuimpien työsovellusten lisäksi saatte meiltä muutkin ohjelmistot yrityksenne arkeen. Esimerkiksi **Adobe Creative Cloud, AutoCAD, Bitwarden sekä kotimaiset Nexetic ja Withsecure** ovat vahvoja tuotteita, joiden varaan voitte avullamme rakentaa yrityksenne digitaaliset prosessit 
 * Ohjelmistotarjontamme ei rajoitu näihin, vaan voimme tarjota yrityksellenne juuri tarpeidenne mukaisen ohjelmiston kulloiseenkin tarpeeseen
 
 </div>
