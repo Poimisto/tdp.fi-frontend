@@ -28,11 +28,11 @@ On paljon erilaisia ikäviä tapahtumia, joiden seurauksena voit menettää vaik
 
 Kokonaan uuden tiedoston tekeminen alusta alkaen on vaivalloista ja turhauttavaa. Se on silti tehtävä, jos tietoa ei ole kopioitu, kun esimerkiksi:
 
-* Tietokoneen kiintolevy rikkoutuu
-* Erillinen USB-muisti katoaa
-* Virus tuhoaa tiedostot
-* Joku poistaa tiedostot vahingossa
-* Tallennuspalvelusi tunnukset kaapataan
+* **Tietokoneen kiintolevy rikkoutuu**
+* **Erillinen USB-muisti katoaa**
+* **Virus tuhoaa tiedostot**
+* **Joku poistaa tiedostot vahingossa**
+* **Tallennuspalvelusi tunnukset kaapataan**
 
 Kaikkia haittatilanteita pitää ennakoida, mutta vedenpitävää järjestelmää ei ole menetysten estämiseksi. Siksi varmuuskopiointi on arvokas työkalu, koska se yksinään voi tarjota yrityksen kaikelle tiedolle vakuutuksen, joka kirjaimellisesti korvaa menetykset.
 
