@@ -1,5 +1,6 @@
 ---
 path: /it-palvelut/varmuuskopiointi
+thumbnail: /assets/varmuuskopiointi-tdp-linkedin-postaukset-1200-x-627.jpg
 date: 2023-03-23T12:49:52.732Z
 head:
   keywords: "varmuuskopiointi, backup, datto, "
@@ -9,6 +10,8 @@ head:
     erehdyksen hetkellä ja yritys säästyy kalliilta jälkitöiltä.
 contactForm: Ota yhteyttä
 ---
+![](/assets/varmuuskopiointi-tdp-linkedin-postaukset-1200-x-627.jpg)
+
 # Varmuuskopiointipalvelu on yrityksesi paras vakuutus
 
 **Varmuuskopiointipalvelu on varmin ja kustannustehokkain tapa varmistaa yrityksesi tietojen säilyminen.**
