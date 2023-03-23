@@ -11,7 +11,7 @@ contactForm: Ota yhteyttä
 ---
 # Varmuuskopiointipalvelu on yrityksesi paras vakuutus
 
-Varmuuskopiointipalvelu on varmin ja kustannustehokkain tapa varmistaa yrityksesi tietojen säilyminen.
+**Varmuuskopiointipalvelu on varmin ja kustannustehokkain tapa varmistaa yrityksesi tietojen säilyminen.**
 
 Varmuuskopiointi palveluna *(eng. backup)* tarkoittaa tärkeän tiedon kopiointia alkuperäisen sijainnin lisäksi johonkin toiseen paikkaan. Esimerkiksi koneen hajotessa tai tiedostojen hävitessä odottamattomasti varmuuskopiot varmistavat, että mitään ei oikeasti menetetä. 
 
