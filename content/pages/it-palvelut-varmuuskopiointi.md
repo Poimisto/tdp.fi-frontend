@@ -18,7 +18,7 @@ contactForm: Ota yhteyttä
 
 Varmuuskopiointi palveluna *(eng. backup)* tarkoittaa tärkeän tiedon kopiointia alkuperäisen sijainnin lisäksi johonkin toiseen paikkaan. Esimerkiksi koneen hajotessa tai tiedostojen hävitessä odottamattomasti varmuuskopiot varmistavat, että mitään ei oikeasti menetetä. 
 
-\#﻿# 
+## V﻿alitse säilyminen
 Niin yksittäisen työntekijän kuin koko yrityksesi tuottaman tiedon kannalta varmuuskopiointipalvelu on erittäin järkevä hankinta. Laiterikkoja ja inhimillisiä virheitä ei voida täysin estää, mutta niiden haitat voidaan minimoida palvelun avulla.
 
 Ajantasainen varmuuskopio auttaa palauttamaan kaikki tiedot nopeasti ja vaivattomasti, mikä säästää yritykseltäsi paljon vaivaa ja kustannuksia silloinkin, kun varmuuskopioinnista huolehtii IT-palvelukumppani.
