@@ -18,6 +18,7 @@ contactForm: Ota yhteyttä
 
 Varmuuskopiointi palveluna *(eng. backup)* tarkoittaa tärkeän tiedon kopiointia alkuperäisen sijainnin lisäksi johonkin toiseen paikkaan. Esimerkiksi koneen hajotessa tai tiedostojen hävitessä odottamattomasti varmuuskopiot varmistavat, että mitään ei oikeasti menetetä. 
 
+\#﻿# 
 Niin yksittäisen työntekijän kuin koko yrityksesi tuottaman tiedon kannalta varmuuskopiointipalvelu on erittäin järkevä hankinta. Laiterikkoja ja inhimillisiä virheitä ei voida täysin estää, mutta niiden haitat voidaan minimoida palvelun avulla.
 
 Ajantasainen varmuuskopio auttaa palauttamaan kaikki tiedot nopeasti ja vaivattomasti, mikä säästää yritykseltäsi paljon vaivaa ja kustannuksia silloinkin, kun varmuuskopioinnista huolehtii IT-palvelukumppani.
@@ -36,7 +37,7 @@ Kokonaan uuden tiedoston tekeminen alusta alkaen on vaivalloista ja turhauttavaa
 
 Kaikkia haittatilanteita pitää ennakoida, mutta vedenpitävää järjestelmää ei ole menetysten estämiseksi. Siksi varmuuskopiointi on arvokas työkalu, koska se yksinään voi tarjota yrityksen kaikelle tiedolle vakuutuksen, joka kirjaimellisesti korvaa menetykset.
 
-## Tietojen palauttaminen
+## Tietojen palautus
 
 Mahdollisuudet palauttaa menetetty tieto onnistuneesti ovat rajalliset, niin datanpalautusohjelmilla kuin palveluun erikoistuneiden yritysten toimesta.
 
@@ -48,6 +49,8 @@ Varmuuskopiointi vaatii myös paljon kokonaiskuvan hahmottamista ja ymmärrystä
 
 Varmuuskopiointimme on muita tuntemiasi vakuutuksia parempi siksi, että palvelun suhteellisen pienellä kuukausimaksulla voit säästää suuren haitan kohdatessa satoja, jopa tuhansia euroja. 
 
-Esimerkiksi tietokoneen kiintolevyn fyysinen korjaus voi hyvin maksaa yli 1000 euroa. Myös työtunnit uusien tiedostojen tekemiseksi voivat helposti kerryttää satojen eurojen kustannukset.  
+Esimerkiksi tietokoneen kiintolevyn fyysinen korjaus voi hyvin maksaa yli 1000 euroa. Myös työtunnit uusien tiedostojen tekemiseksi voivat helposti kerryttää satojen eurojen kustannukset.
 
-**Näihin riskeihin nähden varmuuskopioinnista koituva noin [60 euron vuosimaksu](https://www.tdp.fi/yritys/hinnasto) käyttäjää kohden tuntuu hyvin halvalta keinolta turvata yrityksen kallein pääoma eli kerätty ja tuotettu tieto, vai mitä?**
+N﻿oin 60 eurolla varmistamme yhden Google Workspace tai Microsoft 365 -käyttäjän vuodeksi.
+
+**Riskeihin nähden varmuuskopioinnista koituva noin [60 euron vuosimaksu](https://www.tdp.fi/yritys/hinnasto) käyttäjää kohden on hyvin halpa keino turvata yrityksen kallein pääoma eli kerätty ja tuotettu tieto.**
