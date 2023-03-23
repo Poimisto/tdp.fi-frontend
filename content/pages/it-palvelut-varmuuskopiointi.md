@@ -50,4 +50,4 @@ Varmuuskopiointimme on muita tuntemiasi vakuutuksia parempi siksi, että palvelu
 
 Esimerkiksi tietokoneen kiintolevyn fyysinen korjaus voi hyvin maksaa yli 1000 euroa. Myös työtunnit uusien tiedostojen tekemiseksi voivat helposti kerryttää satojen eurojen kustannukset.  
 
-**Näihin riskeihin nähden varmuuskopioinnista koituva noin [60 euron vuosimaksu](https://www.tdp.fi/yritys/hinnasto) käyttäjää kohden tuntuu hyvin halvalta keinolta turvata yrityksen kallein pääoma eli kerätty ja tuotettu tieto.**
+**Näihin riskeihin nähden varmuuskopioinnista koituva noin [60 euron vuosimaksu](https://www.tdp.fi/yritys/hinnasto) käyttäjää kohden tuntuu hyvin halvalta keinolta turvata yrityksen kallein pääoma eli kerätty ja tuotettu tieto, vai mitä?**
