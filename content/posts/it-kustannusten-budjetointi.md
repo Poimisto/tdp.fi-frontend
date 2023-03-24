@@ -77,12 +77,12 @@ Entäpä jos IT-budjettia halutaan tarkastella lähemmin ja miettiä, tulisiko s
 
 **Pakollisia IT-kuluja** ovat kaikki ne, joita tarvitaan sujuvaan työskentelyyn. Jos viikoittainen työskentely ei ole sujuvaa, yritykseltäsi selvästi puuttuu jotakin:
 
-* Työntekijän rooliin sopivat IT-laitteet
-* Työssä tarvittavat ohjelmistot ja lisenssit
-* Luotettavat verkkoyhteydet
+* [Työntekijän rooliin sopivat IT-laitteet](https://www.tdp.fi/tietokone-leasing)
+* [Työssä tarvittavat ohjelmistot ja lisenssit](https://www.tdp.fi/ohjelmistot)
+* [Luotettavat verkkoyhteydet](https://www.tdp.fi/it-laitteet/verkot)
 * Tulostimet 
 * Riittävä it-tuki
-* Tietoturva ja yrityksen tietojen varmuuskopiointi
+* [Tietoturva ja yrityksen tietojen varmuuskopiointi](https://www.tdp.fi/it-palvelut/varmuuskopiointi)
 * Organisaation käyttäjähallinta
 
 **Harkinnanvaraiset IT-kulut** kannattaa mieltää investointina, joilla tavoitellaan parempaa tuottavuutta tai tavallista parempaa tietoturvan tasoa. Harkinnanvaraisia kuluja voivat olla esimerkiksi:
