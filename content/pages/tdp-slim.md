@@ -71,8 +71,8 @@ Kaikki TDP SLIM palvelussa olevat laitteet sisältävät 3 vuoden onsite-takuun,
 
 Kun olet valinnut tarvitsemasi IT-palvelut ja nähnyt hinta-arvion, voit lähettää valintasi mukaisen tarjouspyynnön. Tarjouspyynnön jättäminen ei vielä sido sinua mihinkään. Palveluita voidaan myös räätälöidä yrityksesi tarpeiden mukaisiksi.
 
-<CallToAction bgColor="dark" url="https://slim.tdp.fi" align="left">Siirry TDP SLIM™ -tarjouslaskuriin</CallToAction>
+<CallToAction bgColor="brand" url="https://slim.tdp.fi" align="left">Siirry TDP SLIM™ -tarjouslaskuriin</CallToAction>
 
-<CallToAction bgColor="dark" url="/yritys" align="left">Lisätietoa yrityksestä</CallToAction>
+<CallToAction bgColor="brand" url="/yritys" align="left">Lisätietoa yrityksestä</CallToAction>
 
-<CallToAction bgColor="dark" url="/referenssit" align="left">Referenssit</CallToAction>
+<CallToAction bgColor="brand" url="/referenssit" align="left">Referenssit</CallToAction>
