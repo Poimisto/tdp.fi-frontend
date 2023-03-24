@@ -22,7 +22,9 @@ Myös IT-kulut on hyvä sisällyttää osaksi budjettia tai laatia erillinen IT-
 
 ## Mitä tarkoitetaan IT-kuluilla?
 
-On osittain määrittelykysymys, mitä ylipäätään lasketaan IT-kuluiksi. **IT-kuluiksi voidaan laskea:**
+**On osittain määrittelykysymys, mitä ylipäätään lasketaan IT-kuluiksi.** 
+
+IT-kuluiksi voidaan laskea:
 
 * Työntekijöiden tietokoneet ja puhelimet
 * Toimiston IT-laitteet kuten tulostimet, verkot tai palvelimet
@@ -35,7 +37,7 @@ Tässä artikkelissa IT:sta syntyviin kustannuksiin lasketaan PK-yrityksen näk�
 
 ## Erilaisia IT-kulujen budjetointitapoja
 
-Budjetoinnissa voidaan soveltaa erilaisia tapoja. **Yksinkertaisin tapa on laatia kiinteä budjetti koko tilikaudelle.** 
+**Budjetoinnissa voidaan soveltaa erilaisia tapoja, mutta yksinkertaisin tapa on laatia kiinteä budjetti koko tilikaudelle.** 
 
 Budjetti laaditaan ja hyväksytään hieman ennen seuraavan budjettikauden alkua. Budjetoinnin perusteena toimii lähtökohtaisesti edellisen vuoden budjetti ja laskelma siitä, pysyttiinkö budjetin raameissa vai ei. 
 
@@ -43,13 +45,17 @@ Ensimmäisellä kerralla laskelmien perusteena ei tietenkään voi käyttää ai
 
 ### IT-budjetti osuutena liikevaihdosta
 
-**Toinen vaihtoehto on määrittää IT-budjetti osuutena liikevaihdosta.** Yleisesti ottaen PK-yritykset käyttävät noin 3-5% liikevaihdostaan IT-kuluihin, mutta tämä riippuu tietenkin todella paljon toimialasta.
+**Toinen vaihtoehto on määrittää IT-budjetti osuutena liikevaihdosta.** 
+
+Yleisesti ottaen PK-yritykset käyttävät noin 3-5% liikevaihdostaan IT-kuluihin, mutta tämä riippuu tietenkin todella paljon toimialasta.
 
 Tällainen ylätason lähestymistapa on melko alkeellinen, koska se ei auta kohdistamaan kustannuksia IT-budjetin sisällä tai anna perusteita määrittää, onko budjetti oikealla tasolla vai ei.
 
 ### IT-budjetti työntekijäkohtaisesti laskettuna
 
-**Kolmas vaihtoehto on miettiä kustannuksia työntekijä- ja roolikohtaisesti, ja sitten kertoa kulut työntekijämäärällä.** Työntekijäkohtaiset IT-kulut voivat vaihdella todella paljon: suunnittelutyötä tekevä vaatii tehokkaammat ja kalliimmat laitteet (esim. 100 EUR / kk), kun taas toimistotyössä selvitään kevyemmällä varustuksella (esim. 50 EUR / kk). Joissakin rooleissa IT-kuluja ei välttämättä synny lainkaan. 
+**Kolmas vaihtoehto on miettiä kustannuksia työntekijä- ja roolikohtaisesti, ja sitten kertoa kulut työntekijämäärällä.** 
+
+Työntekijäkohtaiset IT-kulut voivat vaihdella todella paljon: suunnittelutyötä tekevä vaatii tehokkaammat ja kalliimmat laitteet (esim. 100 EUR / kk), kun taas toimistotyössä selvitään kevyemmällä varustuksella (esim. 50 EUR / kk). Joissakin rooleissa IT-kuluja ei välttämättä synny lainkaan. 
 
 Työntekijäkohtaisten kustannusten lisäksi tulee tietysti jaetut kustannukset, kuten toimiston verkot tai yhteisesti käytössä olevat ohjelmistolisenssit.
 
@@ -57,7 +63,9 @@ Työntekijäkohtainen budjetointi voi olla joustavampi tapa myös sellaisille yr
 
 ### IT-budjetti perustuen toteutuneisiin kuluihin
 
-**Neljäs tapa laatia budjetti perustuu puhtaasti tunnistettuihin kuluihin.** Kuinka paljon IT-palveluntarjoaja laskuttaa budjettikauden aikana? Ja kuinka paljon käytetään itse rahaa laitehankintoihin ja henkilötyöpäiviä tai -vuosia IT-asioiden hallintaan?
+**Neljäs tapa laatia budjetti perustuu puhtaasti tunnistettuihin kuluihin.** 
+
+Kuinka paljon IT-palveluntarjoaja laskuttaa budjettikauden aikana? Ja kuinka paljon käytetään itse rahaa laitehankintoihin ja henkilötyöpäiviä tai -vuosia IT-asioiden hallintaan?
 
 Joskus ajatellaan, että yrityksen kannattaa tehdä mahdollisimman paljon itse ja hankkia vain välttämättömin perusratkaisu ulkopuolisilta. Kulut kuitenkin jäävät helposti tunnistamatta, jos laitteet ostetaan itselle tai jos joku käyttää omaa työaikaansa IT-tukeen tai ongelmien ratkomiseen.
 
@@ -89,7 +97,9 @@ Harkinnanvaraiset kulut kasvattavat budjettia. Ne tulee erikseen perustella saav
 
 ## Mitä IT-budjetilla sitten saa?
 
-**IT-ulkoistus on IT-budjetin fiksua “tuhlausta”.** Sillä yritys saa itselleen ei vain tarvitsemansa laitteet ja palvelut, vaan alan asiantuntijan jatkuvan läsnäolon yrityksen arjessa. Ei tule tilanteita, joissa yritys ei voisi kysyä apua eikä saisi sitä nopeasti.
+**IT-ulkoistus on IT-budjetin fiksua “tuhlausta”.** 
+
+Sillä yritys saa itselleen ei vain tarvitsemansa laitteet ja palvelut, vaan alan asiantuntijan jatkuvan läsnäolon yrityksen arjessa. Ei tule tilanteita, joissa yritys ei voisi kysyä apua eikä saisi sitä nopeasti.
 
 Lisäksi tietoturva, joka monessa yrityksessä on valitettavasti vielä vaillinainen, nousee osaavan IT-kumppanin myötä uudelle tasolle. 
 
@@ -102,7 +112,9 @@ IT-ulkoistukseen ei kuulu ajatus, että yritykselle myydään kaikkea mahdollist
 
 ### IT-kustannusten budjetoinnin paradigma
 
-IT-budjetin eräänlainen johtava kuluerä on yrityksen IT-ympäristön kokonaisvaltainen ylläpito, johon sisältyy pulmien ennaltaehkäisevä työ ja ajoissa tehty kehitystarpeiden kartoitus. Pitkällä tähtäimellä se osoittautuu usein hyvinkin kustannustehokkaaksi, kun yksittäisen palvelun kuukausimaksu alittaa selvästi monet odottamattomat, aikaa vievät tuntityöt.
+**IT-budjetin eräänlainen johtava kuluerä on yrityksen IT-ympäristön kokonaisvaltainen ylläpito.** 
+
+Siihen sisältyy pulmien ennaltaehkäisevä työ ja ajoissa tehty kehitystarpeiden kartoitus. Pitkällä tähtäimellä se osoittautuu usein hyvinkin kustannustehokkaaksi, kun yksittäisen palvelun kuukausimaksu alittaa selvästi monet odottamattomat, aikaa vievät tuntityöt. 
 
 Ei ole rohkeaa vaan rehellistä esittää, että IT-kumppanin avulla:
 
