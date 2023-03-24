@@ -34,11 +34,11 @@ V﻿oimassa 1.1.2023 alkaen
 | ------------------------------------------------------------------- | -------------- |
 | [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace) | 5,20 €/kk      |
 | [Microsoft 365](https://www.tdp.fi/ohjelmistot/microsoft-365)       | 5,10 €/kk      |
-| Nira                                                                | 8,00 €/kk      |
-| JumpCloud                                                           | 11,00 €/kk     |
-| Dropbox                                                             | 12,00 €/kk     |
-| ﻿Virtru                                                             | 79,99 €/kk     |
-| ﻿ Assently                                                          | 32,00 €/kk     |
+| [Nira](https://www.tdp.fi/ohjelmistot/nira)                         | 8,00 €/kk      |
+| [JumpCloud](https://www.tdp.fi/ohjelmistot/jumpcloud)               | 11,00 €/kk     |
+| [Dropbox](https://www.tdp.fi/ohjelmistot/dropbox)                   | 12,00 €/kk     |
+| [﻿Virtru](https://www.tdp.fi/ohjelmistot/virtru)                    | 79,99 €/kk     |
+| [﻿Assently](https://www.tdp.fi/ohjelmistot/assently)                | 32,00 €/kk     |
 | ﻿WithSecure                                                         | 4,20/7,00 €/kk |
 | ﻿Bitwarden                                                          | 5,00 €/kk      |
 | ﻿Adobe Creative Cloud                                               | 73,49 €/kk     |
