@@ -7,7 +7,9 @@ head:
   keywords: hinnasto, hinnat
 ---
 # Palveluhinnasto (hinnat alk.)
+
 V﻿oimassa 1.1.2023 alkaen
+
 ## Asennukset
 
 |                                                      |           |
@@ -38,7 +40,7 @@ V﻿oimassa 1.1.2023 alkaen
 | ﻿Virtru                                                             | 79,99 €/kk     |
 | ﻿ Assently                                                          | 32,00 €/kk     |
 | ﻿WithSecure                                                         | 4,20/7,00 €/kk |
-| ﻿Bitwarden                                                          | 4,00 €/kk      |
+| ﻿Bitwarden                                                          | 5,00 €/kk      |
 | ﻿Adobe Creative Cloud                                               | 73,49 €/kk     |
 | ﻿Nexetic Full                                                       | 11,00 €/kk     |
 | ﻿Muut ohjelmistot                                                   | Kysy tarjousta |
