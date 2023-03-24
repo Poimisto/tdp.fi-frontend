@@ -12,8 +12,6 @@ thumbnail: /assets/bitwarden-netlify-1280-x-800-tinified.png
 ---
 ![](/assets/bitwarden-netlify-1280-x-800-tinified.png)
 
-# **Bitwarden - salasanojen ilmainen ja takuuvarma hallintaohjelma**
-
 **Hyvä salasanan hallintaohjelma tekee työntekijän salasanojen hallinnasta miellyttävää ja turvallista. Vielä parempi, jos ohjelma on ilmainen ja helppokäyttöinen kuten Bitwarden.**
 
 Yritysten kasvaessa ja siirtyessä yhä enemmän digitaaliseen aikaan, tarve turvalliselle ja kätevälle salasanojen hallinnalle käy entistä ilmeisemmäksi. Työntekijät käyttävät yhä useampia ohjelmistoja ja joutuvat siten turvautumaan yhä kasvavaan määrään salasanoja.
