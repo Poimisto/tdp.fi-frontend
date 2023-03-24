@@ -75,7 +75,7 @@ Saat raporteista tietoja salasanojesi tilanteesta; onko yksittäinen salasana he
 
 ## Bitwardenin kokonaisarvostelu 
 
-**Tiivistetysti, Bitwardenissa on paljon ominaisuuksia, joilla PK-yritys täyttää helposti tarpeensa.**
+**Tiivistetysti, Bitwardenissa on paljon ominaisuuksia, joilla PK-yritys täyttää tarpeensa helposti.**
 
 Pelkästään ilmaisversion ominaisuudet ovat niin kattavat, että Bitwarden päihittää yksinään niillä jopa monet maksulliset versiot. Ilmaisena Bitwarden tarjoaakin matalalla kynnyksellä erinomaisen työkalun kustannustehokkuuteen pyrkivälle yritykselle.
 
