@@ -3,11 +3,12 @@ template: BlogPost
 path: /bitwarden-ilmainen-salasanojen-hallintaohjelma
 date: 2023-03-24T10:56:48.582Z
 head:
-  title: Bitwarden - salasanojen ilmainen ja takuuvarma hallintasovellus
+  title: Bitwarden - salasanojen ilmainen ja takuuvarma hallintaohjelma
   description: Bitwarden on ilmainen ja avoimen lähdekoodin salasanojen
     hallintaohjelma, joka helppokäyttöisenä tekee yrityksen salasanojen
     hallinnasta miellyttävää.
   keywords: "bitwarden, salasanan hallintaohjelma, avoin lähdekoodi, "
+thumbnail: /assets/bitwarden-netlify-1280-x-800-tinified.png
 ---
 ![](/assets/bitwarden-netlify-1280-x-800-tinified.png)
 
