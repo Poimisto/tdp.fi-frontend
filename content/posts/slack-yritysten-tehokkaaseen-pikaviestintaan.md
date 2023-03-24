@@ -14,7 +14,7 @@ thumbnail: /assets/slack-netlify-1280-x-800.jpg
 
 **Slack-pikaviestipalvelu on yritysten uusi voimavara tehostaa sisäistä viestintää. Vaikka olisitkin tyytyväinen Whatsappiin, Slackista kannattaa olla kiinnostunut!** 
 
-Slack on ilmainen digitaalinen viestintä- ja yhteistyösovellus, jonka avulla voit kommunikoida tiimisi kanssa helposti ja nopeasti työpöydältä tai puhelimesta käsin. 
+[Slack](https://slack.com/) on ilmainen digitaalinen viestintä- ja yhteistyösovellus, jonka avulla voit kommunikoida tiimisi kanssa helposti ja nopeasti työpöydältä tai puhelimesta käsin. 
 
 Se tarjoaa useita erilaisia viestintäkanavia, kuten julkiset kanavat, joissa kaikki tiimin jäsenet voivat keskustella eri aiheista, sekä yksityiset kanavat, joissa voit keskustella tietyn henkilön tai ryhmän kanssa. 
 
