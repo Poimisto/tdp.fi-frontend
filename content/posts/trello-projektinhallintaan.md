@@ -16,7 +16,7 @@ thumbnail: /assets/trello-netlify-1280-x-800.jpg
 
 **Onko työarjessa hyödyllisempää kuin nähdä vilauksessa, mitä pitää tehdä määrätyssä ajassa, ajasta ja paikasta riippumatta?** 
 
-Projektinhallintaan ﻿optimoitu **Trello** on ilmainen digitaalinen työnhallintatyökalu, joka tehostaa yritysten työntekoa visualisoimalla projektit ja työtehtävät helposti hallittavaan muotoon. Se palvelee niin yksittäistä käyttäjää, työryhmää kuin koko organisaatiota turvallisesti pilvessä. 
+Projektinhallintaan ﻿optimoitu **[Trello](https://trello.com/fi)** on ilmainen digitaalinen työnhallintatyökalu, joka tehostaa yritysten työntekoa visualisoimalla projektit ja työtehtävät helposti hallittavaan muotoon. Se palvelee niin yksittäistä käyttäjää, työryhmää kuin koko organisaatiota turvallisesti pilvessä. 
 
 ## Mitä Trello tarjoaa?
 
