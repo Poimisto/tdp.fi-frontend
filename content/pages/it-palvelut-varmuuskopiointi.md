@@ -42,7 +42,7 @@ Kaikkia haittatilanteita pitää ennakoida, mutta vedenpitävää järjestelmä�
 
 Mahdollisuudet palauttaa menetetty tieto onnistuneesti ovat rajalliset, niin datanpalautusohjelmilla kuin palveluun erikoistuneiden yritysten toimesta.
 
-Joskus väitetään, että nykytekniikalla hukattu tieto on aina saatavissa takaisin. Näin ei todellisuudessa ole.
+Joskus väitetään, että hukattu tieto on aina saatavissa nykytekniikalla takaisin. Näin ei todellisuudessa ole.
 
 Varmuuskopiointi vaatii myös paljon kokonaiskuvan hahmottamista ja ymmärrystä erilaisista detaljeista. Kodin tiedostojen onnistunut varmuuskopiointi ei merkitse sitä, että samalla osaamisella ja periaatteilla se onnistuisi myös yrityksen tasolla. 
 
