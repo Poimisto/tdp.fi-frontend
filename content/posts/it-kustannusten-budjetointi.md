@@ -87,9 +87,9 @@ Entäpä jos IT-budjettia halutaan tarkastella lähemmin ja miettiä, tulisiko s
 
 **Harkinnanvaraiset IT-kulut** kannattaa mieltää investointina, joilla tavoitellaan parempaa tuottavuutta tai tavallista parempaa tietoturvan tasoa. Harkinnanvaraisia kuluja voivat olla esimerkiksi:
 
-* Tavallista paremmat työasemat
-* Työntekijöiden tuki- ja varalaitepalvelut
-* Yritykselle hankittava sähköisen allekirjoituspalvelun käyttöoikeus. 
+* [Tavallista paremmat työasemat](https://www.tdp.fi/leasing-paketit/tehokone)
+* [Työntekijöiden tuki- ja varalaitepalvelut](https://www.tdp.fi/it-palvelut/tuki-ja-huolto)
+* [Yritykselle hankittava sähköisen allekirjoituspalvelun käyttöoikeus](https://www.tdp.fi/ohjelmistot/assently). 
 
 Budjetoinnin näkökulmasta oleellista tietysti on, että pakolliset kulut asettavat alarajan myös IT-budjetin laadinnassa. 
 
