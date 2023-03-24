@@ -51,7 +51,7 @@ Nämä ovat kaiken kaikkiaan varsin marginaalisia haittoja verrattuna ohjelmisto
 
 ## Maksullinen Bitwarden
 
-Maksullinen Bitwarden Premium tarjoaa yritykselle mm. seuraavia lisäominaisuuksia vain 5 dollaria/kk/käyttäjä.
+Mikäli lisäominaisuudet kiinnostavat, Bitwarden Premium tarjoaa yritykselle muun muassa seuraavia lisäominaisuuksia hinnalla, joka on vain 5 dollaria/kk/käyttäjä.
 
 ### Liitetiedostot
 
