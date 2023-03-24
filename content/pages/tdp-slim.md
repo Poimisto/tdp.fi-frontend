@@ -41,22 +41,22 @@ TDP SLIM™ -palvelu on suunnattu pienille asiantuntijayrityksille ja startupeil
 
 ## Yrityksesi IT-palvelut helposti
 
-TDP SLIM -palvelu on Tampereen Datapiste Oy:n kehittämä. TDP on vuonna 2007 perustettu luotettava suomalainen IT-palvelutoimittaja, joka palvelee yritysasiakkaita kaikkialla Etelä-Suomessa.
+TDP SLIM -palvelu on Tampereen Datapiste Oy:n kehittämä sovellus entistä helpompaan IT-kustannusten laskemiseen.
 
 Olemme toimineet pitkään tietotyötä tekevien yrittäjien ja yritysten IT-kumppanina. Asiakkaanamme on esimerkiksi insinööritoimistoja ja -yrittäjiä, lakitoimistoja sekä mainostoimistoja. 
 
 Osaamme valita toimivia laitteita CAD- ja BIM-ohjelmistojen päivittäiseen pyörittämiseen. Tarjoamme nopeaa ja joustavaa etätukea, jotta saat maksimoitua tehokkaaseen työhön käyttämäsi tunnit. Kauttamme saat myös työkalut kommunikointiin ja tiedonhallintaan.
 
-TDP SLIM -palvelun avulla voit helposti katsoa, kuinka paljon yrityksesi IT-palvelut tulisivat kuukausitasolla maksamaan. Voit myös jättää tarjouspyynnön valitsemistasi palveluista.
+TDP SLIM -palvelun avulla voit helposti katsoa, kuinka paljon yrityksesi IT-palvelut tulisivat kuukausitasolla maksamaan. Voit myös jättää tarjouspyynnön valitsemistasi palveluista!
 
 <CallToAction bgColor="brand" url="https://slim.tdp.fi" align="center">Kokeile tarjouslaskuria</CallToAction>
 
 ## Mitä meistä sanotaan
 
 > Metecno Oy oli kahden työntekijän startup-yritys vuonna 2011, kun hankin Datapisteeltä yhden kannettavan ja hieman myöhemmin oman serverin. Kaikki meni hienosti, joten yritykseni kasvun myötä keskitin vähitellen kaiken IT-tarpeistamme huolehtimisen heille. - [Erikoiskonevalmistaja Metecno Oy](/referenssit/insinooritoimisto)
-
+>
 > Hinnoittelu on edullinen ja toimistomme yhteydenottoihin vastataan ripeästi. Erityisesti minua miellyttää tapa, miten he kartoittavat asiakkaan kannalta aidosti järkevintä, ei kalleinta vaihtoehtoa meidän kulloisenkin tarpeemme täyttämiseksi. - [Asianajotoimisto Mäkelä & Penttilä Oy](/referenssit/asianajotoimisto)
-
+>
 > On helpottavaa keskittyä yrityksen omaan osaamisalueeseen, kun voi vahvasti luottaa näin keskeisen palvelun toimivuuteen eikä omaa aikaa kulu IT-asioista murehtimiseen. Kokonaisuutena annamme 10/10 pistettä palvelun laadusta ja erityiskiitoksen aina ystävällisestä asiakaspalvelusta! - [Eläinklinikka Livet Oy](/referenssit/elainklinikka)
 
 Kokeile TDP SLIM -palvelun avulla, paljonko sinun yrityksesi IT-palvelut tulisivat kuukausitasolla maksamaan.
@@ -70,7 +70,6 @@ Syötä TDP SLIM -tarjouslaskuriin tarvitsemasi IT-palvelut ja -laitteet. Saat v
 Kaikki TDP SLIM palvelussa olevat laitteet sisältävät 3 vuoden onsite-takuun, joka varmistaa töittesi sujuvuuden laiterikosta huolimatta. [Lue lisää onsite-takuusta tästä](/onsite-takuu-on-yrityksen-arjen-turva).
 
 Kun olet valinnut tarvitsemasi IT-palvelut ja nähnyt hinta-arvion, voit lähettää valintasi mukaisen tarjouspyynnön. Tarjouspyynnön jättäminen ei vielä sido sinua mihinkään. Palveluita voidaan myös räätälöidä yrityksesi tarpeiden mukaisiksi.
-
 
 <CallToAction bgColor="dark" url="https://slim.tdp.fi" align="left">Siirry TDP SLIM™ -tarjouslaskuriin</CallToAction>
 
