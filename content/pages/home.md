@@ -97,7 +97,7 @@ Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen 
 
 ### O﻿hjelmistot yrityksille kilpailukykyiseen hintaan
 
-Meiltä saat aina ohjelmistot samoilla kustannustehokkailla hinnoilla kuin itse valmistajaltakin. Tämän lisäksi olemme tukena ohjelmistojen käyttöönotossa ja käytön aikaisissa pulmissa. Luota ripeään, suomenkieliseen käyttäjätukeen!
+Meiltä saat aina ohjelmistot samoilla kustannustehokkailla hinnoilla kuin itse valmistajaltakin. Tämän lisäksi olemme tukena ohjelmistojen käyttöönotossa ja käytön aikaisissa pulmissa. Luota ripeään, suomenkieliseen palvelukumppaniin!
 
 <CallToAction bgColor="lightest" url="/ohjelmistot" align="center">Ohjelmistot yrityksille</CallToAction>
 
