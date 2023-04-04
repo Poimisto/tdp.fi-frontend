@@ -52,7 +52,8 @@ Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtais
 | Kaksivaiheinen tunnistus                         | ✔                | ✔                 | ✔                   |
 | Jaetut Drivet koko yritykselle                   |                  | ✔                 | ✔                   |
 | Enterprise -ominaisuudet (esim. data governance) |                  |                   | ✔                   |
-| **Hinta (EUR/kk/käyttäjä):**                     | **5,20**         | **10,40**         | **23,00**           |
+| **Hinta (EUR/kk/käyttäjä):**                     | **6,90**         | **13,80**         | **23,00**           |
+| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**   | **5,75**         | **11,50**         |                     |
 
 ### Suomenkielinen tukipalvelu
 
@@ -65,6 +66,7 @@ Autamme:
 * Oikean palvelupaketin valinnassa
 * Palvelun luotettavassa ylläpidossa
 * Eri sovellusten käytön opastuksessa asiantuntevasti ja viipymättä
+
 - - -
 
 **TDP on virallinen Google Cloud -kumppani.** 
