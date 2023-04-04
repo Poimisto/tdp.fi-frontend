@@ -44,6 +44,16 @@ Jos haluat tietää enemmän IT-alasta ja yrityksemme uusimmista käänteistä, 
 
 <CallToAction bgColor="brand" url="https://bit.ly/3zsDs3q" align="center">Tilaa uutiskirje</CallToAction>
 
+### S﻿osiaalinen media
+
+V﻿oit myös seurata meitä sosiaalisen median kanavissamme.
+
+<CallToAction bgColor="brand" url="https://www.linkedin.com/company/tampereen-datapiste/" align="center">Linkedin</CallToAction>
+
+<CallToAction bgColor="brand" url="https://www.facebook.com/datapiste" align="center">Facebook</CallToAction> 
+
+![]()
+
 ### I﻿T-asiantuntijamme
 
 <ListOfEmployees />
