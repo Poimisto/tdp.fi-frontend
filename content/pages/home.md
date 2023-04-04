@@ -37,7 +37,7 @@ Koe sinäkin asiakkaanamme tietotekniikan käytön helppous!
 
 
 
-<HeroBlock bgColor="lightest" imageAlign="right">
+<HeroBlock bgColor="light" imageAlign="right">
 
 <div className="HeroBlockImage">
 
@@ -63,7 +63,7 @@ Syötä vain laskuriin kaikki tarvitsemasi laitteet ja palvelut ja TDP SLIM lask
 
 
 
-<HeroBlock bgColor="light" imageAlign="left">
+<HeroBlock bgColor="lightest" imageAlign="left">
 
 <div className="HeroBlockImage">
 
@@ -85,7 +85,7 @@ Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen 
 
 
 
-<HeroBlock bgColor="brand" imageAlign="right">
+<HeroBlock bgColor="light" imageAlign="right">
 
 <div className="HeroBlockImage">
 
@@ -99,7 +99,7 @@ Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen 
 
 Meiltä saat aina ohjelmistot samoilla kustannustehokkailla hinnoilla kuin itse valmistajaltakin. Tämän lisäksi olemme tukena ohjelmistojen käyttöönotossa ja käytön aikaisissa pulmissa. Luota ripeään, suomenkieliseen palvelukumppaniin!
 
-<CallToAction bgColor="lightest" url="/ohjelmistot" align="center">Ohjelmistot yrityksille</CallToAction>
+<CallToAction bgColor="brand" url="/ohjelmistot" align="center">Ohjelmistot yrityksille</CallToAction>
 
 </div>
 
