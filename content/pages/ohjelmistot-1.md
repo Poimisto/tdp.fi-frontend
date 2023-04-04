@@ -26,7 +26,7 @@ contactForm: Ota yhteyttä
 
 * Tehokkaat työsovellukset kuten **Google Workspace** ja **Microsoft 365** tekevät työstä helpompaa ja tuottavampaa
 * T﻿unnetuimpien työsovellusten lisäksi saatte meiltä muutkin ohjelmistot yrityksenne arkeen. Esimerkiksi **Adobe Creative Cloud, AutoCAD, Bitwarden sekä kotimaiset Nexetic ja Withsecure** ovat vahvoja tuotteita, joiden varaan voitte avullamme rakentaa yrityksenne digitaaliset prosessit
-* **Kaikki ohjelmistot samoilla hinnoilla kuin suoraan valmistajaltakin**
+* **Kaikki ohjelmistot meiltä samoilla hinnoilla kuin suoraan valmistajaltakin**
 * Ohjelmistotarjontamme ei rajoitu näihin, vaan voimme tarjota yrityksellenne juuri tarpeidenne mukaisen ohjelmiston kulloiseenkin tarpeeseen
 
 </div>
