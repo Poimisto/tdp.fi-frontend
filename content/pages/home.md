@@ -75,7 +75,9 @@ Syötä vain laskuriin kaikki tarvitsemasi laitteet ja palvelut ja TDP SLIM lask
 
 ### Referenssit
 
-Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen TDP:n toiminta nojaa. Meillä on asiakkaina yrityksiä monelta eri toimialalta. Lue tyytyväisten asiakkaidemme kokemuksista ja liity heidän joukkoonsa.
+Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen TDP:n toiminta nojaa. Meillä on asiakkaina yrityksiä monelta eri toimialalta. 
+
+Lue tyytyväisten asiakkaidemme kokemuksista ja liity heidän joukkoonsa.
 
 <CallToAction bgColor="brand" url="/referenssit" align="center">Lue asiakaskokemuksista</CallToAction>
 
@@ -97,7 +99,9 @@ Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen 
 
 ### O﻿hjelmistot yrityksille kilpailukykyiseen hintaan
 
-Meiltä saat aina ohjelmistot samoilla kustannustehokkailla hinnoilla kuin itse valmistajaltakin. Tämän lisäksi olemme tukena ohjelmistojen käyttöönotossa ja käytön aikaisissa pulmissa. Luota ripeään, suomenkieliseen palvelukumppaniin!
+Saat aina meiltä ohjelmistot samoilla kustannustehokkailla hinnoilla kuin itse valmistajaltakin. Tämän lisäksi olemme tukenasi ohjelmistojen käyttöönotossa ja käytön aikaisissa pulmissa. 
+
+Luota ripeään, suomenkieliseen palvelukumppaniin!
 
 <CallToAction bgColor="brand" url="/ohjelmistot" align="center">Ohjelmistot yrityksille</CallToAction>
 
