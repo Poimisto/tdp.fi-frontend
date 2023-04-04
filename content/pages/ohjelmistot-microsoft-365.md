@@ -42,8 +42,8 @@ IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti k
 | Webinaarien isännöinti ja raportointityökalut                |                |                   | ✔                 | ✔                |
 | Käyttöoikeuksien ja -tietojen hallinta                       |                |                   |                   | ✔                |
 | Kyberuhkasuojaus                                             |                |                   |                   | ✔                |
-| **Hinta (EUR/kk/käyttäjä):**                                 | **6,72**       | **11,76**         | **14,04**         | **22,30**        |
-| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**               | **5,60**       | **9,80**          | **11,70**         | **19,60**        |
+| **Hinta (EUR/kk/käyttäjä):**                                 | **6,72**       | **11,76**         | **14,04**         | **24,72**        |
+| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**               | **5,60**       | **9,80**          | **11,70**         | **20,60**        |
 
 \*Office-ohjelmistot kuten Word, Excel, PowerPoint, Outlook ja OneNote 
 
