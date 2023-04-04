@@ -20,12 +20,12 @@ V﻿oimassa 1.1.2023 alkaen
 
 ## Huolto- ja ylläpitosopimukset
 
-|                                            |             |
-| ------------------------------------------ | ----------- |
-| Etätukipalvelu                             | 7,00 €/kk   |
-| Hallittu yritystietoturva                  | 7,00 €/kk   |
-| Varalaitepalvelu                           | 9,00 €/kk   |
-| Koneiden ja käyttäjien keskitetty hallinta | 11,00 €/kk  |
+|                                            |            |
+| ------------------------------------------ | ---------- |
+| Etätukipalvelu                             | 7,00 €/kk  |
+| Hallittu yritystietoturva                  | 7,00 €/kk  |
+| Varalaitepalvelu                           | 9,00 €/kk  |
+| Koneiden ja käyttäjien keskitetty hallinta | 11,00 €/kk |
 
 ## Varmuuskopiointi
 
@@ -34,16 +34,18 @@ V﻿oimassa 1.1.2023 alkaen
 | Google Workspace             | 5,20 €/kk        |
 | ﻿Microsoft 365               | 5,20 €/kk        |
 | Koneen työpöytä / kannettava | 10,00 €/kk       |
-| **Palvelimet räätälöidysti** | esim.              |
+| **Palvelimet räätälöidysti** | esim.            |
 | ﻿Lisenssityyppi 100 GB       | 39 €/kk/palvelin |
 | ﻿Lisenssityyppi 1 TB         | 99 €/kk/palvelin |
 
 ## Ohjelmistot
 
+**K﻿aikki ohjelmistot meiltä samoilla hinnoilla kuin valmistajiltakin.**
+
 |                                                                     |                |
 | ------------------------------------------------------------------- | -------------- |
 | [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace) | 5,20 €/kk      |
-| [Microsoft 365](https://www.tdp.fi/ohjelmistot/microsoft-365)       | 5,10 €/kk      |
+| [Microsoft 365](https://www.tdp.fi/ohjelmistot/microsoft-365)       | 5,60 €/kk      |
 | [Nira](https://www.tdp.fi/ohjelmistot/nira)                         | 8,00 €/kk      |
 | [JumpCloud](https://www.tdp.fi/ohjelmistot/jumpcloud)               | 11,00 €/kk     |
 | [Dropbox](https://www.tdp.fi/ohjelmistot/dropbox)                   | 12,00 €/kk     |
