@@ -20,8 +20,6 @@ breadcrumb:
 
 ![Microsoft 365 - yritysten luotettu toimisto-ohjelmapaketti](/assets/365-tinified.jpg "Microsoft 365")
 
-
-
 **Microsoft 365 on yrityksille toimintavarma pilvipalvelu hyvällä käytettävyydellä, mikä mahdollistaa tehokkaan viestinnän ja yhteiskäytön.** Sen korkea tietoturvataso ja monet sovellukset tekevät työntekijöiden päivittäisestä viestinnästä helppoa ja turvallista. 
 
 Nykyajan työnteon ideaalin mukaisesti Microsoft 365 mahdollistaa tehokkaan etätyön ajasta, paikasta ja laitteesta riippumatta. Viimeksi käytetyt tiedostot ja sähköpostit löytyvät helposti parilla klikkauksella eivätkä mittavatkaan projektit jää sovellusten ominaisuuksista kiinni.
@@ -32,20 +30,20 @@ Valittavanasi on useita eritasoisia yrityspaketteja yrityksesi koon ja tarpeiden
 
 IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti kiinteään kuukausihintaan sisältyen:
 
-| Ominaisuus                                                   | BUSINESS BASIC | APPS FOR BUSINESS | BUSINESS STANDARD | BUSINESS PREMIUM | 
-| ------------------------------------------------------------ | -------------- | ----------------- | ----------------- | ----------------- |
-| Sähköposti omalla domainilla                                 | ✔              | ✔                 | ✔                 | ✔                 |
-| Office*, verkko- ja mobiiliversiot                           | ✔              | ✔                 | ✔                 | ✔                 |
-| Office*-työpöytäversiot                                      |                | ✔                 | ✔                 | ✔                 |
-| Office* premium-ominaisuudet                                 |                |                   | ✔                 | ✔                 |
-| Videopuhelut Teamsilla                                       | ✔              | ✔                 | ✔                 | ✔                 |
-| Kalenteri                                                    | ✔              | ✔                 | ✔                 | ✔                 |
-| 1 Tt tallennustilaa tiedostojen jakamiseen ja tallentamiseen | ✔              | ✔                 | ✔                 | ✔                 |
-| Webinaarien isännöinti ja raportointityökalut                |                |                   | ✔                 | ✔                 |
-| Käyttöoikeuksien ja -tietojen hallinta                       |                |                   |                   | ✔                 |
-| Kyberuhkasuojaus                                             |                |                   |                   | ✔                 |
-| **Hinta (EUR/kk/käyttäjä):**                                 | **6,72**       | **10,50**         | **14,04**         | **22,30**         |
-| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**               | **5,60**       | **8,80**          | **11,70**         | **19,60**         |
+| Ominaisuus                                                   | BUSINESS BASIC | APPS FOR BUSINESS | BUSINESS STANDARD | BUSINESS PREMIUM |
+| ------------------------------------------------------------ | -------------- | ----------------- | ----------------- | ---------------- |
+| Sähköposti omalla domainilla                                 | ✔              | ✔                 | ✔                 | ✔                |
+| Office*, verkko- ja mobiiliversiot                           | ✔              | ✔                 | ✔                 | ✔                |
+| Office*-työpöytäversiot                                      |                | ✔                 | ✔                 | ✔                |
+| Office* premium-ominaisuudet                                 |                |                   | ✔                 | ✔                |
+| Videopuhelut Teamsilla                                       | ✔              | ✔                 | ✔                 | ✔                |
+| Kalenteri                                                    | ✔              | ✔                 | ✔                 | ✔                |
+| 1 Tt tallennustilaa tiedostojen jakamiseen ja tallentamiseen | ✔              | ✔                 | ✔                 | ✔                |
+| Webinaarien isännöinti ja raportointityökalut                |                |                   | ✔                 | ✔                |
+| Käyttöoikeuksien ja -tietojen hallinta                       |                |                   |                   | ✔                |
+| Kyberuhkasuojaus                                             |                |                   |                   | ✔                |
+| **Hinta (EUR/kk/käyttäjä):**                                 | **6,72**       | **11,76**         | **14,04**         | **22,30**        |
+| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**               | **5,60**       | **9,80**          | **11,70**         | **19,60**        |
 
 \*Office-ohjelmistot kuten Word, Excel, PowerPoint, Outlook ja OneNote 
 
