@@ -99,7 +99,7 @@ Lue tyytyväisten asiakkaidemme kokemuksista ja liity heidän joukkoonsa.
 
 ### O﻿hjelmistot yrityksille kilpailukykyiseen hintaan
 
-Saat aina meiltä ohjelmistot samoilla kustannustehokkailla hinnoilla kuin itse valmistajaltakin. Tämän lisäksi olemme tukenasi ohjelmistojen käyttöönotossa ja käytön aikaisissa pulmissa. 
+Saat aina **meiltä ohjelmistot samoilla kustannustehokkailla hinnoilla kuin itse valmistajaltakin**. Tämän lisäksi olemme tukenasi ohjelmistojen käyttöönotossa ja käytön aikaisissa pulmissa. 
 
 Luota ripeään, suomenkieliseen palvelukumppaniin!
 
