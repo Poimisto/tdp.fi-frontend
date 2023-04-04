@@ -54,9 +54,9 @@ Jos haluat tietää enemmän IT-alasta ja yrityksemme uusimmista käänteistä, 
 
 V﻿oit myös seurata meitä sosiaalisen median kanavissamme:
 
-<CallToAction bgColor="success" url="https://www.linkedin.com/company/tampereen-datapiste/" align="center">Linkedin</CallToAction>
+<CallToAction bgColor="link" url="https://www.linkedin.com/company/tampereen-datapiste/" align="center">Linkedin</CallToAction>
 
-<CallToAction bgColor="success" url="https://www.facebook.com/datapiste" align="center">Facebook</CallToAction>
+<CallToAction bgColor="link" url="https://www.facebook.com/datapiste" align="center">Facebook</CallToAction>
 
 ![]()
 
