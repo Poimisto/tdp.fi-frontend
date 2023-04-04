@@ -32,7 +32,7 @@ Valittavanasi on useita eritasoisia yrityspaketteja yrityksesi koon ja tarpeiden
 
 IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti kiinteään kuukausihintaan sisältyen:
 
-| Ominaisuus                                                   | BUSINESS BASIC | APPS FOR BUSINESS | BUSINESS STANDARD | BUSINESS STANDARD |
+| Ominaisuus                                                   | BUSINESS BASIC | APPS FOR BUSINESS | BUSINESS STANDARD | BUSINESS PREMIUM | 
 | ------------------------------------------------------------ | -------------- | ----------------- | ----------------- | ----------------- |
 | Sähköposti omalla domainilla                                 | ✔              | ✔                 | ✔                 | ✔                 |
 | Office*, verkko- ja mobiiliversiot                           | ✔              | ✔                 | ✔                 | ✔                 |
@@ -44,8 +44,8 @@ IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti k
 | Webinaarien isännöinti ja raportointityökalut                |                |                   | ✔                 | ✔                 |
 | Käyttöoikeuksien ja -tietojen hallinta                       |                |                   |                   | ✔                 |
 | Kyberuhkasuojaus                                             |                |                   |                   | ✔                 |
-| **Hinta (EUR/kk/käyttäjä):**                                 | **6,10**       | **10,50**         | **12,60**         | **22,30**         |
-| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**               | **5,10**       | **8,80**          | **10,50**         | **19,60**         |
+| **Hinta (EUR/kk/käyttäjä):**                                 | **6,72**       | **10,50**         | **14,04**         | **22,30**         |
+| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**               | **5,60**       | **8,80**          | **11,70**         | **19,60**         |
 
 \*Office-ohjelmistot kuten Word, Excel, PowerPoint, Outlook ja OneNote 
 
