@@ -26,31 +26,37 @@ Toteutamme kaikki tarvitsemanne IT-palvelut ja räätälöimme ne toiveidenne mu
 
 ### T﻿avoite
 
-Pyrimme edullisuuden lisäksi aina asiakaslähtöiseen palveluun. Toivomme ensimmäisestä laitehankinnasta alkavan kumppanuuden, jossa me vastaamme yrityksenne IT-ympäristöstä ja sen kehityksestä pitkälle tulevaisuuteen.
+Pyrimme edullisuuden lisäksi aina asiakaslähtöiseen palveluun. 
+
+Toivomme ensimmäisestä laitehankinnasta alkavan kumppanuuden, jossa me vastaamme yrityksenne IT-ympäristöstä ja sen kehityksestä pitkälle tulevaisuuteen.
 
 ### P﻿alvelualueet
 
-Päätoimialueemme ovat Pirkanmaalla, Etelä-Suomessa ja Keski-Suomessa. Päätoimipisteemme löydät Nokialta Tampereen kupeesta. Meillä on asiakkaita  lukuisilta eri toimialoilta, joten tunnistamme kokemukseemme perustuen yritysten yksilölliset tarpeet.
+Päätoimialueemme ovat Pirkanmaalla, Etelä-Suomessa ja Keski-Suomessa. 
+
+Päätoimipisteemme löydät Nokialta Tampereen kupeesta. Meillä on asiakkaita  lukuisilta eri toimialoilta, joten tunnistamme kokemukseemme perustuen yritysten yksilölliset tarpeet.
 
 ### Kasvuhalu
 
-Olemme dynaaminen ja vakavaraisesti kasvava yritys: siitä osoituksena saavutimme vuonna 2021 ensimmäistä kertaa yli miljoonan euron liikevaihdon, vuonna 2022 ennätyksellisen 1,3 miljoonan euron liikevaihdon.
+Olemme dynaaminen ja vakavaraisesti kasvava yritys.
+
+Siitä osoituksena saavutimme vuonna 2021 ensimmäistä kertaa yli miljoonan euron liikevaihdon ja vuonna 2022 ennätyksellisen 1,3 miljoonan euron liikevaihdon. 
 
 Nyt vuonna 2023 tavoitteemme on kehittää palvelukokonaisuuttamme entisestään ja olla siten kiinnostava vaihtoehto suurtenkin PK-yritysten vastuulliseksi kumppaniksi.  
 
 ### S﻿euraa meitä
 
-Jos haluat tietää enemmän IT-alasta ja yrityksemme uusimmista käänteistä, ryhdy uutiskirjeemme tilaajaksi!
+Jos haluat tietää enemmän IT-alasta ja yrityksemme uusimmista käänteistä, ryhdy uutiskirjeemme tilaajaksi:
 
 <CallToAction bgColor="brand" url="https://bit.ly/3zsDs3q" align="center">Tilaa uutiskirje</CallToAction>
 
 ### S﻿osiaalinen media
 
-V﻿oit myös seurata meitä sosiaalisen median kanavissamme.
+V﻿oit myös seurata meitä sosiaalisen median kanavissamme:
 
-<CallToAction bgColor="brand" url="https://www.linkedin.com/company/tampereen-datapiste/" align="center">Linkedin</CallToAction>
+<CallToAction bgColor="success" url="https://www.linkedin.com/company/tampereen-datapiste/" align="center">Linkedin</CallToAction>
 
-<CallToAction bgColor="brand" url="https://www.facebook.com/datapiste" align="center">Facebook</CallToAction> 
+<CallToAction bgColor="success" url="https://www.facebook.com/datapiste" align="center">Facebook</CallToAction>
 
 ![]()
 
