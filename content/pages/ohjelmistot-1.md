@@ -4,9 +4,10 @@ thumbnail: /assets/ohjelmistot-tinified.jpg
 date: 2022-09-26T09:32:50.954Z
 head:
   title: Ohjelmistot | Digitaalinen työympäristö
-  description: "Modernit ohjelmistot luovat pohjan liiketoiminnalle ja parantavat
-    yritysten kilpailukykyä. Tehokkaat, turvalliset työsovellukset helpottavat
-    niin yritysten arkea kuin tekevät työstä tuottavampaa. "
+  description: Modernit ohjelmistot luovat pohjan liiketoiminnalle ja parantavat
+    yritysten kilpailukykyä. TDP:ltä kaikki tutut ohjelmistot samoilla hinnoilla
+    kuin valmistajaltakin, mutta lisättynä hyvällä suomenkielisellä
+    tukipalvelulla.
   keywords: ohjelmistot, digitaalinen työympäristö, työsovellukset
 contactForm: Ota yhteyttä
 ---
@@ -24,9 +25,8 @@ contactForm: Ota yhteyttä
 ## Modernit ohjelmistot yrityksissä luovat pohjan liiketoiminnalle
 
 * Tehokkaat työsovellukset kuten **Google Workspace** ja **Microsoft 365** tekevät työstä helpompaa ja tuottavampaa
-* TDP:n asiantuntemus sovelluksista helpottaa oikeiden sovellusten valitsemista ja käyttöönottoa
-* TDP:n tukipalveluasiakkaana saatte täyden tuen myös sovellusten käyttöön
-* T﻿unnetuimpien työsovellusten lisäksi saatte meiltä muutkin ohjelmistot yrityksenne arkeen. Esimerkiksi **Adobe Creative Cloud, AutoCAD, Bitwarden sekä kotimaiset Nexetic ja Withsecure** ovat vahvoja tuotteita, joiden varaan voitte avullamme rakentaa yrityksenne digitaaliset prosessit 
+* T﻿unnetuimpien työsovellusten lisäksi saatte meiltä muutkin ohjelmistot yrityksenne arkeen. Esimerkiksi **Adobe Creative Cloud, AutoCAD, Bitwarden sekä kotimaiset Nexetic ja Withsecure** ovat vahvoja tuotteita, joiden varaan voitte avullamme rakentaa yrityksenne digitaaliset prosessit
+* Kaikki ohjelmistot samoilla hinnoilla kuin suoraan valmistajaltakin
 * Ohjelmistotarjontamme ei rajoitu näihin, vaan voimme tarjota yrityksellenne juuri tarpeidenne mukaisen ohjelmiston kulloiseenkin tarpeeseen
 
 </div>
