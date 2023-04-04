@@ -66,7 +66,7 @@ Paketin voi valita niin kuukausi- kuin vuosisopimukseen sidottuna:
 | Tiedostojen katseluhistoria                    | \-                            | ✔                     |
 | Haittaohjelmien havainnointi ja palautus       | \-                            | ✔                     |
 | **Hinta (EUR/kk/käyttäjä):**                   | **14,50**                     | **21,50**             |
-| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):** | **12,00**                     | **18,80**             |
+| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):** | **12,00**                     | **18,00**             |
 
 ### Suomenkielinen tukipalvelu
 
