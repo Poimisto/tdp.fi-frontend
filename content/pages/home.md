@@ -83,6 +83,8 @@ Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen 
 
 </HeroBlock>
 
+
+
 <HeroBlock bgColor="brand" imageAlign="right">
 
 <div className="HeroBlockImage">
@@ -93,15 +95,16 @@ Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen 
 
 <div className="HeroBlockContent">
 
-### O﻿hjelmistot yrityksille kilpailukykyiseen hintaan 
+### O﻿hjelmistot yrityksille kilpailukykyiseen hintaan
 
 Meiltä saat aina ohjelmistot samoilla kustannustehokkailla hinnoilla kuin itse valmistajaltakin. Tämän lisäksi olemme tukena ohjelmistojen käyttöönotossa ja käytön aikaisissa pulmissa. Luota ripeään, suomenkieliseen käyttäjätukeen!
 
-<CallToAction bgColor="brandSecondary" url="/ohjelmistot" align="center">Ohjelmistot yrityksille</CallToAction>
+<CallToAction bgColor="lightest" url="/ohjelmistot" align="center">Ohjelmistot yrityksille</CallToAction>
 
 </div>
 
 </HeroBlock>
+
 
 <LatestPosts maxNumberOfPosts="2" title="Ajankohtaista"/>
 
