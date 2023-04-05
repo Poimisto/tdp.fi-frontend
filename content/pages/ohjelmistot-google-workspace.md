@@ -20,7 +20,9 @@ breadcrumb:
 
 ![Google Workspace](/assets/workspace-tinified.jpg "Google Workspace")
 
-**Google Workspace on monipuolinen digitaalinen työympäristö, joka sujuvoittaa yrityksesi liiketoimintaa.** Hanki alan johtava toimisto-ohjelmistopaketti Google Workspace arjen töihin sen sijaan, että käyttäisit useaa eri ohjelmistoa. 
+**Google Workspace on monipuolinen digitaalinen työympäristö, joka sujuvoittaa yrityksesi liiketoimintaa.** 
+
+Hanki alan johtava toimisto-ohjelmistopaketti Google Workspace arjen töihin sen sijaan, että käyttäisit useaa eri ohjelmistoa. 
 
 ### O﻿minaisuudet
 
@@ -52,8 +54,8 @@ Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtais
 | Kaksivaiheinen tunnistus                         | ✔                | ✔                 | ✔                   |
 | Jaetut Drivet koko yritykselle                   |                  | ✔                 | ✔                   |
 | Enterprise -ominaisuudet (esim. data governance) |                  |                   | ✔                   |
-| **Hinta (EUR/kk/käyttäjä):**                     | **6,90**         | **13,80**         | **23,00**           |
-| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**   | **5,75**         | **11,50**         |                     |
+| **Hinta (EUR/kk/käyttäjä):**                     | **6,90**         | **13,80**         | **26,64**           |
+| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**   | **5,75**         | **11,50**         | **2﻿2,20**          |
 
 ### Suomenkielinen tukipalvelu
 
@@ -61,7 +63,7 @@ Vaihtoehto englanninkieliselle chat-tuelle: kun hankit ohjelmistolisenssit suora
 
 Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelmasi selvällä suomen kielellä ilman jonotusta. Palvelun vasteaika määritetään sopimuksessa etukäteen haluamaksesi.
 
-Autamme:
+**Autamme:**
 
 * Oikean palvelupaketin valinnassa
 * Palvelun luotettavassa ylläpidossa
