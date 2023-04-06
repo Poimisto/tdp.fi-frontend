@@ -54,4 +54,4 @@ Esimerkiksi tietokoneen kiintolevyn fyysinen korjaus voi hyvin maksaa yli 1000 e
 
 N﻿oin 60 eurolla varmistamme yhden Google Workspace tai Microsoft 365 -käyttäjän vuodeksi.
 
-\*\*Riskeihin nähden varmuuskopioinnista koituva noin 60 euron vuosimaksu käyttäjää kohden on hyvin halpa keino turvata yrityksen kallein pääoma eli kerätty ja tuotettu tieto. Tutustu koko [hinnastoomme!](https://www.tdp.fi/yritys/hinnasto)\*\*
+Riskeihin nähden varmuuskopioinnista koituva noin 60 euron vuosimaksu käyttäjää kohden on hyvin halpa keino turvata yrityksen kallein pääoma eli kerätty ja tuotettu tieto. Tutustu koko [hinnastoomme!](https://www.tdp.fi/yritys/hinnasto)
