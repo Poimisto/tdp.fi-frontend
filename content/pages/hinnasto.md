@@ -16,7 +16,7 @@ V﻿oimassa 1.1.2023 alkaen
 | ---------------------------------------------------- | --------- |
 | Työasemien vikaselvitykset ja asennukset             | 68,00 €/h |
 | Suunnittelu, verkkotyöt, palvelintyöt ja ohjelmointi | 84,00 €/h |
-| ﻿Sopimusasiakkaille asennukset                       | 44,50 €/h |
+| ﻿Sopimusasiakkaille työasemien asennukset            | 44,50 €/h |
 
 ## Huolto- ja ylläpitosopimukset
 
