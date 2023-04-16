@@ -54,7 +54,7 @@ V﻿oimassa 1.1.2023 alkaen
 | ﻿WithSecure                                                         | 4,41/7,00 €/kk |
 | ﻿Bitwarden                                                          | 5,00 €/kk      |
 | ﻿Adobe Creative Cloud                                               | 73,49 €/kk     |
-| ﻿Nexetic Full                                                       | 11,00 €/kk     |
+| ﻿Nexetic Full                                                       | 10,00 €/kk     |
 | ﻿Muut ohjelmistot                                                   | Kysy tarjousta |
 
 ## Muut
