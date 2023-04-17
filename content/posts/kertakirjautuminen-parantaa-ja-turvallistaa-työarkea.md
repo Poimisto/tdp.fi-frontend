@@ -23,7 +23,7 @@ Kiteytettynä, hallitse vain yksi tunnus yhdessä portaalissa ja pääset nopeas
 
 ## Kertakirjautumisen hyödyt
 
-**Hyötyjä on paljon. Niin paljon, että SSO-palvelun tarjoamaaparannusta työpäivän arkeen ei tarvitse edes kyseenalaistaa.**
+**Hyötyjä on paljon. Niin paljon, että SSO-palvelun tarjoamaa parannusta työpäivän arkeen ei tarvitse edes kyseenalaistaa.**
 
 Tutustu seuraavaan listaukseen ja peilaa niitä oman yrityksesi arkeen: voisivatko kaikki nämä hyödyt toteutua teilläkin?
 
@@ -87,7 +87,7 @@ Riskien realistinen todennäköisyys on pieni ja osaava IT-palvelukumppani voi o
 
 Kun siihen lisätään säästynyt työaika ja vähäiset ylläpitokustannukset sekä mahdollisuus keskittyä olennaisiin työtehtäviin helposti, on SSO jokaisen liiketoimintaansa IT:n avulla kehittävän organisaation fiksu valinta.
 
-\-﻿  -  -
+-﻿  -  -
 
 **SSO-palvelu on osa keskitetyn hallinnan palvelua, jota tarjoamme TDP:ssä kaikenkokoisille yrityksille.** 
 
