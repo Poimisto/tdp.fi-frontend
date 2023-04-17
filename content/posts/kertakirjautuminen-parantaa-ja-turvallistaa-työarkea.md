@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /kertakirjautuminen-parantaa-ja-turvallistaa-työarkea
+path: /kertakirjautuminen-parantaa-ja-turvallistaa-tyoarkea
 date: 2023-04-17T12:13:20.931Z
 head:
   title: SSO eli miten kertakirjautuminen tekee työarjesta parempaa?
