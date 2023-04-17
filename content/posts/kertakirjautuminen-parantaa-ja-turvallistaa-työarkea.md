@@ -9,6 +9,7 @@ head:
     SSO tarkoittaa Single Sign-Onia eli käyttäjän tunnistautumismenetelmää,
     jossa työntekijä voi yhdellä tunnuksella kirjautua moniin eri sovelluksiin
     ja palveluihin.
+thumbnail: /assets/sso-netlify-1280-x-800.jpg
 ---
 ![Kertakirjautuminen.](/assets/sso-netlify-1280-x-800.jpg)
 
