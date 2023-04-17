@@ -87,7 +87,7 @@ Riskien realistinen todennäköisyys on pieni ja osaava IT-palvelukumppani voi o
 
 Kun siihen lisätään säästynyt työaika ja vähäiset ylläpitokustannukset sekä mahdollisuus keskittyä olennaisiin työtehtäviin helposti, on SSO jokaisen liiketoimintaansa IT:n avulla kehittävän organisaation fiksu valinta.
 
--﻿ - -
+- - -
 
 **SSO-palvelu on osa keskitetyn hallinnan palvelua, jota tarjoamme TDP:ssä kaikenkokoisille yrityksille.** 
 
