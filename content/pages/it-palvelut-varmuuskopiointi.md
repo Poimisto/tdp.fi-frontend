@@ -1,6 +1,6 @@
 ---
 path: /it-palvelut/varmuuskopiointi
-thumbnail: ""
+thumbnail: /assets/varmuuskopio-1280-x-800.jpg
 date: 2023-03-23T12:49:52.732Z
 head:
   keywords: "varmuuskopiointi, backup, datto, "
@@ -10,7 +10,7 @@ head:
     erehdyksen hetkellä ja yritys säästyy kalliilta jälkitöiltä.
 contactForm: Ota yhteyttä
 ---
-![](/assets/varmuuskopiointi-netlify-1280-x-800.jpg)
+![](/assets/varmuuskopio-1280-x-800.jpg)
 
 # Varmuuskopiointipalvelu on yrityksesi paras vakuutus
 
