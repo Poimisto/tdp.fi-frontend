@@ -17,10 +17,8 @@ breadcrumb:
   - label: Dropbox
 thumbnail: /assets/dropbox-1280x800.jpg
 ---
-# Dropbox
-
 ![Dropbox - pilvipohjainen tiedostonjakopalvelu](/assets/dropbox-1280x800.jpg)
-
+# Dropbox
 **Dropbox Business on järkivalinta, kun yrityksesi tarvitsee selkeän tiedostonjakopalvelun pilvessä.** 
 
 Dropbox on luotettava, helppokäyttöinen pilviratkaisu,  jolla et maksa totuttua ylimääräistä ominaisuuksista, joita et käytä.  
