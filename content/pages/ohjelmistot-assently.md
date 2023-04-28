@@ -10,10 +10,8 @@ head:
   keywords: assently, sähköinen allekirjoitus, henkilöllisyyden tunnistus
 contactForm: Ota yhteyttä
 ---
-# Assently
-
 ![Assently takaa allekirjoituksen.](/assets/assently-netlify-1280-x-800.jpg)
-
+# Assently
 **Assentlyllä korvaat ajan ja paperin allekirjoittamisessa.** 
 
 Lisäksi vahvat sähköiset tunnisteet tekevät allekirjoittamisen prosessista turvallisen kaikkialla Pohjoismaissa.
