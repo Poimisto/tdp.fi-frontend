@@ -16,15 +16,13 @@ breadcrumb:
     label: ohjelmistot
   - label: Microsoft 365
 ---
-# Microsoft 365
-
 ![Microsoft 365 - yritysten luotettu toimisto-ohjelmapaketti](/assets/365-tinified.jpg "Microsoft 365")
-
+# Microsoft 365
 **Microsoft 365 on yrityksille toimintavarma pilvipalvelu hyvällä käytettävyydellä, mikä mahdollistaa tehokkaan viestinnän ja yhteiskäytön.** Sen korkea tietoturvataso ja monet sovellukset tekevät työntekijöiden päivittäisestä viestinnästä helppoa ja turvallista. 
 
 Nykyajan työnteon ideaalin mukaisesti Microsoft 365 mahdollistaa tehokkaan etätyön ajasta, paikasta ja laitteesta riippumatta. Viimeksi käytetyt tiedostot ja sähköpostit löytyvät helposti parilla klikkauksella eivätkä mittavatkaan projektit jää sovellusten ominaisuuksista kiinni.
 
-### Microsoft 365:n hinta
+## Microsoft 365:n hinta
 
 Valittavanasi on useita eritasoisia yrityspaketteja yrityksesi koon ja tarpeiden mukaan. 
 
@@ -47,7 +45,7 @@ IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti k
 
 \*Office-ohjelmistot kuten Word, Excel, PowerPoint, Outlook ja OneNote 
 
-### Suomenkielinen tukipalvelu
+## Suomenkielinen tukipalvelu
 
 Vaihtoehto englanninkieliselle chat-tuelle: kun hankit ohjelmistolisenssit suoraan meiltä, voit samalla hankkia virtaviivaisen TDP-tukipalvelun erillisellä palvelusopimuksella! 
 
