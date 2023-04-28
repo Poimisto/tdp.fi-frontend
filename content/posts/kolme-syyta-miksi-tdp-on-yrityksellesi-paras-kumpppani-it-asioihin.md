@@ -13,7 +13,18 @@ thumbnail: /assets/selling-points-netlify-1280-x-800.jpg
 ---
 ![TDP:n henkilökunta palveluksessasi](/assets/selling-points-netlify-1280-x-800.jpg)
 
+# Kolme syytä, miksi TDP on yrityksellesi paras kumppani IT-asioissa
+
+**H﻿aluamme huolehtia asiakasyritystemme IT-ympäristöstä kokonaisvaltaisesti, joten panostamme erityisesti kolmeen kilpailukeinoomme.**
+
+Tutustu alla syihin, miksi olisimme sinunkin yrityksellesi hyvä, ellei jopa paras IT-kumppani. 
+
 ## **1. Asiakkaiden arvostama käyttäjätuki**
+
+K﻿ukaan ei vastaa puhelimeen? Ongelma luvataan hoitaa pian, mutta niin ei tapahdu? 
+
+### Ratkaisu
+Hanki yrityksellesi käyttäjätuki, joka välittää pulmistanne.
 
 Totea itse nykyisten asiakkaidemme tyytyväisyys käyttäjätukeemme lukemalla referensseistä heidän näkemyksensä: 
 
@@ -36,7 +47,7 @@ Hyvä käyttäjätuki tukee yrityksesi monien tavoitteiden toteutumista:
 
 Yrityksesi taitavan IT-vastaavan ansiosta IT-huolia ei ole ilmennyt koskaan, mutta hänen osaamistaan ei voi varmuuskopioida. Mitä jos tämä henkilö päättää vaihtaa työpaikkaa?
 
-#### Ratkaisu
+### Ratkaisu
 
 TDP:n avulla toteutat käyttäjähallinnan ja hakemistopalvelut hallitusti, tietoturvallisesti ja tehokkaasti.
 
@@ -53,7 +64,7 @@ Keskitetty hallinta tarjoaa yrityksellesi useita etuja, joista voit lukea lisä�
 
 Onko sinunkin yrityksessäsi kasa erillisiä ohjelmistoja erillisellä koneella, yrityssähköpostit joltain jälleenmyyjältä, hukattuja yhteystietoja surraan tämän tästä eikä kaikkien tietojen varmuuskopiointiin ole mitään selkeää prosessia? 
 
-#### Ratkaisu
+### Ratkaisu
 
 Älkää jatkako näin! Ottamalla käyttöön Googlen liiketoimintasovellukset saatte tärkeimmät työkalut samasta paikasta. Lisäksi tarjolla on markkinoiden paras integroitavuus kolmannen osapuolen ohjelmistoihin.
 
