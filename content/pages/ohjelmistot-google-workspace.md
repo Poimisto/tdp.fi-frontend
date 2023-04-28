@@ -22,7 +22,7 @@ breadcrumb:
 
 Hanki alan johtava toimisto-ohjelmistopaketti Google Workspace arjen töihin sen sijaan, että käyttäisit useaa eri ohjelmistoa. 
 
-### O﻿minaisuudet
+## O﻿minaisuudet
 
 Workspace on turvallinen pilvipalvelu hyödyllisillä työsovelluksilla, johon saat TDP:ltä jatkuvan, osaavan käyttötuen. 
 
@@ -36,7 +36,7 @@ Workspace tarjoaa yrityksellesi kaikki arjen töissä tarvitsemasi työkalut yhd
 * Helppo käyttäjähallinta
 * Vankasti suojattu
 
-### Google Workspacen hinta
+## Google Workspacen hinta
 
 Workspacen palvelut skaalautuvat yrityksesi kasvun myötä ja hinta määräytyy yrityksesi tarpeiden mukaan. Suomalaisen jälleenmyyjän tarjoama suomenkielinen, ripeä tukipalvelu varmistaa valitsemasi paketin jokapäiväisen helppouden niin maksamisen kuin käytön osalta. 
 
@@ -55,7 +55,7 @@ Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtais
 | **Hinta (EUR/kk/käyttäjä):**                     | **6,90**         | **13,80**         | **26,64**           |
 | **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**   | **5,75**         | **11,50**         | **2﻿2,20**          |
 
-### Suomenkielinen tukipalvelu
+## Suomenkielinen tukipalvelu
 
 Vaihtoehto englanninkieliselle chat-tuelle: kun hankit ohjelmistolisenssit suoraan meiltä, voit samalla hankkia virtaviivaisen TDP-tukipalvelun erillisellä palvelusopimuksella! 
 
