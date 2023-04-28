@@ -17,13 +17,11 @@ breadcrumb:
   - label: Nira
 thumbnail: /assets/nira-kuvituskuva2.png
 ---
-# Nira
-
 ![Pilvityökalu Nira yritysten tiedostojen suojeluun](/assets/nira-kuvituskuva2.png)
-
+# Nira
 Yli 50 hengen ja sitä suuremmille yrityksille suunnattu **Nira on Workspaceen luontevasti yhdistyvä pilvityökalu, joka ratkaisee tiedostojen säilyttämiseen, jakamiseen ja käyttöoikeuksiin liittyvät ongelmat.** 
 
-### Ongelmat yrityksessä
+## Ongelmat yrityksessä
 
 Oletko tietoinen näistä konkreettisista ongelmista, joita organisaatiossasi on kenties jo nyt?
 
@@ -36,7 +34,7 @@ Oletko tietoinen näistä konkreettisista ongelmista, joita organisaatiossasi on
 
 Tiedon ja tiedostojen yhteiskäyttö on suuri mahdollisuus, jolla on kuitenkin oikeinkin käytettynä lieveilmiönsä. Niralla suurikin PK-yritys tulppaa ne pienetkin tietoturva-aukot, joita syntyy vääjäämättä tiedon volyymikäytön myötä. Ja mikä tärkeintä, yritys näkee yhdestä paikasta kaikki työntekijöidensä käyttämät dokumentit.  
 
-### Nira ratkaisuksi
+## Nira ratkaisuksi
 
 Nira tarjoaa vaivattoman ohjelmallisen vaihtoehdon edellä kuvattujen ongelmien ratkaisemiseen. 
 
@@ -44,7 +42,7 @@ Se päihittää vaivalloisen, jatkuvan käsityön yrityksen IT-osaston toimesta 
 
 SaaS-palveluna tämäkin ohjelmisto on hyvä renki, joka tarjoaa organisaatiollesi helpolla mielenrauhaa ja korkeaa tietoturvaa. Google Workspacea käyttäville suuremmille PK-yrityksille Nira on miltei välttämätön hankinta.
 
-### Niran hinta
+## Niran hinta
 
 Nira on melko arvokas sovellus, mutta suurelle yritykselle hintansa arvoinen. 
 
@@ -65,7 +63,7 @@ Nira on melko arvokas sovellus, mutta suurelle yritykselle hintansa arvoinen.
 
 Älä tyydy soittoon sovelluspaketin määrittämisessä, vaan sovi kanssamme videotapaaminen. Esittelemme siinä Niran yksityiskohtaiset käyttömahdollisuudet ja saat kokonaiskuvan Niran potentiaalista.  
 
-### Suomenkielinen tukipalvelu
+## Suomenkielinen tukipalvelu
 
 Vaihtoehto englanninkieliselle chat-tuelle: kun hankit ohjelmistolisenssit suoraan meiltä, voit samalla hankkia virtaviivaisen TDP-tukipalvelun erillisellä palvelusopimuksella.
 
