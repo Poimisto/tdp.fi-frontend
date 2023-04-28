@@ -16,11 +16,11 @@ breadcrumb:
     label: ohjelmistot
   - label: JumpCloud
 ---
-# JumpCloud
-
 ![Yrityksesi keskitetty hallinta JumpCloud-ohjelmistolla](/assets/jumpcloud-tinified.jpg "Jumpcloud")
+# JumpCloud
+**JumpCloudin tuottama keskitetty hallinta vapauttaa yritykseltä työaikaa ja resursseja.**
 
-**JumpCloudin tuottama keskitetty hallinta vapauttaa yritykseltä työaikaa ja resursseja.** Se luo yritykseen selkeät periaatteet laitteiden hallinnalle ja niiden tehokkaalle käytölle nostaen samalla koko organisaation tietoturvan tasoa. 
+Se luo yritykseen selkeät periaatteet laitteiden hallinnalle ja niiden tehokkaalle käytölle nostaen samalla koko organisaation tietoturvan tasoa. 
 
 ### Ominaisuudet
 
@@ -28,7 +28,7 @@ Kiteytettynä, JumpCloud mahdollistaa verkon, sovelluksen ja palvelimen turvalli
 
 Yksi hallinta varmistaa, että laitteet eivät ole enää hukassa, monet IT-asiat automatisoituvat ja esimerkiksi tukipyynnöt salasanojen palauttamiseksi vähenevät.
 
-### H﻿innoittelu
+## H﻿innoittelu
 
 Kiinteän kuukausimaksun ansiosta yrityksesi IT-kulujen budjetoinnista tulee entistä läpinäkyvämpää ja hintavat, ylimääräiset tuntityöt jäävät pois. 
 
@@ -50,13 +50,13 @@ Vertaile vaihtoehtoja:
 | **Hinta (EUR/kk/käyttäjä):**                   | **13,00**              | **17,00**          | **20,00**     |
 | **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):** | **11,00**              | **15,00**          | **18,00**     |
 
-### Suomenkielinen tukipalvelu
+## Suomenkielinen tukipalvelu
 
 Vaihtoehto englanninkieliselle chat-tuelle: kun hankit ohjelmistolisenssit suoraan meiltä, voit samalla hankkia virtaviivaisen TDP-tukipalvelun erillisellä palvelusopimuksella! 
 
 Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelmasi selvällä suomen kielellä ilman jonotusta. Palvelun vasteaika määritetään sopimuksessa etukäteen haluamaksesi.
 
-### Tarvitseeko yritykseni keskitettyä hallintaa?
+## Tarvitseeko yritykseni keskitettyä hallintaa?
 
 Mikäli yrityksesi on kasvuhaluinen, henkilöstömäärä on yli 10 ja erilaisia päätelaitteita ja ohjelmistoja on runsaasti käytössä, niin ehdottomasti kyllä!
 
@@ -64,7 +64,7 @@ Jos myös yrityksesi IT-huolien selvittelyyn menee viikossa liikaa aikaa ja niis
 
 Keskitetty hallinta on valinta ennen kaikkea niille yrityksille, jotka eivät halua korjailla virheitä jälkikäteen, vaan haluavat välttää pulmat etukäteen ja pitää fokuksen oman työn tekemisessä.
 
-### Keskitetyn hallinnan edut
+## Keskitetyn hallinnan edut
 
 Keskitetty hallinta tarjoaa useita älykkäitä, konkreettisia etuja:
 
