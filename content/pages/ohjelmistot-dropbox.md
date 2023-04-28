@@ -23,7 +23,7 @@ thumbnail: /assets/dropbox-1280x800.jpg
 
 Dropbox on luotettava, helppokäyttöinen pilviratkaisu,  jolla et maksa totuttua ylimääräistä ominaisuuksista, joita et käytä.  
 
-### O﻿minaisuudet
+## O﻿minaisuudet
 
 Dropbox Business on yritykselle parempi tapa saada parhaat työt tehtyä. 
 
@@ -31,7 +31,7 @@ Se on yksi selkeä paikka, jossa voit nähdä, jakaa, luoda ja tehdä yhteistyö
 
 Koska Dropbox Business tarjoaa todistetusti suojaa, voit suojata työsi ja asiakkaidesi tiedot ilman IT-tiimiä. Dropboxin avulla pidät kaiken järjestyksessä, asiakkaasi tyytyväisinä ja yrityksesi toimii sujuvasti – yksinkertainen työkalu, joka korvaa kaaoksen yhteistyöllä. 
 
-### Näissä Dropbox loistaa
+## Näissä Dropbox loistaa
 
 Yli 500 miljoonaa käyttäjää ja 200 000 yritystä luottavat Dropboxiin yhteistyön tehokeinona. 
 
@@ -45,7 +45,7 @@ Dropbox niputtaa toimivaksi kokonaisuudeksi sekä pilvisisällön, pikakuvakkeet
 * Salesforce
 * Gmail
 
-### Dropboxin hinta
+## Dropboxin hinta
 
 Dropbox tarjoaa erikokoisille yrityksille juuri sopivan kokoiset paketit. 
 
@@ -66,13 +66,13 @@ Paketin voi valita niin kuukausi- kuin vuosisopimukseen sidottuna:
 | **Hinta (EUR/kk/käyttäjä):**                   | **14,50**                     | **21,50**             |
 | **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):** | **12,00**                     | **18,00**             |
 
-### Suomenkielinen tukipalvelu
+## Suomenkielinen tukipalvelu
 
 Vaihtoehto englanninkieliselle chat-tuelle: kun hankit ohjelmistolisenssit suoraan meiltä, voit samalla hankkia virtaviivaisen TDP-tukipalvelun erillisellä palvelusopimuksella! 
 
 Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelmasi selvällä suomen kielellä ilman jonotusta. Palvelun vasteaika määritetään sopimuksessa etukäteen haluamaksesi.
 
-### Käyttöönotto katumatta
+## Käyttöönotto katumatta
 
 Luota meihin: ottamalla käyttöön markkinoilla tarjolla olevan 30 päivän kokeiluversion ilman ulkopuolista asiantuntijaa otat myös riskin! 
 
