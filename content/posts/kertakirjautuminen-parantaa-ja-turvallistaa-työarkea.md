@@ -91,4 +91,4 @@ Kun siihen lisätään säästynyt työaika ja vähäiset ylläpitokustannukset 
 
 **SSO-palvelu on osa keskitetyn hallinnan palvelua, jota tarjoamme TDP:ssä kaikenkokoisille yrityksille.** 
 
-Tarjoamme ilmaisen konsultaation, kun yrityksesi on kiinnostunut perehtymään syvemmin SSO:n toimintaan käytännössä - ota yhteyttä asiantuntijaamme!
+*Tarjoamme ilmaisen konsultaation, kun yrityksesi on kiinnostunut perehtymään syvemmin SSO:n toimintaan käytännössä - ota yhteyttä asiantuntijaamme!*
