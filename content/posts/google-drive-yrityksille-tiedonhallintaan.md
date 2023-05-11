@@ -29,7 +29,7 @@ Kun tiedoston viimeisin versio on koko ajan kaikkien tekijöiden nähtävillä, 
 
 Vaikka työpöytäsovellus olisi käyttäjälle tutuin väylä, hän pääsee aina myös nettiselaimen kautta omilla tilitunnuksillaan Driveen sisälle miltä tahansa laitteelta, milloin vaan. Koska Driveen tallennettu sisältö on täysin pilvessä, oman tietokoneen/kannettavan/puhelimen rikkoutuminen ei vaikuta millään tavalla pääsyyn itse tiedostoihin. 
 
-Tämä Driven kaikkivoipaisuus tekee siitä houkuttelevan vaihtoehdon sille perinteiselle tavalle, missä käyttäjä kantaa omaa kannettavaansa mukanaan jokaiselle työreissulleen, koska “tärkeät tiedostot ovat koneen kovalevyllä”.
+Tämä Driven kaikkivoipaisuus tekee siitä houkuttelevan vaihtoehdon perinteiselle tavalle, missä käyttäjä kantaa omaa kannettavaansa mukanaan jokaiselle työreissulleen, koska “tärkeät tiedostot ovat koneen kovalevyllä”.
 
 ## Tietoturva 
 
