@@ -11,7 +11,7 @@ thumbnail: /assets/google-asiantuntija-tinified.jpg
 ---
 ![](/assets/google-asiantuntija-tinified.jpg)
 
-**Google Drive on pilvialusta, joka tarjoilee yhdestä paikasta monet ominaisuudet henkilökohtaisen työn ja tiimin keskinäisen työn tehostamiseen.**
+**Google Drive on pilvialusta, joka tarjoaa vakuuttavasti yhdestä paikasta monet ominaisuudet henkilökohtaisen ja tiimin keskinäisen työn tehostamiseen.**
 
 Drive on samalla niin henkilökohtainen tallennustila pilvessä kuin alusta tiedostojen jakamiseen tiimin kesken. Voit jakaa siellä erilaisia tekstidokumentteja, taulukoita ja esityksiä, ja kutsua muita tekemään yhteistyötä kanssasi. 
 
