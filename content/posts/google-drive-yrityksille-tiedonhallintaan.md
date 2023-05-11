@@ -3,7 +3,7 @@ template: BlogPost
 path: /google-drive-yrityksille-tiedonhallintaan
 date: 2023-05-11T08:33:18.659Z
 head:
-  title: Google Drive | Tiedonhallinta
+  title: Google Drive antaa tiedonhallinnalle flow’n ja turvan
   description: "Google Drive on pilvialusta, joka tarjoilee yhdestä paikasta monet
     ominaisuudet henkilökohtaisen ja tiimin keskinäisen työn tehostamiseen. "
   keywords: google drive, tiedonhallinta, yrityksille, tallennustila, tietoturva
