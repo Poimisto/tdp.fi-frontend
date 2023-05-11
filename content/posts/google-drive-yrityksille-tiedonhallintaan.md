@@ -59,11 +59,11 @@ Käytännössä kaikille PK-yrityksille pienistä suuriin, pienyrittäjille kuin
 
 Drive vastaa moniin erilaisiin tarpeisiin:
 
-* Yrityksille ja organisaatioille, jotka haluavat tallentaa ja jakaa tiedostoja helposti ja turvallisesti kollegoiden kanssa.
-* Opiskelijoille ja koulutuslaitoksille, jotka haluavat tallentaa ja jakaa opiskelumateriaaleja ja -projekteja selkeän työryhmän kesken.
-* Freelancereille ja muille pienyrittäjille, jotka haluavat hallita tiedostoja ja dokumentteja tehokkaasti ja jakaa niitä asiakkaiden kanssa.
-* Tiimeille ja projekteille, jotka haluavat työskennellä yhdessä saman tiedoston parissa ja tehdä yhteistyötä reaaliaikaisesti.
-* Yksittäisille henkilöille, jotka tarvitsevat varmuuskopioinnin ja tallennustilan tärkeille tiedostoilleen, joihin he voivat helposti päästä käsiksi mistä tahansa paikasta.
+* **Yrityksille ja organisaatioille**, jotka haluavat tallentaa ja jakaa tiedostoja helposti ja turvallisesti kollegoiden kanssa.
+* **Opiskelijoille ja koulutuslaitoksille**, jotka haluavat tallentaa ja jakaa opiskelumateriaaleja ja -projekteja selkeän työryhmän kesken.
+* **Freelancereille ja muille pienyrittäjille**, jotka haluavat hallita tiedostoja ja dokumentteja tehokkaasti ja jakaa niitä asiakkaiden kanssa.
+* **Tiimeille ja projekteille**, jotka haluavat työskennellä yhdessä saman tiedoston parissa ja tehdä yhteistyötä reaaliaikaisesti.
+* **Yksittäisille henkilöille**, jotka tarvitsevat varmuuskopioinnin ja tallennustilan tärkeille tiedostoilleen, joihin he voivat helposti päästä käsiksi mistä tahansa paikasta.
 
 ## Ota yhteyttä
 
