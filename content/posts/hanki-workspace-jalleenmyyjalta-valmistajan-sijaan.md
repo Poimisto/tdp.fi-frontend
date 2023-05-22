@@ -55,6 +55,6 @@ On kuitenkin tärkeää miettiä jo ennen ostopäätöstä, mistä edustamasi PK
 
 Olennaisinta on siis huomata, että vaikka itse ydintuote on sama molemmilla myyjätahoilla, tuotteen ympärillä tarjotut lisäpalvelut saattavat tarjota ratkaisevan lisäarvon yrityksellesi.
 
-\-﻿  -  -
+- - -
 
 K﻿ysy tarjoustamme ja ylläty, miten paljon yrityksesi voi saada samalla rahalla suomalaiselta IT-kumppanilta kuin itse valmistajalta!
