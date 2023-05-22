@@ -13,6 +13,7 @@ thumbnail: /assets/google-asiantuntija-tinified.jpg
 ---
 ![](/assets/google-asiantuntija-tinified.jpg)
 
+T﻿iivistämme kilpailukeinomme kolmeen elementtiin:
 * **TDP:n käyttäjätuesta saat Google-pulmiin ratkaisut suomen kielellä heti**
 * **TDP auttaa integroimaan Googlen palvelut muihin yrityksesi käyttämiin työkaluihin**
 * **Hintaeroa ei ole, ostat sitten suoraan Googlelta tai jälleenmyyjältä.**
