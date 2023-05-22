@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /isv-sertifiointi-varmistaa-yhteensopivuuden
+path: /isv-sertifiointi-varmistaa-taukoamattoman-tietotyon
 date: 2023-05-19T11:28:30.397Z
 head:
   keywords: ISV, sertifiointi, Independent Software Vendor, sertifikaatti
