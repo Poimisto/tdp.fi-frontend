@@ -69,7 +69,7 @@ Lisenssien yksityiskohtaisista ominaisuuksista saat lisätietoja helpoiten kysym
 
 | ELEMENTS EPP                                     |  EPP + EED AND RESPONSE            | MOBILE PROTECTION     |    
 | ---------------------------------------------- | ----------------------------- | --------------------- |
-| Hinta: 4,41 €/kk                                  |   6,89 €/kk | 3,15 €/kk | 
+| 4,41 €/kk                                  |   6,89 €/kk | 3,15 €/kk | 
 
 
 ## Suomenkielinen tukipalvelu
