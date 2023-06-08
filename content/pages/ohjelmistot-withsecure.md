@@ -67,17 +67,10 @@ Tutustu WithSecure-lisenssiemme hinnastoon. Tarjoamme ensisijaisesti asiakkaidem
 
 Lisenssien yksityiskohtaisista ominaisuuksista saat lisätietoja helpoiten kysymällä meiltä suoraan - niitä on paljon!
 
-ELEMENTS EPP
+| ELEMENTS EPP                                     |  EPP + EED AND RESPONSE            | MOBILE PROTECTION     |    
+| ---------------------------------------------- | ----------------------------- | --------------------- |
+| Hinta: 4,41 €/kk                                  |   6,89 €/kk | 3,15 €/kk | 
 
-Hinta: 4,41 €/kk
-
-EPP + EED AND RESPONSE
-
-Hinta: 6,89 €/kk
-
-MOBILE PROTECTION
-
-Hinta: 3,15 €/kk
 
 ## Suomenkielinen tukipalvelu
 
