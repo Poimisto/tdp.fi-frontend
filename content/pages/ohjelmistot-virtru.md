@@ -11,7 +11,7 @@ contactForm: Ota yhteyttä
 ---
 ![Virtru tiedon salaukseen](/assets/ohjelmistot-tinified.jpg)
 
-# V﻿irtru
+# V﻿irtru – ohjelmisto sähköpostien salaukseen
 
 **Virtru on Googlen suosittelema erinomainen täsmäohjelmisto tiedon hallintaan, etenkin sähköpostien salaukselle.** 
 
@@ -35,7 +35,9 @@ Virtrulla voit salata luottamuksellisen sähköpostin helposti vain nappia paina
 
 ## Integroi Virtru Google Workspaceen
 
-Virtru voi toimia laajalla skaalalla kaikissa Workspacen työsovelluksissa. Salaa tällä luottamukselliset tietosi ja tiedostosi kaikissa näissä sovelluksissa: 
+**Virtru voi toimia laajalla skaalalla kaikissa Workspacen työsovelluksissa.** 
+
+Salaa tällä luottamukselliset tietosi ja tiedostosi kaikissa näissä sovelluksissa: 
 
 * **Gmail**
 * Drive
