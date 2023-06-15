@@ -47,13 +47,13 @@ Suomalaisen jälleenmyyjän tarjoama suomenkielinen, ripeä tukipalvelu varmista
 
 ### WithSecure™ Elements Endpoint Protection For Computers
 
-WithSecure EEP on pilvipohjainen ratkaisu, joka tekoälyn tehostamana suojaa usein  hyökkäyksen kohteeksi joutuvia päätelaitteita.
+**WithSecure EEP on pilvipohjainen ratkaisu, joka tekoälyn tehostamana suojaa usein  hyökkäyksen kohteeksi joutuvia päätelaitteita.**
 
 EEP tarjoaa tietokoneesi kaipaaman suojan niin tavallisessa verkkokäytössä kuin kiristyshaittaohjelmia ja muita hyökkäyksiä vastaan. Sopii sekä Windows-, Mac-, että Linux-työasemille.
 
 ### WithSecure™ Elements EEP + WithSecure™ Elements Endpoint Detection And Response
 
-WithSecure™ Elements Endpoint Detection and Response -tuote tarjoaa yrityksellesi paremman näkyvyyden siitä, mitä yrityksesi IT-ympäristössä tapahtuu. 
+**WithSecure™ Elements Endpoint Detection and Response -tuote tarjoaa yrityksellesi paremman näkyvyyden siitä, mitä yrityksesi IT-ympäristössä tapahtuu.** 
 
 Tällä tuotteella voit tunnistaa reaaliaikaisesti kyberhyökkäykset ja vastata niihin, ennen kuin ne aiheuttavat vahinkoa yrityksesi järjestelmille. Pakettiin kuuluvat niin haavoittuvuuksien hallinta, automaattiset korjauspäivitykset, dynaaminen uhkatiedustelu kuin jatkuva käyttäytymisanalyysi.
 
@@ -65,7 +65,9 @@ Tukee niin iOS-, iPadOS kuin Android 7.0-alustoja ja niitä uudempia.
 
 ## WithSecuren hinta
 
-Tutustu WithSecure-lisenssiemme hinnastoon. Tarjoamme ensisijaisesti asiakkaidemme suosimia kuukausilisenssejä, mutta vuosilisenssit ovat myös mahdollisia. 
+**Tutustu WithSecure-lisenssiemme hinnastoon.** 
+
+Tarjoamme ensisijaisesti asiakkaidemme suosimia kuukausilisenssejä, mutta vuosilisenssit ovat myös mahdollisia. 
 
 Lisenssien yksityiskohtaisista ominaisuuksista saat lisätietoja helpoiten kysymällä meiltä suoraan - niitä on paljon!
 
