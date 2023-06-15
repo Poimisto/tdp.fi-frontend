@@ -28,17 +28,17 @@ Yli 50 hengen ja sitä suuremmille yrityksille suunnattu **Nira on Workspaceen l
 Oletko tietoinen näistä konkreettisista ongelmista, joita organisaatiossasi on kenties jo nyt?
 
 * **Työntekijän lähtiessä hänen tilioikeutensa eivät pyyhkiydy**
-* **Ulkopuolisten tilioikeudet säilyvät ilman väliintuloa**
+* Ulkopuolisten tilioikeudet säilyvät ilman väliintuloa
 * **Julkiset linkit toimivat ilman väliintuloa**
-* **Hallintapulmiin puuttuminen myöhässä kasvattaa kustannuksia**
+* Hallintapulmiin puuttuminen myöhässä kasvattaa kustannuksia
 * **Kokonaisnäkemystä yrityksen sisäisen tiedon hallinnasta ei ole kenelläkään**
-* **Saapuvien tiedostojen luoma riski** 
+* Saapuvien tiedostojen luoma riski 
 
 Tiedon ja tiedostojen yhteiskäyttö on suuri mahdollisuus, jolla on kuitenkin oikeinkin käytettynä lieveilmiönsä. 
 
 Niralla suurikin PK-yritys tulppaa ne pienetkin tietoturva-aukot, joita syntyy vääjäämättä tiedon volyymikäytön myötä. Ja mikä tärkeintä, yritys näkee yhdestä paikasta kaikki työntekijöidensä käyttämät dokumentit.  
 
-## Nira pääsynhallinnan ratkaisuksi 
+## Nira pääsynhallinnan ratkaisuksi
 
 **Nira tarjoaa vaivattoman ohjelmallisen vaihtoehdon edellä kuvattujen ongelmien ratkaisemiseen.** 
 
