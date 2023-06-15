@@ -41,11 +41,11 @@ Dropboxissa maksat yhdestä tehokkaasta 3-in-1 työkalusta, jolla tallentaa tied
 
 Dropbox niputtaa toimivaksi kokonaisuudeksi sekä pilvisisällön, pikakuvakkeet että tavalliset tiedostot. Se myös integroituu hyvin muiden tunnettujen työsovellusten kanssa, kuten:
 
-* Zoom
+* **Zoom**
 * Slack
-* Adobe Creative Cloud
+* **Adobe Creative Cloud**
 * Salesforce
-* Gmail
+* **Gmail**
 
 ## Dropboxin hinta
 
