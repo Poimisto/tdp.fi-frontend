@@ -17,8 +17,10 @@ breadcrumb:
   - label: Microsoft 365
 ---
 ![Microsoft 365 - yritysten luotettu toimisto-ohjelmapaketti](/assets/365-tinified.jpg "Microsoft 365")
-# Microsoft 365
-**Microsoft 365 on yrityksille toimintavarma pilvipalvelu hyvällä käytettävyydellä, mikä mahdollistaa tehokkaan viestinnän ja yhteiskäytön.** Sen korkea tietoturvataso ja monet sovellukset tekevät työntekijöiden päivittäisestä viestinnästä helppoa ja turvallista. 
+# Microsoft 365 -työkalut yritysten arkeen
+**Microsoft 365 on yrityksille toimintavarma pilvipalvelu hyvällä käytettävyydellä, mikä mahdollistaa tehokkaan viestinnän ja yhteiskäytön.** 
+
+Sen korkea tietoturvataso ja monet sovellukset tekevät työntekijöiden päivittäisestä viestinnästä helppoa ja turvallista. 
 
 Nykyajan työnteon ideaalin mukaisesti Microsoft 365 mahdollistaa tehokkaan etätyön ajasta, paikasta ja laitteesta riippumatta. Viimeksi käytetyt tiedostot ja sähköpostit löytyvät helposti parilla klikkauksella eivätkä mittavatkaan projektit jää sovellusten ominaisuuksista kiinni.
 
