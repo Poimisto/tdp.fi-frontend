@@ -73,15 +73,15 @@ Keskitetty hallinta on valinta ennen kaikkea niille yrityksille, jotka eivät ha
 Keskitetty hallinta tarjoaa useita älykkäitä, konkreettisia etuja:
 
 * **Kertakirjautumisella yrityksen kaikki sovellukset käytettävissä**
-* **Monivaiheinen tunnistautuminen estää tietomurrot**
+* Monivaiheinen tunnistautuminen estää tietomurrot
 * **Työntekijän älykäs, nopea tunnistus yhdellä kosketuksella**
-* **Etätyössä käytettyjen laitteiden keskitetty hallinta**
+* Etätyössä käytettyjen laitteiden keskitetty hallinta
 * **Integroitavissa yli 700 sovellukseen, sisältäen kaikki yleisimmät
   yrityssovellukset kuten Google Workspace ja Microsoft 365**
-* **Uusille työntekijöille nopea IT-sisäänajo**
+* Uusille työntekijöille nopea IT-sisäänajo
 * **Lähtevien työntekijöiden tunnusten luotettava poistaminen**
 
-Tutustu aiheeseen lisää ja [lataa PDF keskitetystä hallinnasta](/keskitetty-hallinta-opas-pk-yritykselle). 
+Tutustu aiheeseen lisää ja [lataa PDF keskitetystä hallinnasta](/keskitetty-hallinta-opas-pk-yritykselle)
 
 - - -
 
