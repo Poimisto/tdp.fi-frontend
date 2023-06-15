@@ -11,7 +11,7 @@ head:
 ---
 ![](/assets/with-kuvitus.jpg)
 
-# **W﻿ithSecure**
+# W﻿ithSecure
 
 **WithSecure™ tarjoaa älykkäitä, reaaliaikaisia turvallisuusratkaisuja, jotka pitävät yrityksesi aina askeleen edellä uusimpia tietoturvauhkia.**
 
