@@ -10,7 +10,9 @@ head:
 contactForm: Ota yhteyttä
 ---
 ![Virtru tiedon salaukseen](/assets/ohjelmistot-tinified.jpg)
+
 # V﻿irtru
+
 **Virtru on Googlen suosittelema erinomainen täsmäohjelmisto tiedon hallintaan, etenkin sähköpostien salaukselle.** 
 
 Virtru integroituu luontevasti suosittuihin ohjelmistoihin kuten Google Workspaceen ja Microsoft 365:een, mikä tekee siitä järkevän lisätyökalun suuremmille PK-yrityksille tiedon hallintaan. 
@@ -19,15 +21,15 @@ Suuret yritykset kuten Netflix ja Tripadvisor luottavat Virtruun - luota sinäki
 
 ## Sähköpostien salaus
 
-Virtru on etenkin sähköpostien salaukseen edistynyt ratkaisu. Sillä voit:
+Virtru on erityisesti sähköpostien salaukseen tehokas ratkaisu. Sillä voit: 
 
-* Salata sähköpostit ja liitetiedostot suoraan Gmailissa ja Outlookissa
+* **Salata sähköpostit ja liitetiedostot suoraan Gmailissa ja Outlookissa**
 * Hallita pääsyjä voimassaolopäivillä ja edelleenlähetyksen kiellolla
-* Peruuttaa lähetetyt viestit välittömästi
+* **Peruuttaa lähetetyt viestit välittömästi**
 * Hallita jaettuja tiedostoja aina huolimatta niiden varastointipaikasta
-* Seurata, kuka ja milloin on lukenut sähköpostejasi ja liitetiedostojasi
+* **Seurata, kuka ja milloin on lukenut sähköpostejasi ja liitetiedostojasi**
 * Hallita mobiililaitteilla aivan samoin kuin pöytäkoneella
-* Sinun ei tarvitse käyttää aikaa salaamiseen. 
+* **Sinun ei tarvitse käyttää aikaa salaamiseen.** 
 
 Virtrulla voit salata luottamuksellisen sähköpostin helposti vain nappia painamalla ja prosessi etenee sillä maaliin.
 
@@ -35,19 +37,21 @@ Virtrulla voit salata luottamuksellisen sähköpostin helposti vain nappia paina
 
 Virtru voi toimia laajalla skaalalla kaikissa Workspacen työsovelluksissa. Salaa tällä luottamukselliset tietosi ja tiedostosi kaikissa näissä sovelluksissa: 
 
-* Gmail
+* **Gmail**
 * Drive
-* Meet
+* **Meet**
 * Docs
-* Sheet 
+* **Sheet** 
 * Slides
-* Ja monet muut
+* **Ja monet muut**
 
 **Virtrulla** voit ulottaa Zero Trust -periaatteen kaikkien sovellusten käyttöön ja varmistua, että **vain haluamasi henkilö näkee haluamasi sisällön.**
 
 ## Hallitse Google Drive täysin
 
-Googlen oman korkean tietoturvan päälle Virtru tarjoaa hyödyllisen lisän. Voit salata eri tiedostomuodot jo lataamisesta lähtien, ovat ne sitten Googlen tai Microsoftin tiedostoja, PDFiä, videoita tai muita. Lisäksi voit tehdä kansioista automaattisesti kaiken sisällön salaavia.
+**Googlen oman korkean tietoturvan päälle Virtru tarjoaa hyödyllisen lisän.** 
+
+Voit salata eri tiedostomuodot jo lataamisesta lähtien, ovat ne sitten Googlen tai Microsoftin tiedostoja, PDFiä, videoita tai muita. Lisäksi voit tehdä kansioista automaattisesti kaiken sisällön salaavia.
 
 ## Virtrun hinta
 
