@@ -15,10 +15,12 @@ breadcrumb:
   - path: /ohjelmistot
     label: ohjelmistot
   - label: Dropbox
-thumbnail: /assets/dropbox-1280x800.jpg
+thumbnail: /assets/dropbox-netlify-1280-x-800.jpg
 ---
-![Dropbox - pilvipohjainen tiedostonjakopalvelu](/assets/dropbox-1280x800.jpg)
+![Dropbox tallennustila jälleenmyyjältä | TDP.](/assets/dropbox-netlify-1280-x-800.jpg)
+
 # Dropbox – tallennuspalvelu yrityksille
+
 **Dropbox Business on järkivalinta, kun yrityksesi tarvitsee selkeän tiedostonjakopalvelun pilvessä.** 
 
 Dropbox on luotettava, helppokäyttöinen pilviratkaisu,  jolla et maksa totuttua ylimääräistä ominaisuuksista, joita et käytä.  
