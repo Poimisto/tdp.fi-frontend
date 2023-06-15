@@ -17,7 +17,7 @@ breadcrumb:
   - label: Google Workspace
 ---
 ![Google Workspace](/assets/workspace-tinified.jpg "Google Workspace")
-# Google Workspace
+# Google Workspace -liiketoimintasovellus yrityksille
 **Google Workspace on monipuolinen digitaalinen työympäristö, joka sujuvoittaa yrityksesi liiketoimintaa.** 
 
 Hanki alan johtava toimisto-ohjelmistopaketti Google Workspace arjen töihin sen sijaan, että käyttäisit useaa eri ohjelmistoa. 
