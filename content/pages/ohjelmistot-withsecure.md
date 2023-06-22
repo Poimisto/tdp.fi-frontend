@@ -9,7 +9,7 @@ head:
     yrityksille, jotka haluavat taata tietojensa ja verkkojensa turvallisuuden
     parhaimmalla teknologialla.
 ---
-![](/assets/withsecure-netlify-1280-x-800.jpg)
+![WithSecure - yritysten tietoturvan maksimointiin.](/assets/withsecure-netlify-1280-x-800.jpg)
 
 # W﻿ithSecure – yritysten tietoturvan maksimointiin
 
