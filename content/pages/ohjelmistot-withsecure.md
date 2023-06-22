@@ -1,6 +1,6 @@
 ---
 path: /ohjelmistot/withsecure
-thumbnail: /assets/with-kuvitus.jpg
+thumbnail: /assets/withsecure-netlify-1280-x-800.jpg
 date: 2023-06-08T12:35:41.133Z
 head:
   title: WithSecure | Yritysten tietoturva
@@ -9,7 +9,7 @@ head:
     yrityksille, jotka haluavat taata tietojensa ja verkkojensa turvallisuuden
     parhaimmalla teknologialla.
 ---
-![](/assets/with-kuvitus.jpg)
+![](/assets/withsecure-netlify-1280-x-800.jpg)
 
 # W﻿ithSecure – yritysten tietoturvan maksimointiin
 
