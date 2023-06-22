@@ -83,8 +83,8 @@ Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelm
 
 - - -
 
-**TDP on tietoturvan vankka puolestapuhuja ja autamme yrityksiä asiantuntevasti siirtymävaiheessa nykyisistä ratkaisuista WithSecuren käyttöönottoon.**
+**TDP on WithSecuren jälleenmyyjä ja korkean tietoturvan vankka puolestapuhuja. Autamme yrityksiä asiantuntevasti siirtymävaiheessa nykyisistä ratkaisuista WithSecuren käyttöönottoon.** 
 
-Asiakasyritystemme kokemukset WithSecuresta ovat olleet kautta linjan myönteiset ja tiedämme hyvin toimivan tietoturvan itsessään lisäävän työhyvinvointia.
+Asiakasyritystemme kokemukset WithSecuresta ovat olleet kautta linjan myönteiset ja tiedämme hyvin toimivan tietoturvan itsessään lisäävän työntekijöiden työhyvinvointia.
 
 *Ota siis yhteyttä asiantuntijaamme ja rakennetaan yhdessä yrityksellesi tietoturva, joka muillakin jo on!*
