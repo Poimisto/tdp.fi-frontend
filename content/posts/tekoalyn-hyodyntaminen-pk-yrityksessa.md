@@ -27,7 +27,7 @@ GPT onnistuu tuottamaan luonnollista suomea yllättävän hyvin. GPT esimerkiksi
 
 Laadullisesti GPT on kuitenkin enemmän oppilas kuin mestari. Se tarvitsee ihmiseltä tarkat työohjeet ja yleensäkin useamman ohjekierroksen, ennen kuin tuotettu teksti yltää tavoitteisiinsa. Muuten teksti jää kovin yleisluontoiseksi, jättäen ihmiselle pakollisen työn hienosäätää se lopulliseen asuunsa.
 
-Opimme TDP:ssä nopeasti myös sen, että vaikka GPT tietää yleisesti paljon IT-alasta, siltä puuttuu syvällinen, yksityiskohtainen tieto määrätystä osa-alueesta. Viimeisen puolen vuoden kokeilun perusteella voimme rehellisesti kehua TDP:n henkilökunnalla olevan selvästi enemmän tietotaitoa mistä tahansa IT-ilmiöstä kuin tekoälyllä.\
+Opimme TDP:ssä nopeasti myös sen, että vaikka GPT tietää yleisesti paljon IT-alasta, siltä puuttuu syvällinen, yksityiskohtainen tieto määrätystä osa-alueesta. Viimeisen puolen vuoden kokeilun perusteella voimme rehellisesti kehua TDP:n henkilökunnalla olevan selvästi enemmän tietotaitoa mistä tahansa IT-ilmiöstä kuin tekoälyllä.
 
 ChatGPT on mielestämme tekoälysovelluksena arvokas lisäresurssi, joka ei korvaa yksin työntekijän omaa tietopääomaa, mutta antaa koko yrityksen tasolla taattua lisäarvoa. 
 
