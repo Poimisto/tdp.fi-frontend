@@ -1,8 +1,11 @@
 ---
 path: /tietokone-leasing-esimerkkipaketit
 head:
-    title: Tietokone-leasing - Esimerkkipaketit - TDP
-    keywords: leasing-paketit, esimerkkipaketit, tietokone-leasing
+  title: Tietokone-leasing - Esimerkkipaketit - TDP
+  keywords: leasing-paketit, esimerkkipaketit, tietokone-leasing
+  description: TDP tarjoaa monimerkkitalona tietokoneet ja kannettavat juuri
+    yrityksesi kaipaamilla laitemerkeillä ja räätälöidyillä
+    komponenttiratkaisuilla muun muassa näytönohjaimien osalta.
 breadcrumb:
   - path: /
     label: TDP
@@ -11,16 +14,27 @@ breadcrumb:
   - label: Tietokone-leasing
     path: /tietokone-leasing
   - label: Esimerkkipaketit
+date: 2023-06-29T07:50:19.123Z
 contactForm: Ota yhteyttä
 ---
+# Leasing-konepaketteja tyytyväisille asiakkaille
 
-# Näitä leasing-konepaketteja olemme toimittaneet tyytyväisille asiakkaille
+Alla näet esimerkkejä suosittelemistamme yrityskäyttöön soveltuvista konepaketeista hintoineen. Leasingsopimukseen voidaan lisäksi liittää räätälöidysti kaikki tarvitsemanne tietotekniikka.
 
-Alla olevat paketit ovat esimerkkejä suosittelemistamme yrityskäyttöön soveltuvista konepaketeista ja hinta on ilmoitettu yhden konepaketin osalta. Leasingsopimukseen voidaan lisäksi liittää kaikki tarvitsemanne tietotekniikka.
+## TDP:stä kaikki laitemerkit yrityskäyttöön
 
-Leasingsopimukseen kuuluvat tietokoneet ja muun tietotekniikan voitte hankkia 1-5 vuoden sopimusajalla. Suosittelemme yleensä 3 vuoden sopimusaikaa, sillä tällöin laitteistoon sisältyy koko sopimusajan kattava takuu.
+Leasingsopimukseen kuuluvat tietokoneet ja muun tietotekniikan voitte hankkia 1-5 vuoden sopimusajalla. Löydätte hyllystämme löydät kaikki yrityksille soveltuvat laitemerkit:
 
-Jätä yhteydenottopyyntö, niin teemme edullisen tarjouksen yrityksenne IT-laitteista. 	
+* D﻿ell
+* A﻿pple
+* Lenovo
+* HP
+* Fujitsu
+
+## Huomioi laitetakuu
+
+Suosittelemme 3 vuoden sopimusaikaa, jolloin laitteistoon sisältyy koko sopimusajan kattava takuu. T﻿arjoamme yrityksille vain järkevällä takuulla varustettuja laitteita, jotka varmasti kestävät vaativan yrityskäytön.
+
+O﻿ta yhteyttä, niin kerromme lisää, miksi kuluttajakäyttöön suunniteltuja laitteita ei kannata hankkia omaan yritykseesi!
 
 <ListOfLeasingPackages />
-
