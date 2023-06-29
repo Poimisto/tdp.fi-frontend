@@ -19,11 +19,11 @@ contactForm: Ota yhteyttä
 ---
 # Leasing-konepaketteja tyytyväisille asiakkaille
 
-Alla näet esimerkkejä suosittelemistamme yrityskäyttöön soveltuvista konepaketeista hintoineen. Leasingsopimukseen voidaan lisäksi liittää räätälöidysti kaikki tarvitsemanne tietotekniikka.
+Alla näet esimerkkejä suosittelemistamme yrityskäyttöön soveltuvista konepaketeista hintoineen. Leasing-sopimukseen voidaan lisäksi liittää räätälöidysti kaikki tarvittava tietotekniikka.
 
 ## TDP:stä kaikki laitemerkit yrityskäyttöön
 
-Leasingsopimukseen kuuluvat tietokoneet ja muun tietotekniikan voitte hankkia 1-5 vuoden sopimusajalla. Löydätte hyllystämme löydät kaikki yrityksille soveltuvat laitemerkit:
+Leasing-sopimukseen kuuluvat tietokoneet ja muun tietotekniikan voit hankkia 1-5 vuoden sopimusajalla. Löydät hyllystämme kaikki yrityksille parhaiten soveltuvat laitemerkit:
 
 * D﻿ell
 * A﻿pple
