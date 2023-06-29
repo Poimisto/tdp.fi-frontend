@@ -35,6 +35,7 @@ Leasing-sopimukseen kuuluvat tietokoneet ja muun tietotekniikan voit hankkia 1-5
 
 Suosittelemme 3 vuoden sopimusaikaa, jolloin laitteistoon sisältyy koko sopimusajan kattava takuu. T﻿arjoamme yrityksille vain järkevällä takuulla varustettuja laitteita, jotka varmasti kestävät vaativan yrityskäytön.
 
-O﻿ta yhteyttä, niin kerromme lisää, miksi kuluttajakäyttöön suunniteltuja laitteita ei kannata hankkia omaan yritykseesi!
+O﻿ta yhteyttä, niin kerromme, miksi kuluttajakäyttöön suunniteltuja laitteita ei kannata hankkia omaan yritykseesi ja annamme viimeisimmän tarjouksemme!
+
 
 <ListOfLeasingPackages />
