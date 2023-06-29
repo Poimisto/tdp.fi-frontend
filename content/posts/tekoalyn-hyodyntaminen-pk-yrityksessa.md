@@ -51,7 +51,7 @@ Huolimatta melko runsaasta ihmistyön määrästä videon tekeminen osoittautui 
 
 TDP:ssä Airtable on otettu käyttöön työnhallinta-alustana ja ensikokemukset sen toimivuudesta arjessamme ovat olleet rohkaisevia. ChatGPT on tässäkin tuonut tehokkuutta uuden työkalumme käyttöön, kun olemme voineet hyödyntää sitä Airtableen käytettävien kaavojen ja skriptien kirjoittamiseen ja niiden tarkistamiseen.
 
-Jahka opimme antamaan tarpeeksi täsmällisiä ohjeita, ChatGPT esimerkiksi kirjoitti meille toiminnon, joka suoritti sarjanumeroon pohjautuvan kaksoiskappalevarmennuksen ennen tuotteiden lisäämistä tuoterekisteriimme vain viidessä minuutissa!
+Jahka opimme antamaan tarpeeksi täsmällisiä ohjeita, ChatGPT kirjoitti meille esimerkiksi toiminnon, joka suoritti sarjanumeroon pohjautuvan kaksoiskappalevarmennuksen ennen tuotteiden lisäämistä tuoterekisteriimme vain viidessä minuutissa!
 
 Tämäntyyliset suoritteet ovat olleet meille valtavan arvokkaita: kustannus ja työmäärä on täysin olematon verrattuna siihen, millainen vaiva meille olisi koitunut juuri tämän alueen ammattilaisen etsimisestä ja toiveiden ymmärrettävästä ohjeistamisesta toiselle ihmiselle.
 
