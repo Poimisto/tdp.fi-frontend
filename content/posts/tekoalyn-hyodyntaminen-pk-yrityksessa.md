@@ -33,7 +33,7 @@ ChatGPT on mielestämme tekoälysovelluksena arvokas lisäresurssi, joka ei korv
 
 ## Koulutusvideon toteutus tekoälyllä
 
-**Jos olette yrityksessänne miettineet, onko hyvän koulutusvideon tuottaminen kustannustehokkaasti mahdollista, vastaamme sen olevan kyllä - tekoälyn avulla.Meillä oli TDP:ssä tehtävänä toteuttaa asiakasyrityksellemme koulutus, jossa noin 20 kpl 10 hengen pienryhmiä saisivat kaikki saman, yhteisesti omaksuttavan ohjeistuksen yrityksensä tietoturvasta.** 
+**Jos olette yrityksessänne miettineet, onko hyvän koulutusvideon tuottaminen kustannustehokkaasti mahdollista, vastaamme sen olevan kyllä - tekoälyn avulla. Meillä oli TDP:ssä tehtävänä toteuttaa asiakasyrityksellemme koulutus, jossa noin 20 kpl 10 hengen pienryhmiä saisivat kaikki saman, yhteisesti omaksuttavan ohjeistuksen yrityksensä tietoturvasta.** 
 
 Toisin sanoen kaipasimme vankan, asiantuntevan sisältörungon muotoon, jossa videosta tulisi viestinnällisesti tehokas ja kiinnostava. Tämä kaikki vielä asiakkaan hyväksymällä hinnalla eli kustannustehokkaasti.
 
