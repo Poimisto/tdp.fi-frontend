@@ -1,6 +1,6 @@
 ---
-path: /leasing-paketit/MacBook Pro
-thumbnail: /assets/dell_7440.jpg
+path: /leasing-paketit/MacBook-Pro
+thumbnail: /assets/macbook_16.webp
 date: 2023-07-26T08:41:17.622Z
 head:
   title: Apple MacBook Pro. Ammattilaisen tehot aina mukanasi.
@@ -21,7 +21,7 @@ breadcrumb:
     path: /tietokone-leasing-esimerkkipaketit
   - label: Ultrabook
 ---
-# Telakoitava Ultrabook tyylikästä laatua arvostavalle ammattilaiselle
+# Tehokas MacBook Pro design-tietoiselle asiantuntijalle.
 
 Kevyt ja kestävä MacBook Pro on suunniteltu vastaamaan vaativimpienkin käyttäjien tarpeisiin. Tehokas prosessori, alumiinirunko, Retina-näyttö, nopea SSD-tallennus, Thunderbolt-liitännät takaavat sujuvan ja miellyttävän käyttökokemuksen.
 
