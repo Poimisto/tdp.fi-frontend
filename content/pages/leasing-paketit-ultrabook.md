@@ -25,7 +25,7 @@ breadcrumb:
 
 Tämä huippukevyt ja kestävä kokoonpano on suunniteltu täyttämään vaativammankin käyttäjän tarpeet. Tehokas prosessori, metallirunko, FullHD-näyttö, SSD-levy, sekä langaton telakointi ja sisäänrakennettu modeemi takaavat miellyttävän käyttökokemuksen.
 
-Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, niin katso <a href="/leasing-paketit/laatukone">laatukone-pakettimme</a> hieman tehokkaampaan työskentelyyn
+Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, niin katso <a href="/leasing-paketit/tehokannettava">tehokannettava-pakettimme</a> hieman tehokkaampaan työskentelyyn
 
 | Konepakettien hinta         | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
 | --------------------------- | --------------------- | --------------------- | ----------------- |
