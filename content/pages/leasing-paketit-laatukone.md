@@ -1,6 +1,6 @@
 ---
 path: /leasing-paketit/laatukone
-thumbnail: /assets/dell_3630_250x296.jpg
+thumbnail: /assets/dell_p3660_sivu.jpg
 date: 2022-02-22T06:42:57.663Z
 head:
   title: Edullista laatua kuvankäsittelyyn tai suunnitteluun
@@ -28,15 +28,15 @@ Tämä leasingpaketti on suunniteltu vastaamaan tarpeitasi, jos tarvitset edulli
 
 Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, niin katso <a href="leasing-paketit/tehokone">tehokone ammattimaiseen kuvankäsittelyyn, suunnitteluun ja mallinnukseen.</a>
 
-| Konepakettien hinta                                                            | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
-| ------------------------------------------------------------------------------ | --------------------- | --------------------- | ----------------- |
-| Precision 3660 NVIDIA T600 näytönohjaimella                                    | 80,87 €/kk            | 53,52 €/kk            | 1750,00 €         |
-| Dell 27" Ultrasharp U2722D näyttö                                              | 20,57 €/kk            | 13,61 €/kk            | 445,00 €          |
-| NVIDIA RTX A2000 näytönohjaimella ja yhdellä 27" Ultrasharp näytöllä           | 115,11€/kk            | 76,17€/kk             | 2491,00 €         |
+| Konepakettien hinta                                                  | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
+| -------------------------------------------------------------------- | --------------------- | --------------------- | ----------------- |
+| Precision 3660 NVIDIA A2000 näytönohjaimella                         | 89,13 €/kk            | 60,16 €/kk            | 1880,00 €         |
+| Dell 27" Ultrasharp U2722D näyttö                                    | 20,57 €/kk            | 13,61 €/kk            | 445,00 €          |
+| NVIDIA RTX A2000 näytönohjaimella ja yhdellä 27" Ultrasharp näytöllä | 110,23€/kk            | 74,40€/kk             | 2325,00 €         |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
 * Sisältää esiasennuksen ja toimituksen
 * Paketti voidaan räätälöidä vastaamaan teidän tarpeitanne
 
-<Cards cardsPerRow="2" cards='[{"bgColor":"lightest","title":"Dell Precision 3660","linkBgColor":"darkest","image":"/assets/dell_pmini_3650_2.jpg","content":"Tehokkaalla suorittimella ja erinomaisella grafiikkateholla varustettu pitkän elinkaaren kone kuvankäsittelyyn, suunnitteluun ja muotoiluun.\n\nErittäin hiljainen ja helposti laajennettavissa usean näytön kokoonpanoihin.\n\n* Intel Core i7 12-ydinprosessori\n* Windows 10 tai 11 Professional 64 bit\n* Integoitu Intel UHD 770-näytönohjain\n* NVIDIA T600-näytönohjain. Jopa NVIDIA RTX A6000 optiona\n* 16 Gt muistia, 512GB M.2 NVMe SSD kiintolevy, 5 x USB (2.0, 3.2 Gen 1 ja Gen 2), 4 x USB-C (gen 2, 2x2), 2 x DP\n* Integroitu muistikortinlukija / Optinen asema DVD+/-RW\n* 3 vuoden onsite-huolto ja Tekninen tuki – puhelinneuvonta – 1 vuosi"},{"bgColor":"lightest","title":"Dell 27\" Ultrasharp U2722D QHD/16:9/IPS/HAS/PIVOT/MST","linkBgColor":"darkest","content":"Dell Ultrasharp U2722D vastaa vaativan-käyttäjän tarpeisiin QHD-tarkkuudella ja kattavilla ominaisuuksillaan\n\nLED-taustavalaistussa 27” IPS laajakuvanäytössä on huipputarkka kuva ja alhainen virrankulutus. Monipuolisesti säädettävä PIVOT jalusta ja korkeudensäätö","image":"/assets/dell_dell-u2722d_int_1.jpg"}]' />
+<Cards cardsPerRow="2" cards='[{"bgColor":"lightest","title":"Dell Precision 3660","linkBgColor":"darkest","image":"/assets/dell_p3660_sivu.jpg","content":"Tehokkaalla suorittimella ja erinomaisella grafiikkateholla varustettu pitkän elinkaaren kone kuvankäsittelyyn, suunnitteluun ja muotoiluun.\n\nErittäin hiljainen ja helposti laajennettavissa usean näytön kokoonpanoihin.\n\n* Intel Core i7 16-ydinprosessori\n* Windows 10 tai 11 Professional 64 bit\n* Integoitu Intel UHD 770-näytönohjain\n* NVIDIA A2000-näytönohjain. Jopa NVIDIA RTX A6000 optiona\n* 16 Gt muistia, 512GB M.2 NVMe SSD kiintolevy, 5 x USB (2.0, 3.2 Gen 1 ja Gen 2), 4 x USB-C (gen 2, 2x2), 2 x DP\n* Integroitu muistikortinlukija / Optinen asema DVD+/-RW\n* 3 vuoden onsite-huolto ja Tekninen tuki – puhelinneuvonta – 1 vuosi"},{"bgColor":"lightest","title":"Dell 27\" Ultrasharp U2722D QHD/16:9/IPS/HAS/PIVOT/MST","linkBgColor":"darkest","content":"Dell Ultrasharp U2722D vastaa vaativan-käyttäjän tarpeisiin QHD-tarkkuudella ja kattavilla ominaisuuksillaan\n\nLED-taustavalaistussa 27” IPS laajakuvanäytössä on huipputarkka kuva ja alhainen virrankulutus. Monipuolisesti säädettävä PIVOT jalusta ja korkeudensäätö","image":"/assets/dell_dell-u2722d_int_1.jpg"}]' />
