@@ -6,8 +6,8 @@ head:
   title: Apple MacBook Pro. Ammattilaisen tehot aina mukanasi.
   description: Kevyt ja kestävä MacBook Pro on suunniteltu vastaamaan
     vaativimpienkin käyttäjien tarpeisiin. Tehokas prosessori, alumiinirunko,
-    Retina-näyttö, nopea SSD-tallennus, Thunderbolt-liitännät takaavat sujuvan
-    ja miellyttävän käyttökokemuksen.
+    Retina-näyttö, nopea SSD-tallennus sekä Thunderbolt-liitännät takaavat
+    sujuvan ja miellyttävän käyttökokemuksen.
   keywords: Ultrabook, Macbook Pro
 contactForm: Ota yhteyttä
 breadcrumb:
