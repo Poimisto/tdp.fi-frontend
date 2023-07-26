@@ -28,7 +28,7 @@ Oletko 3D-mallinnuksen, kuvankäsittelyn tai konetehoja vaativan suunnittelun am
 
 | Konepakettien hinta                                    | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
 | ------------------------------------------------------ | --------------------- | --------------------- | ----------------- |
-| DELL Precision P3660 NVIDIA RTX A2000 näytönohjaimella | 111,65 €/kk           | 75,36€/kk             | 2355,00 €         |
+| DELL Precision P3660 NVIDIA RTX A2000 näytönohjaimella | 116,39 €/kk           | 78,56€/kk             | 2455,00 €         |
 | DELL 30" U3023E-näyttö                                 | 32,94 €/kk            | 21,80 €/kk            | 689,00 €          |
 | NVIDIA RTX A5500-näytönohjain                          | 208,07 €/kk           | 141,05 €/kk           | 4495,00  €        |
 
