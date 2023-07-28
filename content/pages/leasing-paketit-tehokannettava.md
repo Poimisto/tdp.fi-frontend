@@ -27,9 +27,9 @@ Vaativalle ja liikkuvalle käyttäjälle suunnattu tehokannettava, josta suoritu
 
 | Konepakettien hinta                | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
 | ---------------------------------- | --------------------- | --------------------- | ----------------- |
-| Dell 7680 -tehokannettava          | 155,77 €/kk           | 105,28 €              | 3355,00 €         |
+| Dell 7680 -tehokannettava          | 162,51 €/kk           | 109,83 €              | 3495,00 €         |
 | Dell WD19DCS Performance Dock 240W | 17,27 €/kk            | 11,43 €               | 349,00 €          |
-| Dell 30" UltraSharp U3023E näyttö  | 32,94 €/kk            | 21,80 €               | 688,00 €          |
+| Dell 30" UltraSharp U3023E näyttö  | 29,87 €/kk            | 20,16 €               | 618,00 €          |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
