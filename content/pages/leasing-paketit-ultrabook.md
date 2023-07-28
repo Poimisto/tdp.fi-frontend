@@ -30,7 +30,7 @@ Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, 
 | Konepakettien hinta         | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
 | --------------------------- | --------------------- | --------------------- | ----------------- |
 | DELL Latitude 7440          | 73,96 €/kk            | 49,92 €/kk            | 1560,00 €         |
-| DELL 27 PRO P2722HE -näyttö | 14,55 €/kk            | 9,63 €/kk             | 315,00€           |
+| DELL 27 PRO P2722HE -näyttö | 12,55 €/kk            | 7,93 €/kk             | 228,00€           |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
