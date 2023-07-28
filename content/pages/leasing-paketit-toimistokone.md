@@ -28,9 +28,9 @@ Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, 
 
 | Konepakettien hinta        | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
 | -------------------------- | --------------------- | --------------------- | ----------------- |
-| DELL OptiPlex MFF          | 33,19 €/kk            | 33,19 €/kk            | 700,00 €          |
-| DELL 24" PRO P2422H näyttö | 9,48 €/kk             | 6,27 €/kk             | 205,00 €          |
-| DELL 27" PRO P2722H näyttö | 14,42 €/kk            | 9,54 €/kk             | 312,00 €          |
+| DELL OptiPlex MFF          | 41,72 €/kk            | 28,16 €/kk            | 879,00 €          |
+| DELL 24" PRO P2422H näyttö | 8,18 €/kk             | 5,47 €/kk             | 164,00 €          |
+| DELL 27" PRO P2722H näyttö | 8,82 €/kk             | 6,04 €/kk             | 179,00 €          |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
