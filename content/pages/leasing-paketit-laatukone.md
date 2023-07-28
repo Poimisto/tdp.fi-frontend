@@ -30,8 +30,8 @@ Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, 
 
 | Konepakettien hinta                                                  | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
 | -------------------------------------------------------------------- | --------------------- | --------------------- | ----------------- |
-| Precision 3660 NVIDIA A2000 näytönohjaimella                         | 89,13 €/kk            | 60,16 €/kk            | 1880,00 €         |
-| Dell 27" Ultrasharp U2722D näyttö                                    | 20,57 €/kk            | 13,61 €/kk            | 445,00 €          |
+| Precision 3660 NVIDIA T1000 näytönohjaimella                         | 94,82 €/kk            | 64,00 €/kk            | 1968,00 €         |
+| Dell 27" Ultrasharp U2722D näyttö                                    | 16,77 €/kk            | 11,21 €/kk            | 329,00 €          |
 | NVIDIA RTX A2000 näytönohjaimella ja yhdellä 27" Ultrasharp näytöllä | 110,23€/kk            | 74,40€/kk             | 2325,00 €         |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
