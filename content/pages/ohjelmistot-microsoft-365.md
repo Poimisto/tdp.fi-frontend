@@ -17,7 +17,9 @@ breadcrumb:
   - label: Microsoft 365
 ---
 ![Microsoft 365 - yritysten luotettu toimisto-ohjelmapaketti](/assets/365-tinified.jpg "Microsoft 365")
+
 # Microsoft 365 -työkalut yritysten arkeen
+
 **Microsoft 365 on yrityksille toimintavarma pilvipalvelu hyvällä käytettävyydellä, mikä mahdollistaa tehokkaan viestinnän ja yhteiskäytön.** 
 
 Sen korkea tietoturvataso ja monet sovellukset tekevät työntekijöiden päivittäisestä viestinnästä helppoa ja turvallista. 
@@ -32,12 +34,12 @@ IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti k
 
 | Ominaisuus                                                   | BUSINESS BASIC | APPS FOR BUSINESS | BUSINESS STANDARD | BUSINESS PREMIUM |
 | ------------------------------------------------------------ | -------------- | ----------------- | ----------------- | ---------------- |
-| Sähköposti omalla domainilla                                 | ✔              | ✔                 | ✔                 | ✔                |
+| Sähköposti omalla domainilla                                 | ✔              |                   | ✔                 | ✔                |
 | Office*, verkko- ja mobiiliversiot                           | ✔              | ✔                 | ✔                 | ✔                |
 | Office*-työpöytäversiot                                      |                | ✔                 | ✔                 | ✔                |
 | Office* premium-ominaisuudet                                 |                |                   | ✔                 | ✔                |
-| Videopuhelut Teamsilla                                       | ✔              | ✔                 | ✔                 | ✔                |
-| Kalenteri                                                    | ✔              | ✔                 | ✔                 | ✔                |
+| Videopuhelut Teamsilla                                       | ✔              |                   | ✔                 | ✔                |
+| Kalenteri                                                    | ✔              |                   | ✔                 | ✔                |
 | 1 Tt tallennustilaa tiedostojen jakamiseen ja tallentamiseen | ✔              | ✔                 | ✔                 | ✔                |
 | Webinaarien isännöinti ja raportointityökalut                |                |                   | ✔                 | ✔                |
 | Käyttöoikeuksien ja -tietojen hallinta                       |                |                   |                   | ✔                |
