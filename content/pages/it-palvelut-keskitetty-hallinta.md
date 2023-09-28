@@ -1,9 +1,11 @@
 ---
 path: /it-palvelut/keskitetty-hallinta
+thumbnail: /assets/tdp-keskitetty-hallinta.png
 head:
-    title: Yrityksen IT-laitteiston keskitetty hallinta - TDP
-    description: 
-    keywords: tietokoneiden keskitetty hallinta, IT käyttäjähallinta, sovelluspäivitykset
+  title: Yrityksen IT-laitteiston keskitetty hallinta - TDP
+  description: "Keskitetty hallinta mahdollistaa kustannussäästöt sekä
+    laitehankinnoissa että työajassa. "
+  keywords: tietokoneiden keskitetty hallinta, IT käyttäjähallinta, sovelluspäivitykset
 contactForm: Ota yhteyttä
 breadcrumb:
   - path: /
@@ -11,7 +13,9 @@ breadcrumb:
   - path: /it-palvelut/
     label: IT-palvelut
   - label: Keskitetty hallinta
+date: 2023-09-28T07:26:43.466Z
 ---
+![](/assets/tdp-keskitetty-hallinta.png)
 
 # Keskitetty hallinta tarjoaa välineet hallita suurenkin organisaation laitekantaa
 
@@ -28,4 +32,3 @@ Kun laitteet ovat osa keskitettyä käyttäjähallintaa, käyttäjätason tiedot
 ### Sovelluspäivitykset ja tietoturvapäivitykset
 
 Kun työntekijöiden käytössä olevat laitteet ovat osa keskitettyä hallintaa, laitteisiin voidaan keskitetysti ajaa päivityksiä ja asettaa määritelty tietoturvan taso. <a href="/it-palvelut/tietoturva">Tietoturvaan</a> liittyy esimerkiksi ohjelmiston päivitykset, laitteelle tallennettavien tietojen salaus tai tunnistautumistapojen määritys.
-
