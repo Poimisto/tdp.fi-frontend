@@ -2,7 +2,7 @@
 path: /it-palvelut/tietoturva
 thumbnail: /assets/tdp-tietoturva.png
 head:
-  title: Yrityksen tietoturva - TDP
+  title: Yrityksen tietoturva
   description: Yritystoimintojen digitalisoituminen vaatii myös panostamista
     yritysten tietoturvaan.
   keywords: tietoturva, virustorjunta, verkkoliikenteen suojaus, palomuurit,
