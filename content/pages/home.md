@@ -77,7 +77,7 @@ Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen 
 
 Lue tyytyväisten asiakkaidemme kokemuksista ja liity heidän joukkoonsa!
 
-<CallToAction bgColor="brand" url="/referenssit" align="center">Lue asiakaskokemuksista</CallToAction>
+<CallToAction bgColor="dark" url="/referenssit" align="center">Lue asiakaskokemuksista</CallToAction>
 
 </div>
 
