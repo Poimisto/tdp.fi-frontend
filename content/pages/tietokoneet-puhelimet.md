@@ -20,9 +20,9 @@ contactForm: Ota yhteyttä
 
 # Työntekijöiden työkoneet ja puhelimet
 
-TDP toimittaa kaikkien suurimpien valmistajien laitteita sekä ohjelmistoja. Palvelemme laitetoimituksissa myös pieniä yrityksiä ja yksityisyrittäjiä.
+TDP toimittaa kaikkien suurimpien valmistajien laitteita sekä ohjelmistoja. Olemme ripeä laitetoimittaja isoille PK-yrityksille, mutta palvelemme myös pieniä yrityksiä ja yksityisyrittäjiä. 
 
-Kauttamme saatte Windows-, Linux- ja Mac-työasemat sekä puhelimet. Laitteisiin voidaan esiasentaa myös yrityksen omia ohjelmistoja ja määrityksiä, jolloin ne toimitetaan käyttövalmiina.
+Kauttamme saatte Windows-, Linux- ja Mac-työasemat sekä puhelimet toivotulla hintatasolla. Laitteisiin voidaan esiasentaa myös yrityksen omia ohjelmistoja ja määrityksiä, jolloin ne toimitetaan käyttövalmiina.
 
 ## Muista laitteiden tukipalvelut
 Kun työntekijöitä on enemmän, yrityksen tietokoneet ja puhelimet on hyvä liittää osaksi <a href="/it-palvelut/keskitetty-hallinta">keskitettyä hallintaa</a>. Se tekee laitteiden käytöstä tehokkaampaa ja yrityksen tiedot pysyvät paremmin tallessa. Tällöin myös <a href="/it-palvelut/tietoturva">laitteiden tietoturva</a> voidaan varmistaa helpommin. Keskitetyn hallinnan palvelumme tukee myös sekaympäristöjä, joissa työntekijät voivat valita Windows-, Android- tai Applen laitteita.
