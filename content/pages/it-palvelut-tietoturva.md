@@ -1,9 +1,12 @@
 ---
 path: /it-palvelut/tietoturva
+thumbnail: /assets/tdp-tietoturva.png
 head:
-    title: Yrityksen tietoturva - TDP
-    description: 
-    keywords: tietoturva, virustorjunta, verkkoliikenteen suojaus, palomuurit, tietokoneiden ja laitteiden kierrätys, security by design, gdpr
+  title: Yrityksen tietoturva - TDP
+  description: Yritystoimintojen digitalisoituminen vaatii myös panostamista
+    yritysten tietoturvaan.
+  keywords: tietoturva, virustorjunta, verkkoliikenteen suojaus, palomuurit,
+    tietokoneiden ja laitteiden kierrätys, security by design, gdpr
 contactForm: Ota yhteyttä
 breadcrumb:
   - path: /
@@ -11,7 +14,9 @@ breadcrumb:
   - path: /it-palvelut/
     label: IT-palvelut
   - label: Tietoturva
+date: 2023-09-28T07:34:45.618Z
 ---
+![](/assets/tdp-tietoturva.png)
 
 # Tietoturva ei ole vain haittaohjelmien estoa
 
@@ -33,7 +38,4 @@ Perustasolla tämä voi tarkoittaa, että laitteissa on asianmukainen tietoturva
 
 <a href="/it-laitteet/verkot">Yrityksen verkossa</a> verkkoliikenne voidaan suojata fyysisen palomuurin avulla. Palomuurin avulla voidaan kontrolloida yrityksen sisäverkosta lähtevää ja sinne tulevaa liikennettä. 
 
-Palomuurin avulla voidaan luoda suojattu yhteys eri toimipisteiden välille. VPN-yhteyden avulla yrityksen verkkoon voidaan antaa pääsy työntekijöille, jotka tekevät etätöitä tai työskentelevät vaihtuvasta työpisteestä käsin. 
-
-
-
+Palomuurin avulla voidaan luoda suojattu yhteys eri toimipisteiden välille. VPN-yhteyden avulla yrityksen verkkoon voidaan antaa pääsy työntekijöille, jotka tekevät etätöitä tai työskentelevät vaihtuvasta työpisteestä käsin.
