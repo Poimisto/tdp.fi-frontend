@@ -61,11 +61,11 @@ Yrityksesi IT-tarpeiden hintaa et saa vaivattomammin selville!
 
 
 
-<HeroBlock bgColor="lightest" imageAlign="left">
+<HeroBlock bgColor="brand" imageAlign="left">
 
 <div className="HeroBlockImage">
 
-![TDP referenssit](/assets/netlify-1280-x-800-ref.png)
+![TDP referenssit](/assets/tdp-etusivu-referenssit.png)
 
 </div>
 
