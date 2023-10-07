@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /zero-trust-malli
+path: /zero-trust-malli-yrityksille
 date: 2023-10-07T07:44:52.562Z
 head:
   title: Zero Trust – Verkkoturvallisuuden uusi kulmakivi
