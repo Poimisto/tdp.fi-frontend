@@ -63,7 +63,7 @@ Googlen edelläkävijyys onkin toiminut monille muille yrityksille inspiraationa
 Vaaroina voidaan nähdä niin ulkoa kuin sisältä kumpuavat tekijät:
 
 * **Tietoturvaloukkaukset**: Perinteisissä tietoturvaratkaisuissa luotetaan yrityksen sisäverkkoon, ja kerran sisällä oleva toimija voi päästä käsiksi moniin resursseihin. Jos hyökkääjä pystyy murtautumaan sisään, hänellä voi olla laaja pääsy moniin järjestelmiin, mikä voi johtaa tietovuotoihin.
-* **Sisäiset uhat**: Zero Trust -mallissa ei luoteta mihinkään toimijaan sokeasti, mukaan lukien yrityksen omiin työntekijöihin. Ilman tätä mallia, petolliset tai huonosti perehdytety työntekijät voivat aiheuttaa vakavia tietoturvaongelmia.
+* **Sisäiset uhat**: Zero Trust -mallissa ei luoteta mihinkään toimijaan sokeasti, mukaan lukien yrityksen omiin työntekijöihin. Ilman tätä mallia, petolliset tai huonosti perehdytetyt työntekijät voivat aiheuttaa vakavia tietoturvaongelmia.
 * **Kustannukset loukkauksen jälkeen**: Tietoturvaloukkaukset voivat aiheuttaa pahimmillaan valtavia taloudellisia menetyksiä, mukaan lukien sakot, korvaukset ja menetetyt tulot. Vertailua, tuottaako tietoturvan parantaminen suuremmat kustannukset kuin mahdolliset loukkaukset, ei kannata edes tehdä.
 * **Mainetappio**: Asiakkaiden luonnollinen odotus on, että yritykset suojaavat heidän tietonsa. Tietoturvaloukkaus loukkaa tätä odotusta ja voi siten johtaa vakavaan mainetappioon, joka voi vaikuttaa liiketoimintaankin pitkällä aikavälillä.
 * **Hallinnolliset haasteet**: Ilman Zero Trust -mallia IT-tiimien on vaikeampi hallita ja valvoa, kuka pääsee käsiksi mihinkin resurssiin, mikä voi johtaa hallinnollisiin haasteisiin ja virheisiin.
