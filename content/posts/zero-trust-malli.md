@@ -13,7 +13,7 @@ thumbnail: /assets/zero-trust-tietoturvamalli.jpg
 
 **Yritysten verkkojärjestelmien turvallisuudesta puhuttaessa yksi termi on noussut viime aikoina ylitse muiden: Zero Trust.** 
 
-Zero Trust on suomeksi *nollaluottamus*, joka kuvastaa turvattomuuden tunnetta alati muuttuvassa verkkomaailmassa.Voisimmeko elää ajatuksessa, että vaikka luottamus on hyvää, kontrolli on kuitenkin parempaa, etenkin etukäteen tehtynä?
+Zero Trust on suomeksi *nollaluottamus*, joka kuvastaa turvattomuuden tunnetta alati muuttuvassa verkkomaailmassa. Voisimmeko elää ajatuksessa, että vaikka luottamus on hyvää, kontrolli on kuitenkin parempaa, etenkin etukäteen tehtynä?
 
 ## Zero Trust on vastaus yritysten turvantarpeeseen
 
