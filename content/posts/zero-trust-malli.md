@@ -27,7 +27,7 @@ Nollaluottamuksen periaate voidaan jakaa yksityiskohtaisempiin prosesseihin:
 * **Päätelaitteiden turvallisuus**: Jokainen laite on potentiaalinen riski ja siksi jokainen laite tarkistetaan.
 * **Jatkuva valvonta**: Verkon liikenteen jatkuva tarkkailu ja analysointi pitää huolen, että poikkeavuudet tunnistetaan nopeasti.
 
-Vaikka nämä ovat vain muutamia esimerkkejä Zero Trustin teknisistä ominaisuuksista, ne osoittavat, kuinka syvälle tällä mallilla turvallisuus halutaan ulottaa ja myös päästä
+Vaikka nämä ovat vain muutamia esimerkkejä Zero Trustin teknisistä ominaisuuksista, ne osoittavat, kuinka syvälle tällä mallilla turvallisuus halutaan ulottaa.
 
 ## Miksi yritykset tarvitsevat Zero Trustia?
 
