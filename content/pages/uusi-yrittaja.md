@@ -18,7 +18,7 @@ contactForm: Ota yhteyttä
 
 **TDP toteuttaa laitetoimitusten lisäksi myös IT-ympäristön hallinnan palveluita kokonaisvaltaisesti tai erikseen valikoituna.** 
 
-Tarjoamme toimivien laitteiden lisäksi käyttöönne muun muassa verkkotunnusten ja sähköpostien hallintaa, yhteensopivia viestintäsovelluksia, huoletonta tietoturvaa sekä nopeaa ongelmatilanteiden ratkaisua. 
+Tarjoamme toimivien laitteiden lisäksi käyttöönne muun muassa verkkotunnusten ja sähköpostien hallintaa, yhteensopivia viestintäsovelluksia, huoletonta tietoturvaa sekä nopeaa ongelmatilanteiden ratkaisua – siis kaiken.
 
 ### 1. Tietokoneet ja puhelimet
 
