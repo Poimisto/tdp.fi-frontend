@@ -24,6 +24,6 @@ Oletko jo TDP:n asiakas? Tästä löydät tukemme yhteystiedot:
 
 Huolehdimme joustavasti asiakasyritystemme it-laitteistojen toimivuudesta ja työn sujuvuudesta. Tuki-, huolto- ja ylläpitosopimukset saat edulliseen kuukausihintaan.
 
-Pauli Aalto | 040 748 3818 | pauli.aalto@tdp.fi\
+Pauli Aalto | 040 748 3818 | pauli.aalto@tdp.fi
 
 Mika Mäkinen | 040 632 7090 | mika.makinen@tdp.fi
