@@ -24,19 +24,25 @@ Palvelemme yrityksiä toimittamalla, asentamalla ja edelleen kehittämällä nii
 
 Toteutamme kaikki tarvitsemanne IT-palvelut ja räätälöimme ne toiveidenne mukaan. Laitteistojen lisäksi palveluihimme kuuluvat ohjelmistot, huollot, tuki- ja palvelusopimukset sekä tietoturvapalvelut.
 
-### T﻿avoite
+## M﻿yynti
+
+P﻿auli Aalto        | 040 748 3818 | pauli.aalto@tdp.fi  
+
+M﻿ika Mäkinen  | 040 632 7090 | mika.makinen@tdp.fi
+
+## T﻿avoite
 
 Pyrimme edullisuuden lisäksi aina asiakaslähtöiseen palveluun. 
 
 Toivomme ensimmäisestä laitehankinnasta alkavan kumppanuuden, jossa me vastaamme yrityksenne IT-ympäristöstä ja sen kehityksestä pitkälle tulevaisuuteen.
 
-### P﻿alvelualueet
+## P﻿alvelualueet
 
 Päätoimialueemme ovat Pirkanmaalla, Etelä-Suomessa ja Keski-Suomessa. 
 
 Päätoimipisteemme löydät Nokialta Tampereen kupeesta. Meillä on asiakkaita  lukuisilta eri toimialoilta, joten tunnistamme kokemukseemme perustuen yritysten yksilölliset tarpeet.
 
-### Kasvuhalu
+## Kasvuhalu
 
 Olemme dynaaminen ja vakavaraisesti kasvava yritys.
 
@@ -44,13 +50,13 @@ Siitä osoituksena saavutimme vuonna 2021 ensimmäistä kertaa yli miljoonan eur
 
 Nyt vuonna 2023 tavoitteemme on kehittää palvelukokonaisuuttamme entisestään ja olla siten kiinnostava vaihtoehto suurtenkin PK-yritysten vastuulliseksi kumppaniksi.  
 
-### S﻿euraa meitä
+## S﻿euraa meitä
 
 Jos haluat tietää enemmän IT-alasta ja yrityksemme uusimmista käänteistä, ryhdy uutiskirjeemme tilaajaksi:
 
 <CallToAction bgColor="brand" url="https://bit.ly/3zsDs3q" align="center">Tilaa uutiskirje</CallToAction>
 
-### S﻿osiaalinen media
+## S﻿osiaalinen media
 
 V﻿oit myös seurata meitä sosiaalisen median kanavissamme:
 
