@@ -29,7 +29,12 @@ Palvelemme niin startup-, PK- kuin suuryrityksiä, joille tietotekniikan toimivu
 
 Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [asiakkainamme](/referenssit) on paljon eri toimialoilla toimivia yrityksiä. 
 
-Koe sinäkin asiakkaanamme tietotekniikan käytön helppous!
+Koe sinäkin asiakkaanamme tietotekniikan käytön helppous ja ota yhteyttä myyjiimme:
+
+Pauli Aalto | 040 748 3818 | pauli.aalto@tdp.fi
+
+
+Mika Mäkinen | 040 632 7090 | mika.makinen@tdp.fi
 
 </div>
 
