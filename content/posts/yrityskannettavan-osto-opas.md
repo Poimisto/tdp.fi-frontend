@@ -31,7 +31,7 @@ Sellaisista ominaisuuksista ei tietenkään kannata maksaa, joita ei tule käyte
 
 ### Suorituskyky
 
-Yrityskannettavat yleensä varustetaan tehokkaammilla prosessoreilla, kuten Intelin Core i5- ja i7-sarjojen tai AMD:n vastaavilla, vähintään 16 gigatavun RAM-muistilla ja paremmilla grafiikkaominaisuuksilla. Tämä tarkoittaa, että ne pystyvät käsittelemään monimutkaisempia tehtäviä, laskutoimituksia ja sovelluksia tehokkaammin.
+Yrityskannettavat varustetaan yleensä tehokkaammilla prosessoreilla, kuten Intelin Core i5- ja i7-sarjojen tai AMD:n vastaavilla, vähintään 16 gigatavun RAM-muistilla ja paremmilla grafiikkaominaisuuksilla. Tämä tarkoittaa, että ne pystyvät käsittelemään monimutkaisempia tehtäviä, laskutoimituksia ja sovelluksia tehokkaammin.
 
 Esimerkiksi suunnittelu-, markkinointi- tai insinööritoimistojen koneissa korkea suorituskyky on kerta kaikkiaan oltava töiden sujumisen kannalta. Jo pelkästään työtehokkuuden, mutta myös työn tekemisen mielekkyyden näkökulmasta.
 
