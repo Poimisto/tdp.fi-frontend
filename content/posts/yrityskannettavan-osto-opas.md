@@ -75,6 +75,8 @@ Konkreettisesti, 2000 euron yrityskannettava ei ole ylihintainen 500 euron kulut
 6. Valitse kone, jonka tiedät vastaavan minimissään 3 vuotta kaikkiin, myös potentiaalisiin IT-tarpeisiisi
 7. Jos mahdollista, anna työntekijän itsensä osallistua koneen valintaprosessiin
 
--﻿ - -
+- - -
 
 Olemme auttaneet suomalaisten PK-yritysten IT-palvelukumppanina yrityksiä valitsemaan heille sopivimmat yrityskannettavat jo vuodesta 2007 alkaen. Tarjoamme asiantuntemustamme, ketterää palvelumallia ja kilpailukykyistä hintatasoamme ympäri Suomen, myös sinun yrityksellesi.
+
+*O﻿ta yhteyttä asiantuntijaamme ja mietitään yrityskannettavan hankintaa yhdessä!*
