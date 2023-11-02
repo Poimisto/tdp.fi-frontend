@@ -122,7 +122,7 @@ Luota ripeään, suomenkieliseen palvelukumppaniin!
 
 <div className="HeroBlockImage">
 
-![Tampereen Datapiste toimisto](/assets/image00006-min.jpeg)
+![Tampereen Datapiste toimisto](/assets/etusivu-1280x800.jpg)
 
 </div>
 
