@@ -62,7 +62,7 @@ Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelm
 
 ## Tarvitseeko yritykseni keskitettyä hallintaa?
 
-**Mikäli yrityksesi on kasvuhaluinen, henkilöstömäärä on yli 10 ja erilaisia päätelaitteita ja ohjelmistoja on runsaasti käytössä, niin ehdottomasti kyllä!**
+**Mikäli yrityksesi on kasvuhaluinen, henkilöstömäärä on yli 5 ja erilaisia päätelaitteita ja ohjelmistoja on runsaasti käytössä, niin ehdottomasti kyllä!**
 
 Jos myös yrityksesi IT-huolien selvittelyyn menee viikossa liikaa aikaa ja niistä aiheutuvat kulut eivät ole järkevällä tasolla, yrityksesi hyötyy palvelusta monin verroin.
 
