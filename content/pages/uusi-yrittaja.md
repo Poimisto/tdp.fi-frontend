@@ -1,6 +1,7 @@
 ---
 templte: page
 path: /uusi-yrittaja/
+thumbnail: /assets/uusi-yrittaja-tinified-1280x800.png
 date: 2022-09-28T05:46:15.370Z
 head:
   tItle: Uuden yrittäjän IT-palvelut - TDP
@@ -12,7 +13,7 @@ head:
   title: "Uusi yrittäjä "
 contactForm: Ota yhteyttä
 ---
-![Yrityksen IT-osasto.](/assets/it-osasto-600x600.jpg)
+![Yrityksen IT-osasto.](/assets/uusi-yrittaja-tinified-1280x800.png)
 
 # TDP tarjoaa käyttöösi oman IT-osaston
 
