@@ -21,8 +21,12 @@ contactForm: Ota yhteyttä
 
 # Toimiston ja liiketilan IT-laitteet
 
-TDP toimittaa kaikkien suurimpien valmistajien IT-laitteita käyttökuntoon asennettuina. Kauttamme yrityksesi saa esimerkiksi toimiston tulostus- ja monitoimilaitteet, neuvotteluhuoneiden etäpalaverilaitteet sekä info- ja mainosnäytöt liiketiloihin. 
+**TDP toimittaa kaikkien suurimpien valmistajien IT-laitteita käyttökuntoon asennettuina  ja käytön opastuksella tuettuna.**
+
+Kauttamme yrityksesi saa esimerkiksi toimiston tulostus- ja monitoimilaitteet, neuvotteluhuoneiden etäpalaverilaitteet sekä info- ja mainosnäytöt liiketiloihin. 
 
 Toimiston ja liiketilojen IT-laitteet voidaan liittää osaksi <a href="/it-palvelut/palvelusopimus">palvelusopimusta</a>, jolloin laitteisto on osa TDP:n tarjoamaa palvelua.
 
-TDP:llä on yli vuosikymmenen kokemus IT-palveluiden ja -laitteiden toimittamisesta. Asiakkaisiimme kuuluu lukuisten eri toimialojen yrityksiä ja organisaatioita. Ota rohkeasti yhteyttä, niin autamme sopivan laitteiston valinnassa.
+TDP:llä on yli 15 vuoden kokemus IT-palveluiden ja -laitteiden toimittamisesta. Asiakkaisiimme kuuluu lukuisten eri toimialojen yrityksiä ja organisaatioita.  
+
+Ota rohkeasti yhteyttä, niin autamme sopivan laitteiston valinnassa!
