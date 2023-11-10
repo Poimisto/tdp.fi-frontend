@@ -72,7 +72,7 @@ Yrityksesi IT-tarpeiden hintaa et saa vaivattomammin selville!
 
 <div className="HeroBlockImage">
 
-![TDP referenssit](/assets/netlify-1280-x-800-ref.png)
+![TDP referenssit](/assets/referenssit-1280x800.jpg)
 
 </div>
 
