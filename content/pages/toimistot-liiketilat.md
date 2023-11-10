@@ -29,4 +29,4 @@ Toimiston ja liiketilojen IT-laitteet voidaan liittää osaksi <a href="/it-palv
 
 TDP:llä on yli 15 vuoden kokemus IT-palveluiden ja -laitteiden toimittamisesta. Asiakkaisiimme kuuluu lukuisten eri toimialojen yrityksiä ja organisaatioita.  
 
-Ota rohkeasti yhteyttä, niin autamme sopivan laitteiston valinnassa!
+*Ota rohkeasti yhteyttä, niin autamme sopivan laitteiston valinnassa!*
