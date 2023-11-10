@@ -1,10 +1,13 @@
 ---
 template: page
 path: /it-laitteet/verkot
+thumbnail: /assets/verkkoyhteydet-tinified-tdp-1280x800.png
+date: 2023-11-10T12:26:35.840Z
 head:
-    title: Yrityksen verkko - Verkkolaitteet - TDP
-    description: 
-    keywords: verkot, verkkolaitteet, palomuurit, sisäverkot, modeemit, reitittimet, vierasverkot
+  title: Yrityksen verkko - Verkkolaitteet - TDP
+  description: Toimivat, turvalliset verkkoyhteydet takaavat hyvän työntekijäkokemuksen.
+  keywords: verkot, verkkolaitteet, palomuurit, sisäverkot, modeemit, reitittimet,
+    vierasverkot
 breadcrumb:
   - path: /
     label: TDP
@@ -13,6 +16,7 @@ breadcrumb:
   - label: Yrityksen verkot
 contactForm: Ota yhteyttä
 ---
+![](/assets/verkkoyhteydet-tinified-tdp-1280x800.png)
 
 # Toimivat ja turvalliset verkkoyhteydet
 
