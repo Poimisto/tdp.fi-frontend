@@ -14,7 +14,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Asiakaspalaute](/assets/netlify-1280-x-800-ref.png)
+![Asiakaspalaute](/assets/referenssit-1280x800.jpg)
 
 </div>
 
@@ -24,7 +24,7 @@ contactForm: Ota yhteyttä
 
 TDP:lle on ollut alusta alkaen tärkeää huolehtia asiakkaistaan mahdollisimman hyvin. Asiakaskokemuksistamme voit lukea, miten **IT-palveluidemme ydin ei ole vain maltillinen hintataso, vaan myös palveluiden kattavuus ja laatu**.
 
-Tutustu referensseihimme. Asiakasyritystemme kokemukset kertonevat sinunkin yrityksesi kaipaamasta palvelutasosta, joten [kysy ratkaisuamme tarpeeseesi](/yritys).
+Asiakasyritystemme kokemukset kertovat sinunkin yrityksesi kaipaamasta palvelutasosta, joten [kysy ratkaisuamme tarpeeseesi](/yritys).
 
 </div>
 
