@@ -1,6 +1,6 @@
 ---
 path: /it-palvelut/tietoturva
-thumbnail: /assets/tdp-tietoturva.png
+thumbnail: /assets/tietoturva-1280-x-800.jpg
 head:
   title: Yrityksen tietoturva
   description: Yritystoimintojen digitalisoituminen vaatii myös panostamista
@@ -16,23 +16,27 @@ breadcrumb:
   - label: Tietoturva
 date: 2023-09-28T07:34:45.618Z
 ---
-![](/assets/tdp-tietoturva.png)
+![](/assets/tietoturva-1280-x-800.jpg)
 
 # Tietoturva ei ole vain haittaohjelmien estoa
 
-EU:n GDPR-asetusten myötä tietoturvan vaatimukset koskettavat mitä tahansa tietoja, joissa potentiaalisesti käsitellään henkilötietoja. Teknisen tietoturvan ja haittaohjelmien eston lisäksi yrityksen on kyettävä hallinnoimaan sitä, kenellä on pääsy yrityksen toiminnassa syntyviin tiedostoihin ja dokumentteihin.
+**EU:n GDPR-asetusten myötä tietoturvan vaatimukset koskettavat mitä tahansa tietoja, joissa potentiaalisesti käsitellään henkilötietoja. Teknisen tietoturvan ja haittaohjelmien eston lisäksi yrityksen on kyettävä hallinnoimaan sitä, kenellä on pääsy yrityksen toiminnassa syntyviin tiedostoihin ja dokumentteihin.**
 
-Tietoturvan näkökulma on sisäänrakennettuna osana TDP:n tarjoamia palveluita. <a href="/it-palvelut/keskitetty-hallinta">Keskitetyn käyttäjähallinan</a> avulla työntekijöillä on käytössään henkilökohtaiset tunnukset, joilla kontrolloidaan ja jaetaan pääsyä yrityksen tietoihin. Palvelun avulla voidaan myös pakottaa tiettyjä tietoturva-asetuksia ja asentaa tietoturvan kannalta tärkeät päivitykset automaattisesti. Käytöstä poistuvien laitteiden osalta tietoturvallinen kierrätys on osa <a href="/it-palvelut/elinkaaripalvelu">laitekannan elinkaaripalveluamme.</a>
+Tietoturvan näkökulma on sisäänrakennettuna osana TDP:n tarjoamia palveluita. <a href="/it-palvelut/keskitetty-hallinta">Keskitetyn käyttäjähallinan</a> avulla työntekijöillä on käytössään henkilökohtaiset tunnukset, joilla kontrolloidaan ja jaetaan pääsyä yrityksen tietoihin. 
+
+Palvelun avulla voidaan myös pakottaa tiettyjä tietoturva-asetuksia ja asentaa tietoturvan kannalta tärkeät päivitykset automaattisesti. Käytöstä poistuvien laitteiden osalta tietoturvallinen kierrätys on osa <a href="/it-palvelut/elinkaaripalvelu">laitekannan elinkaaripalveluamme.</a>
 
 ### Työntekijöiden tietoturva
 
-<a href="/it-laitteet/tyontekijat">Työntekijöiden työvälineiden</a> osalta huolehdimme, että tietokoneissa ja puhelimissa on riittävät suojaukset. Tämä tarkoittaa laitteesta ja käyttötarkoituksesta riippuen 
+<a href="/it-laitteet/tyontekijat">Työntekijöiden työvälineiden</a> osalta huolehdimme, että tietokoneissa ja puhelimissa on riittävät suojaukset. Tämä tarkoittaa laitteesta ja käyttötarkoituksesta riippuen: 
 
 * Verkkoliikenteen suojausta
 * Tietoturvaohjelmistoa asennettavien ohjelmistojen tarkastamiseen
 * Tunnistautumismenetelmien määrittelyä
 
-Perustasolla tämä voi tarkoittaa, että laitteissa on asianmukainen tietoturvaohjelmisto sekä pakotettu salasana. Kattavampi tietoturva saadaan tallennettujen tietojen salaamisella sekä ohjelmistopalomuurien ja salatun VPN-yhteyden hyödyntämisellä. Keskitetyn hallinnan avulla laitekannan tilannetta voidaan seurata ja tietoturvaa parantavat muutokset saadaan asennettua kerralla koko laitekantaan.
+Perustasolla tämä voi tarkoittaa, että laitteissa on asianmukainen tietoturvaohjelmisto sekä pakotettu salasana. Kattavampi tietoturva saadaan tallennettujen tietojen salaamisella sekä ohjelmistopalomuurien ja salatun VPN-yhteyden hyödyntämisellä. 
+
+[Keskitetyn hallinnan](https://www.tdp.fi/ohjelmistot/jumpcloud) avulla laitekannan tilannetta voidaan seurata ja tietoturvaa parantavat muutokset saadaan asennettua kerralla koko laitekantaan.
 
 ### Yrityksen sisäverkot
 
