@@ -80,7 +80,7 @@ V﻿oit myös seurata meitä sosiaalisen median kanavissamme:
 * <a href="/yritys/hinnasto">Palveluhinnasto</a>
 * <a href="/assets/TDP-Laskutustiedot-2023.pdf" target="_blank">Laskutustiedot (PDF)</a>
 * <a href="/assets/tietosuojaseloste.pdf" target="_blank">Tietosuojaseloste (PDF)</a> 
-* <a href="/assets/yleiset_sopimusehdot.pdf" target="_blank">Yleiset sopimusehdot (PDF)</a> 
+* <a href="/assets/YSE_IT2022_Suomi.pdf" target="_blank">Yleiset sopimusehdot (PDF)</a> 
 
 #### Toimiston yhteystiedot
 
