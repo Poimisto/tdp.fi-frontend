@@ -1,5 +1,6 @@
 ---
 path: /ohjelmistot/virtru
+thumbnail: /assets/virtru-tdp.jpg
 date: 2022-10-09T14:30:07.797Z
 head:
   title: Virtru | Sähköpostin salaus
@@ -9,7 +10,7 @@ head:
   keywords: Virtru, sähköpostin salaus
 contactForm: Ota yhteyttä
 ---
-![Virtru tiedon salaukseen](/assets/ohjelmistot-tinified.jpg)
+![Virtru tiedon salaukseen](/assets/virtru-tdp.jpg)
 
 # V﻿irtru – ohjelmisto sähköpostien salaukseen
 
