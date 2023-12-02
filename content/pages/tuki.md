@@ -13,7 +13,9 @@ head:
 
 ## IT-tuen käyttöohjeet
 
-Sopimusasiakkaana yrityksenne käytössä ovat niin TDP:n etä-, puhelin- kuin lähituki. Sujuvan palvelun takaamiseksi kontaktoi eri tukitarpeissa alla esitettyjen ohjeiden mukaan.  
+Sopimusasiakkaana yrityksenne käytössä ovat niin TDP:n etä-, puhelin- kuin lähituki. 
+
+Sujuvan palvelun takaamiseksi kontaktoi eri tukitarpeissa alla esitettyjen ohjeiden mukaan.  
 
 ### Etätuki
 
