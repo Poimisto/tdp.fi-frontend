@@ -1,6 +1,6 @@
 ---
 path: /ohjelmistot/assently
-thumbnail: /assets/assently-tdp-tinified-1280x800.png
+thumbnail: /assets/assently-sahkoinen-allekirjoitus.jpg
 date: 2022-12-15T11:53:44.708Z
 head:
   title: Assently | Sähköinen allekirjoitus
@@ -10,7 +10,7 @@ head:
   keywords: assently, sähköinen allekirjoitus, henkilöllisyyden tunnistus
 contactForm: Ota yhteyttä
 ---
-![Assently takaa allekirjoituksen.](/assets/assently-tdp-tinified-1280x800.png)
+![Assently takaa allekirjoituksen.](/assets/assently-sahkoinen-allekirjoitus.jpg)
 
 # Assently – sähköinen allekirjoitus yrityksille
 
