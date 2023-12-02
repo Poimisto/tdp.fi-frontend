@@ -9,20 +9,39 @@ head:
 ---
 ![TDP käyttäjätuki.](/assets/tuki2-1200-x-627.jpg)
 
-# Tekninen tuki
+# TDP:n käyttäjätuki
 
-Oletko jo TDP:n asiakas? Tästä löydät tukemme yhteystiedot:
+## IT-tuen käyttöohjeet
 
-* tuki@tdp.fi
-* 010 292 1640
+Sopimusasiakkaana yrityksenne käytössä ovat niin TDP:n etä-, puhelin- kuin lähituki. Sujuvan palvelun takaamiseksi kontaktoi eri tukitarpeissa alla esitettyjen ohjeiden mukaan.  
 
-## Lataa TDP:n etätuen mahdollistava etätukisovellus
+### Etätuki
 
-<a href="https://get.teamviewer.com/vcgecef" class="btn btn-large btn-primary">Lataa  Teamviewer -tukisovellus tästä</a>
+**E﻿nsisijaisesti lähetä tukipyyntö sähköisesti osoitteeseen** **[tuki@tdp.fi](tuki@tdp.fi).**
+
+Kirjoita otsikkoon osuva kuvaus ongelmasta, kuten “Liittymän avaus” tai “Ohjelmisto X ei\
+toimi”. Kuvaa viestissä ongelma mahdollisimman yksityiskohtaisesti, jotta henkilökuntamme\
+osaa kartoittaa ongelman pitkälle itsenäisesti.
+
+Tarvittaessa lataa tästä TDP:n etätuen mahdollistava [Teamviewer-etätukisovellus](<https://get.teamviewer.com/vcgecef" class="btn btn-large btn-primary>). 
+
+### P﻿uhelintuki
+
+**Jos tarvitset IT-tukea välittömästi, soita numeroon 010 292 1640.**
+
+Välitöntä tukea vaativia ongelmia ovat esimerkiksi, että tietokoneesi ei käynnisty, et pääse\
+salasanalla sisään, klikkasit sähköpostissa huijauslinkkiä tai muu työnteon estävä force\
+majeure.
+
+### L﻿ähituki
+
+Lähitukea tarjoamme aina, jos emme saa ratkaistua asiaa etänä tai puhelimitse.
 
 ## Uusi asiakas?
 
-Huolehdimme joustavasti asiakasyritystemme it-laitteistojen toimivuudesta ja työn sujuvuudesta. Tuki-, huolto- ja ylläpitosopimukset saat edulliseen kuukausihintaan.
+Huolehdimme joustavasti asiakasyritystemme IT-laitteistojen toimivuudesta ja työn sujuvuudesta. \
+\
+Tuki-, huolto- ja ylläpitosopimukset saat edulliseen kuukausihintaan. Tiedustele lisää!
 
 Pauli Aalto | 040 748 3818 | pauli.aalto@tdp.fi
 
