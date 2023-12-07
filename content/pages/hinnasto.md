@@ -12,11 +12,11 @@ V﻿oimassa 1.1.2023 alkaen
 
 ## Asennukset
 
-|                                                      |           |
-| ---------------------------------------------------- | --------- |
-| Työasemien vikaselvitykset ja asennukset             | 68,00 €/h |
-| Suunnittelu, verkkotyöt, palvelintyöt ja ohjelmointi | 84,00 €/h |
-| ﻿Sopimusasiakkaille työasemien asennukset            | 44,50 €/h |
+|                                                      |            |
+| ---------------------------------------------------- | ---------- |
+| Työasemien vikaselvitykset ja asennukset             | 84,00 €/h  |
+| Suunnittelu, verkkotyöt, palvelintyöt ja ohjelmointi | 104,00 €/h |
+| ﻿Sopimusasiakkaille työasemien asennukset            | 48,50 €/h  |
 
 ## Huolto- ja ylläpitosopimukset
 
@@ -51,7 +51,7 @@ V﻿oimassa 1.1.2023 alkaen
 | [Dropbox](https://www.tdp.fi/ohjelmistot/dropbox)                   | 12,00 €/kk     |
 | [﻿Virtru](https://www.tdp.fi/ohjelmistot/virtru)                    | 79,00 €/kk     |
 | [﻿Assently](https://www.tdp.fi/ohjelmistot/assently)                | 32,00 €/kk     |
-| ﻿WithSecure                                                         | 4,41/7,00 €/kk |
+| [﻿WithSecure](https://www.tdp.fi/ohjelmistot/withsecure)            | 4,41 €/kk      |
 | ﻿Bitwarden                                                          | 5,00 €/kk      |
 | ﻿Adobe Creative Cloud                                               | 73,49 €/kk     |
 | ﻿Nexetic Full                                                       | 10,00 €/kk     |
@@ -59,10 +59,10 @@ V﻿oimassa 1.1.2023 alkaen
 
 ## Muut
 
-|                                    |           |
-| ---------------------------------- | --------- |
-| K﻿iiretyölisä                      | 100%      |
-| ﻿Konsultointi- ja koulutuspalvelut | 84,00 €/h |
+|                                    |            |
+| ---------------------------------- | ---------- |
+| K﻿iiretyölisä                      | 100%       |
+| ﻿Konsultointi- ja koulutuspalvelut | 104,00 €/h |
 
 <a href="/tietokone-leasing-esimerkkipaketit">Katso konepakettien esimerkkejä tästä</a>
 
