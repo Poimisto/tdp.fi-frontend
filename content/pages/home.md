@@ -72,7 +72,7 @@ Yrityksesi IT-tarpeiden hintaa et saa vaivattomammin selville!
 
 <div className="HeroBlockImage">
 
-![TDP referenssit](/assets/referenssit-1280x800.jpg)
+![TDP referenssit](/assets/tdp-asiakasreferenssit.png)
 
 </div>
 
