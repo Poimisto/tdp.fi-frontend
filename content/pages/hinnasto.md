@@ -3,7 +3,7 @@ path: /yritys/hinnasto
 date: 2021-02-28T08:49:54.186Z
 head:
   title: Palveluhinnasto
-  description: Asennushinnasto ja esimerkkejä huolto- ja ylläpitosopimusten hinnoista
+  description: Asennushinnasto ja esimerkkejä huolto- ja ylläpitosopimusten hinnoista.
   keywords: hinnasto, hinnat
 contactForm: Ota yhteyttä
 ---
@@ -57,7 +57,7 @@ V﻿oimassa 1.1.2024 alkaen
 | ﻿Bitwarden            | 5,00 €/kk                                                       |
 | ﻿Adobe Creative Cloud | 73,49 €/kk                                                      |
 | ﻿Nexetic Full         | 10,00 €/kk                                                      |
-| ﻿Muut ohjelmistot     | [Kysy tarjousta](pauli.aalto@tdp.fi)                            |
+| ﻿Muut ohjelmistot     | Kysy tarjousta                            |
 
 ## Muut
 
