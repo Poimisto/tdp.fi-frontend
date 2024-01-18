@@ -5,10 +5,11 @@ head:
   title: Palveluhinnasto
   description: Asennushinnasto ja esimerkkejä huolto- ja ylläpitosopimusten hinnoista
   keywords: hinnasto, hinnat
+contactForm: Ota yhteyttä
 ---
 # Palveluhinnasto (hinnat alk.)
 
-V﻿oimassa 1.1.2023 alkaen
+V﻿oimassa 1.1.2024 alkaen
 
 ## Asennukset
 
@@ -22,6 +23,7 @@ V﻿oimassa 1.1.2023 alkaen
 
 |                                            |            |
 | ------------------------------------------ | ---------- |
+| Palvelusopimus (lisenssit + tuki)          | 95,70 €/kk |
 | Etätukipalvelu                             | 7,00 €/kk  |
 | Hallittu yritystietoturva                  | 7,00 €/kk  |
 | Varalaitepalvelu                           | 9,00 €/kk  |
@@ -42,20 +44,20 @@ V﻿oimassa 1.1.2023 alkaen
 
 **K﻿aikki ohjelmistot meiltä samoilla hinnoilla kuin valmistajiltakin.**
 
-|                                                                     |                |
-| ------------------------------------------------------------------- | -------------- |
-| [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace) | 5,75 €/kk      |
-| [Microsoft 365](https://www.tdp.fi/ohjelmistot/microsoft-365)       | 5,60 €/kk      |
-| [Nira](https://www.tdp.fi/ohjelmistot/nira)                         | 8,00 €/kk      |
-| [JumpCloud](https://www.tdp.fi/ohjelmistot/jumpcloud)               | 11,00 €/kk     |
-| [Dropbox](https://www.tdp.fi/ohjelmistot/dropbox)                   | 12,00 €/kk     |
-| [﻿Virtru](https://www.tdp.fi/ohjelmistot/virtru)                    | 79,00 €/kk     |
-| [﻿Assently](https://www.tdp.fi/ohjelmistot/assently)                | 32,00 €/kk     |
-| [﻿WithSecure](https://www.tdp.fi/ohjelmistot/withsecure)            | 4,41 €/kk      |
-| ﻿Bitwarden                                                          | 5,00 €/kk      |
-| ﻿Adobe Creative Cloud                                               | 73,49 €/kk     |
-| ﻿Nexetic Full                                                       | 10,00 €/kk     |
-| ﻿Muut ohjelmistot                                                   | Kysy tarjousta |
+|                       |                                                                 |
+| --------------------- | --------------------------------------------------------------- |
+| Google Workspace      | [Katso täältä](https://www.tdp.fi/ohjelmistot/google-workspace) |
+| Microsoft 365         | [Katso täältä](https://www.tdp.fi/ohjelmistot/microsoft-365)    |
+| Nira                  | [Katso täältä](https://www.tdp.fi/ohjelmistot/nira)             |
+| JumpCloud             | [Katso täältä](https://www.tdp.fi/ohjelmistot/jumpcloud)        |
+| Dropbox               | [Katso täältä](https://www.tdp.fi/ohjelmistot/dropbox)          |
+| ﻿Virtru               | [Katso täältä](https://www.tdp.fi/ohjelmistot/virtru)           |
+| ﻿Assently             | [Katso täältä](https://www.tdp.fi/ohjelmistot/assently)         |
+| ﻿WithSecure           | [Katso täältä](https://www.tdp.fi/ohjelmistot/withsecure)       |
+| ﻿Bitwarden            | 5,00 €/kk                                                       |
+| ﻿Adobe Creative Cloud | 73,49 €/kk                                                      |
+| ﻿Nexetic Full         | 10,00 €/kk                                                      |
+| ﻿Muut ohjelmistot     | [Kysy tarjousta](pauli.aalto@tdp.fi)                            |
 
 ## Muut
 
@@ -64,6 +66,6 @@ V﻿oimassa 1.1.2023 alkaen
 | K﻿iiretyölisä                      | 100%       |
 | ﻿Konsultointi- ja koulutuspalvelut | 104,00 €/h |
 
-<a href="/tietokone-leasing-esimerkkipaketit">Katso konepakettien esimerkkejä tästä</a>
+<a href="/tietokone-leasing-esimerkkipaketit">Katso konepakettien esimerkkejä tästä!</a>
 
-Kaikki ovat alkaen hintoja ja hintoihin lisätään alv.
+Kaikki ovat alkaen-hintoja, joiden päälle lisätään alv.
