@@ -48,7 +48,7 @@ Olemme dynaaminen ja vakavaraisesti kasvava yritys.
 
 Siitä osoituksena saavutimme vuonna 2021 ensimmäistä kertaa yli miljoonan euron liikevaihdon ja vuonna 2022 ennätyksellisen 1,3 miljoonan euron liikevaihdon. 
 
-Nyt vuonna 2023 tavoitteemme on kehittää palvelukokonaisuuttamme entisestään ja olla siten kiinnostava vaihtoehto suurtenkin PK-yritysten vastuulliseksi kumppaniksi.  
+Nyt vuonna 2024 tavoitteemme on kehittää palvelukokonaisuuttamme entisestään ja olla siten kiinnostava vaihtoehto suurtenkin PK-yritysten vastuulliseksi kumppaniksi.  
 
 ## S﻿euraa meitä
 
