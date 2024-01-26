@@ -32,9 +32,9 @@ M﻿ika Mäkinen  | 040 632 7090 | mika.makinen@tdp.fi
 
 ## T﻿avoite
 
-Pyrimme edullisuuden lisäksi aina asiakaslähtöiseen palveluun. 
+Tähtäämme edullisuuden lisäksi aina asiakaslähtöiseen palveluun. 
 
-Toivomme ensimmäisestä laitehankinnasta alkavan kumppanuuden, jossa me vastaamme yrityksenne IT-ympäristöstä ja sen kehityksestä pitkälle tulevaisuuteen.
+Toivomme ensimmäisen laitehankinnan johtavan kumppanuuteen, jossa me vastaamme yrityksenne IT-ympäristöstä ja sen kehityksestä pitkälle tulevaisuuteen.
 
 ## P﻿alvelualueet
 
