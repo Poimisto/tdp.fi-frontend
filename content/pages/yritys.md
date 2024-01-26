@@ -60,19 +60,19 @@ Jos haluat tietää enemmän IT-alasta ja yrityksemme uusimmista käänteistä, 
 
 Seuraa meitä sosiaalisen median kanavissamme:
 
-<CallToAction bgColor="link" url="https://www.linkedin.com/company/tampereen-datapiste/" align="center">Linkedin</CallToAction>
+<CallToAction bgColor="brand" url="https://www.linkedin.com/company/tampereen-datapiste/" align="center">Linkedin</CallToAction>
 
 
 
 
 
-<CallToAction bgColor="link" url="https://www.facebook.com/datapiste" align="center">Facebook</CallToAction>
+<CallToAction bgColor="brand" url="https://www.facebook.com/datapiste" align="center">Facebook</CallToAction>
 
 
 
 
 
-<CallToAction bgColor="link" url="https://www.youtube.com/channel/UC8LE9Z3BkIgi7-9-c3Q3-mA" align="center">YouTube</CallToAction>
+<CallToAction bgColor="brand" url="https://www.youtube.com/channel/UC8LE9Z3BkIgi7-9-c3Q3-mA" align="center">YouTube</CallToAction>
 
 ![]()
 
