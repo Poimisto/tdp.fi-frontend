@@ -58,7 +58,7 @@ Jos haluat tietää enemmän IT-alasta ja yrityksemme uusimmista käänteistä, 
 
 ## S﻿osiaalinen media
 
-V﻿oit myös seurata meitä sosiaalisen median kanavissamme:
+Seuraa meitä sosiaalisen median kanavissamme:
 
 <CallToAction bgColor="link" url="https://www.linkedin.com/company/tampereen-datapiste/" align="center">Linkedin</CallToAction>
 
