@@ -26,7 +26,7 @@ Tietoturvan näkökulma on sisäänrakennettuna osana TDP:n tarjoamia palveluita
 
 Palvelun avulla voidaan myös pakottaa tiettyjä tietoturva-asetuksia ja asentaa tietoturvan kannalta tärkeät päivitykset automaattisesti. Käytöstä poistuvien laitteiden osalta tietoturvallinen kierrätys on osa <a href="/it-palvelut/elinkaaripalvelu">laitekannan elinkaaripalveluamme.</a>
 
-### Työntekijöiden tietoturva
+## Työntekijöiden tietoturva
 
 <a href="/it-laitteet/tyontekijat">Työntekijöiden työvälineiden</a> osalta huolehdimme, että tietokoneissa ja puhelimissa on riittävät suojaukset. Tämä tarkoittaa laitteesta ja käyttötarkoituksesta riippuen: 
 
@@ -38,8 +38,14 @@ Perustasolla tämä voi tarkoittaa, että laitteissa on asianmukainen tietoturva
 
 [Keskitetyn hallinnan](https://www.tdp.fi/ohjelmistot/jumpcloud) avulla laitekannan tilannetta voidaan seurata ja tietoturvaa parantavat muutokset saadaan asennettua kerralla koko laitekantaan.
 
-### Yrityksen sisäverkot
+## Yrityksen sisäverkot
 
 <a href="/it-laitteet/verkot">Yrityksen verkossa</a> verkkoliikenne voidaan suojata fyysisen palomuurin avulla. Palomuurin avulla voidaan kontrolloida yrityksen sisäverkosta lähtevää ja sinne tulevaa liikennettä. 
 
 Palomuurin avulla voidaan luoda suojattu yhteys eri toimipisteiden välille. VPN-yhteyden avulla yrityksen verkkoon voidaan antaa pääsy työntekijöille, jotka tekevät etätöitä tai työskentelevät vaihtuvasta työpisteestä käsin.
+
+## T﻿ietoturvatietoisuus
+
+Koulutusalustamme <a href="/it-palvelut/tietoturvatietoisuus-yrityksille-simuloitujen-hyokkaysten-ja-koulutusalustan-kautta">TDP KyberAkatemia</a> tarjoaa ennaltaehkäisevän tietoturvan kouluttamalla yrityksesi työntekijät varomaan huijausviestejä ja muita hyökkäyksiä.
+
+K﻿un yrityksesi jokaisella työntekijällä on korkea tietoturvatietoisuus, kukaan ei klikkaa epäilyttäviä linkkejä ja mielenrauha yrityksesi tietoturvasta on taattu.
