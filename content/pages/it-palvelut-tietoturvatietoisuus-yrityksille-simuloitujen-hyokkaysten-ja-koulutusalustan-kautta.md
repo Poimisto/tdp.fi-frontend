@@ -21,7 +21,7 @@ contactForm: Ota yhteyttä
 
 **Yrityksen tietoturvan heikoin lenkki on käyttäjä. Tietoturvan parantamiseksi on järkevää tarjota jokaiselle käyttäjälle tukea ja koulutusalusta oman tietoturvatietoisuuden kehittämiseksi ja kalliiden virheiden välttämiseksi.**
 
-Hanki yrityksesi tietoturvatietoisuuden nostamiseen TDP KyberAkatemia -palvelu. Se tarjoaa älykkään alustan toteuttaa automaattinen, simuloitu tietojenkalasteluhyökkäys käyttäjän sähköpostiin 2 krt/kk tai jopa useammin.
+Hanki yrityksesi tietoturvatietoisuuden nostamiseen TDP KyberAkatemia -palvelu. Se tarjoaa älykkään alustan toteuttaa automaattinen, simuloitu tietojenkalasteluhyökkäys käyttäjän sähköpostiin.
 
 Palvelu toimii myös henkilökohtaisena, interaktiivisena koulutusalustana, jossa työntekijät aidosti oppivat turvallista IT-käyttäytymistä.
 
@@ -29,7 +29,7 @@ Palvelu toimii myös henkilökohtaisena, interaktiivisena koulutusalustana, joss
 
 **TDP KyberAkatemia varmistaa yrityksesi täyttävän kyberturvallisuutta koskevan lainsäädännön tietoturvakoulutusten osalta.**
 
-EU:n laajuisen kyberturvallisuutta koskevan lainsäädännön (NSI2) verkko- ja tietoturvadirektiivi, yli 50 hengen yrityksille velvoittava, tuli voimaan vuonna 2023. TDP KyberAkatemialla varmistat yrityksesi täyttävän kyberturvallisuutta koskevan lainsäädännön tietoturvakoulutusten osalta.
+EU:n laajuisen kyberturvallisuutta koskevan lainsäädännön (NIS2) verkko- ja tietoturvadirektiivi, yli 50 hengen yrityksille velvoittava, tuli voimaan vuonna 2023. TDP KyberAkatemialla varmistat yrityksesi täyttävän kyberturvallisuutta koskevan lainsäädännön tietoturvakoulutusten osalta.
 
 Lisäksi TDP KyberAkatemia on olemassaoleviin koulutuksiin verrattuna helppo ja nopea tapa toteuttaa jatkuvasti ajantasainen tietoturvakoulutus kaikille yrityksesi työntekijöille. 
 
@@ -41,7 +41,7 @@ Mikä parasta, KyberAkatemia on maltillisesti hinnoiteltu avaimet käteen -palve
 
 Sähköpostiin toteutetut simuloidut hyökkäykset auttavat työntekijääsi oppimaan ja tunnistamaan huijaukset aidoista viesteistä. Simuloidut hyökkäykset voivat tulla esimerkiksi väärennetyiltä ihmisiltä tai olla väärennettyjä palkintotarjouksia, joilla testataan työntekijän kykyä olla klikkaamatta. 
 
-Nämä simuloidut hyökkäykset räätälöidään syöttämällä alustalle autenttiset tiedot yrityksesi toiminnasta. Jos ja kun työntekijä klikkaa haitallista linkkiä, ohjelmisto antaa hänelle välittömän palautteen ja ohjeet toimia jatkossa paremmin.
+Jos ja kun työntekijä klikkaa haitallista linkkiä, ohjelmisto antaa hänelle välittömän palautteen ja ohjeet toimia jatkossa paremmin.
 
 ## T﻿ietoturvakoulutus
 
