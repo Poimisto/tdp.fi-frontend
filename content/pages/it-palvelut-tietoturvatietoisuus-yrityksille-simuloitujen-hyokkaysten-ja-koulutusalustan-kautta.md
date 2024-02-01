@@ -13,6 +13,7 @@ head:
     siten nosta yrityksesi tietoturvatietoisuutta!
   keywords: tietoturvatietoisuus, koulutusalusta, kyberakatemia,
     tietojenkalastelu, simuloidut hyökkäykset, phishing, huijausviestit
+contactForm: Ota yhteyttä
 ---
 ![](/assets/kyberakatemia-1280x800.jpg)
 
@@ -44,7 +45,7 @@ Nämä simuloidut hyökkäykset räätälöidään syöttämällä alustalle aut
 
 ## T﻿ietoturvakoulutus
 
-Alustan tarjoama tietoturvakoulutus koostuu pienistä, 5 minuutin yksilöllisistä koulutusmoduuleista, joita työntekijä suorittaa itsenäisesti omaan tahtiinsa.
+**Alustan tarjoama tietoturvakoulutus koostuu pienistä, 5 minuutin yksilöllisistä koulutusmoduuleista, joita työntekijä suorittaa itsenäisesti omaan tahtiinsa.**
 
 Moduuleissa perehdytään alan viimeisimpään tietoon, niin haittaohjelmiin, petoksiin kuin yleiseen IT-käyttäytymiseen. Jokainen kategoria sisältää useita erilaisia mikrokoulutuksia, joissa työntekijä etenee oman osaamisensa mukaan ja nostaa omaa tietoturvatietoisuuttaan.
 
@@ -52,7 +53,7 @@ Jokainen yrityksesi työntekijä voi suorittaa moduuleita miltä tahansa laittee
 
 ## H﻿allintaportaali
 
-Yrityksesi saama hyöty on selvästi todennettavissa palvelun hallintaportaalissa. 
+**Yrityksesi saama hyöty on selvästi todennettavissa palvelun hallintaportaalissa.** 
 
 Portaali tarjoaa kattavan tapahtumalokin, josta yrityksesi näkee esimerkiksi simuloitujen hyökkäysten määrän, simulaatiolinkkien klikkaukset ja suoritetut oppimismoduulit. 
 
@@ -66,7 +67,7 @@ KyberAkatemian hinta on huomaamaton suhteutettuna palvelun tarjoamaan näkyvää
 
 ## M﻿iksi ottaa yhteyttä?
 
-Vain 36 eurolla vuodessa yrityksesi varmistaa yhden työntekijän fiksun IT-käyttäytymisen ja ennaltaehkäisee kalliit vahingot.
+**Vain 36 eurolla vuodessa yrityksesi varmistaa yhden työntekijän fiksun IT-käyttäytymisen ja ennaltaehkäisee kalliit vahingot.**
 
 Samalla rahalla on mahdotonta jälkikäteen korjata varomattomien postien avaamisien ja muiden väärien klikkausten tuomia ongelmia.
 
