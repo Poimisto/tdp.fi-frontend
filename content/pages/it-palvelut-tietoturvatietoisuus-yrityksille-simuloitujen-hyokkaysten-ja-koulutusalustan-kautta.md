@@ -61,7 +61,7 @@ Kaikki data on nähtävillä niin organisaatio-, ryhmä-, kuin loppukäyttäjät
 
 ## H﻿inta
 
-Palvelulla on kiinteä kuukausihinta 3 €/kk/työntekijä sekä 990 euron kertaluontoinen avausmaksu. Tarjoamme myös ilmaisen 30 päivän tutustumismahdollisuuden.  
+**Palvelulla on kiinteä kuukausihinta 3 €/kk/työntekijä sekä 990 euron kertaluontoinen avausmaksu.** Tarjoamme myös ilmaisen 30 päivän tutustumismahdollisuuden.  
 
 KyberAkatemian hinta on huomaamaton suhteutettuna palvelun tarjoamaan näkyvään hyötyyn. Jo yksikin väärä klikkaus voi tuottaa muutaman sadan euron kustannuksen, kun tapahtunutta selvitetään tuntityönä ja kenties saastunut kone joudutaan puhdistamaan. 
 
