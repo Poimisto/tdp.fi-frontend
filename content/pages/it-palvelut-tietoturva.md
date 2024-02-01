@@ -1,6 +1,6 @@
 ---
 path: /it-palvelut/tietoturva
-thumbnail: /assets/tietoturva-1280-x-800.jpg
+thumbnail: /assets/tietoturva2-1280-x-800.jpg
 head:
   title: Yrityksen tietoturva
   description: Yritystoimintojen digitalisoituminen vaatii myös panostamista
@@ -16,7 +16,7 @@ breadcrumb:
   - label: Tietoturva
 date: 2023-09-28T07:34:45.618Z
 ---
-![](/assets/tietoturva-1280-x-800.jpg)
+![](/assets/tietoturva2-1280-x-800.jpg)
 
 # Tietoturva ei ole vain haittaohjelmien estoa
 
