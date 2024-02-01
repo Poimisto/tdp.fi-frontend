@@ -49,7 +49,7 @@ Jos ja kun työntekijä klikkaa haitallista linkkiä, ohjelmisto antaa hänelle 
 
 Moduuleissa perehdytään alan viimeisimpään tietoon, niin haittaohjelmiin, petoksiin kuin yleiseen IT-käyttäytymiseen. Jokainen kategoria sisältää useita erilaisia mikrokoulutuksia, joissa työntekijä etenee oman osaamisensa mukaan ja nostaa omaa tietoturvatietoisuuttaan.
 
-Jokainen yrityksesi työntekijä voi suorittaa moduuleita miltä tahansa laitteelta. Koska koulutus mukautuu oppimisprofiilin perusteella, siihen ei sisälly turhaa toistoa eikä kukaan voi olla oppimatta lisää.
+Jokainen yrityksesi työntekijä voi suorittaa moduuleita miltä tahansa laitteelta ilman kirjautumistietoja. Koska koulutus mukautuu oppimisprofiilin perusteella, siihen ei sisälly turhaa toistoa eikä kukaan voi olla oppimatta lisää.
 
 ## H﻿allintaportaali
 
@@ -61,9 +61,11 @@ Kaikki data on nähtävillä niin organisaatio-, ryhmä-, kuin loppukäyttäjät
 
 ## H﻿inta
 
-**Palvelulla on kiinteä kuukausihinta 3 €/kk/työntekijä sekä 990 euron kertaluontoinen avausmaksu.** Tarjoamme myös ilmaisen 30 päivän tutustumismahdollisuuden.  
+**Palvelulla on kiinteä kuukausihinta 3 €/kk/työntekijä sekä 990 euron kertaluontoinen avausmaksu.**
 
-KyberAkatemian hinta on huomaamaton suhteutettuna palvelun tarjoamaan näkyvään hyötyyn. Jo yksikin väärä klikkaus voi tuottaa muutaman sadan euron kustannuksen, kun tapahtunutta selvitetään tuntityönä ja kenties saastunut kone joudutaan puhdistamaan. 
+KyberAkatemian hinta on huomaamaton suhteutettuna palvelun tarjoamaan näkyvään hyötyyn. Jo yksikin väärä klikkaus voi tuottaa muutaman sadan euron kustannuksen, kun tapahtunutta selvitetään tuntityönä ja kenties saastunut kone joudutaan puhdistamaan. \
+\
+H﻿intaan sisältyy myös palvelun käytön analytiikka ja mahdolliset toimenpide-ehdotukset yrityksesi tietoturvan nostamiseen.
 
 ## M﻿iksi ottaa yhteyttä?
 
