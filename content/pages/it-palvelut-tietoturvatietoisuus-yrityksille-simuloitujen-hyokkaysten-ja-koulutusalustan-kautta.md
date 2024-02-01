@@ -63,9 +63,9 @@ Kaikki data on nähtävillä niin organisaatio-, ryhmä-, kuin loppukäyttäjät
 
 **Palvelulla on kiinteä kuukausihinta 3 €/kk/työntekijä sekä 990 euron kertaluontoinen avausmaksu.**
 
-KyberAkatemian hinta on huomaamaton suhteutettuna palvelun tarjoamaan näkyvään hyötyyn. Jo yksikin väärä klikkaus voi tuottaa muutaman sadan euron kustannuksen, kun tapahtunutta selvitetään tuntityönä ja kenties saastunut kone joudutaan puhdistamaan.
+KyberAkatemian hinta on huomaamaton suhteutettuna palvelun tarjoamaan näkyvään hyötyyn. Jo yksikin väärä klikkaus voi johtaa merkittäviin kustannuksiin, kun tapahtunutta selvitetään tuntityönä ja kenties saastunut kone joudutaan puhdistamaan. Puhumattakaan pahimmillaan tilanteista, joissa varomattomat klikkaukset johtavat yritysverkon hallinnan, mahdollisesti jopa yrityksen kaiken tiedon menetykseen. 
 
-H﻿intaan sisältyy myös palvelun käytön analytiikka ja mahdolliset toimenpide-ehdotukset yrityksesi tietoturvan nostamiseen.
+H﻿intaan sisältyy myös palvelun käytön analytiikka  ja mahdolliset toimenpide-ehdotukset yrityksesi tietoturvan nostamiseksi.
 
 ## M﻿iksi ottaa yhteyttä?
 
@@ -73,4 +73,6 @@ H﻿intaan sisältyy myös palvelun käytön analytiikka ja mahdolliset toimenpi
 
 Samalla rahalla on mahdotonta jälkikäteen korjata varomattomien postien avaamisien ja muiden väärien klikkausten tuomia ongelmia.
 
-TDP KyberAkatemia -palvelu kohottaa yrityksesi tietoturvatietoisuutta arjessa huomaamattomasti muiden töiden ohessa. Ei enää henkilöstölle staattisia massaluentoja vanhentuneeseen tietoon pohjautuen, vaan uusinta tietoa sopivina paloina annosteltuina juuri työntekijän kannalta oikealla hetkellä.
+TDP KyberAkatemia -palvelu kohottaa yrityksesi tietoturvatietoisuutta arjessa huomaamattomasti muiden töiden ohessa. Ei enää henkilöstölle staattisia massaluentoja vanhentuneeseen tietoon pohjautuen, vaan uusinta tietoa sopivina paloina annosteltuina juuri työntekijän kannalta oikealla hetkellä muun työn lomassa.
+
+**V﻿oiko tehokkaasta tietoturvasta oikeasti maksaa liikaa?**
