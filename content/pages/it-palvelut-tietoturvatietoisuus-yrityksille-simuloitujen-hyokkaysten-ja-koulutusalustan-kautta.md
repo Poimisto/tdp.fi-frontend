@@ -20,7 +20,9 @@ head:
 
 **Yrityksen tietoturvan heikoin lenkki on käyttäjä. Tietoturvan parantamiseksi on järkevää tarjota jokaiselle käyttäjälle tukea ja koulutusalusta oman tietoturvatietoisuuden kehittämiseksi ja kalliiden virheiden välttämiseksi.**
 
-Hanki yrityksesi tietoturvatietoisuuden nostamiseen TDP KyberAkatemia -palvelu. Se tarjoaa älykkään alustan toteuttaa automaattinen, simuloitu tietojenkalasteluhyökkäys käyttäjän sähköpostiin 2 krt/kk tai jopa useammin. Palvelu toimii myös henkilökohtaisena, interaktiivisena koulutusalustana, jossa työntekijät aidosti oppivat turvallista IT-käyttäytymistä.
+Hanki yrityksesi tietoturvatietoisuuden nostamiseen TDP KyberAkatemia -palvelu. Se tarjoaa älykkään alustan toteuttaa automaattinen, simuloitu tietojenkalasteluhyökkäys käyttäjän sähköpostiin 2 krt/kk tai jopa useammin.
+
+Palvelu toimii myös henkilökohtaisena, interaktiivisena koulutusalustana, jossa työntekijät aidosti oppivat turvallista IT-käyttäytymistä.
 
 ## T﻿DP KyberAkatemia
 
