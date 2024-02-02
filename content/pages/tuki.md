@@ -3,16 +3,23 @@ path: /it-kayttajatuki
 thumbnail: /assets/tuki2-1200-x-627.jpg
 date: 2021-08-06T06:59:34.562Z
 head:
-  title: Käyttäjätuki ihmiseltä ihmiselle
+  title: IT-käyttäjätuki ihmiseltä ihmiselle
   description: TDP:n käyttäjätuki on olemassa yrityksesi IT-ongelmien nopeaan,
     helppoon ratkaisemiseen. Käyttäjätukemme kulkee yrityksesi mukana niin
     arkisin kuin viikonloppuisin kokonaisvastuulla, jossa yrityksesi ei tarvitse
     tehdä muuta kuin antaa tarkkoja ongelmakuvauksia.
-  keywords: TDP Tuki, käyttäjätuki, IT-tuki, yritysten IT-tuki, ATK-tuki
+  keywords: TDP Käyttäjätuki, käyttäjätuki, IT-tuki, yritysten IT-tuki, ATK-tuki,
+    IT-käyttäjätuki, tukipalvelu, tukipyyntö
 ---
-![TDP käyttäjätuki.](/assets/tuki2-1200-x-627.jpg)
+![TDP Käyttäjätuki – IT-käyttäjätuki ihmiseltä ihmiselle.](/assets/tuki2-1200-x-627.jpg)
 
-# TDP:n käyttäjätuki
+# TDP Käyttäjätuki
+
+**Tarvitseeko yrityksesi käyttäjätukea, joka vastaa viipymättä jokaiseen yhteydenottoon, selittää helpolla suomen kielellä toimenpiteet ongelmaan ja tuotetaan kiinteällä, järkevällä kuukausihinnalla?**
+
+TDP Käyttäjätuki tarjoaa ihmisystävällisen IT-käyttäjätuen jokaiselle asiakkaallemme. Meillä käyttäjätuki tarjotaan ihmiseltä ihmiselle ymmärtäen, että asiakkaalle ongelma on aito ja hän haluaa siihen nopeasti ratkaisun.
+
+TDP Käyttäjätuki koostuu täysin yrityksemme omasta henkilöstöstä, jolta löytyy asiantuntemusta ratkaista pulmat niin sähköpostin käytössä, ohjelmistojen lataamisessa, salasanojen palauttamisessa kuin kaikissa muissa toiminnallisissa IT-pulmissa.
 
 ## IT-tuen käyttöohjeet
 
@@ -28,7 +35,7 @@ Kirjoita otsikkoon osuva kuvaus ongelmasta, kuten “Liittymän avaus” tai “
 toimi”. Kuvaa viestissä ongelma mahdollisimman yksityiskohtaisesti, jotta henkilökuntamme
 osaa kartoittaa ongelman pitkälle itsenäisesti.
 
-Tarvittaessa lataa tästä TDP:n etätuen mahdollistava [Teamviewer-etätukisovellus](<https://get.teamviewer.com/vcgecef>). 
+Tarvittaessa lataa tästä TDP:n etätuen mahdollistava [Teamviewer-etätukisovellus](https://get.teamviewer.com/vcgecef). 
 
 ### P﻿uhelintuki
 
