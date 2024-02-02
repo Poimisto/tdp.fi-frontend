@@ -1,11 +1,14 @@
 ---
-path: /tuki
+path: /it-kayttajatuki
 thumbnail: /assets/tuki2-1200-x-627.jpg
 date: 2021-08-06T06:59:34.562Z
 head:
-  title: Tekninen tuki
-  description: Tietoa teknisestä tuesta
-  keywords: TDP Tuki
+  title: Käyttäjätuki ihmiseltä ihmiselle
+  description: TDP:n käyttäjätuki on olemassa yrityksesi IT-ongelmien nopeaan,
+    helppoon ratkaisemiseen. Käyttäjätukemme kulkee yrityksesi mukana niin
+    arkisin kuin viikonloppuisin kokonaisvastuulla, jossa yrityksesi ei tarvitse
+    tehdä muuta kuin antaa tarkkoja ongelmakuvauksia.
+  keywords: TDP Tuki, käyttäjätuki, IT-tuki, yritysten IT-tuki, ATK-tuki
 ---
 ![TDP käyttäjätuki.](/assets/tuki2-1200-x-627.jpg)
 
