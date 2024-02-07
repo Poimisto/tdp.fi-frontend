@@ -1,5 +1,5 @@
 ---
-path: /it-kayttajatuki
+path: /tuki
 thumbnail: /assets/tuki2-1200-x-627.jpg
 date: 2021-08-06T06:59:34.562Z
 head:
