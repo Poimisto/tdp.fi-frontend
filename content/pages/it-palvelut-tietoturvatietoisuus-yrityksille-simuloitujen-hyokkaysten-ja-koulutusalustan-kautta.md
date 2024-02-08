@@ -19,9 +19,9 @@ contactForm: Ota yhteyttä
 
 # Tietoturvatietoisuus paremmaksi simuloitujen hyökkäysten ja koulutusalustan kautta
 
-**Yrityksen tietoturvan heikoin lenkki on käyttäjä. Tietoturvan parantamiseksi on järkevää tarjota jokaiselle käyttäjälle tukea ja koulutusalusta oman tietoturvatietoisuuden kehittämiseksi ja kalliiden virheiden välttämiseksi.**
+**Yrityksen tietoturvan heikoin lenkki on käyttäjä. Tietoturvan parantamiseksi on järkevää tarjota jokaiselle käyttäjälle tukea ja koulutusalusta oman tietoturvatietoisuuden kehittämiseksi ja kalliiden virheiden välttämiseksi – hanki TDP KyberAkatemia -palvelu.**
 
-Hanki yrityksesi tietoturvatietoisuuden nostamiseen TDP KyberAkatemia -palvelu. Se tarjoaa älykkään alustan toteuttaa automaattinen, simuloitu tietojenkalasteluhyökkäys käyttäjän sähköpostiin.
+TDP KyberAkatemia -palvelu tarjoaa älykkään tavan toteuttaa automaattinen, simuloitu tietojenkalasteluhyökkäys käyttäjän sähköpostiin.
 
 Palvelu toimii myös henkilökohtaisena, interaktiivisena koulutusalustana, jossa työntekijät aidosti oppivat turvallista IT-käyttäytymistä.
 
@@ -61,7 +61,7 @@ Kaikki data on nähtävillä niin organisaatio-, ryhmä-, kuin loppukäyttäjät
 
 ## H﻿inta
 
-**Palvelulla on kiinteä kuukausihinta 3 €/kk/työntekijä sekä 990 euron kertaluontoinen avausmaksu.**
+**Palvelulla on kiinteä kuukausihinta 3 €/kk/työntekijä sekä 990 euron kertaluontoinen avausmaksu palvelun integroimisesta yrityksesi IT-infraan.**
 
 KyberAkatemian hinta on huomaamaton suhteutettuna palvelun tarjoamaan näkyvään hyötyyn. Jo yksikin väärä klikkaus voi johtaa merkittäviin kustannuksiin, kun tapahtunutta selvitetään tuntityönä ja kenties saastunut kone joudutaan puhdistamaan. Puhumattakaan pahimmillaan tilanteista, joissa varomattomat klikkaukset johtavat yritysverkon hallinnan, mahdollisesti jopa yrityksen kaiken tiedon menetykseen. 
 
