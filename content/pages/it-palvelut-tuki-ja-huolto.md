@@ -1,7 +1,7 @@
 ---
 template: page
 path: /it-palvelut/tuki-ja-huolto
-thumbnail: /assets/huoltopalvelu-tdp.jpg
+thumbnail: /assets/tuki-huolto-tdp.jpg
 head:
   title: Yrityksen työntekijöiden etätuki ja laitehuolto- TDP
   description: TDP:n kehuttu tuki- ja huoltopalvelu panostaa huoltopyyntöjen
@@ -16,7 +16,7 @@ breadcrumb:
   - label: Tukipalvelu
 date: 2023-11-11T11:54:21.839Z
 ---
-![TDP tarjoaa ripeät laitetoimitukset ja sujuvan laitehuollon.](/assets/huoltopalvelu-tdp.jpg)
+![TDP tarjoaa ripeät laitetoimitukset ja sujuvan laitehuollon.](/assets/tuki-huolto-tdp.jpg)
 
 # Tuki- ja huoltopalvelun avulla minimoit keskeytykset
 
