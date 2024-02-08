@@ -1,5 +1,5 @@
 ---
-path: /it-palvelut/tietoturvatietoisuus-yrityksille-simuloitujen-hyokkaysten-ja-koulutusalustan-kautta
+path: /tdp-kyberakatemia
 thumbnail: /assets/kyberakatemia-1280x800.jpg
 date: 2024-02-01T09:11:16.383Z
 head:
