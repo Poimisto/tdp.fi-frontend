@@ -26,7 +26,9 @@ Alla näet esimerkkejä suosittelemistamme yrityskäyttöön soveltuvista konepa
 
 ## TDP:stä kaikki laitemerkit yrityskäyttöön
 
-Leasing-sopimukseen kuuluvat tietokoneet ja muun tietotekniikan voit hankkia 1-5 vuoden sopimusajalla. Löydät hyllystämme kaikki yrityksille parhaiten soveltuvat laitemerkit:
+Leasing-sopimukseen kuuluvat tietokoneet ja muun tietotekniikan voit hankkia 1-5 vuoden sopimusajalla. 
+
+Löydät hyllystämme kaikki yrityksille parhaiten soveltuvat laitemerkit:
 
 * D﻿ell
 * A﻿pple
@@ -36,7 +38,7 @@ Leasing-sopimukseen kuuluvat tietokoneet ja muun tietotekniikan voit hankkia 1-5
 
 ## Huomioi laitetakuu
 
-Suosittelemme 3 vuoden sopimusaikaa, jolloin laitteistoon sisältyy koko sopimusajan kattava takuu. T﻿arjoamme yrityksille vain järkevällä takuulla varustettuja laitteita, jotka varmasti kestävät vaativan yrityskäytön.
+Suosittelemme 3 vuoden sopimusaikaa, jolloin laitteistoon sisältyy koko sopimusajan kattava onsite-takuu. T﻿arjoamme yrityksille vain järkevällä takuulla varustettuja laitteita, jotka varmasti kestävät vaativan yrityskäytön.
 
 O﻿ta yhteyttä, niin kerromme, miksi kuluttajakäyttöön suunniteltuja laitteita ei kannata hankkia omaan yritykseesi ja annamme viimeisimmän tarjouksemme!
 
