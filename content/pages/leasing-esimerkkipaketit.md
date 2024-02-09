@@ -1,7 +1,7 @@
 ---
 path: /tietokone-leasing-esimerkkipaketit
 head:
-  title: Tietokone-leasing - Esimerkkipaketit - TDP
+  title: Tietokone-leasing - Esimerkkipaketit
   keywords: leasing-paketit, esimerkkipaketit, tietokone-leasing
   description: TDP tarjoaa monimerkkitalona tietokoneet ja kannettavat juuri
     yrityksesi kaipaamilla laitemerkeillä ja räätälöidyillä
