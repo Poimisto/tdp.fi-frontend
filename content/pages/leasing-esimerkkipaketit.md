@@ -14,9 +14,12 @@ breadcrumb:
   - label: Tietokone-leasing
     path: /tietokone-leasing
   - label: Esimerkkipaketit
+thumbnail: /assets/leasing-esimerkkipaketit.jpg
 date: 2023-06-29T07:50:19.123Z
 contactForm: Ota yhteyttä
 ---
+![](/assets/leasing-esimerkkipaketit.jpg)
+
 # Leasing-konepaketteja tyytyväisille asiakkaille
 
 Alla näet esimerkkejä suosittelemistamme yrityskäyttöön soveltuvista konepaketeista hintoineen. Leasing-sopimukseen voidaan lisäksi liittää räätälöidysti kaikki tarvittava tietotekniikka.
@@ -36,6 +39,5 @@ Leasing-sopimukseen kuuluvat tietokoneet ja muun tietotekniikan voit hankkia 1-5
 Suosittelemme 3 vuoden sopimusaikaa, jolloin laitteistoon sisältyy koko sopimusajan kattava takuu. T﻿arjoamme yrityksille vain järkevällä takuulla varustettuja laitteita, jotka varmasti kestävät vaativan yrityskäytön.
 
 O﻿ta yhteyttä, niin kerromme, miksi kuluttajakäyttöön suunniteltuja laitteita ei kannata hankkia omaan yritykseesi ja annamme viimeisimmän tarjouksemme!
-
 
 <ListOfLeasingPackages />
