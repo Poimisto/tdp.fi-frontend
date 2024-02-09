@@ -3,7 +3,7 @@ template: page
 path: /it-palvelut/tuki-ja-huolto
 thumbnail: /assets/tuki-huolto-tdp.jpg
 head:
-  title: Yrityksen työntekijöiden etätuki ja laitehuolto- TDP
+  title: Yrityksen työntekijöiden etätuki ja laitehuolto
   description: TDP:n kehuttu tuki- ja huoltopalvelu panostaa huoltopyyntöjen
     nopeaan vasteaikaan.
   keywords: IT etätuki, IT lähituki, IT puhelintuki, työntekijöiden etätuki
