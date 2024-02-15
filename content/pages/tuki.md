@@ -35,7 +35,9 @@ Kirjoita otsikkoon osuva kuvaus ongelmasta, kuten “Liittymän avaus” tai “
 toimi”. Kuvaa viestissä ongelma mahdollisimman yksityiskohtaisesti, jotta henkilökuntamme
 osaa kartoittaa ongelman pitkälle itsenäisesti.
 
-Tarvittaessa lataa tästä TDP:n etätuen mahdollistava [Teamviewer-etätukisovellus](https://get.teamviewer.com/vcgecef). 
+### Teamviewer-etätukisovellus
+
+Lataa tästä TDP:n etätuen mahdollistava [Teamviewer-etätukisovellus](https://get.teamviewer.com/vcgecef). 
 
 ### P﻿uhelintuki
 
