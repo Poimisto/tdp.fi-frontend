@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 ---
 ![Yrityksen IT-osasto.](/assets/uusi-yrittaja-tinified-1280x800.png)
 
-# TDP tarjoaa yritykselle oman IT-osaston
+# TDP tarjoaa yrityksellesi oman IT-osaston
 
 **TDP toteuttaa laitetoimitusten lisäksi myös IT-ympäristön hallinnan palveluita kokonaisvaltaisesti tai erikseen valikoituna.** 
 
