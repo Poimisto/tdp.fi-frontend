@@ -25,7 +25,7 @@
   environment = { GATSBY_STAGE = "branch", GATSBY_ContactApiEndpoint = 'https://ofixn2kvz7.execute-api.eu-north-1.amazonaws.com/v1' }
 
 [context.deploy-preview]
-  environment = { GATSBY_STAGE = "preview" GATSBY_ContactApiEndpoint = 'https://ofixn2kvz7.execute-api.eu-north-1.amazonaws.com/v1'  }
+  environment = { GATSBY_STAGE = "preview", GATSBY_ContactApiEndpoint = 'https://ofixn2kvz7.execute-api.eu-north-1.amazonaws.com/v1'  }
 
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
