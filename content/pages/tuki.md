@@ -37,7 +37,7 @@ osaa kartoittaa ongelman pitkälle itsenäisesti.
 
 ### Teamviewer-etätukisovellus
 
-Lataa tästä TDP:n etätuen mahdollistava [Teamviewer-etätukisovellus](https://get.teamviewer.com/vcgecef). 
+Lataa tästä TDP:n etätuen mahdollistava [Teamviewer-etätukisovellus](https://get.teamviewer.com/vcgecef).
 
 ### P﻿uhelintuki
 
