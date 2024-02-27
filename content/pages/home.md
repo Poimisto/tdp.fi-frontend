@@ -132,7 +132,7 @@ Luota ripeään, suomenkieliseen palvelukumppaniin!
 
 Tampereen Datapiste Oy on vuonna 2007 perustettu IT-palveluyritys. Toimipisteemme sijaitsevat Tampereella ja Helsingissä, mutta palvelemme yrityksiä myös muualla Suomessa.
 
-Ydinosaamistamme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä. Koulutettu, kokenut henkilökuntamme palvelee nopealla vasteajalla niin uusien laitteiden asennuksissa kuin vikatilanteissa.
+Ydinosaamistamme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä. Koulutettu ja kokenut henkilökuntamme palvelee nopealla vasteajalla niin uusien laitteiden asennuksissa kuin vikatilanteissa.
 
 <CallToAction bgColor="brand" url="https://bit.ly/3zsDs3q" align="center">Tilaa uutiskirjeemme</CallToAction>
 
