@@ -25,7 +25,7 @@ TDP KyberAkatemia -palvelu tarjoaa älykkään tavan toteuttaa automaattinen, si
 
 Palvelu toimii myös henkilökohtaisena, interaktiivisena koulutusalustana, jossa työntekijät aidosti oppivat turvallista IT-käyttäytymistä.
 
-## T﻿DP KyberAkatemia
+## Mitä TDP KyberAkatemia -palvelu tarjoaa yritykselle?
 
 **TDP KyberAkatemia varmistaa yrityksesi täyttävän kyberturvallisuutta koskevan lainsäädännön tietoturvakoulutusten osalta.**
 
@@ -43,7 +43,7 @@ Sähköpostiin toteutetut simuloidut hyökkäykset auttavat työntekijääsi opp
 
 Jos ja kun työntekijä klikkaa haitallista linkkiä, ohjelmisto antaa hänelle välittömän palautteen ja ohjeet toimia jatkossa paremmin.
 
-## Työntekijöiden t﻿ietoturvakoulutus 
+## Työntekijöiden t﻿ietoturvakoulutus
 
 **Alustan tarjoama tietoturvakoulutus koostuu pienistä, 5 minuutin yksilöllisistä koulutusmoduuleista, joita työntekijä suorittaa itsenäisesti omaan tahtiinsa.**
 
