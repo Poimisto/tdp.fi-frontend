@@ -17,9 +17,9 @@ contactForm: Ota yhteyttä
 ---
 ![](/assets/tdp-kyberakatemia-nostaa-tietoturvatietoisuutta.png)
 
-# Tietoturvatietoisuus paremmaksi simuloitujen hyökkäysten ja koulutusalustan kautta
+# Tietoturvatietoisuus korkeammaksi simuloitujen hyökkäysten ja koulutusalustan kautta
 
-**Yrityksen tietoturvan heikoin lenkki on käyttäjä. Tietoturvan parantamiseksi on järkevää tarjota jokaiselle käyttäjälle tukea ja koulutusalusta oman tietoturvatietoisuuden kehittämiseksi ja kalliiden virheiden välttämiseksi – hanki TDP KyberAkatemia -palvelu.**
+**Yrityksen tietoturvan heikoin lenkki on käyttäjä. Tietoturvan parantamiseksi on järkevää tarjota jokaiselle käyttäjälle tukea eli koulutusalusta oman tietoturvatietoisuuden kehittämiseksi ja kalliiden virheiden välttämiseksi – hanki TDP KyberAkatemia -palvelu.**
 
 TDP KyberAkatemia -palvelu tarjoaa älykkään tavan toteuttaa automaattinen, simuloitu tietojenkalasteluhyökkäys käyttäjän sähköpostiin.
 
@@ -71,7 +71,7 @@ H﻿intaan sisältyy myös palvelun käytön analytiikka  ja mahdolliset toimenp
 
 **Vain 36 eurolla vuodessa yrityksesi varmistaa yhden työntekijän fiksun IT-käyttäytymisen ja ennaltaehkäisee kalliit vahingot.**
 
-Samalla rahalla on mahdotonta jälkikäteen korjata varomattomien postien avaamisien ja muiden väärien klikkausten tuomia ongelmia.
+Samalla rahalla on mahdotonta jälkikäteen korjata varomattomien postien avaamisien ja muiden väärien klikkausten tuomia ongelmia. NIS2-direktiivin vaatimuksiin on myös välttämätöntä vastata.
 
 TDP KyberAkatemia -palvelu kohottaa yrityksesi tietoturvatietoisuutta arjessa huomaamattomasti muiden töiden ohessa. Ei enää henkilöstölle staattisia massaluentoja vanhentuneeseen tietoon pohjautuen, vaan uusinta tietoa sopivina paloina annosteltuina juuri työntekijän kannalta oikealla hetkellä muun työn lomassa.
 
