@@ -71,7 +71,7 @@ H﻿intaan sisältyy myös palvelun käytön analytiikka  ja mahdolliset toimenp
 
 **Vain 36 eurolla vuodessa yrityksesi varmistaa yhden työntekijän fiksun IT-käyttäytymisen ja ennaltaehkäisee kalliit vahingot.**
 
-Samalla rahalla on mahdotonta jälkikäteen korjata varomattomien postien avaamisien ja muiden väärien klikkausten tuomia ongelmia. NIS2-direktiivin vaatimuksiin on myös välttämätöntä vastata.
+Samalla rahalla on mahdotonta jälkikäteen korjata varomattomien postien avaamisien ja muiden väärien klikkausten tuomia ongelmia. NIS2-direktiivin vaatimuksiin on myös välttämätöntä vastata ja siihen tietoturvakoulutus verkossa on kustannustehokkain tapa.
 
 TDP KyberAkatemia -palvelu kohottaa yrityksesi tietoturvatietoisuutta arjessa huomaamattomasti muiden töiden ohessa. Ei enää henkilöstölle staattisia massaluentoja vanhentuneeseen tietoon pohjautuen, vaan uusinta tietoa sopivina paloina annosteltuina juuri työntekijän kannalta oikealla hetkellä muun työn lomassa.
 
