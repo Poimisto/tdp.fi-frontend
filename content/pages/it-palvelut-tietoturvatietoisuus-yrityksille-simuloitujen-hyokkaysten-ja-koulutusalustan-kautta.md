@@ -1,6 +1,6 @@
 ---
 path: /it-palvelut/tdp-kyberakatemia
-thumbnail: /assets/tdp-kyberakatemia-1280x800.jpg
+thumbnail: /assets/tdp-kyberakatemia-nostaa-turvatietoisuutta.png
 date: 2024-02-01T09:11:16.383Z
 head:
   title: Tietoturvatietoisuus korkeammaksi
@@ -15,7 +15,7 @@ head:
     tietojenkalastelu, simuloidut hyökkäykset, phishing, huijausviestit
 contactForm: Ota yhteyttä
 ---
-![](/assets/tdp-kyberakatemia-1280x800.jpg)
+![](/assets/tdp-kyberakatemia-nostaa-turvatietoisuutta.png)
 
 # Tietoturvatietoisuus paremmaksi simuloitujen hyökkäysten ja koulutusalustan kautta
 
