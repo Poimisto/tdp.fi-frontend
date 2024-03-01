@@ -43,7 +43,7 @@ Sähköpostiin toteutetut simuloidut hyökkäykset auttavat työntekijääsi opp
 
 Jos ja kun työntekijä klikkaa haitallista linkkiä, ohjelmisto antaa hänelle välittömän palautteen ja ohjeet toimia jatkossa paremmin.
 
-## T﻿ietoturvakoulutus
+## Työntekijöiden t﻿ietoturvakoulutus 
 
 **Alustan tarjoama tietoturvakoulutus koostuu pienistä, 5 minuutin yksilöllisistä koulutusmoduuleista, joita työntekijä suorittaa itsenäisesti omaan tahtiinsa.**
 
