@@ -1,6 +1,6 @@
 ---
 path: /tuki
-thumbnail: /assets/tdp-tuki-tiedot.jpg
+thumbnail: /assets/tdp-tuki-yhteystiedot.jpg
 date: 2021-08-06T06:59:34.562Z
 head:
   title: IT-käyttäjätuki ihmiseltä ihmiselle
@@ -11,7 +11,7 @@ head:
   keywords: TDP Käyttäjätuki, käyttäjätuki, IT-tuki, yritysten IT-tuki, ATK-tuki,
     IT-käyttäjätuki, tukipalvelu, tukipyyntö
 ---
-![TDP Käyttäjätuki – IT-käyttäjätuki ihmiseltä ihmiselle.](/assets/tdp-tuki-tiedot.jpg)
+![TDP Käyttäjätuki – IT-käyttäjätuki ihmiseltä ihmiselle.](/assets/tdp-tuki-yhteystiedot.jpg)
 
 # TDP Käyttäjätuki
 
