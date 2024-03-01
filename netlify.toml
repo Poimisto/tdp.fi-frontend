@@ -16,16 +16,16 @@
 
 
 [context.production]
-  environment = { GATSBY_STAGE = "prod", GATSBY_ContactApiEndpoint = 'https://gojmmrdkn3.execute-api.eu-north-1.amazonaws.com/v1' }
+  environment = { GATSBY_STAGE = "prod", GATSBY_ContactApiEndpoint = 'https://v7hh60q7i3.execute-api.eu-north-1.amazonaws.com/v1' }
 
 [context.dev] # 'dev' is a branch name
-  environment = { GATSBY_STAGE = "dev", GATSBY_ContactApiEndpoint = 'https://ofixn2kvz7.execute-api.eu-north-1.amazonaws.com/v1' }
+  environment = { GATSBY_STAGE = "dev", GATSBY_ContactApiEndpoint = ' https://p3cajda7vh.execute-api.eu-north-1.amazonaws.com/v1' }
 
 [context.branch-deploy]
-  environment = { GATSBY_STAGE = "branch", GATSBY_ContactApiEndpoint = 'https://ofixn2kvz7.execute-api.eu-north-1.amazonaws.com/v1' }
+  environment = { GATSBY_STAGE = "branch", GATSBY_ContactApiEndpoint = 'https://p3cajda7vh.execute-api.eu-north-1.amazonaws.com/v1' }
 
 [context.deploy-preview]
-  environment = { GATSBY_STAGE = "preview" GATSBY_ContactApiEndpoint = 'https://ofixn2kvz7.execute-api.eu-north-1.amazonaws.com/v1'  }
+  environment = { GATSBY_STAGE = "preview" GATSBY_ContactApiEndpoint = ' https://p3cajda7vh.execute-api.eu-north-1.amazonaws.com/v1'  }
 
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
