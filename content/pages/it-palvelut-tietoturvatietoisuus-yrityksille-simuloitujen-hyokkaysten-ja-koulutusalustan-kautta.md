@@ -47,13 +47,13 @@ Jos ja kun työntekijä klikkaa haitallista linkkiä, ohjelmisto antaa hänelle 
 
 **Alustan tarjoama tietoturvakoulutus koostuu pienistä, 5 minuutin yksilöllisistä koulutusmoduuleista, joita työntekijä suorittaa itsenäisesti omaan tahtiinsa.**
 
-Moduuleissa perehdytään alan viimeisimpään tietoon, niin haittaohjelmiin, petoksiin kuin yleiseen IT-käyttäytymiseen. Jokainen kategoria sisältää useita erilaisia mikrokoulutuksia, joissa työntekijä etenee oman osaamisensa mukaan ja nostaa omaa tietoturvatietoisuuttaan.
+Moduuleissa perehdytään alan viimeisimpään tietoon, niin haittaohjelmiin, petoksiin kuin yleiseen IT-käyttäytymiseen. Jokainen kategoria sisältää useita erilaisia mikrokoulutuksia, joissa työntekijä etenee oman osaamisensa mukaan ja korottaa tasaisesti omaa tietoturvatietoisuuttaan. 
 
 Jokainen yrityksesi työntekijä voi suorittaa moduuleita miltä tahansa laitteelta ilman kirjautumistietoja. Koska koulutus mukautuu oppimisprofiilin perusteella, siihen ei sisälly turhaa toistoa eikä kukaan voi olla oppimatta lisää.
 
 ## H﻿allintaportaali
 
-**Yrityksesi saama hyöty on selvästi todennettavissa palvelun hallintaportaalissa.** 
+**Yrityksesi saama hyöty on selvästi todennettavissa KyberAkatemian hallintaportaalissa.** 
 
 Portaali tarjoaa kattavan tapahtumalokin, josta yrityksesi näkee esimerkiksi simuloitujen hyökkäysten määrän, simulaatiolinkkien klikkaukset ja suoritetut oppimismoduulit. 
 
