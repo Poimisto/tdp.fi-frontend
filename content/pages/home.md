@@ -96,7 +96,7 @@ Lue tyytyväisten asiakkaidemme kokemuksista ja liity heidän joukkoonsa!
 
 <div className="HeroBlockImage">
 
-![Ohjelmistot yrityksille TDP:ltä.](/assets/tdp-myynti-tiedot.jpg)
+![Ohjelmistot yrityksille TDP:ltä.](/assets/tdp-myynti-yhteystiedot.jpg)
 
 </div>
 
