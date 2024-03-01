@@ -23,7 +23,7 @@ contactForm: Ota yhteyttä
 
 *"Metecno Oy oli kahden työntekijän startup-yritys vuonna 2011, kun hankin Datapisteeltä yhden kannettavan ja hieman myöhemmin oman serverin. Kaikki meni hienosti, joten yritykseni kasvun myötä keskitin vähitellen kaiken IT-tarpeistamme huolehtimisen heille.*
 
-*Nyt yrityksessäni on kymmenen työntekijää ja teknologia-alan yrityksenä palvelutarpeemme on mittava. Kokonaisuuteen kuuluvat mm. G-Suite, yritykselle erittäin tärkeä varmuuskopiointi, virustorjunta, serveri, kotisivut, domain, kaikki laitehankinnat puhelimista ja tietokoneista hiiriin ja tulostimiin. TDP:n osaaminen on niin laajaa, että uutta toimitilaa rakennettaessa saimme IT-infrankin suunnitteluun ja toteutukseen heiltä apua, muun muassa serverihuoneen ja valvontakameroiden osalta.*
+*Nyt yrityksessäni on kymmenen työntekijää ja teknologia-alan yrityksenä palvelutarpeemme on mittava. Kokonaisuuteen kuuluvat mm. Google Workspace, yritykselle erittäin tärkeä varmuuskopiointi, virustorjunta, serveri, kotisivut, domain, kaikki laitehankinnat puhelimista ja tietokoneista hiiriin ja tulostimiin. TDP:n osaaminen on niin laajaa, että uutta toimitilaa rakennettaessa saimme IT-infrankin suunnitteluun ja toteutukseen heiltä apua, muun muassa serverihuoneen ja valvontakameroiden osalta.*
 
 *En ole edes harkinnut nykyisen kokonaisuuden kilpailuttamista, koska kaikki toimii helposti ja luotettavasti. Yrityksen palvelualttius on erinomainen, serverin ylläpitohuolto tapahtuu huomaamattomasti ja saamme tarvitsemamme laadukkaat laitteet usein jo seuraavana päivänä. Pelkkä hinta ei riitä syyksi, koska tiedän Datapisteen palvelun olevan myös kustannustehokas.*
 

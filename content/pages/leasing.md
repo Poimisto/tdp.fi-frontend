@@ -7,7 +7,7 @@ head:
   description: Koko yrityksen tarvitsema tietotekniikka voidaan hankkia
     leasing-sopimuksella. Työntekijöiden tietokoneiden lisäksi
     leasing-sopimukseen voi kuulua esimerkiksi palvelinkoneet,
-    käyttöjärjestelmät, perusohjelmistot sekä tietoturva
+    käyttöjärjestelmät, perusohjelmistot sekä tietoturva.
   keywords: tietokone-leasing, it-leasing, leasing rahoitus
   Keywords: ddsasd
 breadcrumb:
@@ -67,9 +67,9 @@ Tietokone-leasing sopii kaikille vakavaraisille yrityksille. Saatte rahoituspä�
 
 Leasingsopimuksen pituus voi olla 1-5 vuotta.
 
-Pituus kannattaa valita laitteiston elinkaaren mukaan. Yleisin sopimuskauden pituus on 2 tai 3 vuotta. Tällöin myös takuu on voimassa koko sopimuskauden
+Pituus kannattaa valita laitteiston elinkaaren mukaan. Yleisin sopimuskauden pituus on 2 tai 3 vuotta. Tällöin myös takuu on voimassa koko sopimuskauden.
 
-Rahoitussopimus solmitaan rahoitusyhtiön kanssa ja Tampereen Datapiste toimittaa sopimukseen kuuluvan laitteiston
+Rahoitussopimus solmitaan rahoitusyhtiön kanssa ja TDP toimittaa sopimukseen kuuluvan laitteiston.
 
 ## Miksi leasing-sopimus kauttamme on yrityksellesi turvallinen valinta?
 

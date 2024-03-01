@@ -15,17 +15,19 @@ breadcrumb:
   - path: /ohjelmistot
     label: ohjelmistot
   - label: Dropbox
-thumbnail: /assets/dropbox-1280x800.jpg
+thumbnail: /assets/dropbox-netlify-1280-x-800.jpg
 ---
-![Dropbox - pilvipohjainen tiedostonjakopalvelu](/assets/dropbox-1280x800.jpg)
-# Dropbox
+![Dropbox tallennustila jälleenmyyjältä | TDP.](/assets/dropbox-netlify-1280-x-800.jpg)
+
+# Dropbox – tallennuspalvelu yrityksille
+
 **Dropbox Business on järkivalinta, kun yrityksesi tarvitsee selkeän tiedostonjakopalvelun pilvessä.** 
 
-Dropbox on luotettava, helppokäyttöinen pilviratkaisu,  jolla et maksa totuttua ylimääräistä ominaisuuksista, joita et käytä.  
+Dropbox on luotettava, helppokäyttöinen pilviratkaisu,  jolla yrityksesi ei maksa totuttua ylimääräistä turhista ominaisuuksista. 
 
 ## O﻿minaisuudet
 
-Dropbox Business on yritykselle parempi tapa saada parhaat työt tehtyä. 
+**Dropbox Business on yritykselle parempi tapa saada parhaat työt tehtyä.** 
 
 Se on yksi selkeä paikka, jossa voit nähdä, jakaa, luoda ja tehdä yhteistyötä sisällön parissa käyttämällä työkaluja, jotka jo tunnet ja joihin luotat. Dropbox on jokaisen projektin kotipesä, joten työntekijä voi pysyä synkronoituna hyppimättä sovelluksesta toiseen.  
 
@@ -33,21 +35,21 @@ Koska Dropbox Business tarjoaa todistetusti suojaa, voit suojata työsi ja asiak
 
 ## Näissä Dropbox loistaa
 
-Yli 500 miljoonaa käyttäjää ja 200 000 yritystä luottavat Dropboxiin yhteistyön tehokeinona. 
+**Yli 500 miljoonaa käyttäjää ja 200 000 yritystä luottavat Dropboxiin yhteistyön tehokeinona.** 
 
 Dropboxissa maksat yhdestä tehokkaasta 3-in-1 työkalusta, jolla tallentaa tiedostoja, jakaa ja varmuuskopioida niitä. Dropbox on yhteensopiva niin Windows-, Mac-, Android- kuin iOS-käyttöjärjestelmien kanssa.
 
 Dropbox niputtaa toimivaksi kokonaisuudeksi sekä pilvisisällön, pikakuvakkeet että tavalliset tiedostot. Se myös integroituu hyvin muiden tunnettujen työsovellusten kanssa, kuten:
 
-* Zoom
+* **Zoom**
 * Slack
-* Adobe Creative Cloud
+* **Adobe Creative Cloud**
 * Salesforce
-* Gmail
+* **Gmail**
 
 ## Dropboxin hinta
 
-Dropbox tarjoaa erikokoisille yrityksille juuri sopivan kokoiset paketit. 
+**Dropbox tarjoaa erikokoisille yrityksille juuri sopivan kokoiset paketit.** 
 
 Paketin voi valita niin kuukausi- kuin vuosisopimukseen sidottuna:
 

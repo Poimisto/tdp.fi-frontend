@@ -1,6 +1,7 @@
 ---
 template: page
 path: /it-palvelut/elinkaaripalvelu
+thumbnail: /assets/elinkaaripalvelu-tdp.jpg
 head:
   title: IT-laitteiden elinkaarihallinta - TDP
   description: Elinkaaripalvelu on yrityksen laitekannan olennainen
@@ -17,19 +18,25 @@ breadcrumb:
   - label: Elinkaaripalvelu
 date: 2023-02-05T08:25:26.680Z
 ---
+![Elinkaaripalvelu kehittää yrityksen IT-laitteiston kunnossapitoa - TDP.](/assets/elinkaaripalvelu-tdp.jpg)
+
 # Elinkaaripalvelu parantaa organisaation IT-laitteiston käytön tehokkuutta
 
-TDP:n elinkaaripalvelu koostuu kolmesta osasta: Laitteiden 1) hankinnasta, 2) hallinnasta sekä 3) kierrätyksestä. 
+**TDP:n elinkaaripalvelu koostuu kolmesta osasta eli laitteiden *hankinnasta*, *hallinnasta* sekä *kierrätyksestä*.**
 
 TDP tarjoaa yrityksille IT-laitteiston elinkaarihallintaa, johon voidaan sisällyttää työntekijöiden tietokoneet ja puhelimet, toimiston laitteet, kuten tulostimet ja kopiokoneet, neuvotteluhuoneiden IT-laitteet, liiketilojen infonäytöt ja yrityksen verkkolaitteet. 
 
-Käyttötarkoituksen mukaisesti valittu laite on merkittävä tekijä työtehon ja laitteiston kokonaiskustannuksen kannalta. Hankinnoissa tulee huomioida käyttöikä ja -aste sekä laitteen luotettavuus ja takuu. Osana laitekannan hallintaa seuraamme työnkekijöiden käytössä olevien tietokoneiden kapasiteetin käyttöä ja pystymme näin optimoimaan tulevia hankintoja niin, että käyttöön tulevat tietokoneet vastaavat käyttötarkoitustaan. 
+Käyttötarkoituksen mukaisesti valittu laite on merkittävä tekijä työtehon ja laitteiston kokonaiskustannuksen kannalta. Hankinnoissa tulee huomioida käyttöikä ja -aste sekä laitteen luotettavuus ja takuu. 
+
+Osana laitekannan hallintaa seuraamme työnkekijöiden käytössä olevien tietokoneiden kapasiteetin käyttöä ja pystymme näin optimoimaan tulevia hankintoja. Prosessin lopputuloksena käyttöön tulevat tietokoneet vastaavat täysin käyttötarkoitustaan. 
 
 ### IT-laitteiden hankinta
 
-TDP:n elinkaaripalvelussa laitteiden hankinta on osa jatkuvaa prosessia, jossa organisaation tapahtuma synnyttää tarpeen laitetoimitukselle. Tarve voi syntyä esimerkiksi uuden työntekijän palkkauksesta tai uuden työprojektin aloituksesta.
+TDP:n elinkaaripalvelussa laitteiden hankinta on osa jatkuvaa prosessia, jossa organisaation tapahtuma synnyttää tarpeen laitetoimitukselle. Tarve voi syntyä esimerkiksi uuden työntekijän palkkauksesta tai uuden työprojektin aloituksesta. 
 
-Jos kyseessä on työntekijän käyttöön tuleva laite, se voidaan esiasentaa ennen toimitusta niin, että työntekijän käyttämät ohjelmistot on valmiiksi asennettu ja tarvittavat asetukset on valmiiksi määritetty. Jos kyseessä on muu laitetoimitus, kuten toimiston monitoimilaite tai työmaakoppiin asennettavat IT-laitteet, asennus käyttökuntoon tehdään toimituksen yhteydessä.
+Jos kyseessä on työntekijän käyttöön tuleva laite, se voidaan esiasentaa ennen toimitusta niin, että työntekijän käyttämät ohjelmistot on valmiiksi asennettu ja tarvittavat asetukset on valmiiksi määritetty. 
+
+Jos kyseessä on muu laitetoimitus, kuten toimiston monitoimilaite tai työmaakoppiin asennettavat IT-laitteet, asennus käyttökuntoon tehdään toimituksen yhteydessä.
 
 ### IT-laitteiden hallinta
 
@@ -39,4 +46,8 @@ Työntekijöiden työvälineiden osalta tehokkaan hallinnan edellytys [keskitett
 
 ### IT-laitteiden kierrätys
 
-Laitteiden kierrätyksellä tarkoitetaan hankittujen laitteiden tehokasta ja tietoturvallista uudelleen hyödyntämistä. Käyttötarkoituksen muuttuminen voi olla peruste hankkia uusi tarkoitukseen paremmin sopiva laite tai laite voi tulla käyttöikänsä päähän. Vanhalla laitteella voi kuitenkin olla edelleen käyttö- tai myyntiarvoa.
+Laitteiden kierrätyksellä tarkoitetaan hankittujen laitteiden tehokasta ja tietoturvallista uudelleen hyödyntämistä. 
+
+Käyttötarkoituksen muuttuminen voi olla peruste hankkia uusi, tarkoitukseen paremmin sopiva laite tai laite voi tulla käyttöikänsä päähän. Vanhalla laitteella voi kuitenkin olla edelleen käyttö- tai myyntiarvoa.
+
+K﻿aiken kaikkiaan IT-laitteiden kierrätys on tietoturvan kannalta vähintään yhtä tärkeä prosessi kuin niiden hankinta.

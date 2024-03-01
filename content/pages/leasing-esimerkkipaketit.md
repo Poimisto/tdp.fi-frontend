@@ -1,8 +1,11 @@
 ---
 path: /tietokone-leasing-esimerkkipaketit
 head:
-    title: Tietokone-leasing - Esimerkkipaketit - TDP
-    keywords: leasing-paketit, esimerkkipaketit, tietokone-leasing
+  title: Tietokone-leasing - Esimerkkipaketit
+  keywords: leasing-paketit, esimerkkipaketit, tietokone-leasing
+  description: TDP tarjoaa monimerkkitalona tietokoneet ja kannettavat juuri
+    yrityksesi kaipaamilla laitemerkeillä ja räätälöidyillä
+    komponenttiratkaisuilla muun muassa näytönohjaimien osalta.
 breadcrumb:
   - path: /
     label: TDP
@@ -11,16 +14,32 @@ breadcrumb:
   - label: Tietokone-leasing
     path: /tietokone-leasing
   - label: Esimerkkipaketit
+thumbnail: /assets/leasing-esimerkkipaketit.jpg
+date: 2023-06-29T07:50:19.123Z
 contactForm: Ota yhteyttä
 ---
+![](/assets/leasing-esimerkkipaketit.jpg)
 
-# Näitä leasing-konepaketteja olemme toimittaneet tyytyväisille asiakkaille
+# Leasing-konepaketteja tyytyväisille asiakkaille
 
-Alla olevat paketit ovat esimerkkejä suosittelemistamme yrityskäyttöön soveltuvista konepaketeista ja hinta on ilmoitettu yhden konepaketin osalta. Leasingsopimukseen voidaan lisäksi liittää kaikki tarvitsemanne tietotekniikka.
+Alla näet esimerkkejä suosittelemistamme yrityskäyttöön soveltuvista konepaketeista hintoineen. Leasing-sopimukseen voidaan lisäksi liittää räätälöidysti kaikki tarvittava tietotekniikka.
 
-Leasingsopimukseen kuuluvat tietokoneet ja muun tietotekniikan voitte hankkia 1-5 vuoden sopimusajalla. Suosittelemme yleensä 3 vuoden sopimusaikaa, sillä tällöin laitteistoon sisältyy koko sopimusajan kattava takuu.
+## TDP:stä kaikki laitemerkit yrityskäyttöön
 
-Jätä yhteydenottopyyntö, niin teemme edullisen tarjouksen yrityksenne IT-laitteista. 	
+Leasing-sopimukseen kuuluvat tietokoneet ja muun tietotekniikan voit hankkia 1-5 vuoden sopimusajalla. 
+
+Löydät hyllystämme kaikki yrityksille parhaiten soveltuvat laitemerkit:
+
+* D﻿ell
+* A﻿pple
+* Lenovo
+* HP
+* Fujitsu
+
+## Huomioi laitetakuu
+
+Suosittelemme 3 vuoden sopimusaikaa, jolloin laitteistoon sisältyy koko sopimusajan kattava onsite-takuu. T﻿arjoamme yrityksille vain järkevällä takuulla varustettuja laitteita, jotka varmasti kestävät vaativan yrityskäytön.
+
+O﻿ta yhteyttä, niin kerromme, miksi kuluttajakäyttöön suunniteltuja laitteita ei kannata hankkia omaan yritykseesi ja annamme viimeisimmän tarjouksemme!
 
 <ListOfLeasingPackages />
-

@@ -1,6 +1,6 @@
 ---
 path: /ohjelmistot/assently
-thumbnail: /assets/assently-netlify-1280-x-800.jpg
+thumbnail: /assets/assently-sahkoinen-allekirjoitus-tdp.jpg
 date: 2022-12-15T11:53:44.708Z
 head:
   title: Assently | Sähköinen allekirjoitus
@@ -10,8 +10,10 @@ head:
   keywords: assently, sähköinen allekirjoitus, henkilöllisyyden tunnistus
 contactForm: Ota yhteyttä
 ---
-![Assently takaa allekirjoituksen.](/assets/assently-netlify-1280-x-800.jpg)
-# Assently
+![Assently takaa allekirjoituksen.](/assets/assently-sahkoinen-allekirjoitus-tdp.jpg)
+
+# Assently – sähköinen allekirjoitus yrityksille
+
 **Assentlyllä korvaat ajan ja paperin allekirjoittamisessa.** 
 
 Lisäksi vahvat sähköiset tunnisteet tekevät allekirjoittamisen prosessista turvallisen kaikkialla Pohjoismaissa.

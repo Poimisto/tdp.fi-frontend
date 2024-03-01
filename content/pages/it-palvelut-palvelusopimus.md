@@ -1,10 +1,13 @@
 ---
 template: page
 path: /it-palvelut/palvelusopimus
+thumbnail: /assets/palvelusopimus-tdp-1280x800.png
 head:
-    title: IT-palvelusopimus yritykselle - TDP
-    description: 
-    keywords: IT-palvelusopimus, esiasennus, varalaitepalvelu, kapasiteetin seuranta, IT-infran kehitys
+  title: IT-palvelusopimus yritykselle - TDP
+  description: TDP:n palvelusopimus voidaan tehdä kiinteän pakettihinnoittelun
+    pohjalta tai räätälöidä yrityksesi yksittäisten tarpeiden pohjalta.
+  keywords: IT-palvelusopimus, esiasennus, varalaitepalvelu, kapasiteetin
+    seuranta, IT-infran kehitys
 contactForm: Ota yhteyttä
 breadcrumb:
   - path: /
@@ -12,7 +15,9 @@ breadcrumb:
   - path: /it-palvelut/
     label: IT-palvelut
   - label: Palvelusopimus
+date: 2023-11-11T10:51:12.451Z
 ---
+![TDP:n kaiken kattava palvelusopimus.](/assets/palvelusopimus-tdp-1280x800.png)
 
 # Palvelusopimuksella tarvitsemasi IT-ympäristö joustavasti
 
@@ -40,8 +45,4 @@ TDP:n palveluissa tietoturva on sisäänrakennettuna. Esimerkiksi elinkaaripalve
 
 ### Organisaation muut IT-palvelut
 
-Laitteiden lisäksi palvelusopimukseen voi kuulua organisaatiotason palveluita. Näitä ovat esimerkiksi puhelinliittymien ja sähköpostien hallinta, verkkotunnusten ylläpito sekä palvelinympäristöjen hallinta. 
-
-
-
-
+Laitteiden lisäksi palvelusopimukseen voi kuulua organisaatiotason palveluita. Näitä ovat esimerkiksi puhelinliittymien ja sähköpostien hallinta, verkkotunnusten ylläpito sekä palvelinympäristöjen hallinta.

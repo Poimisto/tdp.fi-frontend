@@ -3,7 +3,7 @@ path: /home
 thumbnail: /assets/tdp-logo-slogan-horizontal-rgb.png
 date: 2020-11-15T20:33:13.757Z
 head:
-  title: IT on meillä helppoa
+  title: IT-palvelukumppani yrityksille
   description: TDP on Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva yritysten
     IT-palvelukumppani. Kauttamme saatte kaikki yrityksenne tarvitsemat
     IT-laitteet ja -palvelut.
@@ -25,11 +25,18 @@ contactForm: Ota yhteyttä
 
 TDP on **Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva yritysten IT-palvelukumppani**. Saatte kauttamme kaikki yrityksenne tarvitsemat IT-laitteet ja -palvelut.
 
-Palvelemme niin startup-, PK- kuin suuryrityksiä, joille tietotekniikan toimivuus järkevällä hintatasolla on tärkeää. Toimitamme työntekijöiden koneet ja puhelimet, toimiston laitteet ja yritysverkot käyttökuntoon asennettuna. Saatte meiltä myös muut **IT-osaston palvelut palvelusopimuksella.** 
+Palvelemme niin startup-, PK- kuin suuryrityksiä, joille tietotekniikan toimivuus järkevällä hintatasolla on tärkeää. 
+
+Toimitamme työntekijöiden koneet ja puhelimet, toimiston laitteet ja yritysverkot käyttökuntoon asennettuna. Saatte meiltä myös muut **IT-osaston palvelut palvelusopimuksella.** 
 
 Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [asiakkainamme](/referenssit) on paljon eri toimialoilla toimivia yrityksiä. 
 
-Koe sinäkin asiakkaanamme tietotekniikan käytön helppous!
+Koe sinäkin asiakkaanamme tietotekniikan käytön helppous ja ota yhteyttä myyjiimme:
+
+Pauli Aalto | 040 748 3818 | pauli.aalto@tdp.fi
+
+
+Mika Mäkinen | 040 632 7090 | mika.makinen@tdp.fi
 
 </div>
 
@@ -61,11 +68,11 @@ Yrityksesi IT-tarpeiden hintaa et saa vaivattomammin selville!
 
 
 
-<HeroBlock bgColor="lightest" imageAlign="left">
+<HeroBlock bgColor="brand" imageAlign="left">
 
 <div className="HeroBlockImage">
 
-![TDP referenssit](/assets/netlify-1280-x-800-ref.png)
+![TDP referenssit](/assets/tdp-asiakasreferenssit.png)
 
 </div>
 
@@ -77,7 +84,7 @@ Tyytyväinen asiakas takaa liiketoiminnan jatkuvuuden ja tähän periaatteeseen 
 
 Lue tyytyväisten asiakkaidemme kokemuksista ja liity heidän joukkoonsa!
 
-<CallToAction bgColor="brand" url="/referenssit" align="center">Lue asiakaskokemuksista</CallToAction>
+<CallToAction bgColor="dark" url="/referenssit" align="center">Lue asiakaskokemuksista</CallToAction>
 
 </div>
 
@@ -89,7 +96,7 @@ Lue tyytyväisten asiakkaidemme kokemuksista ja liity heidän joukkoonsa!
 
 <div className="HeroBlockImage">
 
-![Ohjelmistot yrityksille TDP:ltä.](/assets/ohjelmistot-tinified.jpg)
+![Ohjelmistot yrityksille TDP:ltä.](/assets/tdp-etusivu-myynti.jpg)
 
 </div>
 
@@ -115,7 +122,7 @@ Luota ripeään, suomenkieliseen palvelukumppaniin!
 
 <div className="HeroBlockImage">
 
-![Tampereen Datapiste toimisto](/assets/image00006-min.jpeg)
+![Tampereen Datapiste toimisto](/assets/etusivu-1280x800.jpg)
 
 </div>
 
@@ -125,7 +132,7 @@ Luota ripeään, suomenkieliseen palvelukumppaniin!
 
 Tampereen Datapiste Oy on vuonna 2007 perustettu IT-palveluyritys. Toimipisteemme sijaitsevat Tampereella ja Helsingissä, mutta palvelemme yrityksiä myös muualla Suomessa.
 
-Ydinosaamistamme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä. Koulutettu, kokenut henkilökuntamme palvelee nopealla vasteajalla niin uusien laitteiden asennuksissa kuin vikatilanteissa.
+Ydinosaamistamme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä. Koulutettu ja kokenut henkilökuntamme palvelee nopealla vasteajalla niin uusien laitteiden asennuksissa kuin vikatilanteissa.
 
 <CallToAction bgColor="brand" url="https://bit.ly/3zsDs3q" align="center">Tilaa uutiskirjeemme</CallToAction>
 
@@ -134,4 +141,4 @@ Ydinosaamistamme on toimittaa, asentaa ja edelleen kehittää yritysten todellis
 </HeroBlock>
 
 
-<Cards cardsPerRow="3" cards='[{"title":"Laitehankinnat ja rahoitus","content":"Oletko hankkimassa yrityksellesi tietokoneita tai muita IT-laitteita? Pyydä aina tarjous myös meiltä!","link":"/it-laitteet/","linkText":"Lue lisää","bgColor":"lightest","linkBgColor":"brand"},{"title":"IT-palvelusopimukset","content":"Haluatko ulkoistaa IT-palvelut? Tai hankkia asiantuntijan esimerkiksi yrityksen verkon toteuttamiseen?","linkText":"Lue lisää","link":"/it-palvelut/","bgColor":"lightest","linkBgColor":"brand"},{"title":"Uuden yrittäjän palvelut","content":"Mitä uusi yritys tarvitsee? Tietokoneiden lisäksi kauttamme saat domainit, sähköpostit ja liiketoimintasovellukset ja muut IT-palvelut.","link":"/uusi-yrittaja/","linkText":"Lue lisää","bgColor":"lightest","linkBgColor":"brand"}]' />
+<Cards cardsPerRow="3" cards='[{"title":"Laitehankinnat ja rahoitus","content":"Oletko hankkimassa yrityksellesi tietokoneita tai muita IT-laitteita? Pyydä aina tarjous myös meiltä!","link":"/it-laitteet/","linkText":"Lue lisää","bgColor":"lightest","linkBgColor":"brand"},{"title":"IT-palvelusopimukset","content":"Haluatko ulkoistaa IT-palvelut? Tai hankkia asiantuntijan esimerkiksi yrityksen verkon toteuttamiseen?","linkText":"Lue lisää","link":"/it-palvelut/","bgColor":"lightest","linkBgColor":"brand"},{"title":"Uuden yrittäjän palvelut","content":"Mitä uusi yrityksesi tarvitsee? Saat kauttamme domainit, sähköpostit, liiketoimintasovellukset ja muut IT-palvelut.","link":"/uusi-yrittaja/","linkText":"Lue lisää","bgColor":"lightest","linkBgColor":"brand"}]' />
