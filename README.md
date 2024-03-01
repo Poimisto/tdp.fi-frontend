@@ -1,3 +1,7 @@
+# Deploy status
+
+Master: [![Netlify Status](https://api.netlify.com/api/v1/badges/18be51a5-b8c6-4064-81ea-49512ef347f1/deploy-status?branch=master)](https://app.netlify.com/sites/tdp-new/deploys)
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
