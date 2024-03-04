@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![TDP palvelut](/assets/tdp-etusivu-henkilöstö-netlify-1280-x-800.jpg)
+![TDP palvelut](/assets/dell-l3440-yrityskannettava-kampanjahinta.png)
 
 </div>
 
