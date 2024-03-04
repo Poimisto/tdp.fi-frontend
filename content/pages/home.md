@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![TDP palvelut](/assets/dell-l3440-yrityskannettava-kampanjahinta.png)
+![TDP palvelut](/assets/dell-l3440-yrityskannettava-maaliskuu-kampanja.png)
 
 </div>
 
