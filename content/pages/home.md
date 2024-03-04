@@ -31,7 +31,7 @@ Toimitamme työntekijöiden koneet ja puhelimet, toimiston laitteet ja yritysver
 
 Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [asiakkainamme](/referenssit) on paljon eri toimialoilla toimivia yrityksiä. 
 
-Koe sinäkin asiakkaanamme tietotekniikan käytön helppous ja ota yhteyttä myyjiimme:
+### Ota yhteyttä myyntiin:
 
 Pauli Aalto | 040 748 3818 | pauli.aalto@tdp.fi
 
