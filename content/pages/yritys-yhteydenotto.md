@@ -1,5 +1,6 @@
 ---
 path: /yritys/yhteydenotto
+thumbnail: /assets/yhteydenottolomake-1280x800.jpg
 date: 2024-03-05T10:39:23.480Z
 head:
   title: Yhteydenotto - Myynti
