@@ -1,6 +1,6 @@
 ---
 path: /yritys/yhteydenotto
-thumbnail: /assets/yhteydenottolomake-1280x800.jpg
+thumbnail: /assets/yhteydenottolomake-tinified.png
 date: 2024-03-05T10:39:23.480Z
 head:
   title: Yhteydenotto - Myynti
@@ -10,7 +10,7 @@ head:
   keywords: "yhteydenotto, "
 contactForm: Ota yhteyttä
 ---
-![](/assets/yhteydenottolomake-1280x800.jpg)
+![](/assets/yhteydenottolomake-tinified.png)
 
 # Y﻿hteydenotto
 
