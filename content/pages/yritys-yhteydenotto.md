@@ -6,7 +6,7 @@ head:
   title: Yhteydenotto - Myynti
   description: "Ole myyntiimme yhteydessä, kun yrityksesi tarvitsee laitteistoa
     kuten työasemia, kannettavia ja verkkoratkaisuja tai palveluita, kuten
-    täydellisen palvelusopimuksen, keskitetyn hallinnan tai varmuuskopioinnin. "
+    tietoturvan, keskitetyn hallinnan tai varmuuskopioinnin. "
   keywords: "yhteydenotto, "
 contactForm: Ota yhteyttä
 ---
