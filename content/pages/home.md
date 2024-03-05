@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![TDP palvelut](/assets/dell-yrityskannettavat-tinified.png)
+![TDP palvelut](/assets/dell-yrityskannettavat-maaliskuu-tinified.png)
 
 </div>
 
