@@ -26,11 +26,11 @@ breadcrumb:
 
 Oletko 3D-mallinnuksen, kuvankäsittelyn tai konetehoja vaativan suunnittelun ammattilainen? Olemme suunnitelleet tämän leasing-konepaketin maksimitehoja vaativalle ammattilaiselle. Koneesta löytyy huippuluokan prosessori ja näytönohjain, mahdottoman paljon muistia ja nopea kiintolevy. Myös näyttö on huippuluokkaa.
 
-| Konepakettien hinta                                    | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
+| Konepakettien hinnat (alv 0%)                          | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
 | ------------------------------------------------------ | --------------------- | --------------------- | ----------------- |
-| DELL Precision P3660 NVIDIA RTX A2000 näytönohjaimella | 116,39 €/kk           | 78,56€/kk             | 2455,00 €         |
+| DELL Precision P3660 NVIDIA RTX A2000 näytönohjaimella | 116,39 €/kk           | 78,56 €/kk            | 2 455,00 €        |
 | DELL 30" U3023E-näyttö                                 | 31,94 €/kk            | 20,80 €/kk            | 655,00 €          |
-| NVIDIA RTX A5500-näytönohjain                          | 208,07 €/kk           | 141,05 €/kk           | 4495,00  €        |
+| NVIDIA RTX A5500-näytönohjain                          | 208,07 €/kk           | 141,05 €/kk           | 4 495,00  €       |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
