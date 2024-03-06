@@ -57,7 +57,7 @@ V﻿oimassa 1.1.2024 alkaen
 | ﻿Bitwarden            | 5,00 €/kk                                                       |
 | ﻿Adobe Creative Cloud | 73,49 €/kk                                                      |
 | ﻿Nexetic Full         | 10,00 €/kk                                                      |
-| ﻿Muut ohjelmistot     | Kysy tarjousta                            |
+| ﻿Muut ohjelmistot     | Kysy tarjousta                                                  |
 
 ## Muut
 
@@ -68,4 +68,4 @@ V﻿oimassa 1.1.2024 alkaen
 
 <a href="/tietokone-leasing-esimerkkipaketit">Katso konepakettien esimerkkejä tästä!</a>
 
-Kaikki ovat alkaen-hintoja, joiden päälle lisätään alv.
+Kaikki ovat alkaen-hintoja, joissa alv 0%.
