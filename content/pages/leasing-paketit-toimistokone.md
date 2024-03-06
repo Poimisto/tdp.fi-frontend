@@ -20,17 +20,17 @@ breadcrumb:
     path: /tietokone-leasing-esimerkkipaketit
   - label: Toimistokone
 ---
-# Toimistokone-pakettimme on suunniteltu palvelemaan sinua sujuvasti kaikissa toimiston tavallisissa IT-askareissa
+# Toimistokonepakettimme on suunniteltu palvelemaan yritystäsi sujuvasti kaikissa toimiston tavallisissa IT-askareissa 
 
 Tämä leasingpaketti tarjoaa edullisen ja toimivan perustyöaseman yrityskäyttöön. Näissä pienissä koteloissa yhdistyvät Intelin luotettava suoritintekniikka, nopea SSD-levy ja yritystason tietoturvaominaisuudet.
 
 Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, niin katso <a href="/leasing-paketit/laatukone">laatukone-pakettimme</a> hieman tehokkaampaan työskentelyyn
 
-| Konepakettien hinta        | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
-| -------------------------- | --------------------- | --------------------- | ----------------- |
-| DELL OptiPlex MFF          | 41,72 €/kk            | 28,16 €/kk            | 879,00 €          |
-| DELL 24" PRO P2422H näyttö | 8,18 €/kk             | 5,47 €/kk             | 164,00 €          |
-| DELL 27" PRO P2722H näyttö | 8,82 €/kk             | 6,04 €/kk             | 179,00 €          |
+| Konepakettien hinnat (alv 0%) | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
+| ----------------------------- | --------------------- | --------------------- | ----------------- |
+| DELL OptiPlex MFF             | 41,72 €/kk            | 28,16 €/kk            | 879,00 €          |
+| DELL 24" PRO P2422H näyttö    | 8,18 €/kk             | 5,47 €/kk             | 164,00 €          |
+| DELL 27" PRO P2722H näyttö    | 8,82 €/kk             | 6,04 €/kk             | 179,00 €          |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
