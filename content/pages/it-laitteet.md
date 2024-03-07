@@ -14,7 +14,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Tietokone-leasing ja työntekijöiden laitteet](/assets/it-laitteet-1280x800.jpg)
+![Tietokone-leasing ja työntekijöiden laitteet](/assets/dell-kampanjahinta-tinified.png)
 
 </div>
 
