@@ -3,9 +3,9 @@ path: /it-palvelut/
 date: 2021-02-23T21:23:15.390Z
 head:
   title: Yrityksen IT-palvelut
-  description: Yrityksen IT-osasto palvelusopimuksella. Palvelusopimukseen voidaan
-    liittää kaikki yrityksen tarvitsemat IT-laitteet ja -palvelut.
-    Laitehankinnat ja käyttöönotot työntekijöille ja toimistoon.
+  description: Yrityksen IT-osasto palvelusopimuksella ICT-kumppanilta.
+    Palvelusopimukseen voidaan liittää kaikki yrityksen tarvitsemat IT-laitteet
+    ja -palvelut. Laitehankinnat ja käyttöönotot työntekijöille ja toimistoon.
     Käyttäjätunnusten, ohjelmistojen ja tietoturvan hallinta ja päivitykset.
     Hinta skaalautuu tarpeen ja työntekijämäärän mukaan.
   keywords: Yrityksen IT-palvelut
@@ -24,7 +24,7 @@ contactForm: Ota yhteyttä
 
 ## Yrityksen IT-osasto palvelusopimuksella
 
-* Palvelusopimukseen voidaan liittää kaikki yrityksen tarvitsemat IT-laitteet ja -palvelut. 
+* Kunnon ICT-kumppani tarjoaa kaikki yrityksesi tarvitsemat IT-laitteet ja -palvelut
 * Laitehankinnat ja käyttöönotot työntekijöille ja toimistoon
 * Käyttäjätunnusten, ohjelmistojen ja tietoturvan hallinta ja päivitykset 
 * Hinta skaalautuu tarpeen ja työntekijämäärän mukaan
