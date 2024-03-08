@@ -17,13 +17,12 @@ V﻿oimassa 1.1.2024 alkaen
 | ---------------------------------------------------- | ---------- |
 | Työasemien vikaselvitykset ja asennukset             | 84,00 €/h  |
 | Suunnittelu, verkkotyöt, palvelintyöt ja ohjelmointi | 104,00 €/h |
-| ﻿Sopimusasiakkaille työasemien asennukset            | 48,50 €/h  |
+| ﻿Sopimusasiakkaille työasemien asennukset            | 68,00 €/h  |
 
 ## Huolto- ja ylläpitosopimukset
 
 |                                            |            |
 | ------------------------------------------ | ---------- |
-| Palvelusopimus (lisenssit + tuki)          | 95,70 €/kk |
 | Etätukipalvelu                             | 7,00 €/kk  |
 | Hallittu yritystietoturva                  | 7,00 €/kk  |
 | Varalaitepalvelu                           | 9,00 €/kk  |
