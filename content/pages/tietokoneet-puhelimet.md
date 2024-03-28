@@ -1,12 +1,13 @@
 ---
 path: /it-laitteet/yrityskannettavat
 head:
-  title: Yrityskannettavat ja työvälineet yrityksille - TDP
-  description: TDP varustaa yrityksesi kannettavilla, tietokoneilla ja muilla
+  title: Yrityskannettavat ja tehotyöasemat yrityksille - TDP
+  description: TDP varustaa yrityksesi kannettavilla, tehotyöasemilla ja muilla
     työvälineillä, jotka varmistavat tehokkaan työskentelyn juuri sopivalla
     hintatasolla.
   keywords: yrityskannettavat, työntekijöiden tietokoneet, työntekijöiden
-    tehotyöasemat, yrityksen tietokoneet, yrityksen puhelimet
+    tehotyöasemat, yrityksen tietokoneet, yrityksen puhelimet, yrityksen
+    työvälineet
 breadcrumb:
   - path: /
     label: TDP
@@ -19,13 +20,15 @@ contactForm: Ota yhteyttä
 ---
 ![](/assets/maaliskuu2.jpg)
 
-# Yrityskannettavat ja muut työvälineet
+# Yrityskannettavat | Tehotyöasemat | Työvälineet
 
 **Y﻿rityskannettavat yrityksesi työntekijöille niin perustyöskentelyyn kuin vaativien suunnitteluohjelmistojen käyttöön. Tarjoamme markkinoiden uusimmat kannettavat yrityksille varmasti kilpailukykyiseen hintaan vahvalla palveluotteella.**
 
-Olemme ripeä laitetoimittaja niin yli 50 hengen PK-yrityksille kuin pienemmille 10-20 hengen yrityksille ja yksityisyrittäjille.
+Olemme ripeä laitetoimittaja niin yli 50 hengen PK-yrityksille kuin pienemmille 10-20 hengen yrityksille ja yksityisyrittäjille. Yrityksesi tarpeiden pohjalta esitämme vaihtoehdot valita yrityskannettavat, tehotyöasemat, verkkolaitteet ja muut työvälineet hyvällä hinta-laatu -suhteella
 
-Kauttamme saatte esimerkiksi Dellin, Applen, Lenovon, HP:n ja Fujitsun kannettavat,Windows-, Linux- ja Mac-työasemat sekä puhelimet toivotulla hintatasolla. Laitteisiin voidaan esiasentaa myös yrityksesi omia ohjelmistoja ja määrityksiä, jolloin ne toimitetaan käyttövalmiina ja työntekijäsi pääsevät heti omaan työhönsä käsiksi.
+Kauttamme saatte esimerkiksi Dellin, Applen, Lenovon, HP:n ja Fujitsun kannettavat, Windows-, Linux- ja Mac-tehotyöasemat sekä vaikka Samsungin puhelimet toivotulla hintatasolla. 
+
+Laitteisiin voidaan esiasentaa myös yrityksesi omia ohjelmistoja ja määrityksiä, jolloin ne toimitetaan käyttövalmiina ja työntekijäsi pääsevät heti omaan ydintyöhönsä käsiksi ilman tarvetta käyttää aikaa asennusten selvittämiseen.
 
 ## Muista laitteiden tukipalvelut
 
