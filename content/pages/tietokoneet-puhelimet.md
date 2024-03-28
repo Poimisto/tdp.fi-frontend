@@ -1,7 +1,7 @@
 ---
 path: /it-laitteet/yrityskannettavat
 head:
-  title: Yrityskannettavat ja tehotyöasemat yrityksille - TDP
+  title: Yrityskannettavat ja tehotyöasemat yrityksille
   description: TDP varustaa yrityksesi kannettavilla, tehotyöasemilla ja muilla
     työvälineillä, jotka varmistavat tehokkaan työskentelyn juuri sopivalla
     hintatasolla.
