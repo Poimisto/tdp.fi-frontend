@@ -26,7 +26,8 @@ contactForm: Ota yhteyttä
 * U﻿usimmat yrityskannettavat kilpailukykyiseen hintaan Pirkanmaalta
 * Työntekijöiden tehotyöasemat, verkkolaitteet, liiketilojen infonäytöt, neuvotteluhuoneiden laitteet – kaikki
 * Kaikki yleisimmät laitemerkit – kilpailuta meidät
-* Toimitukset asennettuna tai yrityksesi ohjelmistoilla esiasennettuna.
+* Toimitukset asennettuna tai yrityksesi ohjelmistoilla esiasennettuna
+*﻿ Yli 50 hengen, 10-50 hengen ja aina pienimmillekin PK-yrityksille
 
 <CallToAction bgColor="dark" url="#contact-form" align="left">Jätä tarjouspyyntö</CallToAction>
 
