@@ -24,7 +24,7 @@ contactForm: Ota yhteyttä
 
 **Y﻿rityskannettavat yrityksesi työntekijöille niin perustyöskentelyyn kuin vaativien suunnitteluohjelmistojen käyttöön. Tarjoamme markkinoiden uusimmat kannettavat yrityksille varmasti kilpailukykyiseen hintaan vahvalla palveluotteella.**
 
-Olemme ripeä laitetoimittaja niin yli 50 hengen PK-yrityksille kuin pienemmille 10-20 hengen yrityksille ja yksityisyrittäjille. Yrityksesi tarpeiden pohjalta esitämme vaihtoehdot valita yrityskannettavat, tehotyöasemat, verkkolaitteet ja muut työvälineet hyvällä hinta-laatu -suhteella
+Olemme ripeä laitetoimittaja niin yli 50 hengen PK-yrityksille kuin pienemmille 10-20 hengen yrityksille ja yksityisyrittäjille. Yrityksesi tarpeiden pohjalta esitämme vaihtoehdot valita yrityskannettavat, tehotyöasemat, verkkolaitteet ja muut työvälineet hyvällä hinta-laatu -suhteella.
 
 Kauttamme saatte esimerkiksi Dellin, Applen, Lenovon, HP:n ja Fujitsun kannettavat, Windows-, Linux- ja Mac-tehotyöasemat sekä vaikka Samsungin puhelimet toivotulla hintatasolla. 
 
