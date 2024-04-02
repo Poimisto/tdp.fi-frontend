@@ -25,6 +25,7 @@ contactForm: Ota yhteyttä
 ## Yrityksen IT-osasto palvelusopimuksella
 
 * Kunnon IT-kumppani, kuten TDP, tarjoaa kaikki yrityksesi tarvitsemat IT-laitteet ja -palvelut
+* ﻿Ulkoinen IT-kumppani varmistaa yrityksen tiedon ja IT-prosessit
 * Laitehankinnat ja käyttöönotot työntekijöille ja toimistoon
 * Käyttäjätunnusten, ohjelmistojen ja tietoturvan hallinta ja päivitykset 
 * Palveluiden hinta skaalautuu tarpeen ja työntekijämäärän mukaan
