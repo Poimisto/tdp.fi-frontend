@@ -1,6 +1,6 @@
 ---
 path: /home
-thumbnail: /assets/tdp-logo-slogan-horizontal-rgb.png
+thumbnail: /assets/tdp-etusivu-henkilöstö-netlify-1280-x-800.jpg
 date: 2020-11-15T20:33:13.757Z
 head:
   title: IT-palvelukumppani yrityksille
@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![TDP palvelut](/assets/maaliskuu2.jpg)
+![TDP palvelut](/assets/tdp-etusivu-henkilöstö-netlify-1280-x-800.jpg)
 
 </div>
 
