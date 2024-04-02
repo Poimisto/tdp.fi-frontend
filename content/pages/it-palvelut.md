@@ -24,7 +24,7 @@ contactForm: Ota yhteyttä
 
 ## Yrityksen IT-osasto palvelusopimuksella
 
-* Kunnon IT-kumppani, kuten TDP, tarjoaa kaikki yrityksesi tarvitsemat IT-laitteet ja -palvelut
+* Kunnon IT-kumppani, kuten TDP, tarjoaa Pirkanmaalla kaikki yrityksesi tarvitsemat IT-palvelut ja -laitteet
 * ﻿Ulkoinen IT-kumppani varmistaa yrityksen tiedon ja IT-prosessit
 * Laitehankinnat ja käyttöönotot työntekijöille ja toimistoon
 * Käyttäjätunnusten, ohjelmistojen ja tietoturvan hallinta ja päivitykset 
