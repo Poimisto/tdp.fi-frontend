@@ -3,7 +3,7 @@ path: /it-palvelut/
 date: 2021-02-23T21:23:15.390Z
 head:
   title: Yrityksen IT-palvelut
-  description: Yrityksen IT-osasto palvelusopimuksella ICT-kumppanilta.
+  description: Yrityksen IT-osasto palvelusopimuksella IT-kumppanilta.
     Palvelusopimukseen voidaan liittää kaikki yrityksen tarvitsemat IT-laitteet
     ja -palvelut. Laitehankinnat ja käyttöönotot työntekijöille ja toimistoon.
     Käyttäjätunnusten, ohjelmistojen ja tietoturvan hallinta ja päivitykset.
@@ -24,10 +24,10 @@ contactForm: Ota yhteyttä
 
 ## Yrityksen IT-osasto palvelusopimuksella
 
-* Kunnon ICT-kumppani tarjoaa kaikki yrityksesi tarvitsemat IT-laitteet ja -palvelut
+* Kunnon IT-kumppani, kuten TDP, tarjoaa kaikki yrityksesi tarvitsemat IT-laitteet ja -palvelut
 * Laitehankinnat ja käyttöönotot työntekijöille ja toimistoon
 * Käyttäjätunnusten, ohjelmistojen ja tietoturvan hallinta ja päivitykset 
-* Hinta skaalautuu tarpeen ja työntekijämäärän mukaan
+* Palveluiden hinta skaalautuu tarpeen ja työntekijämäärän mukaan
 
 <CallToAction bgColor="dark" url="#contact-form" align="left">Jätä tarjouspyyntö</CallToAction>
 
