@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Työntekijöille yrityskannettavat leasing-sopimuksella](/assets/maaliskuu2.jpg)
+![Työntekijöille yrityskannettavat leasing-sopimuksella](/assets/it-laitteet-1280x800.jpg)
 
 </div>
 
