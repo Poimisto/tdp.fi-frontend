@@ -14,11 +14,11 @@ breadcrumb:
   - path: /it-laitteet/
     label: IT-laitteet
   - label: Työntekijöiden työvälineet
-thumbnail: /assets/it-laitteet-1280x800.jpg
+thumbnail: /assets/dell-kampanjahinta-huhtikuu-2024.png
 date: 2023-09-28T06:34:25.814Z
 contactForm: Ota yhteyttä
 ---
-![](/assets/it-laitteet-1280x800.jpg)
+![](/assets/dell-kampanjahinta-huhtikuu-2024.png)
 
 # Yrityskannettavat | Tehotyöasemat | Työvälineet
 
