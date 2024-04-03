@@ -1,6 +1,6 @@
 ---
 path: /home
-thumbnail: /assets/tdp-etusivu-henkilöstö-netlify-1280-x-800.jpg
+thumbnail: /assets/dell-kampanjahinta-huhtikuu-2024.png
 date: 2020-11-15T20:33:13.757Z
 head:
   title: IT-palvelukumppani yrityksille
@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![TDP palvelut](/assets/tdp-etusivu-henkilöstö-netlify-1280-x-800.jpg)
+![TDP palvelut](/assets/dell-kampanjahinta-huhtikuu-2024.png)
 
 </div>
 
