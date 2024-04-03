@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Työntekijöille yrityskannettavat leasing-sopimuksella](/assets/it-laitteet-1280x800.jpg)
+![Työntekijöille yrityskannettavat leasing-sopimuksella](/assets/dell-kampanjahinta-huhtikuu-2024.png)
 
 </div>
 
