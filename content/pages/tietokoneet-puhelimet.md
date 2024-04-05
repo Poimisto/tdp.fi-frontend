@@ -35,7 +35,7 @@ Laitteisiin voidaan esiasentaa myös yrityksesi omia ohjelmistoja ja määrityks
 
 <div className="HeroBlockImage">
 
-![undefined](/assets/dell-p3260.png)
+![undefined](/assets/dell-l7340-p3260.png)
 
 </div>
 
@@ -45,7 +45,7 @@ Laitteisiin voidaan esiasentaa myös yrityksesi omia ohjelmistoja ja määrityks
 
 T﻿arjoamme huhtikuun kampanjahintaan: 
 
-* ![Dell Latitude 7340 -yrityskannettavan](/assets/dell-7340-myyntiesite-20240405.pdf)
+* Dell Latitude 7340 -yrityskannettavan
 * Dell Precision 3260 -tehotyöaseman
 
 </div>
