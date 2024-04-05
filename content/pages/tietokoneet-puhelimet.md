@@ -48,6 +48,12 @@ T﻿arjoamme huhtikuun kampanjahintaan:
 * <a href="/assets/dell-7340-myyntiesite-20240405.pdf" target="_blank">Dell Latitude 7340 -yrityskannettavan</a>
 * <a href="/assets/Dell-P3260-myyntiesite-20240405.pdf" target="_blank">Dell P3260 -tehotyöaseman</a>
 
+### Ota yhteyttä myyntiin:
+
+Pauli Aalto | 040 748 3818 | pauli.aalto@tdp.fi
+
+Mika Mäkinen | 040 632 7090 | mika.makinen@tdp.fi
+
 </div>
 
 </HeroBlock>
