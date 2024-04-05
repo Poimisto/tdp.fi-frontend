@@ -45,7 +45,7 @@ Laitteisiin voidaan esiasentaa myös yrityksesi omia ohjelmistoja ja määrityks
 
 T﻿arjoamme huhtikuun kampanjahintaan: 
 
-* <a href="/assets/dell-7340-myyntiesite-20240405.pdf" target="_blank">Dell L7340 -yrityskannettavan</a>
+* <a href="/assets/dell-7340-myyntiesite-20240405.pdf" target="_blank">Dell Latitude 7340 -yrityskannettavan</a>
 * Dell Precision 3260 -tehotyöaseman
 
 </div>
