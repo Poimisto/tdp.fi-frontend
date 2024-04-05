@@ -22,10 +22,10 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-## Yrityksen IT-osasto palvelusopimuksella
+## Yrityksesi IT-palvelut palvelusopimuksella
 
-* Kunnon IT-kumppani, kuten TDP, tarjoaa Pirkanmaalla kaikki yrityksesi tarvitsemat IT-palvelut ja -laitteet
-* ﻿Ulkoinen IT-kumppani varmistaa yrityksen tiedon ja IT-prosessit
+* TDP IT-kumppanina tarjoaa Pirkanmaalla kaikki yrityksesi tarvitsemat IT-palvelut ja -laitteet
+* ﻿Ulkoinen IT-kumppani varmistaa yrityksesi tiedon ja IT-prosessit
 * Laitehankinnat ja käyttöönotot työntekijöille ja toimistoon
 * Käyttäjätunnusten, ohjelmistojen ja tietoturvan hallinta ja päivitykset 
 * Palveluiden hinta skaalautuu tarpeen ja työntekijämäärän mukaan
