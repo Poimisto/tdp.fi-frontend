@@ -45,8 +45,8 @@ Laitteisiin voidaan esiasentaa myös yrityksesi omia ohjelmistoja ja määrityks
 
 T﻿arjoamme huhtikuun kampanjahintaan: 
 
-* Dell Latitude 7340 -yrityskannettavat
-* Dell Precision 3260 -tehotyöasemat
+* Dell Latitude 7340 -yrityskannettavan
+* Dell Precision 3260 -tehotyöaseman
 
 </div>
 
