@@ -35,7 +35,7 @@ Laitteisiin voidaan esiasentaa myös yrityksesi omia ohjelmistoja ja määrityks
 
 <div className="HeroBlockImage">
 
-![undefined](/assets/dell-p3260.jpg)
+![undefined](/assets/dell-p3260.png)
 
 </div>
 
