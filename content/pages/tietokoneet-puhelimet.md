@@ -30,6 +30,29 @@ Kauttamme saatte esimerkiksi Dellin, Applen, Lenovon, HP:n ja Fujitsun kannettav
 
 Laitteisiin voidaan esiasentaa myös yrityksesi omia ohjelmistoja ja määrityksiä, jolloin ne toimitetaan käyttövalmiina ja työntekijäsi pääsevät heti omaan ydintyöhönsä käsiksi ilman tarvetta käyttää aikaa asennusten selvittämiseen.
 
+
+<HeroBlock bgColor="brand" imageAlign="right">
+
+<div className="HeroBlockImage">
+
+![undefined](/assets/dell-p3260.jpg)
+
+</div>
+
+<div className="HeroBlockContent">
+
+## Huhtikuun kampanjakoneet yrityksille
+
+T﻿arjoamme huhtikuun kampanjahintaan: 
+
+* Dell Latitude 7340 -yrityskannettavat
+* Dell Precision 3260 -tehotyöasemat
+
+</div>
+
+</HeroBlock>
+
+
 ## Muista laitteiden tukipalvelut
 
 Kun työntekijöitä on enemmän, yrityksen tietokoneet ja puhelimet on hyvä liittää osaksi <a href="/it-palvelut/keskitetty-hallinta">keskitettyä hallintaa</a>. Se tekee laitteiden käytöstä tehokkaampaa ja yrityksen tiedot pysyvät paremmin tallessa. Tällöin myös <a href="/it-palvelut/tietoturva">laitteiden tietoturva</a> voidaan varmistaa helpommin. Keskitetyn hallinnan palvelumme tukee myös sekaympäristöjä, joissa työntekijät voivat valita Windows-, Android- tai Applen laitteita.
