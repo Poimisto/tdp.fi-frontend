@@ -26,10 +26,6 @@ contactForm: Ota yhteyttä
 
 Olemme ripeä laitetoimittaja niin yli 50 hengen PK-yrityksille kuin pienemmille 10-20 hengen yrityksille ja yksityisyrittäjille. Yrityksesi tarpeiden pohjalta esitämme vaihtoehdot valita yrityskannettavat, tehotyöasemat, verkkolaitteet ja muut työvälineet hyvällä hinta-laatu -suhteella.
 
-Kauttamme saatte esimerkiksi Dellin, Applen, Lenovon, HP:n ja Fujitsun kannettavat, Windows-, Linux- ja Mac-tehotyöasemat sekä vaikka Samsungin puhelimet toivotulla hintatasolla. 
-
-Laitteisiin voidaan esiasentaa myös yrityksesi omia ohjelmistoja ja määrityksiä, jolloin ne toimitetaan käyttövalmiina ja työntekijäsi pääsevät heti omaan ydintyöhönsä käsiksi ilman tarvetta käyttää aikaa asennusten selvittämiseen.
-
 
 <HeroBlock bgColor="brand" imageAlign="right">
 
@@ -57,6 +53,10 @@ Mika Mäkinen | 040 632 7090 | mika.makinen@tdp.fi
 
 </HeroBlock>
 
+
+Kauttamme saatte niin Dellin, Applen, Lenovon, HP:n ja Fujitsun kannettavat kuin Windows-, Linux- ja Mac-tehotyöasemat sekä vaikka Samsungin ja Applen puhelimet toivotulla hintatasolla. 
+
+Laitteisiin voidaan esiasentaa myös yrityksesi omia ohjelmistoja ja määrityksiä, jolloin ne toimitetaan käyttövalmiina ja työntekijäsi pääsevät heti omaan ydintyöhönsä käsiksi ilman tarvetta käyttää aikaa asennusten selvittämiseen.
 
 ## Muista laitteiden tukipalvelut
 
