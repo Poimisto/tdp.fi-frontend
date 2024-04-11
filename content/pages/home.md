@@ -129,9 +129,9 @@ Luota ripeään, suomenkieliseen palvelukumppaniin!
 
 ### IT-palveluita vuodesta 2007
 
-Tampereen Datapiste Oy on vuonna 2007 perustettu IT-palveluyritys. Toimipisteemme sijaitsevat Tampereella ja Helsingissä, mutta palvelemme yrityksiä myös muualla Suomessa.
+Tampereen Datapiste Oy on vuonna 2007 perustettu kotimainen IT-kumppani. Toimipisteemme sijaitsevat Tampereella ja Helsingissä, mutta palvelemme yrityksiä myös muualla Suomessa.
 
-Ydinosaamistamme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä. Koulutettu ja kokenut henkilökuntamme palvelee nopealla vasteajalla niin uusien laitteiden asennuksissa kuin vikatilanteissa.
+Ydinosaamistamme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä kokonaisvaltaisesti. Koulutettu ja kokenut henkilökuntamme palvelee palvelusopimukseen kirjatulla vasteajalla niin uusien laitteiden asennuksissa, vikatilanteissa kuin käyttötukena. 
 
 <CallToAction bgColor="brand" url="https://bit.ly/3zsDs3q" align="center">Tilaa uutiskirjeemme</CallToAction>
 
