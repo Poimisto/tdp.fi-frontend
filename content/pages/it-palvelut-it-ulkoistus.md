@@ -17,7 +17,7 @@ head:
 
 Oikein toteutettu IT-ulkoistus voi tuoda merkittäviä parannuksia yrityksesi arjen toimivuuteen. Mitä kaikkea ulkoistettu IT voikaan merkitä yrityksellesi? 
 
-* **Työkatkosten väheneminen**: Kun työntekijän tietokone hajoaa, aika on kultaakin kalliimpaa. Oikein toteutettu IT-ulkoistus mahdollistaa etävalvonnan, jolloin voimme havaita tietokoneen ongelmat jo ennen kuin ne aiheuttavat tuotantokatkoksen. Näin voit keskittyä olennaiseen – tuottavaan työhön – sen sijaan, että taistelisit tietokoneongelmien kanssa. 
+* **Työkatkosten väheneminen**: Kun työntekijän tietokone hajoaa, aika on kultaakin kalliimpaa. Oikein toteutettu IT-ulkoistus mahdollistaa etävalvonnan, jolloin voimme havaita tietokoneen ongelmat jo ennen kuin ne aiheuttavat katkoksen töihin. Näin voit keskittyä olennaiseen – tuottavaan työhön – sen sijaan, että taistelisitte koko henkilöstön tasolla IT-ongelmien kanssa. 
 * **K﻿eskitetty hallinta**: Hallitsemme kaikkia yrityksen laitteita ja käyttäjiä yhden hallinnan kautta. Käytännössä takaa yritykselle korkeamman tietoturvatason ja kiinteästi kuukausihinnoiteltuna se on myös helposti budjetoitava palvelu.
 * **Tietoturva**: Yrityksen suurin tietoturvariski ovat usein sen työntekijät. Me seuraamme automaattisesti, että virustorjuntaohjelmat ovat päällä, palomuurit kunnossa ja ohjelmistot ajan tasalla. Näin voit nukkua yösi rauhassa, kun tiedät, että tietoturvasi on ammattilaisten hoidossa.
 * **Kokonaisvaltainen palvelu**: Tarjoamme modernit peruspalvelut yhdessä, ja asiantuntijamme suunnittelevat kokonaisuuden huolellisesti. Nettiliittymien hallinnasta pilvipalveluihin – olemme täällä yrityksesi kumppaniksi.
