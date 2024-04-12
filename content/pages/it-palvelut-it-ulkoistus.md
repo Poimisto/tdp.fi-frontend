@@ -12,7 +12,7 @@ contactForm: Ota yhteyttä
 ---
 ![](/assets/yhteydenottolomake-1280x800.jpg)
 
-# IT-ulkoistus yrityksille – tehokkuutta, tietoturvaa ja kustannussäästöjä 
+# IT-ulkoistus yrityksellesi – tehokkuutta, tietoturvaa ja kustannussäästöjä 
 
 **Olemme IT-ulkoistuksen asiantuntijoita Pirkanmaalla ja PK-seudulla, joten jatka lukemista, miksi yrityksesi kannattaa harkita IT-palveluiden ulkoistamista juuri meidän kauttamme.**
 
