@@ -3,11 +3,11 @@ path: /it-palvelut/it-ulkoistus
 thumbnail: /assets/yhteydenottolomake-1280x800.jpg
 date: 2024-04-11T12:29:56.554Z
 head:
-  title: Ulkoista yrityksesi IT
-  description: Yrityksesi IT:n ulkoistaminen kannattaa, kun henkilöstömäärä on
-    tarpeeksi suuri tai kun yrityksesi oma IT-vastaava ei kykene hoitamaan
-    IT-asioita yksin.
-  keywords: ulkoistus, IT-ulkoistus, ulkoistettu IT, ulkoinen IT-kumppani
+  title: IT-ulkoistus | Ulkoista yrityksesi IT
+  description: IT-ulkoistus kannattaa aina, kun henkilöstömäärä on riittävän suuri
+    tai kun yrityksesi oma IT-vastaava ei kykene hoitamaan kaikkia IT-asioita
+    yksin.
+  keywords: IT-ulkoistus, ulkoistettu IT, ulkoinen IT-kumppani, ICT-ulkoistus
 ---
 ![](/assets/yhteydenottolomake-1280x800.jpg)
 
