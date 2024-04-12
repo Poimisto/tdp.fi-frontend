@@ -36,7 +36,7 @@ Oikein toteutettu IT-ulkoistus Pirkanmaalla tai missä tahansa voi tuoda merkitt
 
 ## Ulkoistetun IT:n hinta
 
-**U﻿lkoistuksen kustannukset eivät ole vakio, vaan määräytyvät pitkälti yrityksesi käyttäjämäärän ja halutun palvelutason mukaan.**
+**ICT-ulkoistus ja sen kustannukset eivät ole vakio, vaan määräytyvät pitkälti yrityksesi käyttäjämäärän ja halutun palvelutason mukaan.**
 
 Jokainen työntekijä tarvitsee leasing-koneen, sille tietoturva- ja muut tukipalvelut, ohjelmistot, ja tietenkin käyttäjätukemme hintakin määräytyy käyttäjien lukumäärän perusteella – pyydä siis meiltä tarjousta!
 
