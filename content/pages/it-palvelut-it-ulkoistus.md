@@ -17,35 +17,35 @@ head:
 
 Oikein toteutettu IT-ulkoistus voi tuoda merkittäviä parannuksia yrityksesi arjen toimivuuteen. Mitä kaikkea ulkoistettu IT voikaan merkitä yrityksellesi? 
 
-**Kustannussäästöjä**: Yrityksen IT-ulkoistus on kuin taloushallinnon ulkoistaminen tilitoimistolle. Vaikka voisit hoitaa IT-palvelut itse, me teemme sen edullisemmin, paremmin ja tehokkaammin. Säästät rahaa, kun keskitämme resurssimme ja asiantuntemuksemme IT-ympäristösi kehittämiseen.
+* **Työkatkosten väheneminen**: Kun työntekijän tietokone hajoaa, aika on kultaakin kalliimpaa. Oikein toteutettu IT-ulkoistus mahdollistaa etävalvonnan, jolloin voimme havaita tietokoneen ongelmat jo ennen kuin ne aiheuttavat tuotantokatkoksen. Näin voit keskittyä olennaiseen – tuottavaan työhön – sen sijaan, että taistelisit tietokoneongelmien kanssa. 
 
-**Tuotantokatkosten väheneminen**: Kun työntekijän tietokone hajoaa, aika on kultaakin kalliimpaa. Oikein toteutettu IT-ulkoistus mahdollistaa etävalvonnan, jolloin voimme havaita tietokoneen ongelmat jo ennen kuin ne aiheuttavat tuotantokatkoksen. Näin voit keskittyä olennaiseen – tuottavaan työhön – sen sijaan, että taistelisit tietokoneongelmien kanssa.
+* **K﻿eskitetty hallinta**: Hallitsemme kaikkia yrityksen laitteita ja käyttäjiä yhden hallinnan kautta. Käytännössä takaa yritykselle korkeamman tietoturvatason ja kiinteästi kuukausihinnoiteltuna se on myös helposti budjetoitava palvelu.
 
-**K﻿eskitetty hallinta**: Hallitsemme kaikkia yrityksen laitteita ja käyttäjiä yhden hallinnan kautta. Käytännössä takaa yritykselle korkeamman tietoturvatason ja kiinteästi kuukausihinnoiteltuna se on myös helposti budjetoitava palvelu.
+* **Tietoturva**: Yrityksen suurin tietoturvariski ovat usein sen työntekijät. Me seuraamme automaattisesti, että virustorjuntaohjelmat ovat päällä, palomuurit kunnossa ja ohjelmistot ajan tasalla. Näin voit nukkua yösi rauhassa, kun tiedät, että tietoturvasi on ammattilaisten hoidossa.
 
-**Tietoturva**: Yrityksen suurin tietoturvariski ovat usein sen työntekijät. Me seuraamme automaattisesti, että virustorjuntaohjelmat ovat päällä, palomuurit kunnossa ja ohjelmistot ajan tasalla. Näin voit nukkua yösi rauhassa, kun tiedät, että tietoturvasi on ammattilaisten hoidossa.
-
-**Kokonaisvaltainen palvelu**: Tarjoamme modernit peruspalvelut yhdessä, ja asiantuntijamme suunnittelevat kokonaisuuden huolellisesti. Internetliittymien hallinnasta pilvipalveluihin – olemme täällä sinua varten.
+* **Kokonaisvaltainen palvelu**: Tarjoamme modernit peruspalvelut yhdessä, ja asiantuntijamme suunnittelevat kokonaisuuden huolellisesti. Nettiliittymien hallinnasta pilvipalveluihin – olemme täällä yrityksesi kumppaniksi.
 
 ## I﻿T-ulkoistuksen edut
 
 **IT-ulkoistus** voi olla erinomainen tapa parantaa yrityksesi liiketoiminnan tehokkuutta monin tavoin. Tässä on joitakin keskeisiä etuja:
 
-**Keskittyminen ydinosaamiseen**: Kun ulkoistat IT-palvelut, voit keskittyä ydintoimintoihisi. Ammattilaisina hoidamme tekniset asiat, jolloin sinun ei tarvitse huolehtia IT-infrastruktuurista. Tämä vapauttaa aikaa ja resursseja keskittyä oman liiketoiminnan kehittämiseen. 
+* **Keskittyminen ydinosaamiseen**: Kun ulkoistat yrityksesi IT-asiat, voit keskittyä ydintoimintoihisi. Ammattilaisina hoidamme tekniset asiat, jolloin sinun ei tarvitse huolehtia IT-infrastruktuurista. Tämä vapauttaa aikaa ja resursseja keskittyä yrityksesi liiketoiminnan kehittämiseen. 
 
-**Kuluista huolimatta kustannussäästöjä**: Ulkoistaminen voi olla taloudellisesti järkevää. Voit välttää kiinteitä kustannuksia, kuten palkkoja ja laitteiden ylläpitokuluja. Lisäksi saat käyttöösi asiantuntijoiden osaamisen ilman, että sinun tarvitsee kouluttaa omaa henkilökuntaasi.
+* **Kuluista huolimatta kustannussäästöjä**: Yrityksen IT-ulkoistus on kuin taloushallinnon ulkoistaminen tilitoimistolle. Vaikka voisit hoitaa IT-palvelut itse, me teemme sen edullisemmin, paremmin ja tehokkaammin. Säästät rahaa, kun keskitämme resurssimme ja asiantuntemuksemme IT-ympäristösi kehittämiseen.
 
-**Joustavuus**: Ulkoistus mahdollistaa joustavuuden. Voit skaalata palveluita ylös tai alas tarpeen mukaan ilman suuria investointeja. Esimerkiksi projektien aikana voit lisätä resursseja, ja hiljaisempina aikoina voit vähentää niitä.
+* **Joustavuus**: Ulkoistus mahdollistaa joustavuuden. Voit skaalata palveluita ylös tai alas tarpeen mukaan ilman suuria investointeja. Esimerkiksi projektien aikana voit lisätä resursseja, ja hiljaisempina aikoina voit vähentää niitä.
 
-**Tietoturva**: Olemme erikoistuneet tietoturvaan ja seuraamme jatkuvasti uhkia ja päivitämme suojausmekanismeja. Näin voit olla varma, että yrityksesi tiedot ovat turvassa. 
+* **Tietoturva**: Olemme erikoistuneet tietoturvaan ja seuraamme jatkuvasti uhkia ja päivitämme suojausmekanismeja. Näin voit olla varma, että yrityksesi tiedot ovat turvassa. 
 
-**Nopeus ja innovaatio**: Ulkoistuksen asiantuntijana olemme ajan tasalla uusimmista teknologioista ja parhaista käytännöistä. Voimme nopeasti toteuttaa uusia ratkaisuja ja auttaa yritystäsi pysymään kilpailukykyisenä.  
+* **Nopeus ja innovaatio**: Ulkoistuksen asiantuntijana olemme ajan tasalla uusimmista teknologioista ja parhaista käytännöistä. Voimme nopeasti toteuttaa uusia ratkaisuja ja auttaa yritystäsi pysymään kilpailukykyisenä.
+
+* **TDP:ssä asiat etenevät**: Meillä TDP:ssä yrityksesi asiat eivät jää pöydälle odottamaan tekijäänsä, vaan vahva tahtotilamme on edistää asiakkaidemme liiketoimintaa ripeällä, tehokkaalla palveluotteella
 
 ## Ulkoistetun IT:n hinta
 
-U﻿lkoistamisen kustannukset eivät ole vakio, vaan määräytyvät pitkälti yrityksesi käyttäjämäärän mukaan. Jokainen työntekijä tarvitsee leasing-koneen, sille tietoturva- ja muut tukipalvelut, ohjelmistot ja tietenkin käyttäjätuen hintakin määräytyy käyttäjien lukumäärän perusteella.
+U﻿lkoistuksen kustannukset eivät ole vakio, vaan määräytyvät pitkälti yrityksesi käyttäjämäärän mukaan. Jokainen työntekijä tarvitsee leasing-koneen, sille tietoturva- ja muut tukipalvelut, ohjelmistot, ja tietenkin käyttäjätukemme hintakin määräytyy käyttäjien lukumäärän perusteella – pyydä siis meiltä tarjousta!
 
-Jos haluat lisätietoja yrityksesi IT-ulkoistuksesta, ota rohkeasti yhteyttä! Yhdessä voimme rakentaa tehokkaan ja turvallisen IT-ympäristön, joka tukee liiketoimintaasi parhaalla mahdollisella tavalla.
+Jos haluat mitä tahansa lisätietoja yrityksesi IT-ulkoistukseen liittyen, ota rohkeasti yhteyttä! Vain yhdessä voimme rakentaa tehokkaan ja turvallisen IT-ympäristön, joka tukee liiketoimintaasi parhaalla mahdollisella tavalla.
 
 ## Myynti
 
