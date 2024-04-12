@@ -13,9 +13,9 @@ head:
 
 # Y﻿rityksen IT-ulkoistus – tehokkuutta, tietoturvaa ja kustannussäästöjä
 
-**Olemme IT-ulkoistuksen asiantuntijoita Pirkanmaalla ja pk-seudulla, joten älä poistu lukematta, miksi yrityksesi kannattaa harkita IT-palveluiden ulkoistamista juuri meidän kauttamme.**
+**Olemme IT-ulkoistuksen asiantuntijoita Pirkanmaalla ja PK-seudulla, joten jatka lukemista, miksi yrityksesi kannattaa harkita IT-palveluiden ulkoistamista juuri meidän kauttamme.**
 
-Oikein toteutettu IT-ulkoistus voi tuoda merkittäviä helpotuksia yrityksesi arkeen. Mitä kaikkea ulkoistettu IT voi merkitä yrityksellesi?
+Oikein toteutettu IT-ulkoistus voi tuoda merkittäviä parannuksia yrityksesi arjen toimivuuteen. Mitä kaikkea ulkoistettu IT voikaan merkitä yrityksellesi? 
 
 **Kustannussäästöjä**: Yrityksen IT-ulkoistus on kuin taloushallinnon ulkoistaminen tilitoimistolle. Vaikka voisit hoitaa IT-palvelut itse, me teemme sen edullisemmin, paremmin ja tehokkaammin. Säästät rahaa, kun keskitämme resurssimme ja asiantuntemuksemme IT-ympäristösi kehittämiseen.
 
