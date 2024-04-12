@@ -19,8 +19,8 @@ Oikein toteutettu IT-ulkoistus voi tuoda merkittäviä parannuksia yrityksesi ar
 
 * **Työkatkosten väheneminen**: Kun työntekijän tietokone hajoaa, aika on kultaakin kalliimpaa. Oikein toteutettu IT-ulkoistus mahdollistaa etävalvonnan, jolloin voimme havaita tietokoneen ongelmat jo ennen kuin ne aiheuttavat katkoksen töihin. Näin voit keskittyä olennaiseen – tuottavaan työhön – sen sijaan, että taistelisitte koko henkilöstön tasolla IT-ongelmien kanssa. 
 * **K﻿eskitetty hallinta**: Hallitsemme kaikkia yrityksen laitteita ja käyttäjiä yhden hallinnan kautta. Käytännössä takaa yritykselle korkeamman tietoturvatason ja kiinteästi kuukausihinnoiteltuna se on myös helposti budjetoitava palvelu.
-* **Tietoturva**: Yrityksen suurin tietoturvariski ovat usein sen työntekijät. Me seuraamme automaattisesti, että virustorjuntaohjelmat ovat päällä, palomuurit kunnossa ja ohjelmistot ajan tasalla. Näin voit nukkua yösi rauhassa, kun tiedät, että tietoturvasi on ammattilaisten hoidossa.
-* **Kokonaisvaltainen palvelu**: Tarjoamme modernit peruspalvelut yhdessä, ja asiantuntijamme suunnittelevat kokonaisuuden huolellisesti. Nettiliittymien hallinnasta pilvipalveluihin – olemme täällä yrityksesi kumppaniksi.
+* **Tietoturva**: Yrityksen suurin tietoturvariski ovat usein sen työntekijät, joille annamme jatkuvaa käyttökoulutusta hyvän tietoturvan toteuttamisessa. Sen lisäksi seuraamme tarkasti, että virustorjuntaohjelmat ovat päällä, palomuurit kunnossa ja ohjelmistot ajan tasalla. Näin voit nukkua yösi rauhassa, kun tiedät, että yrityksesi tietoturva on ammattilaisten hoidossa ja myös vastuulla. 
+* **Kokonaisvaltainen palvelu**: Tarjoamme modernit peruspalvelut ja edistyneemmät lisäpalvelut, ja asiantuntijamme suunnittelevat kokonaisuuden huolellisesti. Nettiliittymien hallinnasta aina pilvipalveluihin – olemme täällä valmiina yrityksesi kumppaniksi. 
 
 ## I﻿T-ulkoistuksen edut
 
