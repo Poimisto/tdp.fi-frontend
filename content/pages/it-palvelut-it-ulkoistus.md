@@ -8,6 +8,7 @@ head:
     tai kun yrityksesi oma IT-vastaava ei kykene hoitamaan kaikkia IT-asioita
     yksin.
   keywords: IT-ulkoistus, ulkoistettu IT, ulkoinen IT-kumppani, ICT-ulkoistus
+contactForm: Ota yhteyttä
 ---
 ![](/assets/yhteydenottolomake-1280x800.jpg)
 
