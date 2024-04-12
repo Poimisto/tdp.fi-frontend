@@ -24,11 +24,11 @@ Oikein toteutettu IT-ulkoistus voi tuoda merkittäviä parannuksia yrityksesi ar
 
 ## I﻿T-ulkoistuksen edut
 
-**IT-ulkoistus** voi olla erinomainen tapa parantaa yrityksesi liiketoiminnan tehokkuutta monin tavoin. Tässä on joitakin keskeisiä etuja:
+**IT-ulkoistus** voi olla erinomainen tapa parantaa yrityksesi liiketoiminnan tehokkuutta monin tavoin. Tässä joitakin keskeisiä etuja:
 
 * **Keskittyminen ydinosaamiseen**: Kun ulkoistat yrityksesi IT-asiat, voit keskittyä ydintoimintoihisi. Ammattilaisina hoidamme tekniset asiat, jolloin sinun ei tarvitse huolehtia IT-infrastruktuurista. Tämä vapauttaa aikaa ja resursseja keskittyä yrityksesi liiketoiminnan kehittämiseen. 
-* **Kuluista huolimatta kustannussäästöjä**: Yrityksen IT-ulkoistus on kuin taloushallinnon ulkoistaminen tilitoimistolle. Vaikka voisit hoitaa IT-palvelut itse, me teemme sen edullisemmin, paremmin ja tehokkaammin. Säästät rahaa, kun keskitämme resurssimme ja asiantuntemuksemme IT-ympäristösi kehittämiseen.
-* **Joustavuus**: Ulkoistus mahdollistaa joustavuuden. Voit skaalata palveluita ylös tai alas tarpeen mukaan ilman suuria investointeja. Esimerkiksi projektien aikana voit lisätä resursseja, ja hiljaisempina aikoina voit vähentää niitä.
+* **Kuluista huolimatta kustannussäästöjä**: Yrityksen IT-ulkoistus on kuin taloushallinnon ulkoistaminen tilitoimistolle. Vaikka voisit hoitaa IT-palvelut itse, me teemme sen edullisemmin, paremmin ja tehokkaammin. Säästät rahaa, kun keskitämme resurssimme ja asiantuntemuksemme IT-ympäristösi kehittämiseen ja aikaa jatkuviin selvitys- ja asennustöihin ei kulu lainkaan.
+* **Joustavuus**: Ulkoistus mahdollistaa joustavuuden. Voit skaalata palveluita ylös tai alas tarpeen mukaan ilman suuria investointeja tai pitkiä sopimusaikoja. Esimerkiksi projektien aikana voit lisätä resursseja, ja hiljaisempina aikoina voit vähentää niitä. 
 * **Tietoturva**: Olemme erikoistuneet tietoturvaan ja seuraamme jatkuvasti uhkia ja päivitämme suojausmekanismeja. Näin voit olla varma, että yrityksesi tiedot ovat turvassa. 
 * **Nopeus ja innovaatio**: Ulkoistuksen asiantuntijana olemme ajan tasalla uusimmista teknologioista ja parhaista käytännöistä. Voimme nopeasti toteuttaa uusia ratkaisuja ja auttaa yritystäsi pysymään kilpailukykyisenä.
 * **TDP:ssä asiat etenevät**: Meillä TDP:ssä yrityksesi asiat eivät jää pöydälle odottamaan tekijäänsä, vaan vahva tahtotilamme on edistää asiakkaidemme liiketoimintaa ripeällä, tehokkaalla palveluotteella
