@@ -28,7 +28,7 @@ Palvelun avulla voidaan myös pakottaa tiettyjä tietoturva-asetuksia ja asentaa
 
 ## Työntekijöiden tietoturva
 
-<a href="/it-laitteet/tyontekijat">Työntekijöiden työvälineiden</a> osalta huolehdimme, että tietokoneissa ja puhelimissa on riittävät suojaukset. Tämä tarkoittaa laitteesta ja käyttötarkoituksesta riippuen: 
+Työntekijöiden työvälineiden osalta huolehdimme, että tietokoneissa ja puhelimissa on riittävät suojaukset. Tämä tarkoittaa laitteesta ja käyttötarkoituksesta riippuen: 
 
 * Verkkoliikenteen suojausta
 * Tietoturvaohjelmistoa asennettavien ohjelmistojen tarkastamiseen
