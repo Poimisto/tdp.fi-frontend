@@ -32,7 +32,6 @@ contactForm: Ota yhteyttä
 
 <CallToAction bgColor="dark" url="#contact-form" align="left">Jätä tarjouspyyntö</CallToAction>
 
-<CallToAction bgColor="lightest" url="/it-palvelut/palvelusopimus" align="left">Lue lisää palvelusopimuksesta</CallToAction>
 
 </div>
 
