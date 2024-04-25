@@ -19,7 +19,11 @@ date: 2023-09-28T07:26:43.466Z
 
 # Keskitetty hallinta tarjoaa välineet hallita suurenkin organisaation laitekantaa
 
-**Keskitetty hallinta on osa tehokasta <a href="/it-palvelut/elinkaaripalvelu">IT-laitteiden elinkaariajattelua</a>, missä kaikkia yrityksen laitteita ja käyttäjiä hallitaan yhden hallinnan kautta.** 
+**Keskitetyn hallinnan palvelumme tekee päätelaitteiden ja käyttöoikeuksien hallinnasta suoraviivaista ja tehokasta vain 11 eurolla/kk.**
+
+Palvelu nopeuttaa uusien koneiden ja käyttäjätilien asennusta yrityksen käytänteiden mukaisesti, sekä helpottaa etätöiden hallintaa. Keskitetty hallinta vähentää huomattavasti paikan päällä tehtävän työn määrää ja mahdollistaa myös kadonneiden tai varastettujen laitteiden nollauksen.
+
+Palveluun on saatavilla myös lukuisia käyttäjäkokemusta ja tietoturvaa parantavia lisäominaisuuksia, kuten esimerkiksi SSO (kertakirjautuminen palveluihin), ZeroTrust (luottamattomuusperiaate) ja PatchManagement (korjausten hallinnointi).
 
 Keskitettyyn hallintaan voidaan ottaa työntekijöiden käytössä olevat Windows-, Android-, Linux- ja Apple-laitteet. Kun työntekijä tulee taloon, hänelle luodaan käyttäjätunnus ja annetaan tarvittavat käyttöoikeudet. 
 
