@@ -27,4 +27,4 @@ Palvelu on täysin automatisoitu ja kriittiset tiedot ovat aina nopeasti palaute
 * Automatisoitu ja kevyt sovellus
 * Data turvaluokitellussa palvelinsalissa
 
-
+T﻿utustu [hinnastoon](https://www.tdp.fi/yritys/hinnasto)!
