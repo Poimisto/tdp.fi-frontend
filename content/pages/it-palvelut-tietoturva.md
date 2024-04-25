@@ -20,7 +20,28 @@ date: 2023-09-28T07:34:45.618Z
 
 # Tietoturva ei ole vain haittaohjelmien estoa
 
-**EU:n GDPR-asetusten myötä tietoturvan vaatimukset koskettavat mitä tahansa tietoja, joissa potentiaalisesti käsitellään henkilötietoja. Teknisen tietoturvan ja haittaohjelmien eston lisäksi yrityksen on kyettävä hallinnoimaan sitä, kenellä on pääsy yrityksen toiminnassa syntyviin tiedostoihin ja dokumentteihin.**
+Tietoturvapalvelumme suodattaa verkkoliikenteen ja tarkistaa asennettavat ohjelmat tunnettujen virusten, haitta- sekä vakoiluohjelmien varalta. Palvelu analysoi jatkuvasti laitetoimintaa ja puuttuu automaattisesti epäilyttäviin tapahtumiin.
+
+## Tietoturva
+
+* Keskitetty tietoturvan hallinta ja raportointi
+* Ennakoiva sovellusten toiminnan seuranta ja automatisoitu haitallisten toimintojen esto
+* Kriittisten tiedostokansioiden tehostettu suojaus
+* Reaaliaikaisesti päivittyvä haittaohjelmasuojaus
+* Päätelaitteiden verkkoliikenteen suojaus
+
+## Tietoturva Plus
+
+* Keskitetty tietoturvan hallinta ja raportointi
+* Ennakoiva sovellusten toiminnan seuranta ja automatisoitu haitallisten toimintojen esto
+* Kriittisten tiedostokansioiden tehostettu suojaus
+* Reaaliaikaisesti päivittyvä haittaohjelmasuojaus
+* Päätelaitteiden verkkoliikenteen suojaus
+* Automatisoidut 3. osapuolen sovellusten päivitykset
+
+## Tietoturvan tiukentuneet vaatimukset
+
+EU:n GDPR-asetusten myötä tietoturvan vaatimukset koskettavat mitä tahansa tietoja, joissa potentiaalisesti käsitellään henkilötietoja. Teknisen tietoturvan ja haittaohjelmien eston lisäksi yrityksen on kyettävä hallinnoimaan sitä, kenellä on pääsy yrityksen toiminnassa syntyviin tiedostoihin ja dokumentteihin.
 
 Tietoturvan näkökulma on sisäänrakennettuna osana TDP:n tarjoamia palveluita. <a href="/it-palvelut/keskitetty-hallinta">Keskitetyn käyttäjähallinan</a> avulla työntekijöillä on käytössään henkilökohtaiset tunnukset, joilla kontrolloidaan ja jaetaan pääsyä yrityksen tietoihin. 
 
