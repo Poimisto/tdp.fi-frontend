@@ -15,14 +15,6 @@ head:
 
 # TDP Tuki
 
-**Tarvitseeko yrityksesi käyttäjätukea, joka vastaa viipymättä jokaiseen yhteydenottoon, selittää helpolla suomen kielellä toimenpiteet ongelmaan ja joka tuotetaan kiinteällä, järkevällä kuukausihinnalla?**
-
-TDP Tuki tarjoaa ihmisystävällisen IT-käyttäjätuen jokaiselle asiakkaallemme. Meillä käyttäjätuki tarjotaan ihmiseltä ihmiselle ymmärtäen, että asiakkaalle ongelma on aito ja hän haluaa siihen nopeasti ratkaisun.
-
-TDP Tuki koostuu täysin yrityksemme omasta henkilöstöstä, jolta löytyy asiantuntemusta ratkaista pulmat niin sähköpostin käytössä, ohjelmistojen lataamisessa, salasanojen palauttamisessa kuin kaikissa muissa toiminnallisissa IT-pulmissa.
-
-## IT-tuen käyttöohjeet
-
 Sopimusasiakkaana yrityksenne käytössä ovat niin TDP:n etä-, puhelin- kuin lähituki. 
 
 Sujuvan palvelun takaamiseksi kontaktoi eri tukitarpeissa alla esitettyjen ohjeiden mukaan.  
