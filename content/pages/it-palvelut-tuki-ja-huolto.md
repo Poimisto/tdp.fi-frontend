@@ -50,18 +50,4 @@ Lähituen minimilaskutus on 1h, etätuen 1/2h.
 
 **Priorisoitu etäkäyttäjätuki työasemille kiinteällä kuukausihinnalla. Alle 10 hengen yritykselle 29 €/hlö/kk ja yli 10 hengen yritykselle 19 €/hlö/kk.**
 
-Tukipalvelu -asiakkaiden palvelupyynnöt käsitellään ensisijaisina ennen muiden asiakkaiden pyyntöjä. Vianselvitys aloitetaan arkisin 4h sisään ilmoituksesta. Tilattujen palveluiden perustason hallinnointi, kuten käyttäjänimien muutokset ja salasanojen nollaukset sisältyvät kuukausihintaan.
-
-Palvelu koostuu seuraavista osa-alueista:
-
-* Tukikanavien keskitetty hallinta
-* Puhelintuki
-* Etätuki
-* Lähituki
-* Etähallintaohjelmisto 
-* * 256-bittinen AES-salaus
-  * ISO27001 ja SOC2-sertifioitu
-
-Paikanpäällä tapahtuvat asennustyöt suoritetaan sopimusasiakashintaan. 
-
-Tukipalveluhin liittyvät työasemien etäasennukset sisältyvät kuukausimaksuun. Lähituen minimilaskutus on 1h.
+P﻿alvelusisältö on identtinen TDP Tuki -palvelun kanssa.
