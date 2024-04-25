@@ -20,18 +20,49 @@ date: 2023-11-11T11:54:21.839Z
 
 # Tuki- ja huoltopalvelun avulla minimoit keskeytykset
 
-**TDP:n tukipalvelu tarjoaa yrityksellesi osaavaa käyttäjätukea niin etä-, puhelin- kuin lähitukena.** 
+Tarjoamme nopeat tukipalvelut takaamaan työskentelynne sujuvuuden.
 
-Tuki auttaa ratkaisemaan IT-laitteistoon ja sen käyttöön liittyvät ongelmat viikon jokaisena päivänä nopealla vasteajalla.
+Akuutit ongelmat ratkaistaan yleensä heti etäyhteyden avulla ja tarvittaessa asiantuntijamme saapuvat nopeasti paikan päälle palauttamaan järjestelmänne toimintakuntoon.
 
-## TDP:n tukipalvelu
+Hinnoittelumme on selkeää, perustuen joko loppukäyttäjien määrään tai asennukseen käytettyyn aikaan.
 
-Tuen avulla ratkaistaan useimmat ongelmat heti niiden ilmaantuessa. 
+## Palvelusisältö TDP Tuki
 
-Etätuen hyödyntämiseen riittää internet-yhteys ja ladattava tai esiasennettu etähallintaohjelmisto. Joskus ongelma johtuu laiteviasta ja ratkaisu vaatii laitteen vaihtoa tai huoltoa. Tällöin TDP:n varalaitepalvelun kautta saa korvaavan laitteen käyttöön huollon ajaksi.
+Priorisoitu käyttäjätuki.
 
-## O﻿sa edullista palvelusopimusta
+Tukipalvelu -asiakkaiden palvelupyynnöt käsitellään ensisijaisina ennen muiden asiakkaiden pyyntöjä. Vianselvitys aloitetaan arkisin 4h sisään ilmoituksesta. Tilattujen palveluiden perustason hallinnointi, kuten käyttäjänimien muutokset ja salasanojen nollaukset sisältyvät kuukausihintaan.
 
-Tuki- ja huoltopalvelumme sisällytetään yleensä osaksi <a href="/it-palvelut/palvelusopimus">palvelusopimusta</a> ja ne ovat yrityksen työntekijöiden käytössä palvelusopimuksen mukaisesti. 
+Palvelu koostuu seuraavista osa-alueista:
 
-Sopimukseen voidaan liittää työntekijöiden työvälineiden lisäksi ohjelmistojen käyttö sekä muut IT-laitteet kuten vaikkapa toimiston tulostimet tai monitoimilaitteet.
+ * Tukikanavien keskitetty hallinta
+ * Puhelintuki
+ * Etätuki
+ * Lähituki
+ * Etähallintaohjelmisto 
+ * * 256-bittinen AES-salaus
+   * ISO27001 ja SOC2-sertifioitu
+
+Tukipalveluiden vaatimat asennustyöt suoritetaan sopimusasiakashintaan. 
+
+Lähituen minimilaskutus on 1h, etätuen 1/2h.
+
+## Palvelusisältö TDP Tuki Kiinteä
+
+Priorisoitu etäkäyttäjätuki työasemille kiinteällä kuukausihinnalla. 
+
+
+Tukipalvelu -asiakkaiden palvelupyynnöt käsitellään ensisijaisina ennen muiden asiakkaiden pyyntöjä. Vianselvitys aloitetaan arkisin 4h sisään ilmoituksesta. Tilattujen palveluiden perustason hallinnointi, kuten käyttäjänimien muutokset ja salasanojen nollaukset sisältyvät kuukausihintaan.
+
+Palvelu koostuu seuraavista osa-alueista:
+
+ * Tukikanavien keskitetty hallinta
+ * Puhelintuki
+ * Etätuki
+ * Lähituki
+ * Etähallintaohjelmisto 
+ * * 256-bittinen AES-salaus
+   * ISO27001 ja SOC2-sertifioitu
+
+Paikanpäällä tapahtuvat asennustyöt suoritetaan sopimusasiakashintaan. 
+
+Tukipalveluhin liittyvät työasemien etäasennukset sisältyvät kuukausimaksuun. Lähituen minimilaskutus on 1h.
