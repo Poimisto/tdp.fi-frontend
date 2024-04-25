@@ -19,13 +19,13 @@ contactForm: Ota yhteyttä
 
 # Tietoturvatietoisuus korkeammaksi simuloitujen hyökkäysten ja koulutusalustan kautta
 
-**Yrityksen tietoturvan heikoin lenkki on käyttäjä. Tietoturvan parantamiseksi on järkevää tarjota jokaiselle käyttäjälle tukea eli koulutusalusta oman tietoturvatietoisuuden kehittämiseksi ja kalliiden virheiden välttämiseksi – hanki TDP KyberAkatemia -palvelu.**
+**Yrityksen tietoturvan heikoin lenkki on käyttäjä. Tietoturvan parantamiseksi on järkevää tarjota jokaiselle käyttäjälle tukea eli koulutusalusta oman tietoturvatietoisuuden kehittämiseksi ja kalliiden virheiden välttämiseksi – hanki TDP KyberAkatemia -palvelu.** kyb
 
 TDP KyberAkatemia -palvelu tarjoaa älykkään tavan toteuttaa automaattinen, simuloitu tietojenkalasteluhyökkäys käyttäjän sähköpostiin.
 
 Palvelu toimii myös henkilökohtaisena, interaktiivisena koulutusalustana, jossa työntekijät aidosti oppivat turvallista IT-käyttäytymistä.
 
-## Mitä TDP KyberAkatemia -palvelu tarjoaa yritykselle?
+## Yritysten kyberturvallisuus
 
 **TDP KyberAkatemia varmistaa yrityksesi täyttävän kyberturvallisuutta koskevan lainsäädännön tietoturvakoulutusten osalta.**
 
