@@ -20,8 +20,6 @@ Tarjoamme pilvipohjaisen varmuuskopioinnin MS/Google verkkolevylle ja tuottavuus
 
 Palvelu on täysin automatisoitu ja kriittiset tiedot ovat aina nopeasti palautettavissa.
 
-Kotisivu: https://datto.com
-
 ## Palvelusisältö
 
 * Google / MS 365-tiedostojen varmuuskopiointi pilvipalveluna rajattomalla tallennustilalla
