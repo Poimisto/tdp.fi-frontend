@@ -10,9 +10,9 @@
       "link": "/tdp-slim"
     },
     {
-      "type": "page",
-      "title": "Referenssit",
-      "link": "/referenssit"
+      "type": "link",
+      "title": "TDP KyberAkatemia",
+      "link": "/tdp-kyberakatemia"
     },
     {
       "type": "page",
@@ -28,6 +28,11 @@
       "type": "page",
       "title": "Ohjelmistot",
       "link": "/ohjelmistot"
+    },
+    {
+      "type": "page",
+      "title": "Referenssit",
+      "link": "/referenssit"
     },
     {
       "type": "page",
