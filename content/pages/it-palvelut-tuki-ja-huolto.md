@@ -26,9 +26,7 @@ Akuutit ongelmat ratkaistaan yleensä heti etäyhteyden avulla ja tarvittaessa a
 
 Hinnoittelumme on selkeää, perustuen joko loppukäyttäjien määrään tai asennukseen käytettyyn aikaan.
 
-## Palvelusisältö TDP Tuki
-
-**Priorisoitu käyttäjätuki tuntiveloitteisena 7 €/kk + 68 €/h.**
+## Palvelusisältö
 
 Tukipalvelu -asiakkaiden palvelupyynnöt käsitellään ensisijaisina ennen muiden asiakkaiden pyyntöjä. Vianselvitys aloitetaan arkisin 4h sisään ilmoituksesta. Tilattujen palveluiden perustason hallinnointi, kuten käyttäjänimien muutokset ja salasanojen nollaukset sisältyvät kuukausihintaan.
 
@@ -42,12 +40,13 @@ Palvelu koostuu seuraavista osa-alueista:
 * * 256-bittinen AES-salaus
   * ISO27001 ja SOC2-sertifioitu
 
-Tukipalveluiden vaatimat asennustyöt suoritetaan sopimusasiakashintaan. 
+## Hinnoittelu
 
-Lähituen minimilaskutus on 1h, etätuen 1/2h.
+T﻿untiveloitteinen tukipalvelu 7 €/kk/käyttäjä + 68 €/h.
 
-## Palvelusisältö TDP Tuki Kiinteä
+K﻿iinteähintainen tukipalvelu:
 
-**Priorisoitu etäkäyttäjätuki työasemille kiinteällä kuukausihinnalla. Alle 10 hengen yritykselle 29 €/hlö/kk ja yli 10 hengen yritykselle 19 €/hlö/kk.**
+* 1-9 käyttäjää 29 €/kk/käyttäjä
+* 10- käyttäjää 19 €/kk/käyttäjä
 
-P﻿alvelusisältö on identtinen TDP Tuki -palvelun kanssa.
+*Tukipalveluhin liittyvät työasemien etäasennukset sisältyvät kuukausimaksuun. Lähituen osalta minimilaskutus on 1h.*
