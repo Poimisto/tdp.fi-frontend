@@ -19,14 +19,21 @@ V﻿oimassa 1.1.2024 alkaen
 | Suunnittelu, verkkotyöt, palvelintyöt ja ohjelmointi | 104,00 €/h |
 | ﻿Sopimusasiakkaille työasemien asennukset            | 68,00 €/h  |
 
-## Huolto- ja ylläpitosopimukset
+## Huolto- ja ylläpito
 
 |                                            |            |
 | ------------------------------------------ | ---------- |
-| Etätukipalvelu                             | 7,00 €/kk  |
 | Hallittu yritystietoturva                  | 7,00 €/kk  |
 | Varalaitepalvelu                           | 9,00 €/kk  |
 | Koneiden ja käyttäjien keskitetty hallinta | 11,00 €/kk |
+
+## Tuki
+
+|                                            |            |
+| ------------------------------------------ | ---------- |
+| Tuntiveloitteinen                          | 7,00 €/kk + 68€/h |
+| Kiinteä hinta 1-9 käyttäjää             | 29,00 €/kk |
+| Kiinteä hinta 10- käyttäjää             | 19,00 €/kk |
 
 ## Varmuuskopiointi
 
