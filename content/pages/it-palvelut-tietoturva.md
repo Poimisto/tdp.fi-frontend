@@ -22,22 +22,6 @@ date: 2023-09-28T07:34:45.618Z
 
 Tietoturvapalvelumme suodattaa verkkoliikenteen ja tarkistaa asennettavat ohjelmat tunnettujen virusten, haitta- sekä vakoiluohjelmien varalta. Palvelu analysoi jatkuvasti laitetoimintaa ja puuttuu automaattisesti epäilyttäviin tapahtumiin.
 
-## Tietoturva
-
-* Keskitetty tietoturvan hallinta ja raportointi
-* Ennakoiva sovellusten toiminnan seuranta ja automatisoitu haitallisten toimintojen esto
-* Kriittisten tiedostokansioiden tehostettu suojaus
-* Reaaliaikaisesti päivittyvä haittaohjelmasuojaus
-* Päätelaitteiden verkkoliikenteen suojaus
-
-## Tietoturva Plus
-
-* Keskitetty tietoturvan hallinta ja raportointi
-* Ennakoiva sovellusten toiminnan seuranta ja automatisoitu haitallisten toimintojen esto
-* Kriittisten tiedostokansioiden tehostettu suojaus
-* Reaaliaikaisesti päivittyvä haittaohjelmasuojaus
-* Päätelaitteiden verkkoliikenteen suojaus
-* Automatisoidut 3. osapuolen sovellusten päivitykset
 
 
 | Ominaisuus                       | TIETOTURVA    | TIETOTURVA PLUS |
