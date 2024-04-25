@@ -44,6 +44,8 @@ Palvelu koostuu seuraavista osa-alueista:
 
 T﻿untiveloitteinen tukipalvelu 7 €/kk/käyttäjä + 68 €/h.
 
+L﻿ähituen osalta minimilaskutus on 1h, etätuen 1/2h.
+
 K﻿iinteähintainen tukipalvelu:
 
 * 1-9 käyttäjää 29 €/kk/käyttäjä
