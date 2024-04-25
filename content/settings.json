@@ -38,11 +38,6 @@
       "type": "page",
       "link": "/yritys",
       "title": "Yritys"
-    },
-    {
-      "type": "page",
-      "title": "Tuki",
-      "link": "/tuki"
     }
   ],
   "title": "TDP",
