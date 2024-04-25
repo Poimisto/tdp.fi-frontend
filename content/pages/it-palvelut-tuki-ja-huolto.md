@@ -42,13 +42,13 @@ Palvelu koostuu seuraavista osa-alueista:
 
 ## Hinnoittelu
 
-T﻿untiveloitteinen tukipalvelu 7 €/kk/käyttäjä + 68 €/h.
+T﻿untiveloitteinen tukipalvelu **7 €/kk/käyttäjä + 68 €/h.**
 
 L﻿ähituen osalta minimilaskutus on 1h, etätuen 1/2h.
 
 K﻿iinteähintainen tukipalvelu:
 
-* 1-9 käyttäjää 29 €/kk/käyttäjä
-* 10- käyttäjää 19 €/kk/käyttäjä
+* **1-9 käyttäjää 29 €/kk/käyttäjä**
+* **10- käyttäjää 19 €/kk/käyttäjä**
 
 *Tukipalveluhin liittyvät työasemien etäasennukset sisältyvät kuukausimaksuun. Lähituen osalta minimilaskutus on 1h.*
