@@ -24,7 +24,7 @@ Tarjoamme nopeat tukipalvelut takaamaan työskentelynne sujuvuuden.
 
 Akuutit ongelmat ratkaistaan yleensä heti etäyhteyden avulla ja tarvittaessa asiantuntijamme saapuvat nopeasti paikan päälle palauttamaan järjestelmänne toimintakuntoon.
 
-Hinnoittelumme on selkeää, perustuen joko loppukäyttäjien määrään tai asennukseen käytettyyn aikaan. Valittavanasi on 
+Hinnoittelumme on selkeää, perustuen joko loppukäyttäjien määrään tai asennukseen käytettyyn aikaan.
 
 ## Palvelusisältö TDP Tuki
 
