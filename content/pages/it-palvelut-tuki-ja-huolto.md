@@ -40,15 +40,27 @@ Palvelu koostuu seuraavista osa-alueista:
 * * 256-bittinen AES-salaus
   * ISO27001 ja SOC2-sertifioitu
 
-## Hinnoittelu
+<HeroBlock bgColor="brand" imageAlign="right">
 
-T﻿untiveloitteinen tukipalvelu **7 €/kk/käyttäjä + 68 €/h.**
+  <div className="HeroBlockImage">
 
+  ![undefined](/assets/tdp-hinnasto.jpg)
+
+  </div>
+
+  <div className="HeroBlockContent">
+
+  ## H﻿innasto tukipalvelulle
+
+|                             |                   |
+| --------------------------- | ----------------- |
+| Tuntiveloitteinen           | 7,00 €/kk + 68€/h |
+| Kiinteä hinta 1-9 käyttäjää | 29,00 €/kk        |
+| Kiinteä hinta 10- käyttäjää | 19,00 €/kk        |
+  
 L﻿ähituen osalta minimilaskutus on 1h, etätuen 1/2h.
 
-K﻿iinteähintainen tukipalvelu:
+Tukipalveluhin liittyvät työasemien etäasennukset sisältyvät kuukausimaksuun.
+  </div>
 
-* **1-9 käyttäjää 29 €/kk/käyttäjä**
-* **10- käyttäjää 19 €/kk/käyttäjä**
-
-*Tukipalveluhin liittyvät työasemien etäasennukset sisältyvät kuukausimaksuun. Lähituen osalta minimilaskutus on 1h.*
+  </HeroBlock>
