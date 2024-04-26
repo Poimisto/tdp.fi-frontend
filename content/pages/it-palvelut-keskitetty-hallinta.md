@@ -30,37 +30,39 @@ Palveluun on saatavilla myös lukuisia käyttäjäkokemusta ja tietoturvaa paran
 * Pilvialusta koneille kirjautumisen hallintaan
 * Käyttöoikeuksien hallinta
 
+
 <HeroBlock bgColor="brand" imageAlign="right">
 
-  <div className="HeroBlockImage">
+<div className="HeroBlockImage">
 
-  ![undefined](/assets/tdp-hinnasto.jpg)
+![undefined](/assets/tdp-hinnasto.jpg)
 
-  </div>
+</div>
 
-  <div className="HeroBlockContent">
+<div className="HeroBlockContent">
 
+## H﻿innasto
 
-  ## H﻿innasto
+| Ominaisuus                                     | CORE DIRECTORY | JUMPCLOUD PLATFORM | PLATFORM PRIME |
+| ---------------------------------------------- | -------------- | ------------------ | -------------- |
+| Pilvihakemisto                                 | ✔              | ✔                  | ✔              |
+| Monivaiheinen tunnistus                        | ✔              | ✔                  | ✔              |
+| Kertakirjautuminen                             | ✔              | ✔                  | ✔              |
+| Käyttäjän elinkaarihallinta                    | ✔              | ✔                  | ✔              |
+| LDAP                                           | ✔              | ✔                  | ✔              |
+| Hakemiston käyttötiedot                        | ✔              | ✔                  | ✔              |
+| Laitehallinta                                  |                | ✔                  | ✔              |
+| Mobiililaitehallinta                           |                | ✔                  | ✔              |
+| Järjestelmän käyttötiedot                      |                | ✔                  | ✔              |
+| Zero Trust-toiminnot                           |                |                    | ✔              |
+| JumpCloudin tuki 24/7                          |                |                    | ✔              |
+| **Hinta (EUR/kk/käyttäjä):**                   | **15,00**      | **22,00**          | **27,00**      |
+| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):** | **13,00**      | **19,00**          | **24,00**      |
 
-  | Ominaisuus                                     | CORE DIRECTORY PACKAGE | JUMPCLOUD PLATFORM | PLATFORM PLUS |
-  | ---------------------------------------------- | ---------------------- | ------------------ | ------------- |
-  | Pilvihakemisto                                 | ✔                      | ✔                  | ✔             |
-  | Monivaiheinen tunnistus                        | ✔                      | ✔                  | ✔             |
-  | Kertakirjautuminen                             | ✔                      | ✔                  | ✔             |
-  | Käyttäjän elinkaarihallinta                    | ✔                      | ✔                  | ✔             |
-  | LDAP                                           | ✔                      | ✔                  | ✔             |
-  | Hakemiston käyttötiedot                        | ✔                      | ✔                  | ✔             |
-  | Laitehallinta                                  |                        | ✔                  | ✔             |
-  | Mobiililaitehallinta                           |                        | ✔                  | ✔             |
-  | Järjestelmän käyttötiedot                      |                        | ✔                  | ✔             |
-  | Zero Trust-toiminnot                           |                        |                    | ✔             |
-  | JumpCloudin tuki 24/7                          |                        |                    | ✔             |
-  | **Hinta (EUR/kk/käyttäjä):**                   | **13,00**              | **17,00**          | **20,00**     |
-  | **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):** | **11,00**              | **15,00**          | **18,00**     |
-  </div>
+</div>
 
-  </HeroBlock>    
+</HeroBlock>
+
 
 ## Laitteiden ja työntekijöiden hallinta
 
