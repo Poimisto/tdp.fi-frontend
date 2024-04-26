@@ -72,8 +72,8 @@ Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtais
 | Yhteystiedot                   | ✔                 | ✔                 | ✔             |
 | Google Gemini saatavilla lisäominaisuutena       | ✔                | ✔                 | ✔             |
 | eDiscovery                                       |                  |                   | ✔             |
-| **Hinta (EUR/kk/käyttäjä):**                     | **6,90**         | **13,80**         | \-            |
-| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**   | **5,75**         | **11,50**         | **17,25**     |
+| **Kuukausilisenssi (EUR/kk/käyttäjä):**                     | **6,90**         | **13,80**         | \-            |
+| **Vuosilisenssi (EUR/kk/käyttäjä):**   | **5,75**         | **11,50**         | **17,25**     |
   </div>
 
   </HeroBlock>
