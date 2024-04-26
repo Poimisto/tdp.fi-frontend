@@ -56,8 +56,8 @@ IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti k
 | Jatkuva päivityspalvelu ja uusimmat ominaisuudet                                            |                |  ✔                  |                   |                |
 | Täysin asennettavat Office-sovellukset, mukaan lukien Word, Outlook, Excel, PowerPoint                                            |                |  ✔                  |                   |                |
 | CoPilot saatavilla lisäominaisuutena                                             |                |                   |  ✔                 | ✔                |
-| **Hinta (EUR/kk/käyttäjä):**                                 | **6,72**       | **11,76**         | **14,04**         | **24,72**        |
-| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**               | **5,60**       | **9,80**          | **11,70**         | **20,60**        |
+| **Kuukausilisenssi (EUR/kk/käyttäjä):**                                 | **6,72**       | **11,76**         | **14,04**         | **24,72**        |
+| **Vuosilisenssi (EUR/kk/käyttäjä):**               | **5,60**       | **9,80**          | **11,70**         | **20,60**        |
   </div>
 
   </HeroBlock>
