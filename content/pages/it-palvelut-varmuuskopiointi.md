@@ -3,7 +3,8 @@ path: /it-palvelut/varmuuskopiointi
 thumbnail: /assets/tdp-varmuuskopiointi.png
 date: 2023-03-23T12:49:52.732Z
 head:
-  keywords: "varmuuskopiointi, backup, datto, "
+  keywords: pilvipalveluiden varmuuskopiointi, yritysten varmuuskopiointi,
+    varmuuskopiointipalvelu, backup, datto
   title: Yritysten varmuuskopiointi - Datto
   description: Varmuuskopiointi on osa yrityksen fiksua IT-ympäristöä.
     Varmuuskopiot palauttavat menetetyt tiedot laiterikon tai inhimillisen
@@ -27,27 +28,4 @@ Palvelu on täysin automatisoitu ja kriittiset tiedot ovat aina nopeasti palaute
 * Automatisoitu ja kevyt sovellus
 * Data turvaluokitellussa palvelinsalissa
 
-
-  <HeroBlock bgColor="brand" imageAlign="left">
-
-  <div className="HeroBlockImage">
-
-
-
-  </div>
-
-  <div className="HeroBlockContent">
-
-  ## H﻿innasto
-|                              |                  |
-| ---------------------------- | ---------------- |
-| Google Workspace             | 5,20 €/kk        |
-| ﻿Microsoft 365               | 5,20 €/kk        |
-| Koneen työpöytä / kannettava | 10,00 €/kk       |
-| **Palvelimet räätälöidysti** | esim.            |
-| ﻿Lisenssityyppi 100 GB       | 39 €/kk/palvelin |
-| ﻿Lisenssityyppi 1 TB         | 99 €/kk/palvelin |
-  </div>
-
-  </HeroBlock>
-
+  
