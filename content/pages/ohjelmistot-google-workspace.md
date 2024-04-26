@@ -51,16 +51,15 @@ Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtais
 
 <HeroBlock bgColor="brand" imageAlign="right">
 
-  <div className="HeroBlockImage">
-
-  ![undefined](/assets/tdp-hinnasto.jpg)
-
-  </div>
-
-  <div className="HeroBlockContent">
+<div className="HeroBlockImage">
 
 
-  ## Hinnasto
+
+</div>
+
+<div className="HeroBlockContent">
+
+## Hinnasto
 
 | Ominaisuus                                       | BUSINESS STARTER | BUSINESS STANDARD | BUSINESS PLUS |
 | ------------------------------------------------ | ---------------- | ----------------- | ------------- |
@@ -74,9 +73,11 @@ Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtais
 | eDiscovery                                       |                  |                   | ✔             |
 | **Kuukausilisenssi (EUR/kk/käyttäjä):**                     | **6,90**         | **13,80**         | \-            |
 | **Vuosilisenssi (EUR/kk/käyttäjä):**   | **5,75**         | **11,50**         | **17,25**     |
-  </div>
 
-  </HeroBlock>
+</div>
+
+</HeroBlock>
+
 
 ## Suomenkielinen tukipalvelu
 
