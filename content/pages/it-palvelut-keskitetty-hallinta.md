@@ -19,7 +19,7 @@ date: 2023-09-28T07:26:43.466Z
 
 # Keskitetty hallinta tarjoaa välineet hallita suurenkin organisaation laitekantaa
 
-**Keskitetyn hallinnan palvelumme tekee päätelaitteiden ja käyttöoikeuksien hallinnasta suoraviivaista ja tehokasta vain 11 eurolla/kk.**
+**Keskitetyn hallinnan palvelumme tekee päätelaitteiden ja käyttöoikeuksien hallinnasta suoraviivaista ja tehokasta.**
 
 Palvelu nopeuttaa uusien koneiden ja käyttäjätilien asennusta yrityksen käytänteiden mukaisesti, sekä helpottaa etätöiden hallintaa. Keskitetty hallinta vähentää huomattavasti paikan päällä tehtävän työn määrää ja mahdollistaa myös kadonneiden tai varastettujen laitteiden nollauksen.
 
