@@ -22,14 +22,9 @@ breadcrumb:
 
 Tarjoamme MS 365 -lisenssejä, jotka tarjoavat käyttöönne yritystason sähköpostit omalla domainillanne, sekä kattavan kokoelman yhteistyö- ja tuottavuustyökaluja.
 
-
-
 Kaikkiin MS 365  -paketteihin sisältyvät videoneuvottelut ja verkkolevy, sekä tehokkaat työkalut dokumenttien, taulukoiden ja lomakkeiden käsittelyyn.
 
-
-
 MS 365 yhdistää kaikki keskeiset toimistotyökalut yhdeksi kokonaisuudeksi mahdollistaen tehokkaan yhteistyön ja tiedonhallinnan. 
-
 
 ## Palvelusisältö
 
@@ -39,20 +34,18 @@ IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti k
 
 | Ominaisuus                                                   | BUSINESS BASIC | APPS FOR BUSINESS | BUSINESS STANDARD | BUSINESS PREMIUM |
 | ------------------------------------------------------------ | -------------- | ----------------- | ----------------- | ---------------- |
-| Sähköposti omalla domainilla                                 | ✔              |                   | ✔                 | ✔                |
-| Office*, verkko- ja mobiiliversiot                           | ✔              | ✔                 | ✔                 | ✔                |
-| Office*-työpöytäversiot                                      |                | ✔                 | ✔                 | ✔                |
-| Office* premium-ominaisuudet                                 |                |                   | ✔                 | ✔                |
-| Videopuhelut Teamsilla                                       | ✔              |                   | ✔                 | ✔                |
-| Kalenteri                                                    | ✔              |                   | ✔                 | ✔                |
-| 1 Tt tallennustilaa tiedostojen jakamiseen ja tallentamiseen | ✔              | ✔                 | ✔                 | ✔                |
-| Webinaarien isännöinti ja raportointityökalut                |                |                   | ✔                 | ✔                |
-| Käyttöoikeuksien ja -tietojen hallinta                       |                |                   |                   | ✔                |
-| Kyberuhkasuojaus                                             |                |                   |                   | ✔                |
+| M﻿ukautettu yrityssähköposti                                | ✔              |                   | ✔                 | ✔                |
+| Täysin asennettavat Office-sovellukset  5 laitteelle/käyttäjä                           | ✔              | ✔                 | ✔                 | ✔                |
+| Microsoft Teamsin videokokoukset 300 osallistujalle                                       | ✔              |                   | ✔                 | ✔                |
+| 1 Tt pilvitallennustilaa OneDrivessa/käyttäjä | ✔              | ✔                 | ✔                 | ✔                |
+| Verkkoseminaarit, joissa osallistujien rekisteröinti |               |                  | ✔                 | ✔                |
+| Edistyneet tietoturvaominaisuudet ja yritystason laitetuki                                             |                |                   |                   | ✔                |
+| Jatkuva päivityspalvelu ja uusimmat ominaisuudet                                            |                |  ✔                  |                   |                |
+| Täysin asennettavat Office-sovellukset, mukaan lukien Word, Outlook, Excel, PowerPoint                                            |                |  ✔                  |                   |                |
+| CoPilot saatavilla lisäominaisuutena                                             |                |                   |  ✔                 | ✔                |
 | **Hinta (EUR/kk/käyttäjä):**                                 | **6,72**       | **11,76**         | **14,04**         | **24,72**        |
 | **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**               | **5,60**       | **9,80**          | **11,70**         | **20,60**        |
 
-\*Office-ohjelmistot kuten Word, Excel, PowerPoint, Outlook ja OneNote 
 
 ## Suomenkielinen tukipalvelu
 
