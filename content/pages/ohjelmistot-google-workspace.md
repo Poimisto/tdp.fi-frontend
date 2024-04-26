@@ -42,11 +42,25 @@ Workspace tarjoaa yrityksellesi kaikki arjen töissä tarvitsemasi työkalut yhd
 
 ## Google Workspacen hinta
 
-Workspacen palvelut skaalautuvat yrityksesi kasvun myötä ja hinta määräytyy yrityksesi tarpeiden mukaan. \
-\
+Workspacen palvelut skaalautuvat yrityksesi kasvun myötä ja hinta määräytyy yrityksesi tarpeiden mukaan.
+
 Suomalaisen jälleenmyyjän tarjoama suomenkielinen, ripeä tukipalvelu varmistaa valitsemasi paketin jokapäiväisen helppouden niin maksamisen kuin käytön osalta. 
 
 Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtaisista toiminnoista saat helpoiten lisätietoja kysymällä meiltä suoraan!
+
+
+<HeroBlock bgColor="brand" imageAlign="right">
+
+  <div className="HeroBlockImage">
+
+  ![undefined](/assets/tdp-hinnasto.jpg)
+
+  </div>
+
+  <div className="HeroBlockContent">
+
+
+  ## Hinnasto
 
 | Ominaisuus                                       | BUSINESS STARTER | BUSINESS STANDARD | BUSINESS PLUS |
 | ------------------------------------------------ | ---------------- | ----------------- | ------------- |
@@ -60,6 +74,9 @@ Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtais
 | eDiscovery                                       |                  |                   | ✔             |
 | **Hinta (EUR/kk/käyttäjä):**                     | **6,90**         | **13,80**         | \-            |
 | **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**   | **5,75**         | **11,50**         | **17,25**     |
+  </div>
+
+  </HeroBlock>
 
 ## Suomenkielinen tukipalvelu
 
