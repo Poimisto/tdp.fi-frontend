@@ -59,11 +59,28 @@ Portaali tarjoaa kattavan tapahtumalokin, josta yrityksesi näkee esimerkiksi si
 
 Kaikki data on nähtävillä niin organisaatio-, ryhmä-, kuin loppukäyttäjätasolla, joten kokonaiskäsitys yrityksesi tietoturvatietoisuudesta tulee olemaan luotettava kuukaudesta toiseen.
 
-## H﻿inta
+<HeroBlock bgColor="brand" imageAlign="right">
 
-**Palvelulla on kiinteä kuukausihinta 3 €/kk/työntekijä sekä 990 euron kertaluontoinen avausmaksu palvelun integroimisesta yrityksesi IT-infraan.**
+  <div className="HeroBlockImage">
 
-KyberAkatemian hinta on huomaamaton suhteutettuna palvelun tarjoamaan näkyvään hyötyyn. Jo yksikin väärä klikkaus voi johtaa merkittäviin kustannuksiin, kun tapahtunutta selvitetään tuntityönä ja kenties saastunut kone joudutaan puhdistamaan. Puhumattakaan pahimmillaan tilanteista, joissa varomattomat klikkaukset johtavat yritysverkon hallinnan, mahdollisesti jopa yrityksen kaiken tiedon menetykseen. 
+  ![undefined](/assets/tdp-hinnasto.jpg)
+
+  </div>
+
+  <div className="HeroBlockContent">
+
+
+  ## Hinnasto
+
+  |                              |             |  
+  | ---------------------------- | ----------- |
+  | Kiinteä kuukausihinta/käyttäjä   | 3 €/kk   |
+  | ﻿Palvelun avausmaksu              | 990 €/kk |
+H﻿intaan sisältyy myös palvelun käytön analytiikka  ja mahdolliset toimenpide-ehdotukset yrityksesi tietoturvan nostamiseksi.
+
+  </div>
+
+  </HeroBlock>
 
 H﻿intaan sisältyy myös palvelun käytön analytiikka  ja mahdolliset toimenpide-ehdotukset yrityksesi tietoturvan nostamiseksi.
 
