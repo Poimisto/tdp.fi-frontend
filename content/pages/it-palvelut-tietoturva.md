@@ -18,7 +18,7 @@ date: 2023-09-28T07:34:45.618Z
 ---
 ![](/assets/tietoturva2-1280-x-800.jpg)
 
-# Tietoturvapalvelu
+# Tietoturvapalvelu | WithSecure Elements EPP
 
 Tietoturvapalvelumme suodattaa verkkoliikenteen ja tarkistaa asennettavat ohjelmat tunnettujen virusten, haitta- sekä vakoiluohjelmien varalta. Palvelu analysoi jatkuvasti laitetoimintaa ja puuttuu automaattisesti epäilyttäviin tapahtumiin.
 
