@@ -30,6 +30,26 @@ Palveluun on saatavilla myös lukuisia käyttäjäkokemusta ja tietoturvaa paran
 * Pilvialusta koneille kirjautumisen hallintaan
 * Käyttöoikeuksien hallinta
 
+    ![undefined](/assets/tdp-hinnasto.jpg)
+
+  ## H﻿innasto
+
+  | Ominaisuus                                     | CORE DIRECTORY PACKAGE | JUMPCLOUD PLATFORM | PLATFORM PLUS |
+  | ---------------------------------------------- | ---------------------- | ------------------ | ------------- |
+  | Pilvihakemisto                                 | ✔                      | ✔                  | ✔             |
+  | Monivaiheinen tunnistus                        | ✔                      | ✔                  | ✔             |
+  | Kertakirjautuminen                             | ✔                      | ✔                  | ✔             |
+  | Käyttäjän elinkaarihallinta                    | ✔                      | ✔                  | ✔             |
+  | LDAP                                           | ✔                      | ✔                  | ✔             |
+  | Hakemiston käyttötiedot                        | ✔                      | ✔                  | ✔             |
+  | Laitehallinta                                  |                        | ✔                  | ✔             |
+  | Mobiililaitehallinta                           |                        | ✔                  | ✔             |
+  | Järjestelmän käyttötiedot                      |                        | ✔                  | ✔             |
+  | Zero Trust-toiminnot                           |                        |                    | ✔             |
+  | JumpCloudin tuki 24/7                          |                        |                    | ✔             |
+  | **Hinta (EUR/kk/käyttäjä):**                   | **13,00**              | **17,00**          | **20,00**     |
+  | **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):** | **11,00**              | **15,00**          | **18,00**     |
+
 ## Laitteiden ja työntekijöiden hallinta
 
 Keskitettyyn hallintaan voidaan ottaa työntekijöiden käytössä olevat Windows-, Android-, Linux- ja Apple-laitteet. Kun työntekijä tulee taloon, hänelle luodaan käyttäjätunnus ja annetaan tarvittavat käyttöoikeudet. 
