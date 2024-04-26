@@ -25,6 +25,11 @@ Palvelu nopeuttaa uusien koneiden ja käyttäjätilien asennusta yrityksen käyt
 
 Palveluun on saatavilla myös lukuisia käyttäjäkokemusta ja tietoturvaa parantavia lisäominaisuuksia, kuten esimerkiksi SSO (kertakirjautuminen palveluihin), ZeroTrust (luottamattomuusperiaate) ja PatchManagement (korjausten hallinnointi).
 
+## Palvelusisältö
+
+* Pilvialusta koneille kirjautumisen hallintaan
+* Käyttöoikeuksien hallinta
+
 ## Laitteiden ja työntekijöiden hallinta
 
 Keskitettyyn hallintaan voidaan ottaa työntekijöiden käytössä olevat Windows-, Android-, Linux- ja Apple-laitteet. Kun työntekijä tulee taloon, hänelle luodaan käyttäjätunnus ja annetaan tarvittavat käyttöoikeudet. 
