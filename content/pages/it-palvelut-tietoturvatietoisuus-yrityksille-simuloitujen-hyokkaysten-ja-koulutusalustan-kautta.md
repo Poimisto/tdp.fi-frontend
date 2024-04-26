@@ -59,6 +59,7 @@ Portaali tarjoaa kattavan tapahtumalokin, josta yrityksesi näkee esimerkiksi si
 
 Kaikki data on nähtävillä niin organisaatio-, ryhmä-, kuin loppukäyttäjätasolla, joten kokonaiskäsitys yrityksesi tietoturvatietoisuudesta tulee olemaan luotettava kuukaudesta toiseen.
 
+
 <HeroBlock bgColor="brand" imageAlign="right">
 
   <div className="HeroBlockImage">
@@ -72,17 +73,20 @@ Kaikki data on nähtävillä niin organisaatio-, ryhmä-, kuin loppukäyttäjät
 
   ## Hinnasto
 
-  |                              |             |  
+  |                              |             |
   | ---------------------------- | ----------- |
   | Kiinteä kuukausihinta/käyttäjä   | 3 €/kk   |
-  | ﻿Palvelun avausmaksu              | 990 €/kk |
+  | ﻿Palvelun avausmaksu              | 990 €/kk   |
+
 H﻿intaan sisältyy myös palvelun käytön analytiikka  ja mahdolliset toimenpide-ehdotukset yrityksesi tietoturvan nostamiseksi.
 
   </div>
 
   </HeroBlock>
 
-H﻿intaan sisältyy myös palvelun käytön analytiikka  ja mahdolliset toimenpide-ehdotukset yrityksesi tietoturvan nostamiseksi.
+ 
+
+
 
 ## M﻿iksi ottaa yhteyttä?
 
