@@ -29,11 +29,11 @@ V﻿oimassa 1.1.2024 alkaen
 
 ## Tuki
 
-|                             |                   |
-| --------------------------- | ----------------- |
-| Tuntiveloitteinen           | 7,00 €/kk + 68€/h |
-| Kiinteä hinta 1-9 käyttäjää | 29,00 €/kk        |
-| Kiinteä hinta 10- käyttäjää | 19,00 €/kk        |
+|                             |                    |
+| --------------------------- | ------------------ |
+| Tuntiveloitteinen           | 7,00 €/kk + 68 €/h |
+| Kiinteä hinta 1-9 käyttäjää | 29,00 €/kk         |
+| Kiinteä hinta 10- käyttäjää | 19,00 €/kk         |
 
 ## Varmuuskopiointi
 
