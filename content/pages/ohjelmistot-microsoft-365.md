@@ -37,7 +37,7 @@ IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti k
 
 <div className="HeroBlockImage">
 
-
+![](/assets/tdp-hinnasto.jpg)
 
 </div>
 
