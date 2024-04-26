@@ -31,6 +31,27 @@ Tietoturvapalvelumme suodattaa verkkoliikenteen ja tarkistaa asennettavat ohjelm
 | Päätelaitteiden verkkoliikenteen suojaus                                                | ✔             | ✔               |
 | Automatisoidut 3. osapuolen sovellusten päivitykset                                     | \-            | ✔               |
 
+<HeroBlock bgColor="brand" imageAlign="right">
+
+  <div className="HeroBlockImage">
+
+  ![undefined](/assets/tdp-hinnasto.jpg)
+
+  </div>
+
+  <div className="HeroBlockContent">
+
+  ## H﻿innasto 
+
+  |                              |             |
+  | ---------------------------- | ----------- |
+  | Tietoturva             | 4,41 €/kk   |
+  | ﻿Tietoturva Plus               | 7,49 €/kk   |
+  
+
+  </div>
+
+  </HeroBlock>
 
 ## Tietoturvan tiukentuneet vaatimukset
 
