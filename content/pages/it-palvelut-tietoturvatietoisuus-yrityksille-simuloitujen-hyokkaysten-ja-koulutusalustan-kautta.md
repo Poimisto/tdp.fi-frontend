@@ -35,6 +35,30 @@ Lisäksi TDP KyberAkatemia on olemassaoleviin koulutuksiin verrattuna helppo ja 
 
 Mikä parasta, KyberAkatemia on maltillisesti hinnoiteltu avaimet käteen -palvelu, jossa hyvä käyttäjätuki tulee kaupan päälle. Palvelu on ensisijaisesti suunnattu yli 10 hengen yrityksille, mutta siitä on toki hyötyä kaikille.
 
+<HeroBlock bgColor="brand" imageAlign="right">
+
+  <div className="HeroBlockImage">
+
+  ![undefined](/assets/tdp-hinnasto.jpg)
+
+  </div>
+
+  <div className="HeroBlockContent">
+
+
+  ## Hinnasto
+
+  |                              |             |
+  | ---------------------------- | ----------- |
+  | Kiinteä kuukausihinta/käyttäjä   | 3 €/kk   |
+  | ﻿Palvelun avausmaksu              | 990 €/kk   |
+
+H﻿intaan sisältyy myös palvelun käytön analytiikka  ja mahdolliset toimenpide-ehdotukset yrityksesi tietoturvan nostamiseksi.
+
+  </div>
+
+  </HeroBlock>
+
 ## S﻿imuloidut hyökkäykset
 
 **Työntekijän postilaatikkoon tulee asiapostien lisäksi myös huijauksia, joiden tunnistaminen on yrityksesi tietoturvan kannalta kriittinen taito.** 
@@ -60,31 +84,6 @@ Portaali tarjoaa kattavan tapahtumalokin, josta yrityksesi näkee esimerkiksi si
 Kaikki data on nähtävillä niin organisaatio-, ryhmä-, kuin loppukäyttäjätasolla, joten kokonaiskäsitys yrityksesi tietoturvatietoisuudesta tulee olemaan luotettava kuukaudesta toiseen.
 
 
-<HeroBlock bgColor="brand" imageAlign="right">
-
-  <div className="HeroBlockImage">
-
-  ![undefined](/assets/tdp-hinnasto.jpg)
-
-  </div>
-
-  <div className="HeroBlockContent">
-
-
-  ## Hinnasto
-
-  |                              |             |
-  | ---------------------------- | ----------- |
-  | Kiinteä kuukausihinta/käyttäjä   | 3 €/kk   |
-  | ﻿Palvelun avausmaksu              | 990 €/kk   |
-
-H﻿intaan sisältyy myös palvelun käytön analytiikka  ja mahdolliset toimenpide-ehdotukset yrityksesi tietoturvan nostamiseksi.
-
-  </div>
-
-  </HeroBlock>
-
- 
 
 
 
