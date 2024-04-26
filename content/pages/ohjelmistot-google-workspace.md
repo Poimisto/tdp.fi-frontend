@@ -20,20 +20,15 @@ breadcrumb:
 
 # Google Workspace -liiketoimintasovellus yrityksille
 
-Tarjoamme Google Workspace -lisenssejä, jotka tarjoavat käyttöönne yritystason sähköpostit omalla domainillanne, sekä kattavan kokoelman yhteistyö- ja tuottavuustyökaluja.
-
-
+**Tarjoamme Google Workspace -lisenssejä, jotka tarjoavat käyttöönne yritystason sähköpostit omalla domainillanne, sekä kattavan kokoelman yhteistyö- ja tuottavuustyökaluja.**
 
 Kaikkiin Google Workspace -paketteihin sisältyvät kalenteri, videoneuvottelut ja verkkolevy, sekä tehokkaat työkalut dokumenttien, taulukoiden ja lomakkeiden käsittelyyn.
 
-
-
 Google Workspace yhdistää kaikki keskeiset toimistotyökalut yhdeksi kokonaisuudeksi mahdollistaen tehokkaan yhteistyön ja tiedonhallinnan. 
-
 
 ## O﻿minaisuudet
 
-Workspace on turvallinen pilvipalvelu hyödyllisillä työsovelluksilla, johon saat TDP:ltä jatkuvan käyttötuen. 
+**Workspace on turvallinen pilvipalvelu hyödyllisillä työsovelluksilla, johon saat TDP:ltä jatkuvan käyttötuen.** 
 
 Workspace tarjoaa yrityksellesi kaikki arjen töissä tarvitsemasi työkalut yhdessä paketissa, yhdellä kiinteällä hinnalla:
 
@@ -47,24 +42,26 @@ Workspace tarjoaa yrityksellesi kaikki arjen töissä tarvitsemasi työkalut yhd
 
 ## Google Workspacen hinta
 
-Workspacen palvelut skaalautuvat yrityksesi kasvun myötä ja hinta määräytyy yrityksesi tarpeiden mukaan. Suomalaisen jälleenmyyjän tarjoama suomenkielinen, ripeä tukipalvelu varmistaa valitsemasi paketin jokapäiväisen helppouden niin maksamisen kuin käytön osalta. 
+**Workspacen palvelut skaalautuvat yrityksesi kasvun myötä ja hinta määräytyy yrityksesi tarpeiden mukaan.** \
+\
+Suomalaisen jälleenmyyjän tarjoama suomenkielinen, ripeä tukipalvelu varmistaa valitsemasi paketin jokapäiväisen helppouden niin maksamisen kuin käytön osalta. 
 
 Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtaisista toiminnoista saat helpoiten lisätietoja kysymällä meiltä suoraan!
 
 | Ominaisuus                                       | BUSINESS STARTER | BUSINESS STANDARD | BUSINESS PLUS |
-| ------------------------------------------------ | ---------------- | ----------------- | ------------------- |
-| Yrityssähköposti omalla domainilla               | ✔                | ✔                 | ✔                   |
-| Meet-videotapaamiset/osallistujaa           | 100                | 150                 | 500                   |
-| Verkkolevy/käyttäjä              | 30 Gt                | 2Tt                 | 5Tt                   |
-| Jaetut kalenterit                                | ✔                | ✔                 | ✔                   |
-| Docs, Sheets, Slides ja muut sovellukset         | ✔                | ✔                 | ✔                   |
-| Kaksivaiheinen tunnistus                         | ✔                | ✔                 | ✔                   |
-| Jaetut Drivet koko yritykselle                   |                  | ✔                 | ✔                   |
-| Google Gemini saatavilla lisäominaisuutena                   |  ✔                | ✔                 | ✔                   |
-| eDiscovery |                  |                   | ✔                   |
-| Enterprise -ominaisuudet (esim. data governance) |                  |                   | ✔                   |
-| **Hinta (EUR/kk/käyttäjä):**                     | **6,90**         | **13,80**         | -           |
-| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**   | **5,75**         | **11,50**         | **17,25**          |
+| ------------------------------------------------ | ---------------- | ----------------- | ------------- |
+| Yrityssähköposti omalla domainilla               | ✔                | ✔                 | ✔             |
+| Meet-videotapaamiset/osallistujaa                | 100              | 150               | 500           |
+| Verkkolevy/käyttäjä                              | 30 Gt            | 2Tt               | 5Tt           |
+| Jaetut kalenterit                                | ✔                | ✔                 | ✔             |
+| Docs, Sheets, Slides ja muut sovellukset         | ✔                | ✔                 | ✔             |
+| Kaksivaiheinen tunnistus                         | ✔                | ✔                 | ✔             |
+| Jaetut Drivet koko yritykselle                   |                  | ✔                 | ✔             |
+| Google Gemini saatavilla lisäominaisuutena       | ✔                | ✔                 | ✔             |
+| eDiscovery                                       |                  |                   | ✔             |
+| Enterprise -ominaisuudet (esim. data governance) |                  |                   | ✔             |
+| **Hinta (EUR/kk/käyttäjä):**                     | **6,90**         | **13,80**         | \-            |
+| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**   | **5,75**         | **11,50**         | **17,25**     |
 
 ## Suomenkielinen tukipalvelu
 
