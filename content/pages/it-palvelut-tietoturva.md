@@ -22,7 +22,7 @@ date: 2023-09-28T07:34:45.618Z
 
 Tietoturvapalvelumme suodattaa verkkoliikenteen ja tarkistaa asennettavat ohjelmat tunnettujen virusten, haitta- sekä vakoiluohjelmien varalta. Palvelu analysoi jatkuvasti laitetoimintaa ja puuttuu automaattisesti epäilyttäviin tapahtumiin.
 
-| Ominaisuus                                                                              | TIETOTURVA    | TIETOTURVA PLUS |
+| P﻿alvelusisältö                                                                         | TIETOTURVA    | TIETOTURVA PLUS |
 | --------------------------------------------------------------------------------------- | ------------- | --------------- |
 | Keskitetty tietoturvan hallinta ja raportointi                                          | ✔             | ✔               |
 | Ennakoiva sovellusten toiminnan seuranta ja automatisoitu haitallisten toimintojen esto | ✔             | ✔               |
@@ -30,7 +30,7 @@ Tietoturvapalvelumme suodattaa verkkoliikenteen ja tarkistaa asennettavat ohjelm
 | Reaaliaikaisesti päivittyvä haittaohjelmasuojaus                                        | ✔             | ✔               |
 | Päätelaitteiden verkkoliikenteen suojaus                                                | ✔             | ✔               |
 | Automatisoidut 3. osapuolen sovellusten päivitykset                                     | \-            | ✔               |
-| **Hinta (EUR/kk/käyttäjä):**                                                            | **4,41 €/kk** | **7,49 €/kk**   |
+
 
 ## Tietoturvan tiukentuneet vaatimukset
 
