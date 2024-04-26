@@ -20,7 +20,7 @@ breadcrumb:
 
 # Google Workspace -liiketoimintasovellus yrityksille
 
-**Tarjoamme Google Workspace -lisenssejä, jotka tarjoavat käyttöönne yritystason sähköpostit omalla domainillanne, sekä kattavan kokoelman yhteistyö- ja tuottavuustyökaluja.**
+Tarjoamme Google Workspace -lisenssejä, jotka tarjoavat käyttöönne yritystason sähköpostit omalla domainillanne, sekä kattavan kokoelman yhteistyö- ja tuottavuustyökaluja.
 
 Kaikkiin Google Workspace -paketteihin sisältyvät kalenteri, videoneuvottelut ja verkkolevy, sekä tehokkaat työkalut dokumenttien, taulukoiden ja lomakkeiden käsittelyyn.
 
@@ -28,7 +28,7 @@ Google Workspace yhdistää kaikki keskeiset toimistotyökalut yhdeksi kokonaisu
 
 ## O﻿minaisuudet
 
-**Workspace on turvallinen pilvipalvelu hyödyllisillä työsovelluksilla, johon saat TDP:ltä jatkuvan käyttötuen.** 
+Workspace on turvallinen pilvipalvelu hyödyllisillä työsovelluksilla, johon saat TDP:ltä jatkuvan käyttötuen. 
 
 Workspace tarjoaa yrityksellesi kaikki arjen töissä tarvitsemasi työkalut yhdessä paketissa, yhdellä kiinteällä hinnalla:
 
@@ -42,7 +42,7 @@ Workspace tarjoaa yrityksellesi kaikki arjen töissä tarvitsemasi työkalut yhd
 
 ## Google Workspacen hinta
 
-**Workspacen palvelut skaalautuvat yrityksesi kasvun myötä ja hinta määräytyy yrityksesi tarpeiden mukaan.** \
+Workspacen palvelut skaalautuvat yrityksesi kasvun myötä ja hinta määräytyy yrityksesi tarpeiden mukaan. \
 \
 Suomalaisen jälleenmyyjän tarjoama suomenkielinen, ripeä tukipalvelu varmistaa valitsemasi paketin jokapäiväisen helppouden niin maksamisen kuin käytön osalta. 
 
