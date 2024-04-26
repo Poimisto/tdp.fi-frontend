@@ -18,21 +18,19 @@ date: 2023-09-28T07:34:45.618Z
 ---
 ![](/assets/tietoturva2-1280-x-800.jpg)
 
-# Tietoturvapalvelu 
+# Tietoturvapalvelu
 
 Tietoturvapalvelumme suodattaa verkkoliikenteen ja tarkistaa asennettavat ohjelmat tunnettujen virusten, haitta- sekä vakoiluohjelmien varalta. Palvelu analysoi jatkuvasti laitetoimintaa ja puuttuu automaattisesti epäilyttäviin tapahtumiin.
 
-
-
-| Ominaisuus                       | TIETOTURVA    | TIETOTURVA PLUS |
-| -------------------------------- | ------------- | --------- |
-| Keskitetty tietoturvan hallinta ja raportointi        | ✔             | ✔         |
-| Ennakoiva sovellusten toiminnan seuranta ja automatisoitu haitallisten toimintojen esto | ✔             | ✔         |
-| Kriittisten tiedostokansioiden tehostettu suojaus   | ✔             | ✔         |
-| Reaaliaikaisesti päivittyvä haittaohjelmasuojaus              | ✔             | ✔         |
-| Päätelaitteiden verkkoliikenteen suojaus           | ✔             | ✔         |
-| Automatisoidut 3. osapuolen sovellusten päivitykset           | -             | ✔         |
-| **Hinta (EUR/kk/käyttäjä):**     | **4,41 €/kk** | **6,89 €/kk** |
+| Ominaisuus                                                                              | TIETOTURVA    | TIETOTURVA PLUS |
+| --------------------------------------------------------------------------------------- | ------------- | --------------- |
+| Keskitetty tietoturvan hallinta ja raportointi                                          | ✔             | ✔               |
+| Ennakoiva sovellusten toiminnan seuranta ja automatisoitu haitallisten toimintojen esto | ✔             | ✔               |
+| Kriittisten tiedostokansioiden tehostettu suojaus                                       | ✔             | ✔               |
+| Reaaliaikaisesti päivittyvä haittaohjelmasuojaus                                        | ✔             | ✔               |
+| Päätelaitteiden verkkoliikenteen suojaus                                                | ✔             | ✔               |
+| Automatisoidut 3. osapuolen sovellusten päivitykset                                     | \-            | ✔               |
+| **Hinta (EUR/kk/käyttäjä):**                                                            | **4,41 €/kk** | **7,49 €/kk**   |
 
 ## Tietoturvan tiukentuneet vaatimukset
 
