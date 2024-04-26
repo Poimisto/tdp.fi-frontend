@@ -4,7 +4,7 @@ thumbnail: /assets/tdp-varmuuskopiointi.png
 date: 2023-03-23T12:49:52.732Z
 head:
   keywords: "varmuuskopiointi, backup, datto, "
-  title: Pilvipalveluiden varmuuskopiointi - Datto
+  title: Yritysten varmuuskopiointi - Datto
   description: Varmuuskopiointi on osa yrityksen fiksua IT-ympäristöä.
     Varmuuskopiot palauttavat menetetyt tiedot laiterikon tai inhimillisen
     erehdyksen hetkellä ja yritys säästyy kalliilta jälkitöiltä.
@@ -26,5 +26,23 @@ Palvelu on täysin automatisoitu ja kriittiset tiedot ovat aina nopeasti palaute
 * Snapshot tiedostoista kolme kertaa vuorokaudessa
 * Automatisoitu ja kevyt sovellus
 * Data turvaluokitellussa palvelinsalissa
+
+
+  <HeroBlock bgColor="brand" imageAlign="left">
+
+  <div className="HeroBlockImage">
+
+
+
+  </div>
+
+  <div className="HeroBlockContent">
+
+  ## H﻿innasto
+
+  </div>
+
+  </HeroBlock>
+
 
 T﻿utustu [hinnastoon](https://www.tdp.fi/yritys/hinnasto)!
