@@ -42,8 +42,22 @@ Jokainen työntekijä tarvitsee leasing-koneen, sille tietoturva- ja muut tukipa
 
 Jos haluat mitä tahansa lisätietoja yrityksesi IT-ulkoistukseen liittyen, ota rohkeasti yhteyttä! Vain yhdessä voimme rakentaa tehokkaan ja turvallisen IT-ympäristön, joka tukee liiketoimintaasi parhaalla mahdollisella tavalla.
 
-## Myynti
+<HeroBlock bgColor="brand" imageAlign="right">
+
+  <div className="HeroBlockImage">
+
+  ![undefined](/assets/tdp-hinnasto.jpg)
+
+  </div>
+
+  <div className="HeroBlockContent">
+
+
+  ## Myynti
 
 P﻿auli Aalto | 040 748 3818 | pauli.aalto@tdp.fi
 
 M﻿ika Mäkinen | 040 632 7090 | mika.makinen@tdp.fi
+  </div>
+
+  </HeroBlock>
