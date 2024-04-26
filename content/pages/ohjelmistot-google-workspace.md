@@ -51,7 +51,7 @@ Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtais
 | Ominaisuus                                       | BUSINESS STARTER | BUSINESS STANDARD | BUSINESS PLUS |
 | ------------------------------------------------ | ---------------- | ----------------- | ------------- |
 | Yrityssähköposti omalla domainilla               | ✔                | ✔                 | ✔             |
-| Meet-videotapaamiset/osallistujaa                | 100              | 150               | 500           |
+| Meet-videotapaamiset/osallistujaa                | 100              | 150 tallennuksella                 | 500 tallennuksella          | 
 | Verkkolevy/käyttäjä                              | 30 Gt            | 2Tt               | 5Tt           |
 | Jaetut kalenterit                                | ✔                | ✔                 | ✔             |
 | Docs, Sheets, Slides ja muut sovellukset         | ✔                | ✔                 | ✔             |
