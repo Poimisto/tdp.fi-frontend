@@ -42,7 +42,7 @@ V﻿oimassa 1.1.2024 alkaen
 | Google Workspace             | 5,20 €/kk   |
 | ﻿Microsoft 365               | 5,20 €/kk   |
 | Koneen työpöytä / kannettava | S﻿aatavilla |
-| **Palvelimet räätälöidysti** | **esim.**   |
+| **Palvelimet räätälöidysti** |             |
 | ﻿Lisenssityyppi 100 GB       | S﻿aatavilla |
 | ﻿Lisenssityyppi 1 TB         | S﻿aatavilla |
 
