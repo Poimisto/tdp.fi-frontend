@@ -51,15 +51,13 @@ Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtais
 | Ominaisuus                                       | BUSINESS STARTER | BUSINESS STANDARD | BUSINESS PLUS |
 | ------------------------------------------------ | ---------------- | ----------------- | ------------- |
 | Yrityssähköposti omalla domainilla               | ✔                | ✔                 | ✔             |
-| Meet-videotapaamiset/osallistujaa                | 100              | 150 tallennuksella                 | 500 tallennuksella          | 
+| Meet-kokoukset/osallistujaa                | 100              | 150 tallennuksella                 | 500 tallennuksella          | 
 | Verkkolevy/käyttäjä                              | 30 Gt            | 2Tt               | 5Tt           |
-| Jaetut kalenterit                                | ✔                | ✔                 | ✔             |
-| Docs, Sheets, Slides ja muut sovellukset         | ✔                | ✔                 | ✔             |
-| Kaksivaiheinen tunnistus                         | ✔                | ✔                 | ✔             |
-| Jaetut Drivet koko yritykselle                   |                  | ✔                 | ✔             |
+| Kalenteri                                | ✔                | ✔                 | ✔             |
+| Docs, Forms & Sheets         | ✔                | ✔                 | ✔             |
+| Yhteystiedot                   | ✔                 | ✔                 | ✔             |
 | Google Gemini saatavilla lisäominaisuutena       | ✔                | ✔                 | ✔             |
 | eDiscovery                                       |                  |                   | ✔             |
-| Enterprise -ominaisuudet (esim. data governance) |                  |                   | ✔             |
 | **Hinta (EUR/kk/käyttäjä):**                     | **6,90**         | **13,80**         | \-            |
 | **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**   | **5,75**         | **11,50**         | **17,25**     |
 
