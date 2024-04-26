@@ -18,7 +18,7 @@ breadcrumb:
 ---
 ![Google Workspace](/assets/workspace-tinified.jpg "Google Workspace")
 
-# Google Workspace -liiketoimintasovellus yrityksille
+# Liiketoimintasovellukset | Google Workspace
 
 Tarjoamme Google Workspace -lisenssejä, jotka tarjoavat käyttöönne yritystason sähköpostit omalla domainillanne, sekä kattavan kokoelman yhteistyö- ja tuottavuustyökaluja.
 
