@@ -30,7 +30,16 @@ Palveluun on saatavilla myös lukuisia käyttäjäkokemusta ja tietoturvaa paran
 * Pilvialusta koneille kirjautumisen hallintaan
 * Käyttöoikeuksien hallinta
 
-    ![undefined](/assets/tdp-hinnasto.jpg)
+<HeroBlock bgColor="brand" imageAlign="right">
+
+  <div className="HeroBlockImage">
+
+  ![undefined](/assets/tdp-hinnasto.jpg)
+
+  </div>
+
+  <div className="HeroBlockContent">
+
 
   ## H﻿innasto
 
@@ -49,6 +58,9 @@ Palveluun on saatavilla myös lukuisia käyttäjäkokemusta ja tietoturvaa paran
   | JumpCloudin tuki 24/7                          |                        |                    | ✔             |
   | **Hinta (EUR/kk/käyttäjä):**                   | **13,00**              | **17,00**          | **20,00**     |
   | **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):** | **11,00**              | **15,00**          | **18,00**     |
+  </div>
+
+  </HeroBlock>    
 
 ## Laitteiden ja työntekijöiden hallinta
 
