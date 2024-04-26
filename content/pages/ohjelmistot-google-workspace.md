@@ -53,7 +53,7 @@ Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtais
 
 <div className="HeroBlockImage">
 
-
+![](/assets/tdp-hinnasto.jpg)
 
 </div>
 
