@@ -20,13 +20,18 @@ breadcrumb:
 
 # Microsoft 365 -työkalut yritysten arkeen
 
-**Microsoft 365 on yrityksille toimintavarma pilvipalvelu hyvällä käytettävyydellä, mikä mahdollistaa tehokkaan viestinnän ja yhteiskäytön.** 
+Tarjoamme MS 365 -lisenssejä, jotka tarjoavat käyttöönne yritystason sähköpostit omalla domainillanne, sekä kattavan kokoelman yhteistyö- ja tuottavuustyökaluja.
 
-Sen korkea tietoturvataso ja monet sovellukset tekevät työntekijöiden päivittäisestä viestinnästä helppoa ja turvallista. 
 
-Nykyajan työnteon ideaalin mukaisesti Microsoft 365 mahdollistaa tehokkaan etätyön ajasta, paikasta ja laitteesta riippumatta. Viimeksi käytetyt tiedostot ja sähköpostit löytyvät helposti parilla klikkauksella eivätkä mittavatkaan projektit jää sovellusten ominaisuuksista kiinni.
 
-## Microsoft 365:n hinta
+Kaikkiin MS 365  -paketteihin sisältyvät videoneuvottelut ja verkkolevy, sekä tehokkaat työkalut dokumenttien, taulukoiden ja lomakkeiden käsittelyyn.
+
+
+
+MS 365 yhdistää kaikki keskeiset toimistotyökalut yhdeksi kokonaisuudeksi mahdollistaen tehokkaan yhteistyön ja tiedonhallinnan. 
+
+
+## Palvelusisältö
 
 Valittavanasi on useita eritasoisia yrityspaketteja yrityksesi koon ja tarpeiden mukaan. 
 
