@@ -18,7 +18,7 @@ breadcrumb:
 ---
 ![Microsoft 365 - yritysten luotettu toimisto-ohjelmapaketti](/assets/365-tinified.jpg "Microsoft 365")
 
-# Microsoft 365 -työkalut yritysten arkeen
+# Liiketoimintasovellukset | MS 365
 
 Tarjoamme MS 365 -lisenssejä, jotka tarjoavat käyttöönne yritystason sähköpostit omalla domainillanne, sekä kattavan kokoelman yhteistyö- ja tuottavuustyökaluja.
 
