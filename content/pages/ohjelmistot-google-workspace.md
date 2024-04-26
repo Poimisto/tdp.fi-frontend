@@ -51,18 +51,20 @@ Workspacen palvelut skaalautuvat yrityksesi kasvun myötä ja hinta määräytyy
 
 Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtaisista toiminnoista saat helpoiten lisätietoja kysymällä meiltä suoraan!
 
-| Ominaisuus                                       | BUSINESS STARTER | BUSINESS STANDARD | BUSINESS ENTERPRISE |
+| Ominaisuus                                       | BUSINESS STARTER | BUSINESS STANDARD | BUSINESS PLUS |
 | ------------------------------------------------ | ---------------- | ----------------- | ------------------- |
 | Yrityssähköposti omalla domainilla               | ✔                | ✔                 | ✔                   |
-| Meet-videotapaamiset, 150 osallistujaa           | ✔                | ✔                 | ✔                   |
-| Drive-tallennustilaa, 2 Tt/käyttäjä              | ✔                | ✔                 | ✔                   |
+| Meet-videotapaamiset/osallistujaa           | 100                | 150                 | 500                   |
+| Verkkolevy/käyttäjä              | 30 Gt                | 2Tt                 | 5Tt                   |
 | Jaetut kalenterit                                | ✔                | ✔                 | ✔                   |
 | Docs, Sheets, Slides ja muut sovellukset         | ✔                | ✔                 | ✔                   |
 | Kaksivaiheinen tunnistus                         | ✔                | ✔                 | ✔                   |
 | Jaetut Drivet koko yritykselle                   |                  | ✔                 | ✔                   |
+| Google Gemini saatavilla lisäominaisuutena                   |  ✔                | ✔                 | ✔                   |
+| eDiscovery |                  |                   | ✔                   |
 | Enterprise -ominaisuudet (esim. data governance) |                  |                   | ✔                   |
-| **Hinta (EUR/kk/käyttäjä):**                     | **6,90**         | **13,80**         | **26,64**           |
-| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**   | **5,75**         | **11,50**         | **2﻿2,20**          |
+| **Hinta (EUR/kk/käyttäjä):**                     | **6,90**         | **13,80**         | -           |
+| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):**   | **5,75**         | **11,50**         | **17,25**          |
 
 ## Suomenkielinen tukipalvelu
 
