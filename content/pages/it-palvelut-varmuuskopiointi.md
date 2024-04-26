@@ -41,14 +41,14 @@ Palvelu on täysin automatisoitu ja kriittiset tiedot ovat aina nopeasti palaute
 
   ## H﻿innasto
 
-    |                              |                  |
-    | ---------------------------- | ---------------- |
-    | Google Workspace             | 5,20 €/kk        |
-    | ﻿Microsoft 365               | 5,20 €/kk        |
-    | Koneen työpöytä / kannettava | 10,00 €/kk       |
-    | **Palvelimet räätälöidysti** | esim.            |
-    | ﻿Lisenssityyppi 100 GB       | 39 €/kk/palvelin |
-    | ﻿Lisenssityyppi 1 TB         | 99 €/kk/palvelin |
+  |                              |                  |
+  | ---------------------------- | ---------------- |
+  | Google Workspace             | 5,20 €/kk        |
+  | ﻿Microsoft 365               | 5,20 €/kk        |
+  | Koneen työpöytä / kannettava | 10,00 €/kk       |
+  | **Palvelimet räätälöidysti** | esim.            |
+  | ﻿Lisenssityyppi 100 GB       | 39 €/kk/palvelin |
+  | ﻿Lisenssityyppi 1 TB         | 99 €/kk/palvelin |
 
   </div>
 
