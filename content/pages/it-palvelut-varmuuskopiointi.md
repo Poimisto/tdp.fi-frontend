@@ -17,14 +17,14 @@ contactForm: Ota yhteyttä
 
 **Varmuuskopiointipalvelu on varmin ja kustannustehokkain tapa varmistaa yrityksesi tietojen säilyminen.**
 
-Tarjoamme pilvipohjaisen varmuuskopioinnin MS/Google verkkolevylle ja tuottavuustyökaluihin, kuten sähköposteihin tallennetulle datalle. Palvelumme suojaa tiedot niin tietoturva -hyökkäysten, kuin myös käyttäjävirheiden ja laiterikkojen varalta.
+Tarjoamme pilvipohjaisen varmuuskopioinnin MS/Google-verkkolevylle ja tuottavuustyökaluihin, kuten sähköposteihin tallennetulle datalle. Palvelumme suojaa tiedot niin tietoturvahyökkäysten, kuin myös käyttäjävirheiden ja laiterikkojen varalta.
 
 Palvelu on täysin automatisoitu ja kriittiset tiedot ovat aina nopeasti palautettavissa.
 
 ## Palvelusisältö
 
 * Google / MS 365-tiedostojen varmuuskopiointi pilvipalveluna rajattomalla tallennustilalla
-* Snapshot tiedostoista kolme kertaa vuorokaudessa
+* Snapshot-tiedostoista kolme kertaa vuorokaudessa
 * Automatisoitu ja kevyt sovellus
 * Data turvaluokitellussa palvelinsalissa
 
@@ -33,7 +33,7 @@ Palvelu on täysin automatisoitu ja kriittiset tiedot ovat aina nopeasti palaute
 
   <div className="HeroBlockImage">
 
-  ![undefined](/assets/netlify-1280-x-800-1-min.png)
+  ![undefined](/assets/tdp-hinnasto.jpg)
 
   </div>
 
