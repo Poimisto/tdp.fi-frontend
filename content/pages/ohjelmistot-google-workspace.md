@@ -48,17 +48,6 @@ Suomalaisen jälleenmyyjän tarjoama suomenkielinen, ripeä tukipalvelu varmista
 
 Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtaisista toiminnoista saat helpoiten lisätietoja kysymällä meiltä suoraan!
 
-
-<HeroBlock bgColor="brand" imageAlign="right">
-
-<div className="HeroBlockImage">
-
-![](/assets/tdp-hinnasto.jpg)
-
-</div>
-
-<div className="HeroBlockContent">
-
 ## Hinnasto
 
 | Ominaisuus                                       | BUSINESS STARTER | BUSINESS STANDARD | BUSINESS PLUS |
@@ -73,11 +62,6 @@ Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtais
 | eDiscovery                                       |                  |                   | ✔             |
 | **Kuukausilisenssi (EUR/kk/käyttäjä):**                     | **6,90**         | **13,80**         | \-            |
 | **Vuosilisenssi (EUR/kk/käyttäjä):**   | **5,75**         | **11,50**         | **17,25**     |
-
-</div>
-
-</HeroBlock>
-
 
 ## Suomenkielinen tukipalvelu
 
