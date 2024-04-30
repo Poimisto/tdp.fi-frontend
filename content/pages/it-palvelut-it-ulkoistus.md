@@ -25,14 +25,14 @@ contactForm: Ota yhteyttä
 
 Olemme IT-ulkoistuksen asiantuntijoita Pirkanmaalla ja pääkaupunkiseudulla. Tarjoamme kattavia ratkaisuja, jotka vapauttavat yrityksesi keskittymään omaan ydinliiketoimintaansa.
 
-<CallToAction bgColor="brand" url="#contact-form" align="left">Jätä tarjouspyyntö</CallToAction>
+<CallToAction bgColor="dark" url="#contact-form" align="left">Jätä tarjouspyyntö</CallToAction>
 
 </div>
 
 </HeroBlock>
 
 
-Suunnittelemme palvelumme tukemaan yrityksesi tavoitteita ja tarpeita, toimimme tarvittaessa yrityksesi oman IT-osaston lailla. 
+**Suunnittelemme palvelumme tukemaan yrityksesi tavoitteita ja tarpeita, toimimme tarvittaessa yrityksesi oman IT-osaston lailla.** 
 
 K﻿attava palveluvalikoima – kaikki IT-tarpeet yhdestä paikasta:
 
