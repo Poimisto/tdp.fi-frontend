@@ -51,8 +51,8 @@ Vertaile vaihtoehtoja:
 | Järjestelmän käyttötiedot                      |                        | ✔                  | ✔             |
 | Zero Trust-toiminnot                           |                        |                    | ✔             |
 | JumpCloudin tuki 24/7                          |                        |                    | ✔             |
-| **Hinta (EUR/kk/käyttäjä):**                   | **13,00**              | **17,00**          | **20,00**     |
-| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):** | **11,00**              | **15,00**          | **18,00**     |
+| **Hinta (EUR/kk/käyttäjä):**                   | **15,00**              | **22,00**          | **27,00**     |
+| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):** | **13,00**              | **19,00**          | **24,00**     |
 
 ## Suomenkielinen tukipalvelu
 
