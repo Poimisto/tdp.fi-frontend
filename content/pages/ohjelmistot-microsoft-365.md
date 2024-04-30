@@ -35,7 +35,7 @@ IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti k
 
 ## Hinnasto
 
-| Ominaisuus                                                   | BUSINESS BASIC | APPS FOR BUSINESS | BUSINESS STANDARD | BUSINESS PREMIUM |
+| Palvelupaketit                                                   | BUSINESS BASIC | APPS FOR BUSINESS | BUSINESS STANDARD | BUSINESS PREMIUM |
 | ------------------------------------------------------------ | -------------- | ----------------- | ----------------- | ---------------- |
 | M﻿ukautettu yrityssähköposti                                | ✔              |                   | ✔                 | ✔                |
 | Täysin asennettavat Office-sovellukset  5 laitteelle/käyttäjä                           | ✔              | ✔                 | ✔                 | ✔                |
