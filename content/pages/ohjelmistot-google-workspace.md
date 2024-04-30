@@ -26,42 +26,20 @@ Kaikkiin Google Workspace -paketteihin sisältyvät kalenteri, videoneuvottelut 
 
 Google Workspace yhdistää kaikki keskeiset toimistotyökalut yhdeksi kokonaisuudeksi mahdollistaen tehokkaan yhteistyön ja tiedonhallinnan. 
 
-## O﻿minaisuudet
-
-Workspace on turvallinen pilvipalvelu hyödyllisillä työsovelluksilla, johon saat TDP:ltä jatkuvan käyttötuen. 
-
-Workspace tarjoaa yrityksellesi kaikki arjen töissä tarvitsemasi työkalut yhdessä paketissa, yhdellä kiinteällä hinnalla:
-
-* Yrityssähköposti Gmailina
-* Tallennustila Drivessa
-* Toimisto-ohjelmat Docs, Slides ja Sheets
-* Kokoustyökalu Meet
-* Sähköinen kalenteri
-* Helppo käyttäjähallinta
-* Vankasti suojattu
-
-## Google Workspacen hinta
-
-Workspacen palvelut skaalautuvat yrityksesi kasvun myötä ja hinta määräytyy yrityksesi tarpeiden mukaan.
-
-Suomalaisen jälleenmyyjän tarjoama suomenkielinen, ripeä tukipalvelu varmistaa valitsemasi paketin jokapäiväisen helppouden niin maksamisen kuin käytön osalta. 
-
-Ohessa Workspace-pakettien keskeisimmät ominaisuudet. Pakettien yksityiskohtaisista toiminnoista saat helpoiten lisätietoja kysymällä meiltä suoraan!
-
 ## Hinnasto
 
-| Ominaisuus                                       | BUSINESS STARTER | BUSINESS STANDARD | BUSINESS PLUS |
-| ------------------------------------------------ | ---------------- | ----------------- | ------------- |
-| Yrityssähköposti omalla domainilla               | ✔                | ✔                 | ✔             |
-| Meet-kokoukset/osallistujaa                | 100              | 150 tallennuksella                 | 500 tallennuksella          | 
-| Verkkolevy/käyttäjä                              | 30 Gt            | 2Tt               | 5Tt           |
-| Kalenteri                                | ✔                | ✔                 | ✔             |
-| Docs, Forms & Sheets         | ✔                | ✔                 | ✔             |
-| Yhteystiedot                   | ✔                 | ✔                 | ✔             |
-| Google Gemini saatavilla lisäominaisuutena       | ✔                | ✔                 | ✔             |
-| eDiscovery                                       |                  |                   | ✔             |
-| **Kuukausilisenssi (EUR/kk/käyttäjä):**                     | **6,90**         | **13,80**         | \-            |
-| **Vuosilisenssi (EUR/kk/käyttäjä):**   | **5,75**         | **11,50**         | **17,25**     |
+| P﻿alvelupaketit                            | BUSINESS STARTER | BUSINESS STANDARD  | BUSINESS PLUS      |
+| ------------------------------------------ | ---------------- | ------------------ | ------------------ |
+| Yrityssähköposti omalla domainilla         | ✔                | ✔                  | ✔                  |
+| Meet-kokoukset/osallistujaa                | 100              | 150 tallennuksella | 500 tallennuksella |
+| Verkkolevy/käyttäjä                        | 30 Gt            | 2Tt                | 5Tt                |
+| Kalenteri                                  | ✔                | ✔                  | ✔                  |
+| Docs, Forms & Sheets                       | ✔                | ✔                  | ✔                  |
+| Yhteystiedot                               | ✔                | ✔                  | ✔                  |
+| Google Gemini saatavilla lisäominaisuutena | ✔                | ✔                  | ✔                  |
+| eDiscovery                                 |                  |                    | ✔                  |
+| **Kuukausilisenssi (EUR/kk/käyttäjä):**    | **6,90**         | **13,80**          | \-                 |
+| **Vuosilisenssi (EUR/kk/käyttäjä):**       | **5,75**         | **11,50**          | **17,25**          |
 
 ## Suomenkielinen tukipalvelu
 
