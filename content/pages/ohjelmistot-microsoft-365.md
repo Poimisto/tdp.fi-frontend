@@ -33,16 +33,6 @@ Valittavanasi on useita eritasoisia yrityspaketteja yrityksesi koon ja tarpeiden
 IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti kiinteään kuukausihintaan sisältyen:
 
 
-<HeroBlock bgColor="brand" imageAlign="right">
-
-<div className="HeroBlockImage">
-
-![](/assets/tdp-hinnasto.jpg)
-
-</div>
-
-<div className="HeroBlockContent">
-
 ## Hinnasto
 
 | Ominaisuus                                                   | BUSINESS BASIC | APPS FOR BUSINESS | BUSINESS STANDARD | BUSINESS PREMIUM |
@@ -58,10 +48,6 @@ IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti k
 | CoPilot saatavilla lisäominaisuutena                                             |                |                   |  ✔                 | ✔                |
 | **Kuukausilisenssi (EUR/kk/käyttäjä):**                                 | **6,72**       | **11,76**         | **14,04**         | **24,72**        |
 | **Vuosilisenssi (EUR/kk/käyttäjä):**               | **5,60**       | **9,80**          | **11,70**         | **20,60**        |
-
-</div>
-
-</HeroBlock>
 
 
 ## Suomenkielinen tukipalvelu
