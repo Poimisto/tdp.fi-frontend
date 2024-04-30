@@ -11,6 +11,11 @@
     },
     {
       "type": "page",
+      "title": "IT-ULKOISTUS",
+      "link": "/it-palvelut/it-ulkoistus"
+    },
+    {
+      "type": "page",
       "link": "/it-palvelut/",
       "title": "IT-palvelut"
     },
