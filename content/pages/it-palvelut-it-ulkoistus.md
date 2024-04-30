@@ -10,11 +10,27 @@ head:
   keywords: IT-ulkoistus, ulkoistettu IT, ulkoinen IT-kumppani, ICT-ulkoistus
 contactForm: Ota yhteyttä
 ---
+
+<HeroBlock bgColor="brand" imageAlign="right">
+
+<div className="HeroBlockImage">
+
 ![IT-ulkoistus onnistuu henkilökunnan tietotaidolla.](/assets/yhteydenottolomake-1280x800.jpg)
+
+</div>
+
+<div className="HeroBlockContent">
 
 # IT-ulkoistus yrityksellesi – tehosta toimintaa, turvaa tiedot ja säästä kustannuksissa
 
-**Olemme IT-ulkoistuksen asiantuntijoita Pirkanmaalla ja pääkaupunkiseudulla. Tarjoamme kattavia ratkaisuja, jotka vapauttavat yrityksesi keskittymään omaan ydinliiketoimintaansa.** 
+Olemme IT-ulkoistuksen asiantuntijoita Pirkanmaalla ja pääkaupunkiseudulla. Tarjoamme kattavia ratkaisuja, jotka vapauttavat yrityksesi keskittymään omaan ydinliiketoimintaansa.
+
+<CallToAction bgColor="brand" url="#contact-form" align="left">Jätä tarjouspyyntö</CallToAction>
+
+</div>
+
+</HeroBlock>
+
 
 Suunnittelemme palvelumme tukemaan yrityksesi tavoitteita ja tarpeita, toimimme tarvittaessa yrityksesi oman IT-osaston lailla. 
 
