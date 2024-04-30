@@ -20,7 +20,7 @@ breadcrumb:
 
 # Liiketoimintasovellukset | Google Workspace
 
-Tarjoamme Google Workspace -lisenssejä, jotka tarjoavat käyttöönne yritystason sähköpostit omalla domainillanne, sekä kattavan kokoelman yhteistyö- ja tuottavuustyökaluja.
+**Tarjoamme Google Workspace -lisenssejä, jotka tarjoavat käyttöönne yritystason sähköpostit omalla domainillanne, sekä kattavan kokoelman yhteistyö- ja tuottavuustyökaluja.**
 
 Kaikkiin Google Workspace -paketteihin sisältyvät kalenteri, videoneuvottelut ja verkkolevy, sekä tehokkaat työkalut dokumenttien, taulukoiden ja lomakkeiden käsittelyyn.
 
