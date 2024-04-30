@@ -14,11 +14,11 @@ contactForm: Ota yhteyttä
 
 # IT-ulkoistus yrityksellesi – tehosta toimintaa, turvaa tiedot ja säästä kustannuksissa
 
-**Olemme IT-ulkoistuksen asiantuntijoita Pirkanmaalla ja pääkaupunkiseudulla, ja tarjoamme kattavia ratkaisuja, jotka vapauttavat yrityksesi keskittymään omaan ydinliiketoimintaansa.** 
+**Olemme IT-ulkoistuksen asiantuntijoita Pirkanmaalla ja pääkaupunkiseudulla. Tarjoamme kattavia ratkaisuja, jotka vapauttavat yrityksesi keskittymään omaan ydinliiketoimintaansa.** 
 
 Palvelumme suunnitellaan tukemaan yrityksesi tavoitteita ja tarpeita, toimimme tarvittaessa yrityksesi oman IT-osaston lailla.
 
-K﻿attava palveluvalikoima– kaikki IT-tarpeet yhdestä paikasta:
+K﻿attava palveluvalikoima – kaikki IT-tarpeet yhdestä paikasta:
 
 * [T﻿ukipalvelut](https://www.tdp.fi/it-palvelut/tuki-ja-huolto): Nopea ja ammattitaitoinen tuki käyttäjäkysymyksiin ja ongelmatilanteisiin.
 * [Liiketoimintasovellukset](https://www.tdp.fi/ohjelmistot/google-workspace) (Google tai MS): Hallinnoimme liiketoimintasovelluksianne tehokkaasti, varmistaen niiden sujuvan toiminnan ja integraation.
