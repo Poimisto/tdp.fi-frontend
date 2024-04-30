@@ -28,13 +28,13 @@ K﻿attava palveluvalikoima – kaikki IT-tarpeet yhdestä paikasta:
 
 Tarvittaessa kauttamme järjestyvät ratkaisut myös muihin ICT -alan tarpeisiin, kuten esimerkiksi verkkosivujen hostingiin, salasanojen hallintaan ja sähköisiin allekirjoituksiin. 
 
-## Joustava kumppanuus – IT-osastosi laajennus:
+## Joustava kumppanuus – IT-osastosi laajennus
 
 **Tarjoamme joustavuutta ja mukautuvuutta, joita nykyaikainen yritys vaatii.** 
 
 Ei ole väliä, tarvitsetko meitä täydellisenä IT-osastona tai tukena olemassa oleville resursseille, meidän palvelumme skaalautuvat tarpeisiisi. Käytännössä tämä tarkoittaa, että voit ulkoistaa IT-toimintoja osittain tai kokonaan meille, ja me huolehdimme, että järjestelmäsi toimivat moitteettomasti ja että yrityksesi voi keskittyä kasvamaan.
 
-## Vapauta resursseja ja keskity ydinliiketoimintaan:
+## Vapauta resursseja ja keskity ydinliiketoimintaan
 
 **Hyödynnä asiantuntijuuttamme ja kustannustehokkuuttamme.** 
 
