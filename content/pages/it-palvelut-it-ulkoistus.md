@@ -21,10 +21,10 @@ Palvelumme suunnitellaan tukemaan yrityksesi tavoitteita ja tarpeita, toimimme t
 K﻿attava palveluvalikoima– kaikki IT-tarpeet yhdestä paikasta:
 
 * T﻿ukipalvelut: Nopea ja ammattitaitoinen tuki käyttäjäkysymyksiin ja ongelmatilanteisiin.
-*﻿ Liiketoimintasovellukset (Google tai MS): Hallinnoimme liiketoimintasovelluksianne tehokkaasti, varmistaen niiden sujuvan toiminnan ja integraation.
-*﻿ Pilvipalveluiden varmuuskopiointi: Takaamme tietojenne turvallisuuden pilvipalveluissa tehokkaan varmuuskopiointiratkaisun avulla.
-*﻿ Keskitetty hallinta: Hallitsemme yrityksesi laitteita ja käyttäjätunnuksia yhdeltä hallintapaneelilta, mikä takaa paremman tietoturvan ja hallinnollisen tehokkuuden.
-*﻿ Tietoturvapalvelut: Suojaamme yrityksesi tietoturvauhkilta ja varmistamme, että tietoturvasi on ajan tasalla.
+* Liiketoimintasovellukset (Google tai MS): Hallinnoimme liiketoimintasovelluksianne tehokkaasti, varmistaen niiden sujuvan toiminnan ja integraation.
+* Pilvipalveluiden varmuuskopiointi: Takaamme tietojenne turvallisuuden pilvipalveluissa tehokkaan varmuuskopiointiratkaisun avulla.
+* Keskitetty hallinta: Hallitsemme yrityksesi laitteita ja käyttäjätunnuksia yhdeltä hallintapaneelilta, mikä takaa paremman tietoturvan ja hallinnollisen tehokkuuden.
+* Tietoturvapalvelut: Suojaamme yrityksesi tietoturvauhkilta ja varmistamme, että tietoturvasi on ajan tasalla.
 
 Tarvittaessa kauttamme järjestyvät ratkaisut myös muihin ICT -alan tarpeisiin, kuten esimerkiksi verkkosivujen hostingiin, salasanojen hallintaan ja sähköisiin allekirjoituksiin. 
 
