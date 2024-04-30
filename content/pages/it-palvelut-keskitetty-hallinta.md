@@ -5,7 +5,7 @@ head:
   title: Yrityksen IT-laitteiston keskitetty hallinta - TDP
   description: "Keskitetty hallinta mahdollistaa kustannussäästöt sekä
     laitehankinnoissa että työajassa. "
-  keywords: tietokoneiden keskitetty hallinta, IT käyttäjähallinta, sovelluspäivitykset
+  keywords: keskitetty hallinta, IT käyttäjähallinta, sovelluspäivitykset
 contactForm: Ota yhteyttä
 breadcrumb:
   - path: /
@@ -30,17 +30,6 @@ Palveluun on saatavilla myös lukuisia käyttäjäkokemusta ja tietoturvaa paran
 * Pilvialusta koneille kirjautumisen hallintaan
 * Käyttöoikeuksien hallinta
 
-
-<HeroBlock bgColor="brand" imageAlign="right">
-
-<div className="HeroBlockImage">
-
-![undefined](/assets/tdp-hinnasto.jpg)
-
-</div>
-
-<div className="HeroBlockContent">
-
 ## H﻿innasto
 
 | Ominaisuus                                     | CORE DIRECTORY | JUMPCLOUD PLATFORM | PLATFORM PRIME |
@@ -58,10 +47,6 @@ Palveluun on saatavilla myös lukuisia käyttäjäkokemusta ja tietoturvaa paran
 | JumpCloudin tuki 24/7                          |                |                    | ✔              |
 | **Hinta (EUR/kk/käyttäjä):**                   | **15,00**      | **22,00**          | **27,00**      |
 | **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):** | **13,00**      | **19,00**          | **24,00**      |
-
-</div>
-
-</HeroBlock>
 
 
 ## Laitteiden ja työntekijöiden hallinta
