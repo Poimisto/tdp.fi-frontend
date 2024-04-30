@@ -16,7 +16,7 @@ contactForm: Ota yhteyttä
 
 **Olemme IT-ulkoistuksen asiantuntijoita Pirkanmaalla ja pääkaupunkiseudulla. Tarjoamme kattavia ratkaisuja, jotka vapauttavat yrityksesi keskittymään omaan ydinliiketoimintaansa.** 
 
-Palvelumme suunnitellaan tukemaan yrityksesi tavoitteita ja tarpeita, toimimme tarvittaessa yrityksesi oman IT-osaston lailla.
+Suunnittelemme palvelumme tukemaan yrityksesi tavoitteita ja tarpeita, toimimme tarvittaessa yrityksesi oman IT-osaston lailla. 
 
 K﻿attava palveluvalikoima – kaikki IT-tarpeet yhdestä paikasta:
 
