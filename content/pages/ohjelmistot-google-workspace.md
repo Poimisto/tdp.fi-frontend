@@ -38,7 +38,7 @@ Google Workspace yhdistää kaikki keskeiset toimistotyökalut yhdeksi kokonaisu
 | Yhteystiedot                               | ✔                | ✔                  | ✔                  |
 | Google Gemini saatavilla lisäominaisuutena | ✔                | ✔                  | ✔                  |
 | eDiscovery                                 |                  |                    | ✔                  |
-| **Kuukausilisenssi (EUR/kk/käyttäjä):**    | **6,90**         | **13,80**          | \-                 |
+| **Kuukausilisenssi (EUR/kk/käyttäjä):**    | **6,90**         | **13,80**          | **2﻿0,70**         |
 | **Vuosilisenssi (EUR/kk/käyttäjä):**       | **5,75**         | **11,50**          | **17,25**          |
 
 ## Suomenkielinen tukipalvelu
