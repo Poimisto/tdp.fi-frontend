@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Työntekijöille yrityskannettavat leasing-sopimuksella](/assets/dell-huhtikuu-2024-kampanjahinta2.png)
+![Työntekijöille yrityskannettavat leasing-sopimuksella](/assets/tdp-palvelukumppani.png)
 
 </div>
 
