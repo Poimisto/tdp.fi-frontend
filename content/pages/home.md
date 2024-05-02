@@ -131,6 +131,8 @@ Tampereen Datapiste Oy on vuonna 2007 perustettu kotimainen IT-kumppani. Toimipi
 
 Ydinosaamistamme on toimittaa, asentaa ja edelleen kehittää yritysten todellisia tarpeita vastaavia IT-järjestelmiä kokonaisvaltaisesti. Koulutettu ja kokenut henkilökuntamme palvelee palvelusopimukseen kirjatulla vasteajalla niin uusien laitteiden asennuksissa, vikatilanteissa kuin käyttötukena. 
 
+YIeinen IT-tuki yrityksille tai kohdennetut ICT-palvelut yrityksille ovat selkeitä vahvuusalueitamme, kysy ihmeessä lisää!
+
 <CallToAction bgColor="brand" url="https://bit.ly/3zsDs3q" align="center">Tilaa uutiskirjeemme</CallToAction>
 
 </div>
