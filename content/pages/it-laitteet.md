@@ -21,9 +21,9 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-## Yritysten IT-laitteet Pirkanmaalla
+## Yritysten IT-laitteet
 
-* U﻿usimmat yrityskannettavat kilpailukykyiseen hintaan Pirkanmaalta
+* U﻿usimmat yrityskannettavat kilpailukykyiseen hintaan Pirkanmaalla ja pääkaupunkiseudulla
 * Työntekijöiden tehotyöasemat, verkkolaitteet, liiketilojen infonäytöt, neuvotteluhuoneiden laitteet – kaikki
 * Kaikki yleisimmät laitemerkit – kilpailuta meidät
 * Tietokoneet asennettuna tai yrityksesi ohjelmistoilla esiasennettuna
