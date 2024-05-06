@@ -164,6 +164,13 @@ module.exports = {
           endpoint: 'https://tdp.us19.list-manage.com/subscribe/post?u=f28a68536ef9908f4464026cc&amp;id=69cee859f3', // string; add your MC list endpoint here; see instructions below
           timeout: 3500, // number; the amount of time, in milliseconds, that you want to allow mailchimp to respond to your request before timing out. defaults to 3500
       },
+    },
+    {
+      resolve: `gatsby-plugin-tawk.to`,
+      options: {
+        tawkId: "<Tawk ID here>",
+        tawkKey: "<Tawk key here>"
+      }
     }
   ],
   mapping: {
