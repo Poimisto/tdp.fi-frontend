@@ -11,6 +11,10 @@ const CalculatorContainer = styled.div`
   width: 100%;
   height: fit-content;
   position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 `
 const FormWrapper = styled.div`
   width: calc(100% - 2 * 1em);
@@ -20,20 +24,55 @@ const FormWrapper = styled.div`
 `
 
 const Text = styled.p`
+  width: calc(100% - 2 * 1em);
   font-size: 1rem;
   text-align: center;
 `
 
 const useStyles = makeStyles({
-  sliderTrack: {
+  sliderRoot: {
+    color: theme.colors.dark,
+  },
+  sliderRail: {
     color: theme.colors.dark,
   },
   sliderThumb: {
     color: theme.colors.brand,
   },
+  sliderValueLabel: {
+    color: theme.colors.brand,
+    "& > span > span": {
+      color: theme.colors.darkest,
+    },
+  },
+  sliderMarkLabel: {
+    opacity: 1,
+    color: theme.colors.dark,
+  },
   inputRoot: {
-    width: "5em",
+    width: "4em",
     alignSelf: "center",
+  },
+  inputUnderline: {
+    borderBottomColor: theme.colors.dark,
+    "&:before": {
+      borderBottomColor: theme.colors.dark,
+    },
+    "&:after": {
+      borderBottomColor: theme.colors.dark,
+    },
+  },
+  inputFocused: {
+    borderWidth: "2px",
+    borderBottomColor: theme.colors.brand,
+    "&:before": {
+      borderWidth: "2px",
+      borderBottomColor: theme.colors.brand,
+    },
+    "&:after": {
+      borderWidth: "2px",
+      borderBottomColor: theme.colors.brand,
+    },
   },
 })
 
@@ -47,9 +86,6 @@ export default () => {
   }
 
   const handleInputChange = value => {
-    if (value === 0) {
-      return
-    }
     setUserCount(value === "" ? "" : Number(value))
   }
 
@@ -98,8 +134,11 @@ export default () => {
             marks={marks}
             track={false}
             classes={{
-              track: classes.sliderTrack,
+              root: classes.sliderRoot,
+              rail: classes.sliderRail,
               thumb: classes.sliderThumb,
+              markLabel: classes.sliderMarkLabel,
+              valueLabel: classes.sliderValueLabel,
             }}
           />
           <Input
@@ -117,6 +156,8 @@ export default () => {
             margin="dense"
             classes={{
               root: classes.inputRoot,
+              underline: classes.inputUnderline,
+              focused: classes.inputFocused,
             }}
           />
         </FormControl>
