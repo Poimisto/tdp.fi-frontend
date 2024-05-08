@@ -99,9 +99,9 @@ export default () => {
 
   useEffect(() => {
     if (userCount < 10) {
-      setPrice(userCount * 29)
+      setPrice(userCount * 29.5)
     } else {
-      setPrice(userCount * 19)
+      setPrice(userCount * 19.5)
     }
   }, [userCount])
 
@@ -163,8 +163,7 @@ export default () => {
         </FormControl>
       </FormWrapper>
       <Text>
-        Tukipalvelun hinta {userCount} käyttäjälle on{" "}
-        {Math.round((price * 100) / 100).toFixed(2)} €/kk
+        Tukipalvelun hinta {userCount} käyttäjälle on {price.toFixed(2)} €/kk
       </Text>
     </CalculatorContainer>
   )
