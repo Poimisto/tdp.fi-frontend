@@ -21,6 +21,7 @@ import Grid from '@material-ui/core/Grid'
 
 import ContactForm from './../components/ContactForm'
 import NewsletterForm from "../components/NewsletterForm";
+import SupportPricingCalculator from "../components/SupportPricingCalculator";
 
 const GlobalStyle = createGlobalStyle`
   * {
@@ -154,7 +155,7 @@ const PageWrapper = styled.div`
 `;
 
 
-const shortcodes = { Link, CallToAction, HeroBlock, LatestPosts, Cards, ListOfEmployees, Grid, ListOfLeasingPackages, NewsletterForm }
+const shortcodes = { Link, CallToAction, HeroBlock, LatestPosts, Cards, ListOfEmployees, Grid, ListOfLeasingPackages, NewsletterForm, SupportPricingCalculator }
 
 
 const EntryTemplate = ({data, pageContext}) => {
