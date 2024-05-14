@@ -37,13 +37,13 @@ IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti k
 | Palvelupaketit                                                                         | BUSINESS BASIC | APPS FOR BUSINESS | BUSINESS STANDARD | BUSINESS PREMIUM |
 | -------------------------------------------------------------------------------------- | -------------- | ----------------- | ----------------- | ---------------- |
 | M﻿ukautettu yrityssähköposti                                                           | ✔              |                   | ✔                 | ✔                |
-| Täysin asennettavat Office-sovellukset 5:lle laitteelle/käyttäjä                          |               |                  | ✔                 | ✔                |
+| Verkosta käytettävät Office-sovellukset 5:lle laitteelle/käyttäjä                      | ✔              | ✔                 | ✔                 | ✔                |
 | Microsoft Teamsin videokokoukset 300 osallistujalle                                    | ✔              |                   | ✔                 | ✔                |
 | 1 Tt pilvitallennustilaa OneDrivessa/käyttäjä                                          | ✔              | ✔                 | ✔                 | ✔                |
 | Verkkoseminaarit, joissa osallistujien rekisteröinti                                   |                |                   | ✔                 | ✔                |
 | Edistyneet tietoturvaominaisuudet ja yritystason laitetuki                             |                |                   |                   | ✔                |
 | Jatkuva päivityspalvelu ja uusimmat ominaisuudet                                       |                | ✔                 |                   |                  |
-| Täysin asennettavat Office-sovellukset, mukaan lukien Word, Outlook, Excel, PowerPoint |                | ✔                 |  ✔                 | ✔                 |
+| Täysin asennettavat Office-sovellukset, mukaan lukien Word, Outlook, Excel, PowerPoint |                | ✔                 | ✔                 | ✔                |
 | CoPilot saatavilla lisäominaisuutena                                                   |                |                   | ✔                 | ✔                |
 | **Kuukausilisenssi (EUR/kk/käyttäjä):**                                                | **6,72**       | **11,76**         | **14,04**         | **24,72**        |
 | **Vuosilisenssi (EUR/kk/käyttäjä):**                                                   | **5,60**       | **9,80**          | **11,70**         | **20,60**        |
