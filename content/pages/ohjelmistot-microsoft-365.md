@@ -37,7 +37,7 @@ IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti k
 | Palvelupaketit                                                                         | BUSINESS BASIC | APPS FOR BUSINESS | BUSINESS STANDARD | BUSINESS PREMIUM |
 | -------------------------------------------------------------------------------------- | -------------- | ----------------- | ----------------- | ---------------- |
 | M﻿ukautettu yrityssähköposti                                                           | ✔              |                   | ✔                 | ✔                |
-| Täysin asennettavat Office-sovellukset  5 laitteelle/käyttäjä                          | ✔              | ✔                 | ✔                 | ✔                |
+| Täysin asennettavat Office-sovellukset 5 laitteelle/käyttäjä                          | ✔              | ✔                 | ✔                 | ✔                |
 | Microsoft Teamsin videokokoukset 300 osallistujalle                                    | ✔              |                   | ✔                 | ✔                |
 | 1 Tt pilvitallennustilaa OneDrivessa/käyttäjä                                          | ✔              | ✔                 | ✔                 | ✔                |
 | Verkkoseminaarit, joissa osallistujien rekisteröinti                                   |                |                   | ✔                 | ✔                |
