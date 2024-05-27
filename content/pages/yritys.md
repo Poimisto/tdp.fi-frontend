@@ -27,7 +27,7 @@ Toteutamme kaikki tarvitsemanne IT-palvelut ja räätälöimme ne toiveidenne mu
 ## Yhteystiedot
 
 ### Myynti
-P﻿auli Aalto        | 040 748 3818 | pauli.aalto@tdp.fi  
+P﻿auli Aalto   | 040 748 3818 | pauli.aalto@tdp.fi                        
 
 M﻿ika Mäkinen  | 040 632 7090 | mika.makinen@tdp.fi
 
