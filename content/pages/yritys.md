@@ -1,5 +1,5 @@
 ---
-path: /yritys
+path: /yhteystiedot
 thumbnail: /assets/tdp-päätoimipiste-tinified.jpg
 date: 2021-02-25T07:42:23.615Z
 head:
@@ -24,11 +24,16 @@ Palvelemme yrityksiä toimittamalla, asentamalla ja edelleen kehittämällä nii
 
 Toteutamme kaikki tarvitsemanne IT-palvelut ja räätälöimme ne toiveidenne mukaan. Laitteistojen lisäksi palveluihimme kuuluvat ohjelmistot, huollot, tuki- ja palvelusopimukset sekä tietoturvapalvelut.
 
-## M﻿yynti
+## Yhteystiedot
 
+### Myynti
 P﻿auli Aalto        | 040 748 3818 | pauli.aalto@tdp.fi  
 
 M﻿ika Mäkinen  | 040 632 7090 | mika.makinen@tdp.fi
+
+### Tuki
+
+t﻿uki@tdp.fi | 010 292 1640
 
 ## T﻿avoite
 
