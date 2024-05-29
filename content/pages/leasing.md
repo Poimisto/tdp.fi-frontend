@@ -77,4 +77,4 @@ Tampereen Datapiste Oy on vuonna 2007 perustettu tietotekniikan asiantuntijayrit
 
 Suurin osa liikevaihdostamme tulee palvelusopimuksista, joissa toimimme asiakkaidemme IT-kumppanina. Myös meidän etumme on tällöin varmistaa, että toimitetut laitteet ovat luotettavia ja vastaavat käyttötarkoitustaan. 
 
-<a href="/yritys">» Lue lisää TDP:stä.</a>
+<a href="/yhteystiedot">» Lue lisää TDP:stä.</a>

@@ -73,6 +73,6 @@ Kun olet valinnut tarvitsemasi IT-palvelut ja nähnyt hinta-arvion, voit lähett
 
 <CallToAction bgColor="brand" url="https://slim.tdp.fi" align="left">Siirry TDP SLIM™ -tarjouslaskuriin</CallToAction>
 
-<CallToAction bgColor="brand" url="/yritys" align="left">Lisätietoa yrityksestä</CallToAction>
+<CallToAction bgColor="brand" url="/yhteystiedot" align="left">Lisätietoa yrityksestä</CallToAction>
 
 <CallToAction bgColor="brand" url="/referenssit" align="left">Referenssit</CallToAction>

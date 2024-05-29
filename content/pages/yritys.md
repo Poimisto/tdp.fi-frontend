@@ -33,7 +33,7 @@ M﻿ika Mäkinen  | 040 632 7090 | mika.makinen@tdp.fi
 
 ### Tuki
 
-t﻿uki@tdp.fi | 010 292 1640
+tuki@tdp.fi | 010 292 1640
 
 ## T﻿avoite
 
