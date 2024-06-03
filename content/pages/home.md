@@ -57,7 +57,7 @@ TDP SLIM™ -tarjouslaskuri antaa nopeasti hinta-arvion kaikista yrityksesi tarv
 
 Yrityksesi IT-tarpeiden hintaa et saa vaivattomammin selville!
 
-<CallToAction bgColor="brand" url="/tdp-slim" align="center">Kokeile laskuria</CallToAction>
+<SupportPricingCalculator />
 
 </div>
 
