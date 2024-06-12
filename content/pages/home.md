@@ -23,7 +23,7 @@ contactForm: Ota yhteyttä
 
 # Yritysten IT-palvelukumppani
 
-TDP on **Pirkanmaalla ja pääkaupunkiseudulla vaikuttava yritysten IT-palvelukumppani**. Saatte kauttamme kaikki yrityksenne tarvitsemat IT-laitteet ja -palvelut, ja mahdollisuuden keskittyä 100% omaan tekemiseenne. 
+TDP on **Pirkanmaalla ja pääkaupunkiseudulla vaikuttava yritysten IT-palvelukumppani**. Saatte kauttamme kaikki yrityksenne tarvitsemat IT-laitteet ja -palvelut, ja mahdollisuuden keskittyä 100% omaan työhönne.
 
 Toimitamme työntekijöiden koneet ja puhelimet, toimiston laitteet ja yritysverkot käyttökuntoon asennettuina. Saatte meiltä myös muut **IT-osaston palvelut palvelusopimuksella** tai mikäli tarpeenne on täydellinen IT-ulkoistus, kysykää palvelumalliamme.
 
