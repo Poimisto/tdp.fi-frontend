@@ -59,6 +59,8 @@ Yrityksesi IT-tarpeiden hintaa et saa vaivattomammin selville!
 
 <SupportPricingCalculator />
 
+<CallToAction bgColor="brand" url="https://www.tdp.fi/yhteystiedot" align="center">Pyydä tarjous</CallToAction>
+
 </div>
 
 </HeroBlock>
