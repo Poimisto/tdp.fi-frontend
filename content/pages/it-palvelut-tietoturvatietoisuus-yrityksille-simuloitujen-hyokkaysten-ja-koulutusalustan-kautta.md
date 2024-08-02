@@ -19,7 +19,7 @@ contactForm: Ota yhteyttä
 
 # Tietoturvatietoisuus korkeammaksi simuloitujen hyökkäysten ja koulutusalustan kautta
 
-**Yrityksen tietoturvan heikoin lenkki on käyttäjä. Tietoturvan parantamiseksi on järkevää tarjota jokaiselle käyttäjälle tukea eli koulutusalusta oman tietoturvatietoisuuden kehittämiseksi ja kalliiden virheiden välttämiseksi – hanki TDP KyberAkatemia -palvelu.** kyb
+**Yrityksen tietoturvan heikoin lenkki on käyttäjä. Tietoturvan parantamiseksi on järkevää tarjota jokaiselle käyttäjälle tukea eli koulutusalusta oman tietoturvatietoisuuden kehittämiseksi ja kalliiden virheiden välttämiseksi – hanki TDP KyberAkatemia -palvelu.**
 
 TDP KyberAkatemia -palvelu tarjoaa älykkään tavan toteuttaa automaattinen, simuloitu tietojenkalasteluhyökkäys käyttäjän sähköpostiin.
 
@@ -35,18 +35,18 @@ Lisäksi TDP KyberAkatemia on olemassaoleviin koulutuksiin verrattuna helppo ja 
 
 Mikä parasta, KyberAkatemia on maltillisesti hinnoiteltu avaimet käteen -palvelu, jossa hyvä käyttäjätuki tulee kaupan päälle. Palvelu on ensisijaisesti suunnattu yli 10 hengen yrityksille, mutta siitä on toki hyötyä kaikille.
 
+
 <HeroBlock bgColor="brand" imageAlign="right">
 
-  <div className="HeroBlockImage">
+<div className="HeroBlockImage">
 
-  ![undefined](/assets/tdp-hinnasto.jpg)
+![undefined](/assets/tdp-hinnasto.jpg)
 
-  </div>
+</div>
 
-  <div className="HeroBlockContent">
+<div className="HeroBlockContent">
 
-
-  ## Hinnasto
+## Hinnasto
 
   |                              |             |
   | ---------------------------- | ----------- |
@@ -55,9 +55,10 @@ Mikä parasta, KyberAkatemia on maltillisesti hinnoiteltu avaimet käteen -palve
 
 H﻿intaan sisältyy myös palvelun käytön analytiikka  ja mahdolliset toimenpide-ehdotukset yrityksesi tietoturvan nostamiseksi.
 
-  </div>
+</div>
 
-  </HeroBlock>
+</HeroBlock>
+
 
 ## S﻿imuloidut hyökkäykset
 
@@ -82,10 +83,6 @@ Jokainen yrityksesi työntekijä voi suorittaa moduuleita miltä tahansa laittee
 Portaali tarjoaa kattavan tapahtumalokin, josta yrityksesi näkee esimerkiksi simuloitujen hyökkäysten määrän, simulaatiolinkkien klikkaukset ja suoritetut oppimismoduulit. 
 
 Kaikki data on nähtävillä niin organisaatio-, ryhmä-, kuin loppukäyttäjätasolla, joten kokonaiskäsitys yrityksesi tietoturvatietoisuudesta tulee olemaan luotettava kuukaudesta toiseen.
-
-
-
-
 
 ## M﻿iksi ottaa yhteyttä?
 
