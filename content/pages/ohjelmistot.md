@@ -1,6 +1,7 @@
 ---
 template: page
 path: /it-laitteet/ohjelmistot
+thumbnail: /assets/ohjelmistot-ja-lisenssit.jpg
 date: 2022-10-28T13:11:28.313Z
 head:
   title: Ohjelmistot - TDP
@@ -14,6 +15,8 @@ breadcrumb:
   - label: Ohjelmistot
 contactForm: Ota yhteyttä
 ---
+![](/assets/ohjelmistot-ja-lisenssit.jpg)
+
 # Ohjelmistojen ja lisenssien hankinta
 
 TDP:n kautta saatte helposti hankittua yrityksenne tarvitsemat [ohjelmistot](https://www.tdp.fi/ohjelmistot) ja ohjelmistolisenssit, oli kyseessä sitten laitteeseen fyysisesti asennettava ohjelmisto tai selaimen yli käytettävä pilvipalvelu.
