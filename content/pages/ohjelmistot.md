@@ -18,6 +18,6 @@ contactForm: Ota yhteyttä
 
 TDP:n kautta saatte helposti hankittua yrityksenne tarvitsemat [ohjelmistot](https://www.tdp.fi/ohjelmistot) ja ohjelmistolisenssit, oli kyseessä sitten laitteeseen fyysisesti asennettava ohjelmisto tai selaimen yli käytettävä pilvipalvelu.
 
-<a href="/it-laitteet/tyontekijat">Työtekijöiden työkoneisiin ja puhelimiin</a> asennettavat ohjelmistot voidaan asentaa ja määrittää jo esiasennusvaiheessa, jolloin ohjelmisto toimii halutulla tavalla ja työntekijän ei tarvitse käyttää aikaa asentamiseen. <a href="/it-palvelut/keskitetty-hallinta">Keskitetyn käyttäjähallinan</a> avulla ohjelmistoja voidaan päivittää helposti kaikkiin laitteisiin kerralla.
+<a href="/it-laitteet/tyontekijat">Työtekijöiden työkoneisiin ja puhelimiin</a> asennettavat ohjelmistot voidaan asentaa ja määrittää jo esiasennusvaiheessa, jolloin ohjelmisto toimii halutulla tavalla ja työntekijän ei tarvitse käyttää aikaa asentamiseen. <a href="/it-palvelut/keskitetty-hallinta">Keskitetyn käyttäjähallinnan</a> avulla ohjelmistoja voidaan päivittää helposti kaikkiin laitteisiin kerralla.
 
-TDP:n asiakkaisiin kuuluu lukuisten eri toimialojen yrityksiä ja organisaatioita ja meillä on yli kymmenen vuoden kokemus alalta. Ota rohkeasti yhteyttä, niin keskustellaan lisää.
+TDP:n asiakkaisiin kuuluu lukuisten <a href="/referenssit">eri toimialojen yrityksiä</a> ja organisaatioita, ja meillä on yli viidentoista vuoden kokemus alalta. Ota siis rohkeasti yhteyttä ja vastaamme tiedon tarpeeseesi!
