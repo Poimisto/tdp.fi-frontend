@@ -1,6 +1,6 @@
 ---
 path: /home
-thumbnail: /assets/tdp-palvelukumppani.png
+thumbnail: /assets/etusivu-1280x800.jpg
 date: 2020-11-15T20:33:13.757Z
 head:
   title: IT-palvelukumppani yrityksille
@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![TDP palvelut](/assets/tdp-palvelukumppani.png)
+![TDP palvelut](/assets/etusivu-1280x800.jpg)
 
 </div>
 
@@ -121,7 +121,7 @@ Luota ripeään, suomenkieliseen palvelukumppaniin!
 
 <div className="HeroBlockImage">
 
-![Tampereen Datapiste toimisto](/assets/etusivu-1280x800.jpg)
+![Tampereen Datapiste toimisto](/assets/tdp-etusivu-henkilöstö-netlify-1280-x-800.jpg)
 
 </div>
 
