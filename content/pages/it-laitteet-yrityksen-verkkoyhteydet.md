@@ -13,7 +13,7 @@ contactForm: Ota yhteyttä
 ---
 ![Yrityksen verkkoyhteydet.](/assets/verkkoyhteydet.jpg)
 
-#﻿ Yrityksen verkkoyhteydet
+# Yrityksen verkkoyhteydet
 
 **T﻿DP:n kautta saatte vaivattomasti tarvitsemanne verkkoyhteydet, verkkolaitteet sekä verkkojen valvonnan ja ylläpidon.**
 
