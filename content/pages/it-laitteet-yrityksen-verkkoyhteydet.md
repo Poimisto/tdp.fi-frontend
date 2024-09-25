@@ -21,4 +21,4 @@ E﻿nnen verkon asennusta suunnittelemme verkkoympäristön yhdessä yrityksesi 
 
 Y﻿rityksen sisäverkko voidaan suojata palomuurilla ja siihen voidaan yhdistää verkkolaitteita ja vierasverkkoja. Verkkoon voi liittää muita toimipisteitä ja yhteydet etätyöntekijöille.
 
-O﻿sana palvelusopimusta TDP hallinnoi ja valvoo asiakkaan verkkoympäristöä. Palvelusopimuksella myös nykyinen verkkoympäristö voidaan siirtää TDP:n hallintaan. Palvelumme skaalautuu pienen yrityksen tarpeista useamman toimipisteen ympäristöihin.
+TDP hallinnoi ja valvoo asiakkaan verkkoympäristöä osana [palvelusopimusta](https://www.tdp.fi/it-palvelut/palvelusopimus). Palvelusopimuksella myös nykyinen verkkoympäristö voidaan siirtää TDP:n hallintaan. Palvelumme skaalautuu pienen yrityksen tarpeista useamman toimipisteen ympäristöihin.
