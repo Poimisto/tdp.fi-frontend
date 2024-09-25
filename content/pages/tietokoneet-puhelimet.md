@@ -37,13 +37,9 @@ Olemme ripeä laitetoimittaja niin yli 50 hengen PK-yrityksille kuin pienemmille
 
 <div className="HeroBlockContent">
 
-## Huhtikuun kampanjakoneet yrityksille
+## Uusimmat koneet yrityksille 
 
-T﻿arjoamme huhtikuussa kampanjahintaan: 
-
-* <a href="/assets/dell-7340-myyntiesite-20240405.pdf" target="_blank">Dell Latitude 7340 -yrityskannettavan</a>
-* <a href="/assets/Dell-P3260-myyntiesite-20240405.pdf" target="_blank">Dell P3260 -tehotyöaseman</a>
-
+T﻿iedustele myyjiltämme viimeisimpiä konemalleja ja hintoja:
 
 Pauli Aalto | 040 748 3818 | pauli.aalto@tdp.fi
 
