@@ -13,6 +13,8 @@ contactForm: Ota yhteyttä
 ---
 ![Yrityksen verkkoyhteydet.](/assets/verkkoyhteydet.jpg)
 
+#﻿ Yrityksen verkkoyhteydet
+
 **T﻿DP:n kautta saatte vaivattomasti tarvitsemanne verkkoyhteydet, verkkolaitteet sekä verkkojen valvonnan ja ylläpidon.**
 
 E﻿nnen verkon asennusta suunnittelemme verkkoympäristön yhdessä yrityksesi kanssa. Suunnitelman pohjalta valitsemme käyttötarkoitukseen soveltuvat verkkolaitteet. Toimitamme verkkolaitteet, kuten modeemit, reitittimet ja langattoman verkon laitteet käyttökuntoon asennettuina.
