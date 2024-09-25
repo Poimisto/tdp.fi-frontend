@@ -19,9 +19,11 @@ contactForm: Ota yhteyttä
 
 # Ohjelmistojen ja lisenssien hankinta
 
-TDP:n kautta saatte helposti hankittua yrityksenne tarvitsemat [ohjelmistot](https://www.tdp.fi/ohjelmistot) ja ohjelmistolisenssit, oli kyseessä sitten laitteeseen fyysisesti asennettava ohjelmisto tai selaimen yli käytettävä pilvipalvelu. Eri vaihtoehtoja on valtavasti, joten oikean valinnan tekeminen kaipaa ehdottomasti konsultaatiota IT-palvelukumppanin kanssa.
+**TDP:n kautta saatte helposti hankittua yrityksenne tarvitsemat [ohjelmistot](https://www.tdp.fi/ohjelmistot) ja ohjelmistolisenssit, oli kyseessä sitten laitteeseen fyysisesti asennettava ohjelmisto tai selaimen yli käytettävä pilvipalvelu.** 
 
-<a href="/it-laitteet/tyontekijat">Työtekijöiden työkoneisiin ja puhelimiin</a> asennettavat ohjelmistot voidaan asentaa ja määrittää jo esiasennusvaiheessa, jolloin ohjelmisto toimii halutulla tavalla ja työntekijän ei tarvitse käyttää aikaa asentamiseen. 
+Eri vaihtoehtoja on valtavasti, joten oikean valinnan tekeminen vaatii yritykseltäsi ehdottomasti konsultaatiota IT-palvelukumppanin kanssa. 
+
+<a href="/it-laitteet/tyontekijat">Työtekijöiden työkoneisiin ja puhelimiin</a> asennettavat ohjelmistot voidaan asentaa ja määrittää jo esiasennusvaiheessa, jolloin ohjelmisto toimii halutulla tavalla ja työntekijän ei tarvitse käyttää aikaa asentamiseen.
 
 <a href="/it-palvelut/keskitetty-hallinta">Keskitetyn käyttäjähallinnan</a> avulla ohjelmistoja voidaan päivittää helposti kaikkiin laitteisiin kerralla.
 
