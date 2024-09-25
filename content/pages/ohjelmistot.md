@@ -23,7 +23,7 @@ contactForm: Ota yhteyttä
 
 Eri vaihtoehtoja on valtavasti, joten oikean valinnan tekeminen vaatii yritykseltäsi ehdottomasti konsultaatiota IT-palvelukumppanin kanssa. 
 
-<a href="/it-laitteet/tyontekijat">Työtekijöiden työkoneisiin ja puhelimiin</a> asennettavat ohjelmistot voidaan asentaa ja määrittää jo esiasennusvaiheessa, jolloin ohjelmisto toimii halutulla tavalla ja työntekijän ei tarvitse käyttää aikaa asentamiseen.
+<a href="/ohjelmistot">Työtekijöiden työkoneisiin ja puhelimiin</a> asennettavat ohjelmistot voidaan asentaa ja määrittää jo esiasennusvaiheessa, jolloin ohjelmisto toimii halutulla tavalla ja työntekijän ei tarvitse käyttää aikaa asentamiseen.
 
 <a href="/it-palvelut/keskitetty-hallinta">Keskitetyn käyttäjähallinnan</a> avulla ohjelmistoja voidaan päivittää helposti kaikkiin laitteisiin kerralla.
 
