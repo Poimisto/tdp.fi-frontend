@@ -48,10 +48,10 @@ Mikä parasta, KyberAkatemia on maltillisesti hinnoiteltu avaimet käteen -palve
 
 ## Hinnasto
 
-  |                              |             |
-  | ---------------------------- | ----------- |
-  | Kiinteä kuukausihinta/käyttäjä   | 3 €/kk   |
-  | ﻿Palvelun avausmaksu              | 990 €/kk   |
+|                                |        |
+| ------------------------------ | ------ |
+| Kiinteä kuukausihinta/käyttäjä | 3 €/kk |
+| ﻿Palvelun avausmaksu           | 990 €  |
 
 H﻿intaan sisältyy myös palvelun käytön analytiikka  ja mahdolliset toimenpide-ehdotukset yrityksesi tietoturvan nostamiseksi.
 
