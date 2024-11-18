@@ -1,7 +1,7 @@
 {
   "isEmployee": true,
-  "name": "Arttu",
+  "name": "Veikka",
   "title": "Työntekijä",
-  "image": "/assets/arttu-1000x1000-tinified.png",
+  "image": "/assets/man.png",
   "description": ""
 }
