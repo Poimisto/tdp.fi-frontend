@@ -1,6 +1,6 @@
 ---
 path: /home
-thumbnail: /assets/etusivu-1280x800.jpg
+thumbnail: /assets/verkkoyhteydet-1280x800.png
 date: 2020-11-15T20:33:13.757Z
 head:
   title: IT-palvelukumppani yrityksille
