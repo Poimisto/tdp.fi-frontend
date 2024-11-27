@@ -153,7 +153,7 @@ export default ({children, breadcrumb}) => {
               <BadgeImage src={require('./../images/PL_LOGO_Tampereen_Datapiste_Oy_FI_417749_web.jpg')} alt="Asiakastieto"/>
             </div>
             <div className="longDescription">
-              Tampereen Datapisteen toimipisteet sijaitsevat Nokialla ja Helsingissä. Päätoimialueemme on Pirkanmaa (Tampere, Kangasala, Lempäälä, Nokia, Pirkkala, Ylöjärvi) sekä Helsinki ja muu pääkaupunkiseutu. Toimitamme laitteistoja koko Suomen alueella. Noudatamme palveluissa IT 2018 sopimusehtoja. Olemme asiakkaidemme IT-kumppani ja toimitamme edulliset ja tehokkaat tietokone-leasing ratkaisut yrityksille luotettavasti ja ammattitaidolla.
+              Tampereen Datapisteen toimipisteet sijaitsevat Nokialla ja Helsingissä. Päätoimialueemme on Pirkanmaa (Tampere, Kangasala, Lempäälä, Nokia, Pirkkala, Ylöjärvi) sekä Helsinki ja muu pääkaupunkiseutu. Toimitamme laitteistoja koko Suomen alueella. Noudatamme palveluissa IT 2022 sopimusehtoja. Olemme asiakkaidemme IT-kumppani ja toimitamme edulliset ja tehokkaat tietokone-leasing ratkaisut yrityksille luotettavasti ja ammattitaidolla.
             </div>
             <div className="footerLinks">
               <a href="/yhteystiedot">Yhteystiedot</a> | <a href="/assets/laskutustiedot.pdf">Laskutustiedot</a> | <a href="/yritys/hinnasto">Palveluhinnasto</a> | <a href="/assets/tietosuojaseloste.pdf" target="_blank">Tietosuojaseloste</a>   | <a href="/tuki">Tuki</a>  
