@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /uusi-chatbot
+path: /uusi-chatbot-tassa-mita-opimme-ja-mita-sina-voit-hyotya
 date: 2024-11-29T10:36:11.892Z
 head:
   title: Uusi Chatbot - Tässä mitä opimme ja mitä sinä voit hyötyä
