@@ -30,6 +30,6 @@ Kun tyyli ja tavoitteet oli määritelty, vanhan materiaalin uudistaminen sujui 
 
 Lopputuloksena syntyi chatbot, joka ei ole vielä täydellinen, mutta tulokset yllättivät meidät positiivisesti. Jo näinkin pienellä työmäärällä saimme aikaan botin, joka osaa vastata perustason kysymyksiin yrityksestämme ja palveluistamme täysin sujuvasti. Projektin aikana huomasimme, että selkeä ja hyvin strukturoitu materiaali on avain AI tehokkaaseen hyödyntämiseen. Vaikka AI kehittyy jatkuvasti erilaisten materiaalien tulkitsemisessa, kehitys ottaa aikansa – ja siksi yhteensopivuus kannattaa edelleen rakentaa tietoisesti.
 
-Me opimme samalla myös tärkeän läksyn – AI kehittyy koko ajan, mutta se tarvitsee selkeyttä ja logiikkaa pärjätäkseen. Nyt tiedämme, kuinka rakentelemme materiaalimme jatkossa niin, että ne toimivat AI kanssa käsi kädessä. Ja hei, projektissa autellut GPT laati muuten myös tämän uutiskirjeen – ei huono, vai mitä?
+Me opimme samalla myös tärkeän läksyn – AI kehittyy koko ajan, mutta se tarvitsee selkeyttä ja logiikkaa pärjätäkseen. Nyt tiedämme, kuinka rakentelemme materiaalimme jatkossa niin, että ne toimivat AI kanssa käsi kädessä. Ja hei, projektissa autellut GPT laati muuten myös tämän artikelin – ei huono, vai mitä?
 
 *Jos kaipaatte ideoita tai tukea AI tehokkaampaan hyödyntämiseen, olkaa yhteydessä!*
