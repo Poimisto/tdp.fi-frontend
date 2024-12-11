@@ -148,6 +148,25 @@ collections:
                   - label: Link
                     name: link
                     widget: string
+      - name: variables
+        label: Variables
+        file: content/variables/variables.json
+        fields:
+          - label: Variables
+            name: variables
+            widget: list
+            types:
+              - label: Text
+                name: text
+                widget: object
+                summary: "{{fields.title}}"
+                fields:
+                  - label: Key
+                    name: key
+                    widget: string
+                  - label: Value
+                    name: value
+                    widget: string
 
   - name: posts
     label: Posts
