@@ -91,13 +91,7 @@ module.exports = {
         path: `${__dirname}/content/forms`,
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `variables`,
-        path: `${__dirname}/content/variables`
-      }
-    },
+
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
