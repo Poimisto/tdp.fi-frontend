@@ -1,0 +1,79 @@
+{
+  "variables": [
+    {
+      "type": "text",
+      "key": "ms-365-business-basic-kk",
+      "value": "6,72"
+    },
+    {
+      "type": "text",
+      "key": "ms-365-business-basic-vuosi",
+      "value": "5,60"
+    },
+    {
+      "type": "text",
+      "key": "ms-365-apps-for-business-kk",
+      "value": "11,76"
+    },
+    {
+      "type": "text",
+      "key": "ms-365-apps-for-business-vuosi",
+      "value": "9,80"
+    },
+    {
+      "type": "text",
+      "value": "20,60",
+      "key": "ms-365-business-standard-kk"
+    },
+    {
+      "type": "text",
+      "key": "ms-365-business-standard-vuosi",
+      "value": "11,70"
+    },
+    {
+      "type": "text",
+      "key": "ms-365-business-premium-kk",
+      "value": "24,72"
+    },
+    {
+      "type": "text",
+      "key": "ms-365-business-premium-vuosi",
+      "value": "20,60"
+    },
+    {
+      "type": "text",
+      "value": "6,90",
+      "key": "google-workspace-business-starter-kk"
+    },
+    {
+      "type": "text",
+      "value": "5,75",
+      "key": "google-workspace-business-starter-vuosi"
+    },
+    {
+      "type": "text",
+      "value": "13,80",
+      "key": "google-workspace-business-standard-kk"
+    },
+    {
+      "type": "text",
+      "key": "google-workspace-business-standard-vuosi",
+      "value": "11,50"
+    },
+    {
+      "type": "text",
+      "key": "google-workspace-business-plus-kk",
+      "value": "20,70"
+    },
+    {
+      "type": "text",
+      "key": "google-workspace-business-plus-vuosi",
+      "value": "17,25"
+    },
+    {
+      "type": "text",
+      "value": "20,70",
+      "key": "google-workspace-business-plus-kk"
+    }
+  ]
+}
