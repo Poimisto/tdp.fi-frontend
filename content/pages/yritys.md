@@ -110,7 +110,7 @@ Seuraa meitä sosiaalisen median kanavissamme:
 
 <br/><br/>
 
-<img src="/static/PL_LOGO_Tampereen_Datapiste_Oy_FI_417749_web-609826c60bab87cad1ae98c7d054530a.jpg" />
+<img src="/assets/standing_black_1080x952.png" width="210px" />
 
 </Grid>
 
