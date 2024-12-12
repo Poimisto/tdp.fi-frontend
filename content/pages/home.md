@@ -121,7 +121,7 @@ Luota ripeään, suomenkieliseen palvelukumppaniin!
 
 <div className="HeroBlockImage">
 
-![Tampereen Datapiste toimisto](/assets/tdp-etusivu-henkilöstö-netlify-1280-x-800.jpg)
+![Tampereen Datapiste toimisto](/assets/tdp-henkilöstö-2024-tinified.jpg)
 
 </div>
 
