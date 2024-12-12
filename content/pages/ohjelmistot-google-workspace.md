@@ -28,18 +28,18 @@ Google Workspace yhdistää kaikki keskeiset toimistotyökalut yhdeksi kokonaisu
 
 ## Hinnasto
 
-| P﻿alvelupaketit                            | BUSINESS STARTER | BUSINESS STANDARD  | BUSINESS PLUS      |
-| ------------------------------------------ | ---------------- | ------------------ | ------------------ |
-| Yrityssähköposti omalla domainilla         | ✔                | ✔                  | ✔                  |
-| Meet-kokoukset/osallistujaa                | 100              | 150 tallennuksella | 500 tallennuksella |
-| Verkkolevy/käyttäjä                        | 30 Gt            | 2Tt                | 5Tt                |
-| Kalenteri                                  | ✔                | ✔                  | ✔                  |
-| Docs, Forms & Sheets                       | ✔                | ✔                  | ✔                  |
-| Yhteystiedot                               | ✔                | ✔                  | ✔                  |
-| Google Gemini saatavilla lisäominaisuutena | ✔                | ✔                  | ✔                  |
-| eDiscovery                                 |                  |                    | ✔                  |
-| **Kuukausilisenssi (EUR/kk/käyttäjä):**    | **6,90**         | **13,80**          | **2﻿0,70**         |
-| **Vuosilisenssi (EUR/kk/käyttäjä):**       | **5,75**         | **11,50**          | **17,25**          |
+| P﻿alvelupaketit                            | BUSINESS STARTER                                                                      | BUSINESS STANDARD                                                                   | BUSINESS PLUS                                                                      |
+| ------------------------------------------ | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Yrityssähköposti omalla domainilla         | ✔                                                                                     | ✔                                                                                   | ✔                                                                                  |
+| Meet-kokoukset/osallistujaa                | 100                                                                                   | 150 tallennuksella                                                                  | 500 tallennuksella                                                                 |
+| Verkkolevy/käyttäjä                        | 30 Gt                                                                                 | 2Tt                                                                                 | 5Tt                                                                                |
+| Kalenteri                                  | ✔                                                                                     | ✔                                                                                   | ✔                                                                                  |
+| Docs, Forms & Sheets                       | ✔                                                                                     | ✔                                                                                   | ✔                                                                                  |
+| Yhteystiedot                               | ✔                                                                                     | ✔                                                                                   | ✔                                                                                  |
+| Google Gemini saatavilla lisäominaisuutena | ✔                                                                                     | ✔                                                                                   | ✔                                                                                  |
+| eDiscovery                                 |                                                                                       |                                                                                     | ✔                                                                                  |
+| **Kuukausilisenssi (EUR/kk/käyttäjä):**    | <DisplayVariable variableKey="google-workspace-business-starter-kk" bold={true} />    | <DisplayVariable variableKey="google-workspace-business-standard-kk" bold={true} /> | <DisplayVariable variableKey="google-workspace-business-plus-kk" bold={true} />    |
+| **Vuosilisenssi (EUR/kk/käyttäjä):**       | <DisplayVariable variableKey="google-workspace-business-starter-vuosi" bold={true} /> | <DisplayVariable variableKey="google-business-standard-vuosi" bold={true} />        | <DisplayVariable variableKey="google-workspace-business-plus-vuosi" bold={true} /> |
 
 ## Suomenkielinen tukipalvelu
 
