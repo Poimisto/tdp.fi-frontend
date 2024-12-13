@@ -69,6 +69,26 @@
       "type": "text",
       "key": "google-workspace-business-plus-vuosi",
       "value": "17,25"
+    },
+    {
+      "type": "text",
+      "key": "datto-rmm-edr-nimi",
+      "value": "Tietoturva Total"
+    },
+    {
+      "type": "text",
+      "key": "datto-rmm-edr-hinta",
+      "value": "14,50 €/kk/käyttäjä"
+    },
+    {
+      "type": "text",
+      "key": "datto-rmm-nimi",
+      "value": "Tietoturva Lite"
+    },
+    {
+      "type": "text",
+      "key": "datto-rmm-hinta",
+      "value": "7,00 €/kk/käyttäjä"
     }
   ]
 }
