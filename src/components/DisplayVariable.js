@@ -25,10 +25,10 @@ const DisplayVariable = ({ variableKey, tag = "p", bold = false }) => {
   `)
 
   const VariableDisplay = styled(tag)`
-    display: inline;
-    font-family: ${tag[0] === "h"
-      ? theme.headingFontFamily
-      : theme.bodyFontFamily};
+    display: ${tag === "p" ? "inline" : "block"};
+    font-family: ${tag === "p"
+      ? theme.bodyFontFamily
+      : theme.headingFontFamily};
     font-weight: ${props => (props.bold ? "bold" : "normal")};
   `
 
