@@ -42,33 +42,33 @@
     },
     {
       "type": "text",
-      "value": "6,90",
+      "value": "8,10",
       "key": "google-workspace-business-starter-kk"
     },
     {
       "type": "text",
-      "value": "5,75",
+      "value": "6,80",
       "key": "google-workspace-business-starter-vuosi"
     },
     {
       "type": "text",
-      "value": "13,80",
+      "value": "16,20",
       "key": "google-workspace-business-standard-kk"
     },
     {
       "type": "text",
       "key": "google-workspace-business-standard-vuosi",
-      "value": "11,50"
+      "value": "13,60"
     },
     {
       "type": "text",
       "key": "google-workspace-business-plus-kk",
-      "value": "20,70"
+      "value": "25,30"
     },
     {
       "type": "text",
       "key": "google-workspace-business-plus-vuosi",
-      "value": "17,25"
+      "value": "21,10"
     },
     {
       "type": "text",
