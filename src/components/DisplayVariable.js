@@ -9,7 +9,7 @@ import styled from "styled-components"
  * @param {string} props.variableKey - Key of the variable to show
  * @param {string} props.type - HTML tag to display the value in, defaults to "p"
  * @param {boolean} props.bold - Should text be bold, defaults to false
- * @returns
+ * @returns {React.Component} Component displaying the value of a variable
  */
 const DisplayVariable = ({ variableKey, tag = "p", bold = false }) => {
   const data = useStaticQuery(graphql`
