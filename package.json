@@ -34,6 +34,7 @@
     "gatsby-transformer-json": "^2.11.0",
     "gatsby-transformer-remark": "^2.15.0",
     "gatsby-transformer-sharp": "^2.6.0",
+    "immutable": "^3.8.2",
     "install": "^0.13.0",
     "marked": "^1.2.8",
     "netlify-cms-app": "^2.13.3",
@@ -45,8 +46,7 @@
     "react-dom": "^16.12.0",
     "react-helmet": "^6.1.0",
     "react-hook-form": "^6.15.1",
-    "styled-components": "^5.2.1",
-    "immutable": "^3.8.2"
+    "styled-components": "^5.2.1"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
