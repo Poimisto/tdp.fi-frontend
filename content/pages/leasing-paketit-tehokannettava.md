@@ -26,10 +26,11 @@ breadcrumb:
 Vaativalle ja liikkuvalle käyttäjälle suunnattu tehokannettava, josta suorituskyky ei lopu kesken raskaimpienkaan ohjelmistojen kanssa. Prosessoriteho, muisti ja näytönohjain ovat kannettavien kärkeä. SSD-kiintolevy takaa nopeuden. Suurta näyttöä voi laajentaa useamman lisänäytön avulla.
 
 | Konepakettien hinnat (alv 0%)     | 36 kk leasing-sopimus | hinta suoraostona |
-| --------------------------------- | --------------------- | ----------------- |
-| Dell 7680 -tehokannettava         | 109,83 €/kk           | 3 495,00 €        |
-| Dell WD22TB4 Dock 180W            | 9,43 €/kk             | 298,00 €          |
-| Dell 30" UltraSharp U3023E näyttö | 20,16 €/kk            | 618,00 €          |
+| :-------------------------------- | --------------------: | ----------------: |
+| Dell 7680 -tehokannettava         | 109,83 €/kk          | 3 495,00 €        |
+| Dell WD22TB4 Dock 180W            | 9,43 €/kk            | 298,00 €          |
+| Dell 30" UltraSharp U3023E näyttö | 20,16 €/kk           | 618,00 €          |
+
 
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
