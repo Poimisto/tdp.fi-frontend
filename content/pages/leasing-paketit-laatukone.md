@@ -28,11 +28,11 @@ Tämä leasingpaketti on suunniteltu vastaamaan tarpeitasi, jos tarvitset edulli
 
 Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, niin katso <a href="leasing-paketit/tehokone">tehokone ammattimaiseen kuvankäsittelyyn, suunnitteluun ja mallinnukseen.</a>
 
-| Konepakettien hinnat (alv 0%)                                        | 24 kk leasing-sopimus | 36 kk leasing-sopimus | hinta suoraostona |
-| -------------------------------------------------------------------- | --------------------- | --------------------- | ----------------- |
-| Precision SFF 3460 NVIDIA T400 näytönohjaimella                         | 66,05 €/kk            | 44,52 €/kk            | 1398,00 €        |
-| Dell 27" Ultrasharp U2724D näyttö                                    | 16,77 €/kk            | 11,21 €/kk            | 329,00 €          |
-| NVIDIA T1000 näytönohjaimella ja yhdellä 27" Ultrasharp näytöllä | 94,36 €/kk           | 63,60 €/kk            | 1998,00 €        |
+| Konepakettien hinnat (alv 0%)                                        | 36 kk leasing-sopimus | hinta suoraostona |
+| -------------------------------------------------------------------- | --------------------- | ----------------- |
+| Precision SFF 3460 NVIDIA T400 näytönohjaimella                     | 44,52 €/kk            | 1398,00 €        |
+| Dell 27" Ultrasharp U2724D näyttö                                    | 11,21 €/kk            | 329,00 €          |
+| NVIDIA T1000 näytönohjaimella ja yhdellä 27" Ultrasharp näytöllä    | 63,60 €/kk            | 1998,00 €        |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
