@@ -28,9 +28,10 @@ Kevyt ja kestävä MacBook Pro on suunniteltu vastaamaan vaativimpienkin käytt�
 Tarjoamme sekä 14" että 16" versiota joissa molemmissa uusimmat M4 prosessorit, sekä koko päivä kattava akun kesto.
 
 | Konepakettien hinnat (alv 0%)   | 36 kk leasing-sopimus | hinta suoraostona |
-| -------------------------------- | --------------------- | ----------------- |
-| Apple MacBook Pro 14” 2024       | 52,88 €/kk            | 1 599,00 €        |
-| Apple MacBook Pro 16” 2024       | 79,50 €/kk            | 2 428,00 €        |
+| :------------------------------ | --------------------: | ----------------: |
+| Apple MacBook Pro 14” 2024       | 52,88 €/kk           | 1 599,00 €        |
+| Apple MacBook Pro 16” 2024       | 79,50 €/kk           | 2 428,00 €        |
+
 
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
