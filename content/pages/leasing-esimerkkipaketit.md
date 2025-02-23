@@ -34,7 +34,6 @@ Löydät hyllystämme kaikki yrityksille parhaiten soveltuvat laitemerkit:
 * A﻿pple
 * Lenovo
 * HP
-* Fujitsu
 
 ## Huomioi laitetakuu
 
