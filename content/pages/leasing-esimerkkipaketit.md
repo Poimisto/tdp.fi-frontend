@@ -14,11 +14,11 @@ breadcrumb:
   - label: Tietokone-leasing
     path: /tietokone-leasing
   - label: Esimerkkipaketit
-thumbnail: /assets/leasing-esimerkkipaketit.jpg
+thumbnail: /assets/dell-pro-14-plus.jpg
 date: 2023-06-29T07:50:19.123Z
 contactForm: Ota yhteyttä
 ---
-![](/assets/leasing-esimerkkipaketit.jpg)
+![](/assets/dell-pro-14-plus.jpg)
 
 # Leasing-konepaketteja tyytyväisille asiakkaille
 
