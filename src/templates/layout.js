@@ -147,7 +147,7 @@ export default ({children, breadcrumb}) => {
             </div>
             <div className="badgeList">
 
-              <BadgeImage src={require('./../images/AAA-logo-2024-FI-transparent.png')} alt="AAA-luottoluokitus"/>
+              <BadgeImage src={require('./../images/AAA-logo-2025-FI-transparent.png')} alt="AAA-luottoluokitus"/>
               <BadgeImage src={require('./../images/luotettavakumppani_250x124.jpg')} alt="Luotettava kumppani" />
               <BadgeImage src={require('./../images/sy-jasenyritysbanneri-fi_250x124.jpg')} alt="Suomen yrittäjät jäsenyritys" />
               <BadgeImage src={require('./../images/STANDING_BLACK_1080x952.png')} alt="Asiakastieto"/>
