@@ -3,7 +3,7 @@ template: BlogPost
 path: /yritysvideomme-kertoo-it-on-meilla-helppoa
 date: 2025-05-09T10:17:26.165Z
 head:
-  title: Tritysvideomme kertoo - IT on meillä helppoa
+  title: Yritysvideomme kertoo - IT on meillä helppoa
   keywords: IT, sujuvuus, asiakastuki, liiketoiminta, luotettavuus, kumppanuus,
     räätälöinti, helppous
   description: Artikkeli esittelee, miltä sujuva IT-kumppanuus voi parhaimmillaan
