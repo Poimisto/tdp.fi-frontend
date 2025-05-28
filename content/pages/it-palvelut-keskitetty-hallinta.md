@@ -48,23 +48,17 @@ Palveluun on saatavilla myös lukuisia käyttäjäkokemusta ja tietoturvaa paran
 | **Hinta (EUR/kk/käyttäjä):**                   | **15,00**      | **22,00**          | **27,00**      |
 | **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):** | **13,00**      | **19,00**          | **24,00**      |
 
-
 ## Laitteiden ja työntekijöiden hallinta
 
-Keskitettyyn hallintaan voidaan ottaa työntekijöiden käytössä olevat Windows-, Android-, Linux- ja Apple-laitteet. Kun työntekijä tulee taloon, hänelle luodaan käyttäjätunnus ja annetaan tarvittavat käyttöoikeudet. 
+Keskitetty hallinta tuo käyttäjät, laitteet ja pääsynhallinnan yhteen järjestelmään. Sen avulla yrityksesi IT-ympäristöstä saadaan kattava kokonaiskuva – turvallisesti ja tehokkaasti, ilman monimutkaisia paikallisia ratkaisuja.
 
-Työntekijän lähtiessä käyttöoikeudet poistetaan. Käyttäjätunnuksen avulla laitteen vaihto käy ongelmitta vaikka työntekijän käytössä oleva laite hajoaisi, hukkuisi tai se korvattaisiin uudella. Keskitetty hallinta mahdollistaa myös unohtuneiden käyttöoikeuksien palautuksen.
+Palvelu nopeuttaa uusien koneiden ja käyttäjätilien asennusta käytänteiden mukaisesti, sekä helpottaa etätöiden hallintaa. Keskitetty hallinta vähentää huomattavasti paikan päällä suoritettavien asennustöiden määrää ja mahdollistaa myös kadonneiden tai varastettujen laitteiden nollauksen.
 
-## Pääsy yrityksessä syntyvään tietoon
+## Kenelle keskitetty hallinta sopii
 
-Pilvipalveluiden avulla yrityksessä syntyvä tieto ei enää asu yksittäisten IT-laitteen tallennustilan sisällä.
+Palvelu on erinomainen valinta yrityksille, jotka:
+- Toimivat hybridiympäristössä – eli työntekijöitä on sekä toimistolla että etänä
+- Käyttävät eri käyttöjärjestelmiä, kuten Windowsia, macOS:ää ja Linuxia
+- Haluavat vähentää IT-kuormaa, ulkoistaa hallinnan ja keskittyä ydintoimintaansa
 
-Pilvipalveluiden tehokas hyödyntäminen osana keskitettyä käyttäjähallintaa mahdollistaa ideaalitilanteessa sen, että työn tekeminen onnistuu millä tahansa internetiin yhteydessä olevalla laitteella.
-
-Kun laitteet ovat osa keskitettyä käyttäjähallintaa, käyttäjätason tiedot voidaan varmuuskopioida automaattisesti pilveen. Työntekijä voi jakaa pääsyn omiin tiedostoihinsa helposti ja työntekijöille voidaan jakaa pääsy organisaatiotason tietoihin.
-
-## Sovelluspäivitykset ja tietoturvapäivitykset
-
-Kun työntekijöiden käytössä olevat laitteet ovat osa keskitettyä hallintaa, laitteisiin voidaan keskitetysti ajaa päivityksiä ja asettaa määritelty tietoturvan taso. <a href="/it-palvelut/tietoturva">Tietoturvaan</a> liittyy esimerkiksi ohjelmiston päivitykset, laitteelle tallennettavien tietojen salaus tai tunnistautumistapojen määritys.
-
-K﻿eskitetty hallinta käytännössä takaa yritykselle korkeamman tietoturvatason ja kiinteästi kuukausihinnoiteltuna se on myös helposti budjetoitava palvelu.
+Ratkaisu tuo skaalautuvuutta ja hallittavuutta yrityksille, joilla on monipuolinen IT-ympäristö, mutta ei välttämättä omaa IT-osastoa – tai jotka haluavat täydentää sisäistä IT:tään modernilla, ylläpidetyllä ratkaisulla.
