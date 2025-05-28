@@ -39,7 +39,7 @@ Jos laitteeseen tulee huoltoa vaativa laitevika, varalaitepalvelun avulla työnt
 
 ### Tietoturva
 
-<a href="/it-palvelut/tietoturva">Yrityksen tietoturvalla</a> tarkoitetaan työntekijöiden laitteiden suojausta, organisaatiotason laitteiden ja ympäristöjen suojausta sekä tietoturvallisia prosesseja. 
+Yrityksen tietoturvalla tarkoitetaan työntekijöiden laitteiden suojausta, organisaatiotason laitteiden ja ympäristöjen suojausta sekä tietoturvallisia prosesseja. 
 
 TDP:n palveluissa tietoturva on sisäänrakennettuna. Esimerkiksi elinkaaripalvelun ja keskityn hallinnan avulla voidaan huolehtia siitä, että työntekijöiden laitteissa on asianmukainen suojaustaso ja laitteet kierrätetään tietoturvallisesti. Tietoturva on huomioitu myös sähköposti-, domain- ja palvelinympäristöjen hallinnan palveluissamme. TDP:n kautta saatte hankittua tarvittavat verkkolaitteet sekä sisäverkkojen toteutuksen tietoturvallisella tavalla.
 
