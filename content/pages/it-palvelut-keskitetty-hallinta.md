@@ -52,13 +52,10 @@ Palveluun on saatavilla myös lukuisia käyttäjäkokemusta ja tietoturvaa paran
 
 Keskitetty hallinta tuo käyttäjät, laitteet ja pääsynhallinnan yhteen järjestelmään. Sen avulla yrityksesi IT-ympäristöstä saadaan kattava kokonaiskuva – turvallisesti ja tehokkaasti, ilman monimutkaisia paikallisia ratkaisuja.
 
-Palvelu nopeuttaa uusien koneiden ja käyttäjätilien asennusta käytänteiden mukaisesti, sekä helpottaa etätöiden hallintaa. Keskitetty hallinta vähentää huomattavasti paikan päällä suoritettavien asennustöiden määrää ja mahdollistaa myös kadonneiden tai varastettujen laitteiden nollauksen.
-
-## Kenelle keskitetty hallinta sopii
-
 Palvelu on erinomainen valinta yrityksille, jotka:
-- Toimivat hybridiympäristössä – eli työntekijöitä on sekä toimistolla että etänä
-- Käyttävät eri käyttöjärjestelmiä, kuten Windowsia, macOS:ää ja Linuxia
-- Haluavat vähentää IT-kuormaa, ulkoistaa hallinnan ja keskittyä ydintoimintaansa
+
+* Toimivat hybridiympäristössä – eli työntekijöitä on sekä toimistolla että etänä
+* Käyttävät eri käyttöjärjestelmiä, kuten Windowsia, macOS:ää ja Linuxia
+* Haluavat vähentää IT-kuormaa, ulkoistaa hallinnan ja keskittyä ydintoimintaansa
 
 Ratkaisu tuo skaalautuvuutta ja hallittavuutta yrityksille, joilla on monipuolinen IT-ympäristö, mutta ei välttämättä omaa IT-osastoa – tai jotka haluavat täydentää sisäistä IT:tään modernilla, ylläpidetyllä ratkaisulla.
