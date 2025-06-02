@@ -218,6 +218,14 @@ collections:
           config:
             multiple: false
       - { name: body, label: Body, widget: markdown }
+      - name: contactForm
+        label: Yhteydenottolomake
+        widget: relation
+        collection: contactForms
+        search_fields: ["title"]
+        value_field: '{{fields.title}}'
+        display_fields: ['title']
+        required: false
 
   - name: people
     label: People
