@@ -21,7 +21,7 @@ Sujuvan palvelun takaamiseksi kontaktoi eri tukitarpeissa alla esitettyjen ohjei
 
 ### Etätuki
 
-**E﻿nsisijaisesti lähetä tukipyyntö sähköisesti osoitteeseen [tuki@tdp.fi](tuki@tdp.fi).**
+**E﻿nsisijaisesti lähetä tukipyyntö sähköisesti osoitteeseen [tuki@tdp.fi](mailto:tuki@tdp.fi).**
 
 Kirjoita otsikkoon osuva kuvaus ongelmasta, kuten “Liittymän avaus” tai “Ohjelmisto X ei
 toimi”. Kuvaa viestissä ongelma mahdollisimman yksityiskohtaisesti, jotta henkilökuntamme
