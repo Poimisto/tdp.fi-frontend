@@ -11,6 +11,7 @@ head:
   keywords: dokumenttihallinta, käyttäjähallinta, laitehallinta, pilviratkaisu,
     Dropbox, Nira, Google, Microsoft,
 thumbnail: /assets/dokumentinhallinta-netlify.jpg
+contactForm: Ota yhteyttä
 ---
 ![Yrityksen dokumenttien hallinta – tehokkaasti pilvessä](/assets/dokumentinhallinta-netlify.jpg)
 

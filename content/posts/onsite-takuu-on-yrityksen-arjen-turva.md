@@ -9,6 +9,7 @@ head:
     viipymättä asiakkaan tiloissa.
   keywords: onsite, takuu, 3 vuotta, laiterikko
 thumbnail: /assets/uusi-onsite.jpg
+contactForm: Ota yhteyttä
 ---
 ![Onsite-takuu](/assets/uusi-onsite.jpg)
 

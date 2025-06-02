@@ -8,6 +8,7 @@ head:
     huolehtimaan yritysten IT-infrasta!
   keywords: TDP, helpdesk, tukihenkilö, lähituki, etätuki, asiakaspalvelu
 thumbnail: /assets/uusi-rekry.jpg
+contactForm: Ota yhteyttä
 ---
 ![TDP hakee HELPDESK-tukihenkilöä!](/assets/uusi-rekry.jpg)
 

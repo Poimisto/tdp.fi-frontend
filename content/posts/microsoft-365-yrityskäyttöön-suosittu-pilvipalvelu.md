@@ -8,6 +8,7 @@ head:
     arkeen monipuoliset ja tehokkaat sovellukset tiedonhallintaan.
   title: Microsoft 365 -työympäristö yritysten arjen tehostamiseksi
 thumbnail: /assets/netlify-1280-x-800-1-min.png
+contactForm: Ota yhteyttä
 ---
 ![Microsoft 365 - suosittu pilvipalvelu yrityksen tietokäyttöön](/assets/netlify-1280-x-800-1-min.png)
 

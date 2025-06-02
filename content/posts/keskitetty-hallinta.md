@@ -9,6 +9,7 @@ head:
     käyttöönotto ei vaadi suuria aloitusinvestointeja. "
   keywords: keskitetty hallinta, jumpcloud
 thumbnail: /assets/image00016.jpeg
+contactForm: Ota yhteyttä
 ---
 ![Keskitetty hallinnan käyttöönotto auttaa organisaatiota hallinnoimaan ja tehostamaan IT-laitteiden käyttöä](/assets/image00016.jpeg)
 

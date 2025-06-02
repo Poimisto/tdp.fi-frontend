@@ -10,6 +10,7 @@ head:
     valmistajalta. Hinta on molemmilla sama, mutta TDP:ltä saat samalla hinnalla
     yrityksesi liiketoimintaa tukevia lisäpalveluita.
 thumbnail: /assets/google-asiantuntija-tinified.jpg
+contactForm: Ota yhteyttä
 ---
 ![](/assets/google-asiantuntija-tinified.jpg)
 

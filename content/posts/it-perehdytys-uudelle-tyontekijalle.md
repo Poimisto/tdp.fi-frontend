@@ -12,6 +12,7 @@ head:
     työntekijäkokemus alkaa syntyä jo työsuhteen ensimetreistä alkaen.
   keywords: IT-perehdytys, uusi, työntekijä, onboarding, työntekijäkokemus
 thumbnail: /assets/it-perehdytys.jpg
+contactForm: Ota yhteyttä
 ---
 ![Huono IT-perehdytys voi johtaa huonoon työntekijäkokemukseen.](/assets/it-perehdytys.jpg)
 

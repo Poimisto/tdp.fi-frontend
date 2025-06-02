@@ -9,6 +9,7 @@ head:
     opastaaksemme myös asiakkaitamme uudistuksen keskellä.
   keywords: Dell,mallisto,tietokone,tietokoneet,kannettava,pöytäkone
 thumbnail: /assets/dell-kannettavat-kortti.png
+contactForm: Ota yhteyttä
 ---
 Uudistetut Dell -sarjat ovat saapuneet – teemme parhaamme opastaaksemme myös asiakkaitamme uudistuksen keskellä.
 

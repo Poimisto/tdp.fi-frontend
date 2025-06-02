@@ -11,6 +11,7 @@ head:
     ydinlupaus on mahdollistaa asiakkaalle keskittyminen omaan
     liiketoimintaansa, ilman IT-huolia.
 thumbnail: /assets/20220825-dsc07575-3.jpg
+contactForm: Ota yhteyttä
 ---
 <!--StartFragment-->
 

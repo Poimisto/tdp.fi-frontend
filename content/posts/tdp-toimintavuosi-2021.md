@@ -9,6 +9,7 @@ head:
     uusia asiakassuhteita solmittiin ja monet muutkin asiat menivät eteenpäin.
   keywords: TDP, toimintavuosi, 2021, liikevaihto, rekrytointi
 thumbnail: /assets/toimintavuosi-sloganitta3.jpg
+contactForm: Ota yhteyttä
 ---
 ![TDP:n toimintavuosi 2021](/assets/toimintavuosi-sloganitta3.jpg)
 

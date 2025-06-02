@@ -10,6 +10,7 @@ head:
     tiettyjen ohjelmistojen kanssa. Sertifioiduilla laitteilla yrityksen
     työntekijöiden arki sujuu tehokkaasti ilman turhia katkoja työskentelyyn.
 thumbnail: /assets/isv-sertifiointi-1280-x-800.jpg
+contactForm: Ota yhteyttä
 ---
 ![](/assets/isv-sertifiointi-1280-x-800.jpg)
 

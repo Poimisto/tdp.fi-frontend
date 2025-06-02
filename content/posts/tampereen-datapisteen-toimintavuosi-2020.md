@@ -9,6 +9,7 @@ head:
     ja tyytyväisiä asiakkaita oli entistä enemmän.
   keywords: Tampereen Datapiste, toimintavuosi, 2020, tilinpäätös, liikevaihto
 thumbnail: /assets/uusi-toimintavuosi.jpg
+contactForm: Ota yhteyttä
 ---
 ![TDP:n toimintavuosi 2020](/assets/uusi-toimintavuosi.jpg)
 

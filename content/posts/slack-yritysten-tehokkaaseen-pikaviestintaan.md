@@ -9,6 +9,7 @@ head:
     työpöydältä tai puhelimesta käsin.
   keywords: Slack, pikaviestipalvelu, pikaviestintä, sisäinen viestintä
 thumbnail: /assets/slack-netlify-1280-x-800.jpg
+contactForm: Ota yhteyttä
 ---
 ![](/assets/slack-netlify-1280-x-800.jpg)
 

@@ -10,6 +10,7 @@ head:
   keywords: tekoäly, AI, chat gpt, airtable, tekoälysovellus, tekoäly kokemuksia
   title: Tekoälyn hyödyntäminen PK-yrityksessä - TDP kertoo kokemuksistaan
 thumbnail: /assets/tekoäly-netlify-1280-x-800.jpg
+contactForm: Ota yhteyttä
 ---
 ![](/assets/tekoäly-netlify-1280-x-800.jpg)
 

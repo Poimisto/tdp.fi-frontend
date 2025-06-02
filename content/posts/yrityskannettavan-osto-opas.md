@@ -10,6 +10,7 @@ head:
     hinnan perusteella! "
   keywords: "yrityskannettava, osto-opas, läppäri, kuluttajakannettava, "
 thumbnail: /assets/yrityskannettavat-tdp-1280x800.jpg
+contactForm: Ota yhteyttä
 ---
 ![Yrityskannettavat TDP:stä](/assets/yrityskannettavat-tdp-1280x800.jpg)
 

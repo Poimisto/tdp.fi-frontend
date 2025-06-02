@@ -9,6 +9,7 @@ head:
     hallinnasta miellyttävää.
   keywords: "bitwarden, salasanan hallintaohjelma, avoin lähdekoodi, "
 thumbnail: /assets/bitwarden-netlify-1280-x-800-tinified.png
+contactForm: Ota yhteyttä
 ---
 ![](/assets/bitwarden-netlify-1280-x-800-tinified.png)
 

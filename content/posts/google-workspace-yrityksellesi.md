@@ -9,6 +9,7 @@ head:
     hallintaan joka arkipäivä. Se mahdollistaa yhteydenpidon kollegoihin ja
     yhteisten projektien työstämisen ajasta ja paikasta riippumatta.
 thumbnail: /assets/google-workspace-netlify3.png
+contactForm: Ota yhteyttä
 ---
 ![Google Workspace vie yritysten tietoliikenteen uudelle tasolle.](/assets/google-workspace-netlify3.png)
 

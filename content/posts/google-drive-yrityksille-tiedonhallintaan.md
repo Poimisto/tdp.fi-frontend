@@ -8,6 +8,7 @@ head:
     ominaisuudet henkilökohtaisen ja tiimin keskinäisen työn tehostamiseen. "
   keywords: google drive, tiedonhallinta, yrityksille, tallennustila, tietoturva
 thumbnail: /assets/google-asiantuntija-tinified.jpg
+contactForm: Ota yhteyttä
 ---
 ![](/assets/google-asiantuntija-tinified.jpg)
 

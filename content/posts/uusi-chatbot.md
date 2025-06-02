@@ -9,6 +9,7 @@ head:
   keywords: tekoäly, chatbot, AI, asiakasviestintä, viestintä, custom GPT,
     AI-yhteensopivuus, ajansäästö
 thumbnail: /assets/uusi-chatbot-artikkelikuva.webp
+contactForm: Ota yhteyttä
 ---
 ![Moderni toimistoympäristö, jossa etualalla tietokoneen näytöllä näkyy chatbot-grafiikka ja erilaisia käyttöliittymäelementtejä. Taustalla työntekijät työskentelevät valaistussa tilassa, jossa on luonnonvaloa ja tyylikkäitä sisustuselementtejä. Pöydällä on toimistotarvikkeita, kuten kyniä, muistikirjoja ja kahvikuppi.](/assets/uusi-chatbot-artikkelikuva.webp)
 

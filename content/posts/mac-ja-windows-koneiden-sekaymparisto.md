@@ -11,6 +11,7 @@ head:
     yritykselle, niin arjen toiminnan kuin kustannusten valossa.
   keywords: Mac, Windows, Apple, sekaympäristö, käyttöjärjestelmä, IT-palvelukumppani
 thumbnail: /assets/sekaympäristö-netlify-1280-x-800-min.png
+contactForm: Ota yhteyttä
 ---
 ![Yrityksen toimiva IT-ympäristö voi koostua niin Mac- kuin Windows-koneista.](/assets/sekaympäristö-netlify-1280-x-800-min.png)
 

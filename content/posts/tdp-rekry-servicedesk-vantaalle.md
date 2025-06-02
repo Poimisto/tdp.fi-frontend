@@ -8,6 +8,7 @@ head:
   keywords: TDP, service desk, tukihenkilö, asiakaspalvelu, pk-seutu
   title: Kokoaikainen Service Desk -tukihenkilö haussa
 thumbnail: /assets/service-desk2-netlify-1280-x-800.jpg
+contactForm: Ota yhteyttä
 ---
 ![Hae Service Desk -tukihenkilön paikkaa.](/assets/service-desk2-netlify-1280-x-800.jpg)
 

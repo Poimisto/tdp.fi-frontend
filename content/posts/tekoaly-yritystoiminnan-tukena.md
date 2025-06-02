@@ -9,6 +9,7 @@ head:
     voimista, ja sen vaikutukset ulottuvat laajalle – ei ainoastaan
     suuryrityksiin, vaan myös pieniin ja keskisuuriin yrityksiin. "
 thumbnail: /assets/tekoaly-yritystoiminnan-tukena.jpg
+contactForm: Ota yhteyttä
 ---
 ![Tekoäly ja TDP yritystoiminnan tukena](/assets/tekoaly-yritystoiminnan-tukena.jpg)
 

@@ -10,6 +10,7 @@ head:
   keywords: IT-kumppani, käyttäjätuki, asiakaspalvelu, keskitetty hallinta,
     Google-asiantuntija, Google Workspace
 thumbnail: /assets/selling-points-netlify-1280-x-800.jpg
+contactForm: Ota yhteyttä
 ---
 ![TDP:n henkilökunta palveluksessasi](/assets/selling-points-netlify-1280-x-800.jpg)
 

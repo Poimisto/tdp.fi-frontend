@@ -10,6 +10,7 @@ head:
     jossa työntekijä voi yhdellä tunnuksella kirjautua moniin eri sovelluksiin
     ja palveluihin.
 thumbnail: /assets/sso-netlify-1280-x-800.jpg
+contactForm: Ota yhteyttä
 ---
 ![Kertakirjautuminen.](/assets/sso-netlify-1280-x-800.jpg)
 

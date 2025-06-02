@@ -9,6 +9,7 @@ head:
     toteutettuna budjetoinnilla ei ensisijaisesti karsita menoja, vaan
     optimoidaan koko liiketoimintaa.
 thumbnail: /assets/yritysten-it-kustannukset.jpg
+contactForm: Ota yhteyttä
 ---
 ![Yritysten IT-kustannusten budjetointi | TDP –  IT on meillä helppoa](/assets/yritysten-it-kustannukset.jpg)
 

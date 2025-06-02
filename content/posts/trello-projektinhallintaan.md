@@ -11,6 +11,7 @@ head:
   title: Trello tarjoaa tehokkaan projekti- ja työnhallinnan pilvessä - täysin
     ilmaiseksi
 thumbnail: /assets/trello-netlify-1280-x-800.jpg
+contactForm: Ota yhteyttä
 ---
 ![Projektinhallintaohjelma Trello kulkee kaikkialla mukanasi.](/assets/trello-netlify-1280-x-800.jpg)
 

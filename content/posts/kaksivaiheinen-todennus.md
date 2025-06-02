@@ -11,6 +11,7 @@ head:
     yritykselle.
   title: Kaksivaiheinen todennus ­– turhake vai yrityksen tietoturvalle välttämätöntä?
 thumbnail: /assets/2fa-netlify.jpg
+contactForm: Ota yhteyttä
 ---
 ![Kaksivaiheinen todennus suojaa paremmin käyttäjätilisi ](/assets/2fa-netlify.jpg)
 

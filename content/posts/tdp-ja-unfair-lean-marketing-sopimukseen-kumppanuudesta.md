@@ -11,6 +11,7 @@ head:
     ohjelmisto- ja tukitarpeiden täyttämisestä. "
   keywords: Unfair, IT-ulkoistus, palvelusopimus
 thumbnail: /assets/netlify-1280-x-800-min.png
+contactForm: Ota yhteyttä
 ---
 ![](/assets/netlify-1280-x-800-min.png "Sopimus IT-palveluiden ulkoistuksesta")
 

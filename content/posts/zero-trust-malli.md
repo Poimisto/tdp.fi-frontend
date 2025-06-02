@@ -8,6 +8,7 @@ head:
     pienempien PK-yritysten kannattaa noudattaa. "
   keywords: zero trust, tietoturvamalli, kyberuhka, tunnistautuminen, nollaluottamus
 thumbnail: /assets/zero-trust-tietoturvamalli.jpg
+contactForm: Ota yhteyttä
 ---
 ![Zero Trust -malli saatavilla TDP:n konsultoimana.](/assets/zero-trust-tietoturvamalli.jpg)
 
