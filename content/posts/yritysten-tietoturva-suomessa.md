@@ -264,7 +264,7 @@ Lisäksi NCC-FI jakaa tukea pk-yritysten tietoturvahankkeisiin. Vuonna 2024 tät
 
 ## Yhteenveto: Tietoturva – koko yrityksen yhteinen tehtävä
 
-![Kuvituskuva. Henkilö kertoo kahdelle työntekijälle tietoturvasta. Taustalla on suuri keltainen kilpi, jossa oikein-merkki.](/assets/tietoturva-yhteenveto.png)
+![Kuvituskuva. Henkilö kertoo kahdelle työntekijälle tietoturvasta. Taustalla on suuri keltainen kilpi, jossa oikein-merkki.](/assets/tietoturva-yhteenveto-cropattu.png)
 
 Yrityksillä on jatkuvasti haasteita tietoturvassa: rajalliset resurssit, monipuoliset uhkat ja jatkuvasti kehittyvä sääntely. Samalla ne ovat yhä useammin kyberrikollisten kohteena. Tässä raportissa tarkastelimme tietoturvaa neljästä näkökulmasta:
 
