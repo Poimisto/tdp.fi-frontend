@@ -10,9 +10,9 @@ head:
     liikevaihdosta ja noin 40 % bruttokansantuotteesta, joten niiden
     digitaalinen turvallisuus on koko yhteiskunnan kannalta kriittinen kysymys.
   keywords: tietoturva, tietoverkot, päätelaitteet, laitteet, antivirus, palomuuri
-thumbnail: /assets/tietoturva-lukko.png
+thumbnail: /assets/tietoturva-artikkelikuva.png
 ---
-![](/assets/tietoturva-lukko.png "Yritysten tietoturva Suomessa")
+![](/assets/tietoturva-artikkelikuva.png "Yritysten tietoturva Suomessa")
 
 Suomessa toimii yli 455 000 yritystä (pois lukien alkutuotanto), jotka työllistävät noin 1,46 miljoonaa ihmistä. 95,7 % näistä työllistää alle 10 henkeä. Pienet ja keskisuuret yritykset tuottavat yli puolet liikevaihdosta ja noin 40 % bruttokansantuotteesta, joten niiden digitaalinen turvallisuus on koko yhteiskunnan kannalta kriittinen kysymys.
 
@@ -24,11 +24,9 @@ Tässä raportissa pureudumme neljään keskeiseen osa-alueeseen, jotka muodosta
 
 Tavoitteena on rakentaa vahvempi ja turvallisempi digitaalinen toimintaympäristö – ilman että IT:n hallinta vie kohtuuttomasti aikaa tai resursseja.
 
-
-
 ## Työntekijöiden tietoturva
 
-![Työntekijä istuu kannettavan tietokoneen äärellä sormet näppäimistöllä. Tietokoneen ruudulla on lukon kuva. Taustalla suuri kilpeä esittävä kuvake, jonka sisällä on vihreällä taustalla oikein-merkki.](/assets/tietoturva-tyontekija.png)
+![Kuvituskuva. Pöydällä kannettava tietokone, älypuhelin ja tabletti. Taustalla kilpi, jossa lukkokuvake.](/assets/tietoturva-tyontekija.png)
 
 Ihminen on usein tietoturvan heikoin lenkki ja samalla sen tärkein puolustaja. Suurin osa tietoturvaloukkauksista saa alkunsa inhimillisestä virheestä tai huijauksesta. Tyypillisiä tapauksia ovat huijausviestit, joissa työntekijä erehtyy klikkaamaan haitallista linkkiä tai luovuttaa tietoja luotettavalta vaikuttavalle taholle. Kansainvälisesti arvioidaan, että yli 80 % tietomurroista liittyy tavalla tai toisella työntekijän toimintaan.
 
@@ -37,8 +35,6 @@ Suomessa kalastelut ja sähköpostihuijaukset ovat arkipäivää. Kyberturvallis
 Myös kiristyshaittaohjelmat leviävät usein käyttäjän toiminnan avulla, esimerkiksi haitallisen liitteen avaamisesta. Seuraukset voivat olla vakavia, järjestelmät voivat lamaantua ja liiketoiminta keskeytyä päiviksi.
 
 Siksi tietoturvassa tärkeintä ei ole pelkästään teknologia vaan se, miten ihmiset toimivat. [Koulutus](https://www.tdp.fi/it-palvelut/tdp-kyberakatemia), selkeät toimintamallit ja helposti saavutettava tuki ovat avainasemassa. Kun työntekijä tietää, mitä tehdä epäilyttävässä tilanteessa, koko yritys on paremmin suojassa.
-
-
 
 ### Identiteetin- ja pääsynhallinta
 
@@ -51,8 +47,6 @@ Siksi tietoturvassa tärkeintä ei ole pelkästään teknologia vaan se, miten i
 **Yhtenäinen hallinta tuo selkeyttä.** Kertakirjautuminen (Single Sign-On, SSO) mahdollistaa sen, että työntekijä käyttää yhtä vahvasti suojattua tunnusta eri järjestelmiin. Tämä vähentää salasanojen määrää ja ehkäisee huonoja tapoja, kuten salasanojen kirjoittamista muistiin. Samalla IT-vastaava pystyy hallitsemaan käyttäjätietoja keskitetysti. Uudet käyttäjät lisätään yhteen hakemistoon, josta annetaan pääsyt tarvittaviin palveluihin. Kun työsuhde päättyy, tunnus suljetaan yhdestä paikasta.
 
 Hyvin toteutettu IAM tukee myös GDPR-vaatimuksia. Esimerkiksi vuonna 2020 Posti sai 100 000 euron sakon osin siksi, että henkilötietojen käsittelystä ei tiedotettu riittävästi mikä liittyi käyttöoikeuksien hallinnan puutteisiin. IAM auttaa varmistamaan, että vain asianmukaisilla henkilöillä on pääsy henkilötietoihin, ja että tämä voidaan tarvittaessa myös osoittaa viranomaisille.
-
-
 
 ### Päätelaitteiden hallinta ja suojaus
 
@@ -68,8 +62,6 @@ Työntekijät käyttävät yhä monipuolisempia päätelaitteita – kannettavia
 
 Työntekijät ovat yrityksen ensimmäinen puolustuslinja, mutta myös heikoin lenkki, ellei heitä tueta oikeilla työkaluilla ja tiedolla. Kun huolehditaan vahvasta tunnistautumisesta, käyttöoikeuksien rajauksista, päätelaitteiden suojauksesta ja ajantasaisista päivityksistä, suurin osa riskeistä voidaan minimoida.
 
-
-
 ### Varmuuskopiointi suojaa pahimmalta
 
 Vaikka kaikki muut tietoturvakäytännöt olisivat kunnossa, inhimillisiä virheitä, laitteistovikoja tai haittaohjelmia ei voida koskaan täysin estää. Siksi varmuuskopiointi on olennainen osa työntekijöiden tietoturvaa. Kun tiedot ovat tallessa myös alkuperäisen järjestelmän ulkopuolella, yritys voi toipua nopeasti häiriötilanteista.
@@ -82,11 +74,9 @@ TDP:n tarjoamat varmuuskopiointipalvelut skaalautuvat yrityksen koon ja tarpeide
 
 ## Verkkoliikenteen suojaus
 
-![Kuvituskuva verkkoliikenteen suojauksesta. Vasemmalla keltainen kilpi, jonka sisällä lukon kuva. Oikealla kannettava tietokone sekä älypuhelin.](/assets/tietoturva-tietoverkot.png)
+![Kuvituskuva. Vasemmalla kannettava tietokon, jonka takana käyttäjä. Oikealla kilpi, jossa lukkokuvake.](/assets/tietoturva-verkkoliikenteen-suojaus.png)
 
 Kun tiedot liikkuvat verkossa, ne altistuvat monenlaisille uhille: salakuuntelulle, muokkauksille tai estämisyrityksille. Verkkoliikenteen suojaus tarkoittaa, että suojataan sekä sisäisessä verkossa että ulkoisissa yhteyksissä kulkeva data. Tämä on erityisen tärkeää yrityksille, joiden palvelut ovat usein pilvessä ja henkilöstö työskentelee myös etätoimistolta.
-
-
 
 ### Salaus ja turvalliset yhteydet
 
@@ -97,8 +87,6 @@ Kaikki arkaluontoiset tiedot tulisi salata siirron aikana. Käytännössä täm�
 * **Salausta Wi-Fi-verkoissa** (vähintään WPA2, mieluiten WPA3)
 
 Salaamattomat protokollat, kuten HTTP, FTP tai Telnet, kannattaa korvata turvallisemmilla vaihtoehdoilla. VPN-yhteys kotikonttorilta voi suojata etätyötä tehokkaasti kunhan ohjelmistot pidetään ajan tasalla. Tarvittaessa myös sähköpostiliikenne voidaan salata (esim. S/MIME tai PGP), jos käsitellään erityisen luottamuksellista tietoa.
-
-
 
 ### Palomuurit ja liikenteen valvonta
 
@@ -113,21 +101,15 @@ Hyvät käytännöt:
 
 Palomuurien käyttöönotossa voidaan myös hyödyntää palveluntarjoajien valvontapalveluita tai DNS-suodatusta, jotka estävät pääsyn haitallisille verkkotunnuksille.
 
-
-
 ### Segmentointi ja Zero Trust
 
 Verkon jakaminen aliverkkoihin, eli segmentointi, rajaa vahingon laajuutta mikäli haittaohjelma pääsee saastuttamaan jonkin laitteen. Verkko voidaan jakaa esimerkiksi siten, että työntekijöiden laitteen ovat omassa verkossaan, palvelimet ja tuotantolaitteet omassaan. Vierailijoille on usein myös hyvä olla erillinen verkko, josta ei ole pääsyä yrityksen sisäisiin resursseihin.
 
 Zero Trust -periaate vie asian pidemmälle: mitään ei oleteta turvalliseksi, vaikka liikenne tulisi sisäverkosta. Jokainen yhteydenotto vaatii todennuksen ja luvan. Käytännön tämä voi tarkoittaa esimerkiksi tunnistautumista myös sisäverkon palveluihin tai pääsyn rajausta siten, että vain päivitetyt ja suojatut laitteet sallitaan verkkoon.
 
-
-
 ### Wi-Fi ja mobiiliyhteydet
 
 Langattomat verkot tulee suojata vahvalla salauksella ja hyvällä salasanalla. Avoimia Wi-Fi-verkkoja ei tule käyttää yrityksen tuotantoympäristössä. Mikäli yrityksen sisäisiä järjestelmiä käytetään etäyhteydellä, niin kannattaa  hyödyntää suojattuja VPN yhteyksiä.
-
-
 
 ### Sähköpostin ja viestinnän suojaus
 
@@ -139,23 +121,17 @@ Sähköposti on yhä merkittävä tietoturvariski. Yrityksen kannattaa ottaa kä
 
 Tarvittaessa hyödynnetään salattua viestintää tai tiedostojen jakoa turvallisten alustojen kautta.
 
-
-
 ### Palvelunestohyökkäysten torjunta
 
 Myös pk-yritykset voivat joutua DDoS-hyökkäysten kohteeksi etenkin, jos toimitaan näkyvästi verkossa. Kannattaa varmistaa, että käytetyt pilvipalvelut tai sivustoalustat tarjoavat suojan DDoS-hyökkäyksiltä. Jos oma palvelu on liiketoimintakriittinen, suojauksia voi laajentaa sisällönjakeluverkon (CDN) tai pilvipalvelun avulla. Tärkeintä on olla varautunut ja tietää, mitä tehdään, jos hyökkäys osuu kohdalle.
 
 Verkkoliikenteen suojaus rakentuu salauksesta, palomuureista, valvonnasta ja verkon järkevästä rakenteesta. Kun nämä perusasiat ovat kunnossa ja niitä tuetaan ajantasaisilla asetuksilla, yritys voi torjua suurimman osan verkon yli tulevista uhkista ilman, että työ vaikeutuu.
 
-
-
 ## Yrityksen sisäverkkojen turvaaminen
 
 ![Keltainen kilpi, jonka ympärillä on verkkolaitteita sekä kannettava tietokone.](/assets/tietoturva-verkko-kilpi.png)
 
 Monilla yrityksillä on edelleen omia sisäisiä IT-järjestelmiä, palvelimia ja verkkoja, joita on suojattava yhtä huolellisesti kuin internet-yhteyksiä. Sisäverkon tietoturva kattaa sekä fyysiset laitteet että niiden ohjelmistot ja hallintakäytännöt.
-
-
 
 ### Verkon rakenne ja laitteiden suojaus
 
@@ -168,8 +144,6 @@ Verkon selkeä rakenne ja kunnolla suojatut laitteet ovat perusta turvalliselle 
 
 Hyvä dokumentaatio, kuten kaaviot verkon rakenteesta ja laitteiden sijainneista helpottaa ylläpitoa ja häiriötilanteiden hallintaa.
 
-
-
 ### Palvelimien suojaus ja varmuuskopiot
 
 Jos yrityksellä on omia palvelimia (esim. tiedosto- tai tietokantapalvelin), niiden suojaus on erityisen tärkeää. Palvelimien kohdalla:
@@ -179,8 +153,6 @@ Jos yrityksellä on omia palvelimia (esim. tiedosto- tai tietokantapalvelin), ni
 * Ota säännölliset varmuuskopiot ja säilytä ne erillään käyttöympäristöstä (esim. pilvessä tai offline)
 
 Hyvät varmuuskopiot voivat pelastaa tilanteen, jos yritys joutuu kiristyshaittaohjelman uhriksi. Ne auttavat täyttämään myös GDPR:n saatavuusvaatimukset.
-
-
 
 ### Keskitetty politiikka hallinta
 
@@ -193,8 +165,6 @@ Tietoturvapolitiikkojen keskitetty hallinta tuo järjestelmällisyyttä. Esimerk
 
 [Keskitetty hallinta](https://www.tdp.fi/it-palvelut/keskitetty-hallinta) varmistaa yhdenmukaiset asetukset kaikille työntekijöille ja säästää aikaa laitehallinnassa.
 
-
-
 ### Ohjelmistojen ja kehitysympäristöjen turvaaminen
 
 Jos yritys kehittää omaa ohjelmistoa tai skriptejä, turvallisuus on otettava huomioon jo kehitysvaiheessa. Hyvät käytännöt:
@@ -205,13 +175,9 @@ Jos yritys kehittää omaa ohjelmistoa tai skriptejä, turvallisuus on otettava 
 
 Usein hyökkääjä löytää tiensä sisään juuri huolimattomasti jätetyn testipalvelimen kautta.
 
-
-
 ### Haavoittuvuuksien hallinta
 
 Tunnetut haavoittuvuudet on korjattava ajoissa. Vastaamon tapaus osoittaa, mitä voi tapahtua, jos suojaus ja päivitykset laiminlyödään: tietoja varastettiin, yritys meni konkurssiin ja sakot olivat yli puoli miljoonaa euroa. Päivittäminen ei ole vain tekninen toimi, se on riskienhallintaa.
-
-
 
 ### Lokitiedot ja valvonta
 
@@ -222,8 +188,6 @@ Sisäverkon laitteet tuottavat arvokasta tietoa, kun lokit kerätään ja niitä
 * Muutoksia suojausasetuksiin
 
 Kevyet SIEM-ratkaisut ovat nykyään saatavilla myös pk-yritysten tarpeisiin, tai valvonta voidaan hankkia palveluna.
-
-
 
 ### Harjoittelu ja varautuminen
 
@@ -237,15 +201,11 @@ Harjoitelkaa skenaarioita esimerkiksi kiristyshaittaohjelmasta tai sähköpostit
 
 Pidä sisäverkko kunnossa sisältäpäin. Rajaa oikeudet, päivitä järjestelmät, valvo tapahtumia ja dokumentoi rakenteet. Kun sisäverkko on vahva, se muodostaa viimeisen puolustuslinjan siltä varalta, että hyökkääjä pääsee verkon ulkoreunasta sisään.
 
-
-
 ## Tietoturvatietoisuus ja -kulttuuri
 
-![Kolme henkilöä keskustelee tietoturvasta ja näkyvyydestä. Yhdellä heistä on kannettava tietokone edessään.](/assets/tietoturva-kulttuuri.png)
+![Kuvituskuva. Kolme henkilöä keskustelee tietoturvasta ja näkyvyydestä.](/assets/tietoturva-kulttuuri.png)
 
 Tekniikka yksin ei riitä, jos yrityksen kulttuuri ei tue tietoturvaa. Tietoturvatietoisuus tarkoittaa sitä, että sekä johto että työntekijät ymmärtävät kyberuhat ja toimivat arjessa turvallisesti. Pienyrityksessä jokaisen panos on tärkeä – kaikilla on rooli tietoturvan toteutumisessa.
-
-
 
 ### Koulutus ja osaaminen
 
@@ -256,8 +216,6 @@ Säännöllinen [tietoturvakoulutus](https://www.tdp.fi/it-palvelut/tdp-kyberaka
 
 Interaktiiviset ja konkreettiset koulutukset toimivat parhaiten. Esimerkiksi valekalastelutestit auttavat tunnistamaan, missä kaivataan lisää tukea. Niistä opitaan yhdessä, ei syyllistämällä. Oikeista tapauksista, kuten toimitusjohtajahuijauksista, oppii parhaiten.
 
-
-
 ### Johdon rooli ja esimerkki
 
 Johto näyttää suuntaa. Jos tietoturvaa ei arvosteta ylimmällä tasolla, sitä ei priorisoida muuallakaan. Johdon tulisi:
@@ -267,8 +225,6 @@ Johto näyttää suuntaa. Jos tietoturvaa ei arvosteta ylimmällä tasolla, sit�
 * Varaa budjettiin resursseja koulutukseen, asiantuntija-apuun ja työaikaan
 
 Erityisesti pienyrityksissä yrittäjä toimii usein myös tietohallintovastaavana. Hänen vastuullaan on huolehtia esimerkiksi GDPR-vaatimuksista ja dokumentoinnista.
-
-
 
 ### Selkeät ohjeet ja pelisäännöt
 
@@ -282,13 +238,9 @@ Kirjalliset tietoturvaohjeet auttavat jäsentämään toimintaa. Hyvä ohjeistus
 
 Ohjeet tulisi käydä läpi perehdytyksessä ja päivittää säännöllisesti. Esimerkiksi etätyön yleistyessä tulee ohjeistaa myös kotiverkon suojaus.
 
-
-
 ### Avoin ja kannustava ilmapiiri
 
 Turvallinen ilmapiiri kannustaa ilmoittamaan virheistä. On parempi, että työntekijä kertoo epäonnistumisestaan ajoissa. Näin vahinko voidaan ehkäistä tai rajata. Kiitä ja kannusta ilmoittajia. Joissakin yrityksissä on otettu käyttöön vaikkapa kuukausittainen “paras havainnointi” -palkinto, jolla nostetaan esiin kyberturvahuomioita.
-
-
 
 ### Tietosuoja arjen käytäntöinä
 
@@ -300,13 +252,9 @@ GDPR koskee myös pieniä yrityksiä. Henkilötietoja käsiteltäessä on huoleh
 
 Apua on saatavilla, muun muassa Tietosuojavaltuutetun toimisto ja TIEKE ovat tuottaneet pk-yrityksille maksuttomia materiaaleja ja arviointityökaluja.
 
-
-
 ### Viestintä ja luottamus
 
 Tietoturvasta kannattaa viestiä myös ulospäin. Kerro verkkosivuilla, miten asiakastiedot suojataan. Selkeä viestintä lisää luottamusta. Tulevaisuudessa EU:n sertifiointikehykset tarjoavat myös pk-yrityksille tapoja osoittaa turvallisuutta virallisesti, mutta jo sisäinen katsaus tietoturvan tilaan parantaa ryhtiä ja riskienhallintaa.
-
-
 
 ### Yhteistyö ja tukiverkostot
 
@@ -314,11 +262,9 @@ Pk-yritys ei ole yksin. Suomessa toimii useita hankkeita ja verkostoja, kuten Ky
 
 Lisäksi NCC-FI jakaa tukea pk-yritysten tietoturvahankkeisiin. Vuonna 2024 tätä sai 37 yritystä yhteensä 1,5 miljoonan euron edestä.
 
-
-
 ## Yhteenveto: Tietoturva – koko yrityksen yhteinen tehtävä
 
-![Kuvituskuva. Lukko, kannettava tietokone, oikein-merkki ja pilvi jossa on lukon kuva.](/assets/tietoturva-yhteenveto.png)
+![Kuvituskuva. Henkilö kertoo kahdelle työntekijälle tietoturvasta. Taustalla on suuri keltainen kilpi, jossa oikein-merkki.](/assets/tietoturva-yhteenveto.png)
 
 Yrityksillä on jatkuvasti haasteita tietoturvassa: rajalliset resurssit, monipuoliset uhkat ja jatkuvasti kehittyvä sääntely. Samalla ne ovat yhä useammin kyberrikollisten kohteena. Tässä raportissa tarkastelimme tietoturvaa neljästä näkökulmasta:
 
