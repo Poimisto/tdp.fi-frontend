@@ -11,11 +11,6 @@
     },
     {
       "type": "page",
-      "title": "IT-ULKOISTUS",
-      "link": "/it-palvelut/it-ulkoistus"
-    },
-    {
-      "type": "page",
       "link": "/it-palvelut/",
       "title": "IT-palvelut"
     },
@@ -33,6 +28,11 @@
       "type": "page",
       "title": "Referenssit",
       "link": "/referenssit"
+    },
+    {
+      "type": "page",
+      "title": "Artikkelit",
+      "link": "/uutiset"
     },
     {
       "type": "page",
