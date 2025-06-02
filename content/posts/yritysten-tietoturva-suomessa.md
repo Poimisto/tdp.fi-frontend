@@ -11,6 +11,7 @@ head:
     digitaalinen turvallisuus on koko yhteiskunnan kannalta kriittinen kysymys.
   keywords: tietoturva, tietoverkot, päätelaitteet, laitteet, antivirus, palomuuri
 thumbnail: /assets/tietoturva-artikkelikuva.png
+contactForm: Ota yhteyttä
 ---
 ![](/assets/tietoturva-artikkelikuva.png "Yritysten tietoturva Suomessa")
 
