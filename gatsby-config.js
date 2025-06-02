@@ -152,14 +152,13 @@ module.exports = {
               variants: ["400"],
             },
             {
-              family: "Crete Round",
-              variants: ["400", "400i"]
+              family: 'Montserrat',
+              variants: ["400", "400i", "700"]
             },
             {
-              family: "Open Sans",
+              family: 'Lato',
               variants: ["400", "400i", "700"]
             }
-
           ]
         }
       }
