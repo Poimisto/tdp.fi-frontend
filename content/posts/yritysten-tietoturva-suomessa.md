@@ -13,7 +13,7 @@ head:
 thumbnail: /assets/tietoturva-artikkelikuva.png
 contactForm: Ota yhteyttä
 ---
-![](/assets/tietoturva-artikkelikuva.png "Yritysten tietoturva Suomessa")
+![](/assets/tietoturva-artikkelikuva.png "Luotettava suoja yrityksesi tiedolle ja kasvulle")
 
 Suomessa toimii yli 455 000 yritystä (pois lukien alkutuotanto), jotka työllistävät noin 1,46 miljoonaa ihmistä. 95,7 % näistä työllistää alle 10 henkeä. Pienet ja keskisuuret yritykset tuottavat yli puolet liikevaihdosta ja noin 40 % bruttokansantuotteesta, joten niiden digitaalinen turvallisuus on koko yhteiskunnan kannalta kriittinen kysymys.
 
@@ -27,7 +27,7 @@ Tavoitteena on rakentaa vahvempi ja turvallisempi digitaalinen toimintaympärist
 
 ## Työntekijöiden tietoturva
 
-![Kuvituskuva. Pöydällä kannettava tietokone, älypuhelin ja tabletti. Taustalla kilpi, jossa lukkokuvake.](/assets/tietoturva-tyontekija.png)
+![Kuvituskuva. Pöydällä kannettava tietokone, älypuhelin ja tabletti. Taustalla kilpi, jossa lukkokuvake.](/assets/tietoturva-tyontekija.png "Työntekijät ovat avain tietoturvaan – varmista henkilöstösi valmius tunnistaa ja torjua kyberuhat.")
 
 Ihminen on usein tietoturvan heikoin lenkki ja samalla sen tärkein puolustaja. Suurin osa tietoturvaloukkauksista saa alkunsa inhimillisestä virheestä tai huijauksesta. Tyypillisiä tapauksia ovat huijausviestit, joissa työntekijä erehtyy klikkaamaan haitallista linkkiä tai luovuttaa tietoja luotettavalta vaikuttavalle taholle. Kansainvälisesti arvioidaan, että yli 80 % tietomurroista liittyy tavalla tai toisella työntekijän toimintaan.
 
@@ -75,7 +75,7 @@ TDP:n tarjoamat varmuuskopiointipalvelut skaalautuvat yrityksen koon ja tarpeide
 
 ## Verkkoliikenteen suojaus
 
-![Kuvituskuva. Vasemmalla kannettava tietokon, jonka takana käyttäjä. Oikealla kilpi, jossa lukkokuvake.](/assets/tietoturva-verkkoliikenteen-suojaus.png)
+![Kuvituskuva. Vasemmalla kannettava tietokon, jonka takana käyttäjä. Oikealla kilpi, jossa lukkokuvake.](/assets/tietoturva-verkkoliikenteen-suojaus.png "Turvallinen verkkoliikenne varmistaa tietosuojan ja liiketoiminnan jatkuvuuden suomalaisissa kasvuyrityksissä.")
 
 Kun tiedot liikkuvat verkossa, ne altistuvat monenlaisille uhille: salakuuntelulle, muokkauksille tai estämisyrityksille. Verkkoliikenteen suojaus tarkoittaa, että suojataan sekä sisäisessä verkossa että ulkoisissa yhteyksissä kulkeva data. Tämä on erityisen tärkeää yrityksille, joiden palvelut ovat usein pilvessä ja henkilöstö työskentelee myös etätoimistolta.
 
@@ -130,7 +130,7 @@ Verkkoliikenteen suojaus rakentuu salauksesta, palomuureista, valvonnasta ja ver
 
 ## Yrityksen sisäverkkojen turvaaminen
 
-![Keltainen kilpi, jonka ympärillä on verkkolaitteita sekä kannettava tietokone.](/assets/tietoturva-verkko-kilpi.png)
+![Keltainen kilpi, jonka ympärillä on verkkolaitteita sekä kannettava tietokone.](/assets/tietoturva-verkko-kilpi.png "Suojattu verkkoympäristö takaa kasvuyritykselle turvallisen liiketoiminnan ja sujuvan tiedonkulun.")
 
 Monilla yrityksillä on edelleen omia sisäisiä IT-järjestelmiä, palvelimia ja verkkoja, joita on suojattava yhtä huolellisesti kuin internet-yhteyksiä. Sisäverkon tietoturva kattaa sekä fyysiset laitteet että niiden ohjelmistot ja hallintakäytännöt.
 
@@ -204,7 +204,7 @@ Pidä sisäverkko kunnossa sisältäpäin. Rajaa oikeudet, päivitä järjestelm
 
 ## Tietoturvatietoisuus ja -kulttuuri
 
-![Kuvituskuva. Kolme henkilöä keskustelee tietoturvasta ja näkyvyydestä.](/assets/tietoturva-kulttuuri.png)
+![Kuvituskuva. Kolme henkilöä keskustelee tietoturvasta ja näkyvyydestä.](/assets/tietoturva-kulttuuri.png "Kasvuyrityksen tietoturva paranee, kun työntekijät ymmärtävät roolinsa datan suojaamisessa ja uhkien torjunnassa.")
 
 Tekniikka yksin ei riitä, jos yrityksen kulttuuri ei tue tietoturvaa. Tietoturvatietoisuus tarkoittaa sitä, että sekä johto että työntekijät ymmärtävät kyberuhat ja toimivat arjessa turvallisesti. Pienyrityksessä jokaisen panos on tärkeä – kaikilla on rooli tietoturvan toteutumisessa.
 
@@ -265,7 +265,7 @@ Lisäksi NCC-FI jakaa tukea pk-yritysten tietoturvahankkeisiin. Vuonna 2024 tät
 
 ## Yhteenveto: Tietoturva – koko yrityksen yhteinen tehtävä
 
-![Kuvituskuva. Henkilö kertoo kahdelle työntekijälle tietoturvasta. Taustalla on suuri keltainen kilpi, jossa oikein-merkki.](/assets/tietoturva-yhteenveto-cropattu-2.png)
+![Kuvituskuva. Henkilö kertoo kahdelle työntekijälle tietoturvasta. Taustalla on suuri keltainen kilpi, jossa oikein-merkki.](/assets/tietoturva-yhteenveto-2.png "Tietoturva vahvistaa kasvavan yrityksesi toimintaa ja luo vakaan pohjan liiketoiminnan kehittämiseen.")
 
 Yrityksillä on jatkuvasti haasteita tietoturvassa: rajalliset resurssit, monipuoliset uhkat ja jatkuvasti kehittyvä sääntely. Samalla ne ovat yhä useammin kyberrikollisten kohteena. Tässä raportissa tarkastelimme tietoturvaa neljästä näkökulmasta:
 
