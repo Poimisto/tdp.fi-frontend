@@ -1,8 +1,8 @@
 import React from "react"
 import { graphql } from 'gatsby'
 import Layout from './layout'
-import {MDXProvider} from '@mdx-js/react'
-import {MDXRenderer} from 'gatsby-plugin-mdx';
+import { MDXProvider } from '@mdx-js/react'
+import { MDXRenderer } from 'gatsby-plugin-mdx'
 import CallToAction from './../components/CallToAction'
 import Link from '../components/Link'
 import Seo from '../components/Seo'
@@ -20,9 +20,11 @@ import Grid from '@material-ui/core/Grid'
 
 
 import ContactForm from './../components/ContactForm'
-import NewsletterForm from "../components/NewsletterForm";
-import SupportPricingCalculator from "../components/SupportPricingCalculator";
+import NewsletterForm from "../components/NewsletterForm"
+import SupportPricingCalculator from "../components/SupportPricingCalculator"
 import DisplayVariable from '../components/DisplayVariable'
+import TableOfContents from '../components/TableOfContents'
+import { H1 as h1, H2 as h2, H3 as h3, H4 as h4, H5 as h5, H6 as h6 } from '../components/Headings'
 
 const GlobalStyle = createGlobalStyle`
   * {
@@ -30,6 +32,9 @@ const GlobalStyle = createGlobalStyle`
     font-family: ${props => props.theme.bodyFontFamily};
     line-height:180%;
     font-size:16px;
+  }
+  html {
+    scroll-behavior: smooth;
   }
   body {
     overflow-x:hidden;
@@ -86,7 +91,24 @@ const GlobalStyle = createGlobalStyle`
   table :nth-child(odd) td {
     background:#f3f3f3;
   }
+`;
 
+const ArticleContainer = styled.div`
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+`;
+
+const ArticleContentContainer = styled.div`
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  flex-direction: row;
+  @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
+    display: flex;
+    flex-direction: column;
+  }
 `;
 
 const ArticleImg = styled(Img)`
@@ -106,12 +128,16 @@ const ArticleContent = styled.div`
     float: left;
     line-height: 1;
   }
-  padding:0px 140px 40px 140px;
+  height: fit-content;
+  width: fit-content;
+  flex: 3;
+  padding:0px 20px 40px 30px;
   p {
     padding-right:0px;
   }
   @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
-    padding:0px 0px;  p {
+    padding:0px 0px;
+    p {
       padding-right:0px;
     }
   }
@@ -123,13 +149,14 @@ const ArticleContent = styled.div`
   }
 `;
 const ArticleMetadata = styled.div`
-  float:left;
+  flex: 1;
+  max-width: 15em;
   margin-top:6px;
   .date {
     padding:6px;
     border-radius:10px;
     background: ${props => props.theme.colors.brand};
-    color:${props => getContrast(props.theme.colors.darkest, props.theme.colors.brand) > 10 ? props.theme.colors.darkest : props.theme.colors.lightest };
+    color:${props => getContrast(props.theme.colors.darkest, props.theme.colors.brand) > 10 ? props.theme.colors.darkest : props.theme.colors.lightest};
     font-family:${props => props.theme.headingFontFamily};
   }
   @media (max-width: ${props => props.theme.mobileBreakpoint}px) {    
@@ -145,9 +172,8 @@ const ArticleMetadata = styled.div`
       padding:0px;
       border-radius:0px;
       background: transparent;
-      color:${props => getContrast(props.theme.colors.darkest, props.theme.colors.brand) > 10 ? props.theme.colors.darkest : props.theme.colors.lightest };
+      color:${props => getContrast(props.theme.colors.darkest, props.theme.colors.brand) > 10 ? props.theme.colors.darkest : props.theme.colors.lightest};
       font-family:${props => props.theme.headingFontFamily};
-
    }
   }
 `;
@@ -156,38 +182,40 @@ const PageWrapper = styled.div`
 `;
 
 
-const shortcodes = { Link, CallToAction, HeroBlock, LatestPosts, Cards, ListOfEmployees, Grid, ListOfLeasingPackages, NewsletterForm, SupportPricingCalculator, DisplayVariable }
+const shortcodes = { Link, CallToAction, HeroBlock, LatestPosts, Cards, ListOfEmployees, Grid, ListOfLeasingPackages, NewsletterForm, SupportPricingCalculator, DisplayVariable, h1, h2, h3, h4, h5, h6 }
 
 
-const EntryTemplate = ({data, pageContext}) => {
-
+const EntryTemplate = ({ data, pageContext }) => {
   return (
     <Layout collection={data.mdx.fields.collection} slug={data.mdx.fields.slug} breadcrumb={data.mdx.frontmatter.breadcrumb || null}>
-      <GlobalStyle/>
-      <Seo 
-        lang="fi" 
-        description={data.mdx.frontmatter.head ? data.mdx.frontmatter.head.description : null} 
+      <GlobalStyle />
+      <Seo
+        lang="fi"
+        description={data.mdx.frontmatter.head ? data.mdx.frontmatter.head.description : null}
         title={data.mdx.frontmatter.head ? data.mdx.frontmatter.head.title : null}
         image={data.mdx.frontmatter.thumbnail ? data.mdx.frontmatter.thumbnail.childImageSharp.fixed.src : null}
       />
 
       {data.mdx.fields.collection === 'posts' && (
-        <div>
+        <ArticleContainer>
           <ArticleTitle>{data.mdx.frontmatter.head.title}</ArticleTitle>
 
-          <ArticleMetadata>
-            <p>
-              <span className="date">{data.mdx.frontmatter.date}</span>
-            </p>
-          </ArticleMetadata>          
-          <ArticleContent>
-            <MDXProvider components={shortcodes}>
-              <MDXRenderer>
-                {data.mdx.body}
-              </MDXRenderer>
-            </MDXProvider>
-          </ArticleContent>
-        </div>
+          <ArticleContentContainer>
+            <ArticleMetadata>
+              <p>
+                <span className="date">{data.mdx.frontmatter.date}</span>
+              </p>
+              <TableOfContents headings={data.mdx.tableOfContents} />
+            </ArticleMetadata>
+            <ArticleContent>
+              <MDXProvider components={shortcodes}>
+                <MDXRenderer>
+                  {data.mdx.body}
+                </MDXRenderer>
+              </MDXProvider>
+            </ArticleContent>
+          </ArticleContentContainer>
+        </ArticleContainer>
       )}
       {data.mdx.fields.collection === 'pages' && (
         <PageWrapper>
@@ -195,7 +223,7 @@ const EntryTemplate = ({data, pageContext}) => {
 
           <MDXProvider components={shortcodes}>
             <MDXRenderer>
-                {data.mdx.body}
+              {data.mdx.body}
             </MDXRenderer>
           </MDXProvider>
         </PageWrapper>
@@ -203,20 +231,19 @@ const EntryTemplate = ({data, pageContext}) => {
 
 
       {pageContext.contactForm && (
-        
+
         <ContactForm
-          title={pageContext.contactForm.title} 
+          title={pageContext.contactForm.title}
           contactName={pageContext.contactForm.contactPerson.name}
           contactTitle={pageContext.contactForm.contactPerson.title}
           contactEmail={pageContext.contactForm.contactPerson.email}
           contactPhone={pageContext.contactForm.contactPerson.phone}
           contactImage={pageContext.contactForm.contactPerson.image.childImageSharp.fixed.src}
-          
+
         />
       )}
-      </Layout>
+    </Layout>
   )
-  
 }
 
 export default EntryTemplate
@@ -251,6 +278,7 @@ export const pageQuery = graphql`
         }
       }
       body
+      tableOfContents
     }
   }
 `
