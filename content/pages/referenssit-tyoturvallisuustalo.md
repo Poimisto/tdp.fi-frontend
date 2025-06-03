@@ -17,7 +17,7 @@ head:
 
 <div className="HeroBlockContent">
 
-## Työturvallisuustalo Arctic Safety Oy
+# Työturvallisuustalo Arctic Safety Oy
 
 *"Avasin startup -yrittäjänä kivijalkaliikkeen keskellä koronakriisiä ja IT-asioiden hoito oli tärkeä prioriteetti. Tarvitsin niin koneet, tulostimet kuin liittymät palveltuna, mutta etenkin halusin IT-kumppaniksi paikallisen, luotettavan toimijan, jonka kanssa olisi helppo toimia kasvokkain. Jo ensimmäinen yhteydenotto antoi fiiliksen, että TDP olisi kaipaamani kumppani*
 
