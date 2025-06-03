@@ -16,7 +16,7 @@ contactForm: Ota yhteyttä
 
 Haemme yrityksemme kasvun myötä Vantaan toimipisteeseemme: 
 
-## **Kokoaikaista Service Desk -tukihenkilöä**
+**Kokoaikaista Service Desk -tukihenkilöä**
 
 Service Desk -henkilönä huolehdit asiakasyritystemme monipuolisista tarpeista enimmäkseen lähitukena asiakkaiden luona ja myös etätukena. Työnkuvasi on laaja, mutta vaihteleva etkä joudu istumaan koko päivää työpöytäsi ääressä. 
 
