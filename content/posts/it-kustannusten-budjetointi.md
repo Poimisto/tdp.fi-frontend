@@ -80,7 +80,7 @@ Entäpä jos IT-budjettia halutaan tarkastella lähemmin ja miettiä, tulisiko s
 
 * [Työntekijän rooliin sopivat IT-laitteet](https://www.tdp.fi/tietokone-leasing)
 * [Työssä tarvittavat ohjelmistot ja lisenssit](https://www.tdp.fi/ohjelmistot)
-* [Luotettavat verkkoyhteydet](https://www.tdp.fi/it-laitteet/verkot)
+* [Luotettavat verkkoyhteydet](https://www.tdp.fi/it-laitteet/yrityksen-verkkoyhteydet)
 * Tulostimet 
 * Riittävä it-tuki
 * [Tietoturva ja yrityksen tietojen varmuuskopiointi](https://www.tdp.fi/it-palvelut/varmuuskopiointi)
