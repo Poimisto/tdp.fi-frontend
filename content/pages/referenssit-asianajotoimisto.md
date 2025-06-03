@@ -18,7 +18,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-## Asianajotoimisto Mäkelä & Penttilä Oy
+# Asianajotoimisto Mäkelä & Penttilä Oy
 
 *”Kartoitimme perustettavan yrityksemme kokonaisvaltaiseen IT-tarpeeseen palveluntarjoajia netistä. Jo ensimmäinen puhelinkeskustelu Pauli Aallon kanssa vakuutti minut siitä, että TDP olisi asianajotoimistollemme juuri oikea yhteistyökumppani.*
 
