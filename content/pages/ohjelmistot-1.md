@@ -22,7 +22,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-## Modernit ohjelmistot luovat pohjan tehokkaalle liiketoiminnalle 
+# Modernit ohjelmistot luovat pohjan tehokkaalle liiketoiminnalle 
 
 * Tehokkaat työsovellukset kuten **Google Workspace** ja **Microsoft 365** tekevät työstä helpompaa ja tuottavampaa
 * T﻿unnetuimpien työsovellusten lisäksi saatte meiltä muutkin ohjelmistot yrityksenne arkeen. Esimerkiksi **Adobe Creative Cloud, AutoCAD, Bitwarden sekä kotimaiset Nexetic ja WithSecure** ovat vahvoja tuotteita, joiden varaan voitte avullamme rakentaa yrityksenne digitaaliset prosessit
