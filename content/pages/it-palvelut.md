@@ -22,7 +22,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-## IT-palvelut yritykselle palvelusopimuksella 
+# IT-palvelut yritykselle palvelusopimuksella 
 
 * TDP IT-kumppanina tarjoaa Pirkanmaalla kaikki yrityksesi tarvitsemat IT-palvelut ja -laitteet
 * ﻿Ulkoinen IT-kumppani varmistaa yrityksesi tiedon ja IT-prosessit
