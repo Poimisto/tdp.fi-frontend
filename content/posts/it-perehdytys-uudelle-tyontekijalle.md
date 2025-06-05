@@ -34,7 +34,7 @@ TDP:n selkeä sisääntulon IT-prosessi ehkäisee tarinassa kuvatun ongelman syn
 
 ## Uuden työntekijän IT-prosessin ABC:
 
-### 1) Ilmoita TDP:lle uudesta työntekijästä
+## 1) Ilmoita TDP:lle uudesta työntekijästä
 
 Yrityksenne rekrytoiva esimies ilmoittaa TDP:lle uudesta työntekijästä, aloituspäivästä ja -paikasta.
 
