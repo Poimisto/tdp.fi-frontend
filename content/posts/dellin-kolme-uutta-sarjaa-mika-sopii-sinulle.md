@@ -43,6 +43,8 @@ Dell-sarjan kannettavat sopivat esimerkiksi opiskelijoille tai pienyrittäjille,
 
 ### Dell Pro -kannettavat
 
+![](/assets/gl-bb-site-banner-dell-pro-laptops-720x400.jpg "Työpäivä ilman katkoksia: Dell Pro yhdistää kotitoimiston, konttorin ja kahvilan")
+
 Dell Pro -kannettavat ovat yritysläppäreitä, jotka on rakennettu kestämään työpäivän rasitukset ja tarjoamaan erinomainen tuottavuus ja hallinta. Ne sisältävät käytännössä entiset Latitude-malliston laitteet uudessa muodossa, mukaan lukien Rugged-erikoiskannettavat, jotka on tarkoitettu kenttäolosuhteisiin (nämä jatkavat Rugged -nimellä Dell Pro -sarjassa). 
 
 **Rakenne ja kestävyys**: Pro-sarjan läppärit on suunniteltu erittäin kestäviksi. Laadukkaat materiaalit (monissa malleissa alumiinirunko), roiskesuojatut näppäimistöt ja tiukat testiolosuhteet (usein MIL-STD-810H-standardin mukaiset testit) takaavat, että laite selviytyy työmatkoista ja toimiston arjesta.
@@ -80,6 +82,8 @@ Dell Pro -pöytäkoneet on tarkoitettu ***organisaatioille, jotka arvostavat vak
 **Dell Pro Max -sarja** on suunnattu käyttäjille, joilla on kaikkein kovimmat vaatimukset suorituskyvyn suhteen. Nimensä mukaisesti “***Pro Max***” tarkoittaa ***maksimaalista tehoa*** – olipa kyseessä kannettava tai pöytäkone. Tämä sarja korvaa kokonaisuudessaan aiemman Precision-työasemamalliston. Dell Pro Max -laitteet on tarkoitettu esimerkiksi insinööritoimistoille, suunnittelijoille, graafikoille, data-analyytikoille, kehittäjille ja muille ammattilaisille, jotka pyörittävät raskaita sovelluksia (CAD, 3D-renderöinti, videotuotanto, tekoälylaskenta jne.). Alla erikseen Pro Max -kannettavat ja -pöytäkoneet.
 
 ### Dell Pro Max -kannettavat
+
+![](/assets/gl-bb-site-banner-dell-pro-max-laptop-720x400.jpg "Suorituskykyinen Dell Pro Max tuo suunnittelu- ja datatyökalut samalle, kevyelle alustalle")
 
 Dell Pro Max -kannettavat ovat ***mobiileja työasemia***, jotka tuovat pöytäkoneen tehot läppärin muotoon. Tyypillisiä piirteitä Pro Max -kannettaville:
 
