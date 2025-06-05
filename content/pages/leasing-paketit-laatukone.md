@@ -26,7 +26,7 @@ breadcrumb:
 
 Tämä leasingpaketti on suunniteltu vastaamaan tarpeitasi, jos tarvitset edullisen, mutta silti suorituskykyisen tehotyöaseman sekä tarkan näytön. Laitteistossa on kiinnitetty erityistä huomiota myös lämmönhallintaan ja käyntiääneen, joten tämä paketti sopii mainiosti myös hiljaiseen toimistoon.
 
-Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, niin katso <a href="leasing-paketit/tehokone">tehokone ammattimaiseen kuvankäsittelyyn, suunnitteluun ja mallinnukseen.</a>
+Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, niin katso <a href="tehokone">tehokone ammattimaiseen kuvankäsittelyyn, suunnitteluun ja mallinnukseen.</a>
 
 | Konepakettien hinnat (alv 0%)                         | 36 kk leasing-sopimus | hinta suoraostona |
 | :---------------------------------------------------- | --------------------: | ----------------: |
