@@ -215,7 +215,7 @@ Säännöllinen [tietoturvakoulutus](https://www.tdp.fi/it-palvelut/tdp-kyberaka
 * Ajankohtaiset uhat (esim. uusimmat huijaustyypit)
 * Perustaidot: salasanahygienia, viestien tunnistus, yrityksen pelisäännöt
 
-Interaktiiviset ja konkreettiset koulutukset toimivat parhaiten. Esimerkiksi valekalastelutestit auttavat tunnistamaan, missä kaivataan lisää tukea. Niistä opitaan yhdessä, ei syyllistämällä. Oikeista tapauksista, kuten toimitusjohtajahuijauksista, oppii parhaiten.
+Interaktiiviset ja konkreettiset koulutukset toimivat parhaiten. Esimerkiksi valekalastelutestit auttavat tunnistamaan, missä kaivataan lisää tukea. Niistä opitaan yhdessä, ei syyllistämällä.
 
 ### Johdon rooli ja esimerkki
 
