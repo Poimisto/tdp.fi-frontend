@@ -8,9 +8,11 @@ head:
   description: Uudistetut Dell -sarjat ovat saapuneet – teemme parhaamme
     opastaaksemme myös asiakkaitamme uudistuksen keskellä.
   keywords: Dell,mallisto,tietokone,tietokoneet,kannettava,pöytäkone
-thumbnail: /assets/dell-kannettavat-kortti.png
+thumbnail: /assets/bb2504g0005-gl-bb-site-banner-pa13250-1610x906.jpg
 contactForm: Ota yhteyttä
 ---
+![Kuvituskuva. Dellin uusi Pro -sarjan kannettava tietokone.](/assets/bb2504g0005-gl-bb-site-banner-pa13250-1610x906.jpg)
+
 Uudistetut Dell -sarjat ovat saapuneet – teemme parhaamme opastaaksemme myös asiakkaitamme uudistuksen keskellä.
 
 Perinteiset nimet kuten XPS, Inspiron, Latitude, Vostro ja Precision ovat väistyneet, ja tilalle on tullut kolme tuoteperhettä: Dell, Dell Pro ja Dell Pro Max. Kussakin sarjassa on kolme tasoa – Premium, Plus ja Base – jotka kertovat ominaisuuksien tasosta.
