@@ -38,9 +38,18 @@ const StyledH6 = styled.h6`
 `;
 
 export const createAnchor = (heading) => {
-  if (typeof heading === 'object') {
+  if (Array.isArray(heading)) {
+    heading = heading.map(i => {
+      if (typeof i === 'string') {
+        return i
+      } else if (typeof i === 'object') {
+        return i.props.children
+      }
+    }).join('');
+  } else if (typeof heading === 'object') {
     heading = heading.props.children
   }
+
   return heading.toLowerCase().replaceAll(/[^\p{L}\p{N} \-]+/gu, '').replaceAll(/[ ]/g, '-')
 }
 
