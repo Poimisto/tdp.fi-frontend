@@ -9,9 +9,6 @@ const TableOfContentsContainer = styled.div`
   max-height: 80vh;
   overflow: hidden;
   overflow-y: scroll;
-  @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
-    display: none;
-  }
 `;
 
 const TableOfContentsList = styled.ul`

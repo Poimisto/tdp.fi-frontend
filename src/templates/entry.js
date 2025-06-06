@@ -98,6 +98,9 @@ const ArticleContainer = styled.div`
   height: fit-content;
   display: flex;
   flex-direction: column;
+  @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
+    flex-direction: row;
+  }
 `;
 
 const ArticleContentContainer = styled.div`
@@ -105,18 +108,53 @@ const ArticleContentContainer = styled.div`
   height: fit-content;
   display: flex;
   flex-direction: row;
+  .date_desktop {
+    font-size:80%;
+    padding:0px;
+    border-radius:0px;
+    background: transparent;
+    color:${props => getContrast(props.theme.colors.darkest, props.theme.colors.brand) > 10 ? props.theme.colors.darkest : props.theme.colors.lightest};
+    font-family:${props => props.theme.headingFontFamily};
+  }
+  .date_mobile {
+    display: none;
+  }
   @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
     display: flex;
     flex-direction: column;
+    .date_desktop {
+      display: none;
+    }
+    .date_mobile {
+      display: block;
+      text-align: right;
+      font-size: 80%;
+      background: transparent;
+      margin: 0;
+    }
   }
 `;
 
-const ArticleImg = styled(Img)`
+const ArticleImg = styled(Img)``;
 
-`;
 const ArticleTitle = styled.h1`
-
+  @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
+    margin-bottom: 0;
+  }
 `;
+
+const ArticleDate = styled.span`
+  padding: 6px;
+  border-radius: 10px;
+  background: ${props => props.theme.colors.brand};
+  color: ${props => getContrast(props.theme.colors.darkest, props.theme.colors.brand) > 10 ? props.theme.colors.darkest : props.theme.colors.lightest};
+  font-family: ${props => props.theme.headingFontFamily};
+  @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
+    background: transparent;
+    color: none;
+  }
+`;
+
 const ArticleContent = styled.div`
   /* Style that first letter! */
   > p:first-child::first-letter {
@@ -148,35 +186,16 @@ const ArticleContent = styled.div`
     color:${props => props.theme.colors.brand};
   }
 `;
+
 const ArticleMetadata = styled.div`
   flex: 1;
   max-width: 15em;
   margin-top:6px;
-  .date {
-    padding:6px;
-    border-radius:10px;
-    background: ${props => props.theme.colors.brand};
-    color:${props => getContrast(props.theme.colors.darkest, props.theme.colors.brand) > 10 ? props.theme.colors.darkest : props.theme.colors.lightest};
-    font-family:${props => props.theme.headingFontFamily};
-  }
   @media (max-width: ${props => props.theme.mobileBreakpoint}px) {    
-   float:none;
-   position:relative;
-   text-align:right;
-   margin-top:-50px;
-   p {
-     margin:0;
-   }
-   .date {
-      font-size:80%;
-      padding:0px;
-      border-radius:0px;
-      background: transparent;
-      color:${props => getContrast(props.theme.colors.darkest, props.theme.colors.brand) > 10 ? props.theme.colors.darkest : props.theme.colors.lightest};
-      font-family:${props => props.theme.headingFontFamily};
-   }
+    display: none;
   }
 `;
+
 const PageWrapper = styled.div`
   margin-bottom:40px;
 `;
@@ -198,16 +217,18 @@ const EntryTemplate = ({ data, pageContext }) => {
 
       {data.mdx.fields.collection === 'posts' && (
         <ArticleContainer>
-          <ArticleTitle>{data.mdx.frontmatter.head.title}</ArticleTitle>
-
           <ArticleContentContainer>
             <ArticleMetadata>
-              <p>
-                <span className="date">{data.mdx.frontmatter.date}</span>
+              <p className="date_desktop">
+                <ArticleDate>{data.mdx.frontmatter.date}</ArticleDate>
               </p>
               <TableOfContents headings={data.mdx.tableOfContents} />
             </ArticleMetadata>
             <ArticleContent>
+              <ArticleTitle>{data.mdx.frontmatter.head.title}</ArticleTitle>
+              <p className="date_mobile">
+                <ArticleDate>{data.mdx.frontmatter.date}</ArticleDate>
+              </p>
               <MDXProvider components={shortcodes}>
                 <MDXRenderer>
                   {data.mdx.body}
