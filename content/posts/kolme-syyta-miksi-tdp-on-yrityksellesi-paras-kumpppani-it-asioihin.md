@@ -20,7 +20,7 @@ contactForm: Ota yhteyttä
 
 Tutustu alla syihin, miksi olisimme sinunkin yrityksellesi hyvä, ellei jopa paras IT-kumppani. 
 
-### ‎ 1) **Asiakkaiden arvostama käyttäjätuki**
+## ‎ 1) **Asiakkaiden arvostama käyttäjätuki**
 
 K﻿ukaan ei vastaa puhelimeen? Ongelma luvataan hoitaa pian, mutta niin ei tapahdu? 
 
@@ -45,7 +45,7 @@ Hyvä käyttäjätuki tukee yrityksesi monien tavoitteiden toteutumista:
 
 ![](/assets/image5.jpg)
 
-### ‎ 2) **Keskitetty hallinta tuo mielenrauhaa**
+## ‎ 2) **Keskitetty hallinta tuo mielenrauhaa**
 
 Yrityksesi taitavan IT-vastaavan ansiosta IT-huolia ei ole ilmennyt koskaan, mutta hänen osaamistaan ei voi varmuuskopioida. Mitä jos tämä henkilö päättää vaihtaa työpaikkaa?
 
@@ -62,7 +62,7 @@ Keskitetty hallinta tarjoaa yrityksellesi useita etuja, joista voit lukea lisä�
 
 ![](/assets/google-asiantuntija-tinified.jpg)
 
-### ‎ 3) **Suomalainen Google-asiantuntija**
+## ‎ 3) **Suomalainen Google-asiantuntija**
 
 Onko sinunkin yrityksessäsi kasa erillisiä ohjelmistoja erillisellä koneella, yrityssähköpostit joltain jälleenmyyjältä, hukattuja yhteystietoja surraan tämän tästä eikä kaikkien tietojen varmuuskopiointiin ole mitään selkeää prosessia? 
 
