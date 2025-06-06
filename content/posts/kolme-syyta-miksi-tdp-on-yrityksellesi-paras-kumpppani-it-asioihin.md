@@ -24,7 +24,7 @@ Tutustu alla syihin, miksi olisimme sinunkin yrityksellesi hyvä, ellei jopa par
 
 K﻿ukaan ei vastaa puhelimeen? Ongelma luvataan hoitaa pian, mutta niin ei tapahdu? 
 
-### Ratkaisu
+### Ratkaisu 
 
 Hanki yrityksellesi käyttäjätuki, joka välittää pulmistanne.
 
