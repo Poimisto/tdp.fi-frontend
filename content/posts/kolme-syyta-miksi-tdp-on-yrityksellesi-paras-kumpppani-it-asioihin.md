@@ -20,7 +20,7 @@ contactForm: Ota yhteyttä
 
 Tutustu alla syihin, miksi olisimme sinunkin yrityksellesi hyvä, ellei jopa paras IT-kumppani. 
 
- ## **1. Asiakkaiden arvostama käyttäjätuki**
+
 
 K﻿ukaan ei vastaa puhelimeen? Ongelma luvataan hoitaa pian, mutta niin ei tapahdu? 
 
