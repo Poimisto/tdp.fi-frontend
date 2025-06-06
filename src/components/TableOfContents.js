@@ -56,7 +56,7 @@ export default ({ headings }) => {
   const items = useMemo(() => flattenHeadings(headings.items), [headings]);
 
   useEffect(() => {
-    const headings = items.map(i => document.querySelector(i.url)).filter(e => e instanceof HTMLElement);
+    const headings = items.map(i => document.querySelector(CSS.escape(i.url))).filter(e => e instanceof HTMLElement);
 
     const observer = new IntersectionObserver(entries => {
       const visible = entries.filter(e => e.isIntersecting).sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
