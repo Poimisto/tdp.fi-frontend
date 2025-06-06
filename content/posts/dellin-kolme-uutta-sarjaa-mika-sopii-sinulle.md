@@ -8,10 +8,10 @@ head:
   description: Uudistetut Dell -sarjat ovat saapuneet – teemme parhaamme
     opastaaksemme myös asiakkaitamme uudistuksen keskellä.
   keywords: Dell,mallisto,tietokone,tietokoneet,kannettava,pöytäkone
-thumbnail: /assets/bb2504g0005-gl-bb-site-banner-pa13250-1610x906.jpg
+thumbnail: /assets/dell-pro-laptops-cropped.jpg
 contactForm: Ota yhteyttä
 ---
-![Kuvituskuva. Dellin uusi Pro -sarjan kannettava tietokone.](/assets/bb2504g0005-gl-bb-site-banner-pa13250-1610x906.jpg)
+![Kuvituskuva. Dellin uusi Pro -sarjan kannettava tietokone.](/assets/dell-pro-laptops-cropped.jpg)
 
 Uudistetut Dell -sarjat ovat saapuneet – teemme parhaamme opastaaksemme myös asiakkaitamme uudistuksen keskellä.
 
@@ -43,7 +43,7 @@ Dell-sarjan kannettavat sopivat esimerkiksi opiskelijoille tai pienyrittäjille,
 
 ### Dell Pro -kannettavat
 
-![](/assets/gl-bb-site-banner-dell-pro-laptops-720x400.jpg "Työpäivä ilman katkoksia: Dell Pro yhdistää kotitoimiston, konttorin ja kahvilan")
+![](/assets/bb2504g0005-gl-bb-site-banner-pa13250-1610x906.jpg "Työpäivä ilman katkoksia: Dell Pro yhdistää kotitoimiston, konttorin ja kahvilan")
 
 Dell Pro -kannettavat ovat yritysläppäreitä, jotka on rakennettu kestämään työpäivän rasitukset ja tarjoamaan erinomainen tuottavuus ja hallinta. Ne sisältävät käytännössä entiset Latitude-malliston laitteet uudessa muodossa, mukaan lukien Rugged-erikoiskannettavat, jotka on tarkoitettu kenttäolosuhteisiin (nämä jatkavat Rugged -nimellä Dell Pro -sarjassa). 
 
@@ -83,7 +83,7 @@ Dell Pro -pöytäkoneet on tarkoitettu ***organisaatioille, jotka arvostavat vak
 
 ### Dell Pro Max -kannettavat
 
-![](/assets/gl-bb-site-banner-dell-pro-max-laptop-720x400.jpg "Suorituskykyinen Dell Pro Max tuo suunnittelu- ja datatyökalut samalle, kevyelle alustalle")
+![](/assets/bb2601g0023-gl-bb-dell-pro-max-family-sit-banner-1208x906.jpg "Suorituskykyinen Dell Pro Max tuo suunnittelu- ja datatyökalut samalle, kevyelle alustalle")
 
 Dell Pro Max -kannettavat ovat ***mobiileja työasemia***, jotka tuovat pöytäkoneen tehot läppärin muotoon. Tyypillisiä piirteitä Pro Max -kannettaville:
 
