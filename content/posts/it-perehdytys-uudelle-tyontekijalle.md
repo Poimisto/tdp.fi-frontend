@@ -34,35 +34,35 @@ TDP:n selkeä sisääntulon IT-prosessi ehkäisee tarinassa kuvatun ongelman syn
 
 ## Uuden työntekijän IT-prosessin ABC:
 
-### 1) Ilmoita TDP:lle uudesta työntekijästä
+#### 1) Ilmoita TDP:lle uudesta työntekijästä
 
 Yrityksenne rekrytoiva esimies ilmoittaa TDP:lle uudesta työntekijästä, aloituspäivästä ja -paikasta.
 
 TDP ottaa uuteen työntekijään yhteyttä ennen aloituspäivää halutussa aikataulussa. Työntekijä voi yrityksen palvelusopimuksessa määriteltyjen raamien mukaisesti valita haluamansa työkalut.
 
-### 2) Työntekijän tarvitsemien laitteiden kokoaminen
+#### 2) Työntekijän tarvitsemien laitteiden kokoaminen
 
 TDP kokoaa räätälöidysti uuden työntekijän laitteiston. Mahdollisuuksien mukaan vanhoilta työntekijöiltä kierrätetään yli jääneitä laitteita kustannuskurin ja vastuullisuuden periaatteella.
 
-### 3) Esiasennus
+#### 3) Esiasennus
 
 Laitteille asennetaan valmiiksi yrityksen kaikille työntekijöille tarkoitetut ohjelmistot ja tietoturva-asetukset. 
 
-### 4) Tunnusten luominen
+#### 4) Tunnusten luominen
 
 Laitteille asennetaan valmiiksi myös uuden työntekijän tunnukset ja annetaan oikeudet tarvittaviin palveluihin. Tämä vaihe voidaan hoitaa myös käyttöönottovaiheessa työntekijän toimesta.
 
-### 5) Toimitus
+#### 5) Toimitus
 
 TDP toimittaa uuden työntekijän laitteet työpaikalle työnantajan tai työntekijän haluamassa aikataulussa ennen aloituspäivää. Palvelusopimuksessa voidaan määrittää toimitus edellisenä arkipäivänä tai vaikkapa viikkoa ennen.
 
-### 6) Käyttöönotto
+#### 6) Käyttöönotto
 
 Työntekijä ottaa valmiin laitteiston käyttöön Plug and Play -periaatteella.
 
 Jos yrityksenne palvelusopimuksessa on myös työntekijöiden IT-tuki, laitteiston käyttöönoton yhteydessä työntekijä saa erillisen ohjeistuksen IT-tuen hyödyntämiseen. 
 
-### 7) Perehdytys
+#### 7) Perehdytys
 
 Työntekijä ottaa yhteyden TDP:hen, joka antaa IT-perehdytyksen etänä tai lähikäyntinä, ja varmistaa kaiken toimivan.
 
