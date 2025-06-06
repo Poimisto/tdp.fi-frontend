@@ -62,7 +62,7 @@ Keskitetty hallinta tarjoaa yrityksellesi useita etuja, joista voit lukea lisä�
 
 ![](/assets/google-asiantuntija-tinified.jpg)
 
-### **Suomalainen Google-asiantuntija**
+### ‎ 3) **Suomalainen Google-asiantuntija**
 
 Onko sinunkin yrityksessäsi kasa erillisiä ohjelmistoja erillisellä koneella, yrityssähköpostit joltain jälleenmyyjältä, hukattuja yhteystietoja surraan tämän tästä eikä kaikkien tietojen varmuuskopiointiin ole mitään selkeää prosessia? 
 
