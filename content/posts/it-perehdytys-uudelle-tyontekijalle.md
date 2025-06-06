@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /it-perehdytys-uudelle-tyontekijalle
+path: /it-perehdytys-uudelle-tyontekijalle/
 date: 2021-10-28T05:49:17.196Z
 head:
   title: Palkkasitko uuden työntekijän? Näin onnistut IT-perehdytyksessä
