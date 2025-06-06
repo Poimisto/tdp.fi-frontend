@@ -20,7 +20,7 @@ contactForm: Ota yhteyttä
 
 Tutustu alla syihin, miksi olisimme sinunkin yrityksellesi hyvä, ellei jopa paras IT-kumppani. 
 
-## ‎A) **Asiakkaiden arvostama käyttäjätuki**
+## A) **Asiakkaiden arvostama käyttäjätuki**
 
 K﻿ukaan ei vastaa puhelimeen? Ongelma luvataan hoitaa pian, mutta niin ei tapahdu? 
 
@@ -45,7 +45,7 @@ Hyvä käyttäjätuki tukee yrityksesi monien tavoitteiden toteutumista:
 
 ![](/assets/image5.jpg)
 
-## ‎ B) **Keskitetty hallinta tuo mielenrauhaa**
+## B) **Keskitetty hallinta tuo mielenrauhaa**
 
 Yrityksesi taitavan IT-vastaavan ansiosta IT-huolia ei ole ilmennyt koskaan, mutta hänen osaamistaan ei voi varmuuskopioida. Mitä jos tämä henkilö päättää vaihtaa työpaikkaa?
 
