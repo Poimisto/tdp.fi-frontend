@@ -6,11 +6,6 @@
   "navigation": [
     {
       "type": "page",
-      "title": "TDP Slim™",
-      "link": "/tdp-slim"
-    },
-    {
-      "type": "page",
       "link": "/it-palvelut/",
       "title": "IT-palvelut"
     },
