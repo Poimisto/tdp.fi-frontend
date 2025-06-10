@@ -29,3 +29,10 @@
 
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
+
+#test for redirection of airtable forms
+[[redirects]]
+from ="/AsiakasLomakeCapfull"
+to ="https://airtable.com/appqRsvkbnYm1rcTU/pagIrUkhxwVAniYwy/form"
+status = 301
+force = false
