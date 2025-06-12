@@ -56,8 +56,8 @@ Palvelu koostuu seuraavista osa-alueista:
 |                             |                   |
 | --------------------------- | ----------------- |
 | Tuntiveloitteinen           | 7,00 €/kk + 68€/h |
-| Kiinteä hinta 1-9 käyttäjää | <DisplayVariable variableKey="tukipalvelut-9-ihmistä" tag="[object Object]" bold={false} />        |
-| Kiinteä hinta 10- käyttäjää | <DisplayVariable variableKey="tukipalvelut-10-ihmistä" tag="[object Object]" bold={false} />       |
+| Kiinteä hinta 1-9 käyttäjää | <DisplayVariable variableKey="tukipalvelut-9-ihmistä" bold={false} />        |
+| Kiinteä hinta 10- käyttäjää | <DisplayVariable variableKey="tukipalvelut-10-ihmistä" bold={false} />       |
 
 L﻿ähituen osalta minimilaskutus on 1h, etätuen 1/2h. Etätuen minimilaskutusaika koskee vain tuntiveloitteista sopimusta.
 
