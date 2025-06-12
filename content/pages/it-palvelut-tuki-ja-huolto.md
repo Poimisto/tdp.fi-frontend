@@ -56,10 +56,14 @@ Palvelu koostuu seuraavista osa-alueista:
 |                             |                   |
 | --------------------------- | ----------------- |
 | Tuntiveloitteinen           | 7,00 €/kk + 68€/h |
-| Kiinteä hinta 1-9 käyttäjää | 29,50 €/kk        |
-| Kiinteä hinta 10- käyttäjää | 19,50 €/kk        |
+| Kiinteä hinta 1-9 käyttäjää | <DisplayVariable variableKey="tukipalvelut-9-ihmistä" tag="[object Object]" bold={false} />        |
+| Kiinteä hinta 10- käyttäjää | <DisplayVariable variableKey="tukipalvelut-10-ihmistä" tag="[object Object]" bold={false} />       |
 
 L﻿ähituen osalta minimilaskutus on 1h, etätuen 1/2h. Etätuen minimilaskutusaika koskee vain tuntiveloitteista sopimusta.
+
+
+
+
 
 Tukipalveluhin liittyvät työasemien etäasennukset sisältyvät kiinteähintaisen tuen kuukausimaksuun.
 
