@@ -89,6 +89,16 @@
       "type": "text",
       "key": "datto-rmm-hinta",
       "value": "7,00 €/kk/käyttäjä"
+    },
+    {
+      "type": "text",
+      "key": "tukipalvelut-9-ihmistä",
+      "value": "29,50 €/kk"
+    },
+    {
+      "type": "text",
+      "key": "tukipalvelut-10-ihmistä",
+      "value": "19,50 €/kk"
     }
   ]
 }
