@@ -27,6 +27,7 @@ Toteutamme kaikki tarvitsemanne IT-palvelut ja räätälöimme ne toiveidenne mu
 ## Yhteystiedot
 
 ### Myynti
+
 P﻿auli Aalto   | 040 748 3818 | pauli.aalto@tdp.fi                        
 
 M﻿ika Mäkinen  | 040 632 7090 | mika.makinen@tdp.fi
@@ -51,9 +52,9 @@ Päätoimipisteemme löydät Nokialta Tampereen kupeesta. Meillä on asiakkaita 
 
 Olemme dynaaminen ja vakavaraisesti kasvava yritys.
 
-Siitä osoituksena saavutimme vuonna 2021 ensimmäistä kertaa yli miljoonan euron liikevaihdon ja vuonna 2022 ennätyksellisen 1,3 miljoonan euron liikevaihdon. 
+Siitä osoituksena saavutimme vuonna 2021 ensimmäistä kertaa yli miljoonan euron liikevaihdon ja kasvu jatkuu edelleen. 
 
-Nyt vuonna 2024 tavoitteemme on kehittää palvelukokonaisuuttamme entisestään ja olla siten kiinnostava vaihtoehto suurtenkin PK-yritysten vastuulliseksi kumppaniksi.  
+Tavoitteenamme on kehittää palvelukokonaisuuttamme entisestään ja olla siten kiinnostava vaihtoehto suurtenkin PK-yritysten vastuulliseksi kumppaniksi.  
 
 ## S﻿euraa meitä
 
@@ -67,15 +68,7 @@ Seuraa meitä sosiaalisen median kanavissamme:
 
 <CallToAction bgColor="brand" url="https://www.linkedin.com/company/tampereen-datapiste/" align="center">Linkedin</CallToAction>
 
-
-
-
-
 <CallToAction bgColor="brand" url="https://www.facebook.com/datapiste" align="center">Facebook</CallToAction>
-
-
-
-
 
 <CallToAction bgColor="brand" url="https://www.youtube.com/channel/UC8LE9Z3BkIgi7-9-c3Q3-mA" align="center">YouTube</CallToAction>
 
