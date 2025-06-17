@@ -14,8 +14,6 @@ head:
 thumbnail: /assets/tiedonhallinta-yrityksessa-artikkelikuva.png
 contactForm: Ota yhteyttä
 ---
-# Tiedonhallinta yrityksessä – tee tiedosta kilpailuetu
-
 ![Kuvituskuva. Kolme henkilöä keskustelemasssa keskenään. Taustalla kuvaaja, joka osoittaa ylöspäin kasvun merkiksi.](/assets/tiedonhallinta-yrityksessa-artikkelikuva.png "Tehokas tiedonhallinta parantaa yrityksen tuottavuutta ja tukee kasvua.")
 
 Tiedonhallinta ei välttämättä nouse heti ensimmäisenä mieleen, kun mietit yrityksesi kehityskohteita. Usein huomio kiinnittyy markkinointiin, toimituksiin, koulutuksiin ja tiimin johtamiseen. Tieto kulkee siinä sivussa. Tämä on sekä haaste, että mahdollisuus. Kasvavan yrityksen menestys perustuu oikeaan tietoon ja sen tuottaminen vaatii selkeitä prosesseja. 
