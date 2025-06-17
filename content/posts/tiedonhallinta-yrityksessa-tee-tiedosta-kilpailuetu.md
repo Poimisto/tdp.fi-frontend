@@ -109,7 +109,7 @@ Kasvu tuo aina mukanaan uusia tarpeita. Ilman määriteltyjä ja selkeitä prose
 
 Meidän tehtävämme on tehdä tämä helpoksi. Ei monimutkaisia projekteja tai raskaita prosessikuvauksia, vaan konkreettista apua, joka perustuu ymmärrykseen yritysten arjesta. Kun pohja on kunnossa, sen päälle on hyvä rakentaa ja mikä tärkeintä: sinun tai tiimisi ei tarvitse enää tuhlata aikaa sellaiseen, mikä voidaan automatisoida, ohjeistaa tai ratkaista kertaheitolla.
 
-**[Ota yhteyttä](https://www.tdp.fi/tiedonhallinta-yrityksessa-tee-tiedosta-kilpailuetu#ota-yhteytta)** - rakennetaan yhdessä toimiva ja huoleton tiedonhallinta!
+**[Ota yhteyttä](https://www.tdp.fi/tiedonhallinta-yrityksessa-tee-tiedosta-kilpailuetu#contact-form)** - rakennetaan yhdessä toimiva ja huoleton tiedonhallinta!
 
 ## Usein kysytyt kysymykset tiedonhallinnasta (FAQ)
 
