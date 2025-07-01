@@ -3,7 +3,9 @@ path: /referenssit/elainklinikka
 date: 2021-03-07T07:57:20.064Z
 head:
   title: Referenssitarina - Eläinklinikka - TDP
-  description: Referenssit
+  description: Eläinklinikka Livet tarvitsi kattavan palvelusopimuksen ja
+    laadukkaat IT-järjestelmät – Tutustu miten TDP saavutti 10/10 arvion
+    Livetiltä!
   keywords: TDP referenssit, asiakas, eläinklinikka
 contactForm: Ota yhteyttä
 ---
