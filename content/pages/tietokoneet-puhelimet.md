@@ -1,10 +1,10 @@
 ---
 path: /it-laitteet/yrityskannettavat
 head:
-  title: Yrityskannettavat ja tehotyöasemat yrityksille
-  description: TDP varustaa yrityksesi kannettavilla, tehotyöasemilla ja muilla
-    työvälineillä, jotka varmistavat tehokkaan työskentelyn juuri sopivalla
-    hintatasolla.
+  title: Yrityskannettavat ja tehotyöasemat pk-yritykselle – leasing tai suoraosto
+  description: Yrityskannettavat pk-yritykselle leasingilla tai suoraostolla -
+    uusimmat Dell, Apple ja Lenovo mallit edullisesti ja esiasennettuna. Pyydä
+    arvio!
   keywords: yrityskannettavat, työntekijöiden tietokoneet, työntekijöiden
     tehotyöasemat, yrityksen tietokoneet, yrityksen puhelimet, yrityksen
     työvälineet
