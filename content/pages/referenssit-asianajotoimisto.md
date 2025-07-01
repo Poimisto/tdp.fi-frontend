@@ -2,8 +2,10 @@
 path: /referenssit/asianajotoimisto
 date: 2021-03-06T08:59:04.058Z
 head:
-  title: Referenssitarina - Asianajotoimisto - TDP
-  description: Referenssi
+  title: "TDP referenssi: IT-palvelut asianajotoimistolle."
+  description: AAA-luokiteltu TDP toimitti laitteet ja tuen Mäkelä & Penttilä
+    Oy:lle – katso, miksi asianajotoimisto keskitti IT:n yhdelle kumppanille.
+    Lue referenssi!
   keywords: Referenssit, asiakas
 contactForm: Ota yhteyttä
 ---
