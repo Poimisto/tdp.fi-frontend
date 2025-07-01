@@ -3,10 +3,10 @@ path: /home
 thumbnail: /assets/verkkoyhteydet-1280x800.png
 date: 2020-11-15T20:33:13.757Z
 head:
-  title: IT-palvelukumppani yrityksille
-  description: TDP on Pirkanmaalta ja pääkaupunkiseudulta käsin toimiva yritysten
-    IT-palvelukumppani. Kauttamme saatte kaikki yrityksenne tarvitsemat
-    IT-laitteet ja -palvelut.
+  title: IT-tuki & IT-palvelut pk-yrityksille – Tampere, Pirkanmaa | TDP
+  description: TDP tuottaa IT-palvelut ja IT-tuen, pilvipalvelut sekä kyberturvan
+    pk-yrityksille Pirkanmaalla, Uudellamaalla ja ympäri Suomen. Pyydä maksuton
+    kartoitus!
   keywords: TDP, Tampereen Datapiste, etusivu, IT-palvelukumppani
 contactForm: Ota yhteyttä
 ---
