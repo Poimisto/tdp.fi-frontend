@@ -3,11 +3,10 @@ path: /ohjelmistot
 thumbnail: /assets/ohjelmistot-tinified.jpg
 date: 2022-09-26T09:32:50.954Z
 head:
-  title: Ohjelmistot | Digitaalinen työympäristö
-  description: Modernit ohjelmistot luovat pohjan liiketoiminnalle ja parantavat
-    yritysten kilpailukykyä. TDP:ltä kaikki tutut ohjelmistot samoilla hinnoilla
-    kuin valmistajaltakin, mutta lisättynä hyvällä suomenkielisellä
-    tukipalvelulla.
+  title: Ohjelmistot ja pilvipalvelut yritykselle – yhdestä paikasta
+  description: Google Workspace, MS 365, Adobe, WithSecure ja muut
+    ohjelmistolisenssit pk-yritykselle yhdeltä kumppanilta valmistajan hinnalla
+    mutta suomenkielisellä palvelulla. Kysy lisää!
   keywords: ohjelmistot, digitaalinen työympäristö, työsovellukset
 contactForm: Ota yhteyttä
 ---
