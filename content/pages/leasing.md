@@ -3,11 +3,9 @@ template: page-nocontainer
 path: /tietokone-leasing
 date: 2021-02-24T10:32:42.758Z
 head:
-  title: Tietokone-leasing - IT-leasing ja vuokraus
-  description: Koko yrityksen tarvitsema tietotekniikka voidaan hankkia
-    leasing-sopimuksella. Työntekijöiden tietokoneiden lisäksi
-    leasing-sopimukseen voi kuulua esimerkiksi palvelinkoneet,
-    käyttöjärjestelmät, perusohjelmistot sekä tietoturva.
+  title: Tietokone-leasing pk-yritykselle - Kustannustehokas IT-leasing ja vuokraus
+  description: Tietokone ja laite-leasing vapauttaa pk-yrityksen pääomaa.
+    Esiasennus, 2–5 v sopimus ja tuki Pirkanmaalla & PK-seudulla. Kysy lisää!
   keywords: tietokone-leasing, it-leasing, leasing rahoitus
   Keywords: ddsasd
 breadcrumb:
