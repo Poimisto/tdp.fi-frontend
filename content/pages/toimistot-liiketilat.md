@@ -4,9 +4,9 @@ path: /it-laitteet/toimistot-ja-liiketilat
 thumbnail: /assets/toimiston-it-laitteet-1280-x-800.jpg
 date: 2023-11-10T14:58:18.807Z
 head:
-  title: Toimiston ja liiketilan IT-laitteet - TDP
-  description: Toimistossa tarvittavat IT-laitteet käyttökuntoon asennettuina
-    pirkanmaalaiselta TDP:ltä.
+  title: Toimiston IT-laitteet yritykselle - monitoimilaitteet ja infonäytöt
+  description: Monitoimilaite, infonäyttö ja videoneuvottelu-laitteisto toimistoon
+    yhdeltä kumppanilta – asennus, tuki ja leasing yrityksille. Pyydä arvio!
   keywords: infonäytöt, tulostimet, tulostus, toimisto, toimiston laitteet,
     neuvotteluhuoneet
 breadcrumb:
