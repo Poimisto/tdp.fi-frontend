@@ -3,9 +3,11 @@ path: /referenssit/insinooritoimisto
 thumbnail: ""
 date: 2021-03-06T07:22:52.854Z
 head:
-  title: Referenssitarina - Insinööritoimisto - TDP
+  title: "TDP referenssi: IT-kumppani insinööritoimistolle"
   keywords: referenssi, asiakas, insinööritoimisto
-  description: "Referenssit "
+  description: Metecno Oy tehosti kasvuaan ulkoistamalla IT:n. Google Workspace,
+    varmuuskopiointi, virustorjunta ja laitteet yhdeltä kumppanilta. Lue
+    referenssi!
 contactForm: Ota yhteyttä
 ---
 
