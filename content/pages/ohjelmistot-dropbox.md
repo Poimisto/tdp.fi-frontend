@@ -2,11 +2,10 @@
 path: /ohjelmistot/dropbox
 date: 2022-09-26T09:47:38.826Z
 head:
-  title: Dropbox Business | Turvallista tiimityötä
-  description: Dropbox Business on tehokas yhteistyöalusta, joka auttaa
-    PK-yrityksiä työskentelemään paremmin yhdessä, nopeasti. Dropbox Business
-    -tiimit pääsevät tiedostoihin käsiksi milloin ja missä tahansa, ja samalla
-    IT-asiat pysyvät hallinnassa.
+  title: Dropbox Business yritykselle - tiedostot talteen helposti
+  description: Dropbox Business tehostaa pk-yrityksen tiedostonjakoa ja
+    varmuuskopiointia – suojattu pilvipalvelu, nopea käyttöönotto ja paikallinen
+    tuki. Kysy lisää!
   keywords: Dropbox
 contactForm: Ota yhteyttä
 breadcrumb:
