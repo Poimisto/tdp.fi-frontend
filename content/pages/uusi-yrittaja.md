@@ -5,12 +5,11 @@ thumbnail: /assets/uusi-yrittaja-tinified-1280x800.png
 date: 2022-09-28T05:46:15.370Z
 head:
   tItle: Uuden yrittäjän IT-palvelut - TDP
-  description: TDP toteuttaa laitetoimitusten lisäksi myös IT-ympäristön hallinnan
-    palvelut. Tarjoamme toimivien laitteiden lisäksi käyttöönne verkkotunnusten
-    ja sähköpostien hallintaa, yhteensopivia viestintäsovelluksia, huoletonta
-    tietoturvaa sekä ripeää ongelmatilanteiden ratkaisua.
+  description: Yrityksen ohjelmistot, laitetoimitukset ja it-palvelut yhdeltä
+    kumppanilta. Microsoft 365, Google Workspace ja suomenkielinen it-tuki.
+    Pyydä ilmainen arvio!
   keywords: tietokone ja puhelin, sähköposti, domain, kalenteri, verkkolevy
-  title: "Uusi yrittäjä "
+  title: IT Palvelut uudelle yrittäjälle kustannustehokkaasti
 contactForm: Ota yhteyttä
 ---
 ![Yrityksen IT-osasto.](/assets/uusi-yrittaja-tinified-1280x800.png)
