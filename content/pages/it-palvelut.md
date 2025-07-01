@@ -2,12 +2,10 @@
 path: /it-palvelut/
 date: 2021-02-23T21:23:15.390Z
 head:
-  title: Yrityksen IT-palvelut
-  description: Yrityksen IT-osasto palvelusopimuksella IT-kumppanilta.
-    Palvelusopimukseen voidaan liittää kaikki yrityksen tarvitsemat IT-laitteet
-    ja -palvelut. Laitehankinnat ja käyttöönotot työntekijöille ja toimistoon.
-    Käyttäjätunnusten, ohjelmistojen ja tietoturvan hallinta ja päivitykset.
-    Hinta skaalautuu tarpeen ja työntekijämäärän mukaan.
+  title: Yrityksen IT-palvelut Pirkanmaan pk-yrityksille – TDP
+  description: AAA-luottoluokitettu TDP tarjoaa IT-palveluita ja IT-tukea
+    yrityksille Suomessa. Luotettava kumppani, referenssit ja asiakaslähtöisyys
+    tuovat mielenrauhan.
   keywords: Yrityksen IT-palvelut
 contactForm: Ota yhteyttä
 ---
