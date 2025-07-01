@@ -3,9 +3,10 @@ template: page
 path: /it-palvelut/tuki-ja-huolto
 thumbnail: /assets/tuki-huolto-tdp.jpg
 head:
-  title: Yrityksen työntekijöiden etätuki ja laitehuolto
-  description: TDP:n kehuttu tuki- ja huoltopalvelu panostaa huoltopyyntöjen
-    nopeaan vasteaikaan.
+  title: Kiinteähintainen IT tuki yrityksille, myös tuntiveloitus!
+  description: Asiakaslähtöinen IT kumppani tarjoaa yrityksille kiinteähintaisen
+    tai tuntiveloitteisen IT-tuen, joka ratkaisee ongelmat nopeasti ja selkeästi
+    hinnoiteltuna
   keywords: IT etätuki, IT lähituki, IT puhelintuki, työntekijöiden etätuki
 contactForm: Ota yhteyttä
 breadcrumb:
