@@ -3,9 +3,10 @@ path: /it-palvelut/tietoturva-total-ja-lite
 thumbnail: /assets/tietoturva2-1280-x-800.jpg
 date: 2024-12-16T08:13:47.831Z
 head:
-  title: Yrityksen tietoturva
-  description: Yritystoimintojen digitalisoituminen vaatii myös panostamista
-    yritysten tietoturvaan.
+  title: Tietoturva palveluna, EDR-suojaus yrityksille
+  description: Estä ransomware ja tietovuodot. Ratkaisumme yhdistää
+    virustorjunnan, sekä RMM ja EDR -palvelut yhdeksi kattavaksi
+    tietoturvaratkaisuksi pk-yrityksille
   keywords: tietoturva, virustorjunta, verkkoliikenteen suojaus, palomuurit,
     tietokoneiden ja laitteiden kierrätys, security by design, gdpr
 breadcrumb:
