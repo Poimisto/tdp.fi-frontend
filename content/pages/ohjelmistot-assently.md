@@ -3,10 +3,10 @@ path: /ohjelmistot/assently
 thumbnail: /assets/assently-sahkoinen-allekirjoitus-tdp.jpg
 date: 2022-12-15T11:53:44.708Z
 head:
-  title: Assently | Sähköinen allekirjoitus
-  description: Assentlyllä korvaat ajan ja paperin allekirjoittamisessa. Lisäksi
-    vahvat sähköiset tunnisteet tekevät prosessista turvallisen kaikkialla
-    Pohjoismaissa.
+  title: Assently sähköinen allekirjoitus yritykselle – vahva tunnistautuminen
+  description: Assently sähköiset allekirjoitukset vahvalla tunnistuksella ja
+    automaattisella arkistoinnilla. Säästät aikaa ja paperia
+    allekirjoittamisessa kaikkialla Pohjoismaissa.
   keywords: assently, sähköinen allekirjoitus, henkilöllisyyden tunnistus
 contactForm: Ota yhteyttä
 ---
