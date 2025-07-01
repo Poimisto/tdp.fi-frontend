@@ -5,10 +5,9 @@ date: 2024-09-25T10:23:03.754Z
 head:
   keywords: verkko, verkkoyhteydet, modeemi, reititin, langaton verkko, palomuuri,
     vierasverkko, verkkolaite
-  title: Yrityksen verkkoyhteydet
-  description: Yrityksen verkkoyhteydet ovat toimivassa liiketoiminnassa toimivat
-    ja turvalliset. Turvaudu IT-palvelukumppanin osaamiseen ja pystytä kanssamme
-    juuri omaa liiketoimintaasi tukevat verkkoyhteydet.
+  title: Yrityksen verkkoyhteydet pk-yritykselle – laitteet & valvonta
+  description: Yritysverkon suunnittelu ja valvotut verkkolaitteet yhdeltä
+    kumppanilta. Turvatut yhteydet ja huoleton käyttö. Pyydä arvio!
 contactForm: Ota yhteyttä
 ---
 ![Yrityksen verkkoyhteydet.](/assets/verkkoyhteydet.jpg)
