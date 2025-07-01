@@ -3,9 +3,9 @@ path: /referenssit
 thumbnail: ""
 date: 2021-03-03T12:59:59.425Z
 head:
-  title: Referenssit - Asiakaskokemukset - Tampereen Datapiste Oy
+  title: Referenssit - Asiakaskokemukset - TDP IT-kumppani Pirkanmaa & pk-seutu
   description: Referenssimme kertovat niin yrityksemme toiminnasta kuin halustamme
-    helpottaa asiakkaidemme arkea.
+    helpottaa asiakkaidemme arkea. Kysy  lisää!
   keywords: TDP, referenssit, asiakaskokemukset
 contactForm: Ota yhteyttä
 ---
