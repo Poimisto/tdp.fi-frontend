@@ -2,11 +2,10 @@
 path: /ohjelmistot/google-workspace
 date: 2022-09-26T09:47:38.826Z
 head:
-  title: Liiketoimintasovellukset | Google Workspace
-  description: Google Workspace on monipuolinen digitaalinen työympäristö, joka
-    sujuvoittaa yrityksesi liiketoimintaa. Workspace on turvallinen pilvipalvelu
-    hyödyllisillä työsovelluksilla, johon saat TDP:ltä jatkuvan, ripeän
-    käyttötuen.
+  title: Google Workspace lisenssit pk-yritykselle Google Cloud -kumppanilta
+  description: Virallinen Google Cloud -kumppani toimittaa ja hallinnoi Google
+    Workspace -lisenssit pk-yritykselle. Sujuvoita liiketoimintaa ja säästä
+    kustannuksissa. Kysy lisää!
   keywords: Google Workspace, liiketoimintasovellus, lisenssi, pilvipalvelu
 contactForm: Ota yhteyttä
 breadcrumb:
