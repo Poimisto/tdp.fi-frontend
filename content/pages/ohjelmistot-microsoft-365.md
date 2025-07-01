@@ -2,11 +2,10 @@
 path: /ohjelmistot/microsoft-365
 date: 2022-09-26T09:47:38.826Z
 head:
-  title: Microsoft 365 | Yrityspaketti
-  description: Microsoft 365 -työympäristö vapauttaa työntekoa ja vähentää
-    kustannuksia tietoturvaa unohtamatta. Tarjoamme saman Microsoft 365
-    -ohjelmistopaketin yrityksellesi kuin kilpailijamme, mutta muita paremmalla
-    käyttäjätuella.
+  title: Microsoft 365 lisenssit - Microsoft Partner, AAA-luokitus
+  description: Virallinen Microsoft Parter -kumppani toimittaa ja hallinnoi MS 365
+    -lisenssit pk yritykselle. Nopea käyttöönotto ilman yllätyskuluja, pyydä
+    tarjous!
   keywords: Google Workspace
 contactForm: Ota yhteyttä
 breadcrumb:
