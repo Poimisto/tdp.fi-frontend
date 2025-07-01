@@ -3,14 +3,10 @@ path: /it-palvelut/tdp-kyberakatemia
 thumbnail: /assets/kyberakatemia.png
 date: 2024-02-01T09:11:16.383Z
 head:
-  title: Tietoturvatietoisuus korkeammaksi
-  description: TDP KyberAkatemia -palvelu tarjoaa yrityksellesi älykkään alustan
-    kouluttaa työntekijät varomaan tietojenkalastelua ja väärien sähköpostien
-    avaamista! Palvelu toteuttaa automaattiset tietojenkalasteluhyökkäykset
-    työntekijöiden sähköpostiin ja tarjoaa myös henkilökohtaisen,
-    interaktiivisen koulutusalustan, jossa työntekijät oppivat tietoturvallista
-    IT-toimintaa. Ennaltaehkäise työntekijäsi tekemät inhimilliset virheet ja
-    siten nosta yrityksesi tietoturvatietoisuutta!
+  title: KyberAkatemia - NIS2-yhteensopiva tietoturvakoulutus
+  description: Kiristyshaittaohjelmat ja huijaussähköpostit lisääntyvät. NIS2
+    yhteensopiva KyberAkatemia dokumentoi koulutukset ja raportoi valmiuden
+    auditointeihin.
   keywords: tietoturvatietoisuus, koulutusalusta, kyberakatemia,
     tietojenkalastelu, simuloidut hyökkäykset, phishing, huijausviestit
 contactForm: Ota yhteyttä
