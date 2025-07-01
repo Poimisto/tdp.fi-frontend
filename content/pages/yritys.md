@@ -4,9 +4,9 @@ thumbnail: /assets/tdp-päätoimipiste-tinified.jpg
 date: 2021-02-25T07:42:23.615Z
 head:
   title: Tietoa yrityksestä - Yhteystiedot
-  description: Tampereen Datapiste on vuonna 2007 perustettu IT-alan
-    asiantuntijayritys. Tehtävämme on toimittaa, asentaa ja edelleen kehittää
-    yritysten todellisia tarpeita vastaavia IT-järjestelmiä.
+  description: Tampereen Datapiste on AAA-luokitettu IT-kumppani Pirkanmaalla &
+    pk-seudulla jo vuodesta 2007. Tutustu palveluihimme ja varaa ilmainen
+    arviokeskustelu nyt.
   keywords: yritys, yhteystiedot, Tampereen Datapiste, TDP
 contactForm: Ota yhteyttä
 ---
