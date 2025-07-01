@@ -2,11 +2,10 @@
 path: /ohjelmistot/nira
 date: 2022-09-26T09:47:38.826Z
 head:
-  title: Nira | Pääsynhallintajärjestelmä
-  description: Nira on reaaliaikainen pääsynhallintajärjestelmä, jolla
-    hallinnoidaan yrityksen dokumentteja Google Workspacessa. Älä hyväksy
-    tilannetta, jossa entisellä työntekijällä on edelleen oikeudet nähdä
-    esimerkiksi yrityksen asiakasrekisteri!
+  title: Nira on edistynyt pääsynhallintajärjestelmä yli 50 hengen yrityksille
+  description: "Nira -pääsynhallinta integroituu Google Workspaceen: aseta
+    tiedostojen käyttöoikeudet yhdestä näkymästä ja säästä IT-tiimin aikaa. Kysy
+    lisää!"
   keywords: Nira
 contactForm: Ota yhteyttä
 breadcrumb:
