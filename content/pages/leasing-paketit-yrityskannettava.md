@@ -3,11 +3,10 @@ path: /leasing-paketit/yrityskannettava
 thumbnail: /assets/dell_5540.jpg
 date: 2022-02-22T09:44:19.342Z
 head:
-  title: Edullinen yrityskannettava
-  description: Tämä huippukevyt ja kestävä kokoonpano on suunniteltu täyttämään
-    vaativammankin käyttäjän tarpeet. Tehokas prosessori, metallirunko,
-    FullHD-näyttö, SSD-levy, sekä helppo telakointi suoraan näyttöön takaavat
-    miellyttävän käyttökokemuksen.
+  title: Edullinen yrityskannettava pk-yritykselle – leasing tai suoraosto
+  description: Yrityskannettavat pk-yritykselle leasingilla tai suoraostolla -
+    uusimmat Dell, Apple ja Lenovo mallit edullisesti ja esiasennettuna. Pyydä
+    arvio!
   keywords: Edullinen yrityskannettava
 contactForm: Ota yhteyttä
 breadcrumb:
