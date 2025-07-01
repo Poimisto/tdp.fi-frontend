@@ -3,10 +3,10 @@ path: /ohjelmistot/virtru
 thumbnail: /assets/virtru-tdp.jpg
 date: 2022-10-09T14:30:07.797Z
 head:
-  title: Virtru | Sähköpostin salaus
-  description: Virtru on Googlen suosittelema erinomainen täsmäohjelmisto tiedon
-    hallintaan, etenkin sähköpostien pätevään salaukseen. Suuret yritykset kuten
-    Netflix ja Tripadvisor luottavat Virtruhun - luota sinäkin!
+  title: Virtru – Googlen suosittelema sähköpostisalaus yritykselle
+  description: Virtru salaa yrityksen sähköpostit ja SaaS -datan GDPR-, HIPAA- ja
+    ISO 27001 -vaatimusten mukaisesti – määritä viestien voimassaoloaika ja
+    edelleenlähetyksen esto. Kysy lisää!
   keywords: Virtru, sähköpostin salaus
 contactForm: Ota yhteyttä
 ---
