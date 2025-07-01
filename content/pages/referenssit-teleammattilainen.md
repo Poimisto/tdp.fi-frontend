@@ -2,9 +2,11 @@
 path: /referenssit/teleammattilainen
 date: 2022-11-30T13:18:26.880Z
 head:
-  title: Referenssitarina - Digiajan teleammattilainen - TDP
+  title: TDP referenssit. IT-ympäristö valmiiksi teleyritykselle.
   keywords: "referenssi, asiakastarina, asiakasreferenssi, datko, teleammattilainen, "
-  description: Digiajan teleammattilaisen Datkon asiakasreferenssi TDP:lle.
+  description: "Teleammattilainen Datko ulkoisti IT:n TDP:lle ja vapautti aikaa:
+    Google Workspace, IT-tuki ja kotisivujen ylläpito yhdeltä kumppanilta – lue
+    referenssi!"
 ---
 <HeroBlock bgColor="lightest" imageAlign="right">
 
