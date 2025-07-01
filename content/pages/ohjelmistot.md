@@ -4,8 +4,9 @@ path: /it-laitteet/ohjelmistot
 thumbnail: /assets/ohjelmistot-ja-lisenssit.jpg
 date: 2022-10-28T13:11:28.313Z
 head:
-  title: Ohjelmistot - TDP
-  description: Ohjelmistot ja lisenssit yrityksesi tarpeisiin.
+  title: Ohjelmistolisenssit ja pilvipalvelut pk-yritykselle helposti
+  description: Ohjelmistot ja pilvipalvelut kerralla kuntoon. Esiasennus, hallinta
+    ja tuki Pirkanmaalla & pk-seudulla. Kysy lisää!
   keywords: ohjelmistolisenssit
 breadcrumb:
   - path: /
