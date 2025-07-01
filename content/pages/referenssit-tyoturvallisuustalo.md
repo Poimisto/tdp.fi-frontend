@@ -2,8 +2,9 @@
 path: /referenssit/tyoturvallisuustalo
 date: 2022-10-27T05:18:46.360Z
 head:
-  title: Referenssit - Työturvallisuustalo - TDP
-  description: Referenssit
+  title: TDP referenssi. IT palvelut työturvallisuustalolle.
+  description: "Arctic Safety Oy ulkoisti IT:n TDP:lle: läppärit, monitoimilaite,
+    varmuuskopiointi ja oma palvelin yhdellä sopimuksella –  Lue referenssi!"
   keywords: referenssi, asiakastarina, asiakaskokemus
 ---
 
