@@ -3,11 +3,11 @@ path: /ohjelmistot/withsecure
 thumbnail: /assets/withsecure-netlify-1280-x-800.jpg
 date: 2023-06-08T12:35:41.133Z
 head:
-  title: WithSecure | Yritysten tietoturva
+  title: WithSecure tietoturva pk-yritykselle – reaaliaikainen suojaus
   keywords: withsecure, tietoturva, jälleenmyyjä, hinta
-  description: WithSecure™ on kattava suomalainen tietoturvaohjelmisto
-    yrityksille, jotka haluavat taata tietojensa ja verkkojensa turvallisuuden
-    parhaimmalla teknologialla.
+  description: WithSecure Elements EPP, EDR ja Mobile Protection suojaavat
+    päätelaitteet ja datan, suomenkielisellä tuella ja kuukausilisenssillä.
+    Pyydä arvio!
 ---
 ![WithSecure - yritysten tietoturvan maksimointiin.](/assets/withsecure-netlify-1280-x-800.jpg)
 
