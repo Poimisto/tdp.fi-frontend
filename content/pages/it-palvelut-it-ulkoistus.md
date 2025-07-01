@@ -3,7 +3,7 @@ path: /it-palvelut/it-ulkoistus
 thumbnail: /assets/yhteydenottolomake-1280x800.jpg
 date: 2024-04-11T12:29:56.554Z
 head:
-  title: IT-ulkoistus | Ulkoista yrityksesi IT
+  title: "IT-ulkoistus pk-yritykselle tehostaa toimintaa "
   description: IT-ulkoistus kannattaa aina, kun henkilöstömäärä on riittävän suuri
     tai kun yrityksesi oma IT-vastaava ei kykene hoitamaan kaikkia IT-asioita
     yksin.
