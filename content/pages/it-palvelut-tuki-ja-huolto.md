@@ -68,6 +68,8 @@ L﻿ähituen osalta minimilaskutus on 1h, etätuen 1/2h. Etätuen minimilaskutus
 
 Tukipalveluhin liittyvät työasemien etäasennukset sisältyvät kiinteähintaisen tuen kuukausimaksuun.
 
+</div>
+
 Kasvuyrityksen arjessa IT-haasteet ovat usein näkymättömiä, kunnes tapahtuu jotain yllättävää. Välillä laitteet menevät rikki, ohjelmistopäivitykset epäonnistuvat tai yhteydet katkeavat juuri silloin, kun kiire on suurin. Myös laiteasennukset tai yksittäisen ohjelmiston kaatuminen voivat nopeasti aiheuttaa ylimääräistä työtä ja häiriöitä koko tiimille. Joskus eteen voi tulla myös isompia tietoturvaongelmia tai jopa kyberhyökkäyksiä, jotka vaativat nopeaa reagointia ja asiantuntemusta.
 
 
@@ -80,6 +82,5 @@ TDP:n ulkoistettu IT-tukipalvelu tarjoaa kustannustehokkaan ratkaisun IT haastei
 Ulkoistettu tukipalvelu varmistaa, että yrityksesi ICT-ympäristö pysyy kunnossa ja
 te voitte keskittyä liiketoiminnan kasvattamiseen ilman IT-huolia!
 
-</div>
 
 </HeroBlock>
