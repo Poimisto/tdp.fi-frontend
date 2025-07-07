@@ -46,7 +46,7 @@ Palvelu koostuu seuraavista osa-alueista:
 
 <div className="HeroBlockImage">
 
-![undefined](/assets/tdp-hinnasto.jpg)
+![](/assets/tdp-hinnasto.jpg)
 
 </div>
 

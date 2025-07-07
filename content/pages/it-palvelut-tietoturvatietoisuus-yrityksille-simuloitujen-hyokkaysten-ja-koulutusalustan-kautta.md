@@ -36,7 +36,7 @@ Mikä parasta, KyberAkatemia on maltillisesti hinnoiteltu avaimet käteen -palve
 
 <div className="HeroBlockImage">
 
-![undefined](/assets/tdp-hinnasto.jpg)
+![](/assets/tdp-hinnasto.jpg)
 
 </div>
 

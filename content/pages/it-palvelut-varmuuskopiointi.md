@@ -33,7 +33,7 @@ Palvelu on täysin automatisoitu ja kriittiset tiedot ovat aina nopeasti palaute
 
   <div className="HeroBlockImage">
 
-  ![undefined](/assets/tdp-hinnasto.jpg)
+  ![](/assets/tdp-hinnasto.jpg)
 
   </div>
 

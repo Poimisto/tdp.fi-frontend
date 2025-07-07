@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![undefined](/assets/netlify-1280-x-800-metecno.png)
+![](/assets/netlify-1280-x-800-metecno.png)
 
 </div>
 

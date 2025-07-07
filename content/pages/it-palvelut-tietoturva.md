@@ -35,7 +35,7 @@ Tietoturvapalvelumme suodattaa verkkoliikenteen ja tarkistaa asennettavat ohjelm
 
   <div className="HeroBlockImage">
 
-  ![undefined](/assets/tdp-hinnasto.jpg)
+  ![](/assets/tdp-hinnasto.jpg)
 
   </div>
 

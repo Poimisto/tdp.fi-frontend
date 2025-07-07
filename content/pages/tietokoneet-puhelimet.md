@@ -31,7 +31,7 @@ Olemme ripeä laitetoimittaja niin yli 50 hengen PK-yrityksille kuin pienemmille
 
 <div className="HeroBlockImage">
 
-![undefined](/assets/dell-l7340-p3260.png)
+![](/assets/dell-l7340-p3260.png)
 
 </div>
 
