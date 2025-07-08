@@ -89,7 +89,7 @@ Hyvin organisoitu tieto on parasta valmistautumista tulevaisuuteen. Se tekee arj
 ### Kun otat tekoälyn käyttöön – tarkista nämä viisi asiaa:
 
 1. **Missä tieto sijaitsee?**\
-   Onko tärkeät dokumentit tallennettu keskitetysti vai hajaantuneet eri paikkoihin?
+   Onko tärkeät dokumentit tallennettu keskitetysti tai hajaantuneet eri paikkoihin?
 2. **Ovatko versiot hallinnassa?**\
    Löytyikö “oikea” versio heti vai onko liikkeellä useita versioita samoista tiedostoista?
 3. **Kuka vastaa tiedoista?**\
