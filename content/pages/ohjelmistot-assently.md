@@ -66,7 +66,7 @@ Allekirjoituksen molemmat osapuolet saavat oman kappaleensa dokumentista. Voit v
 
 Kun hankit Assentlyn ohjelmistolisenssin suoraan meiltä, voit samalla hankkia virtaviivaisen TDP-tukipalvelun erillisellä palvelusopimuksella.
 
-Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelmasi selvällä suomen kielellä ilman jonotusta. Palvelun vasteaika määritetään sopimuksessa etukäteen haluamaksesi.
+Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelman asiantuntijalle ilman jonotusta. Palvelun vasteaika määritetään sopimuksessa etukäteen haluamaksesi.
 
 - - -
 
