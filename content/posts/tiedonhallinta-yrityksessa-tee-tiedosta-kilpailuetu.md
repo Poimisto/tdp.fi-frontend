@@ -20,7 +20,7 @@ Tiedonhallinta ei aina nouse heti ensimmäisenä mieleen, jos mietit yrityksen k
 
 Useissa yrityksissä arki pyörii vauhdilla ja tietoa kertyy joka suunnasta. Asiakasdokumentteja, tarjousversioita ja erilaisia muistioita syntyy jatkuvasti. Jos näitä varten ei ole yhteisiä käytäntöjä, niin yleensä alkaa näkyä merkkejä haasteista. Tiedon etsimiseen kuluu yhä enemmän aikaa, versiot sekoittuvat ja osaamista katoaa henkilövaihdosten myötä. Pahimmillaan arvokas tieto jää vain yksittäisten ihmisten päähän tai hukkuu täysin.
 
-Tiedonhallinta ei ole ainoastaan IT-osaston asia. Se on kriittinen osa perusasia, joka joko tukee yrityksen kasvua ja kilpailukykyä tai haittaa sitä. Hyvä uutinen on se, että on olemassa useita yksinkertaisia, mutta huomattavaa hyötyä tuovia, ratkaisuja. Usein kyse on haasteiden tunnistamisesta, yhteisten pelisääntöjen sopimisesta ja olemassa olevien työkalujen tehokkaammasta hyödyntämisestä.
+Tiedonhallinta ei ole ainoastaan IT-osaston asia. Se on kriittinen perusasia, joka joko tukee yrityksen kasvua ja kilpailukykyä tai haittaa sitä. Hyvä uutinen on se, että on olemassa useita yksinkertaisia, mutta huomattavaa hyötyä tuovia, ratkaisuja. Usein kyse on haasteiden tunnistamisesta, yhteisten pelisääntöjen sopimisesta ja olemassa olevien työkalujen tehokkaammasta hyödyntämisestä.
 
 Tämä opas on tarkoitettu tukemaan aktiivisen yrityksen arkea. Tavoitteenamme on tarjota käytännönläheisiä vinkkejä, sekä selkeitä malleja, jotta tiedot pysyvät hallinnassa ja yrityksesi voi keskittyä ydinliiketoimintaansa.
 
