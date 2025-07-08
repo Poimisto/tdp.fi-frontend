@@ -90,16 +90,12 @@ Hyvin organisoitu tieto on parasta valmistautumista tulevaisuuteen. Se tekee arj
 
 1. **Missä tieto sijaitsee?**
    Onko tärkeät dokumentit tallennettu keskitetysti tai hajaantuneet eri paikkoihin?
-
 2. **Ovatko versiot hallinnassa?**
    Löytyikö “oikea” versio heti vai onko liikkeellä useita versioita samoista tiedostoista?
-
 3. **Kuka vastaa tiedoista?**
    Onko määritelty, kuka päivittää asiakastiedot, myyntimateriaalit ja sisäiset ohjeet?
-
 4. **Onko tieto ajan tasalla?**
    Löytyykö kansioista vanhentunutta tietoa?
-
 5. **Onko tietoturva ja tietosuoja kunnossa?**
    Käytetäänkö suojattuja ympäristöjä ja onko sensitiivinen data riittävän suojattua?
 
