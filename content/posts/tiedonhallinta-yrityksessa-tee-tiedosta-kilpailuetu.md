@@ -16,71 +16,77 @@ contactForm: Ota yhteyttä
 ---
 ![Kuvituskuva. Kolme henkilöä keskustelemasssa keskenään. Taustalla kuvaaja, joka osoittaa ylöspäin kasvun merkiksi.](/assets/tiedonhallinta-yrityksessa-artikkelikuva.png "Tehokas tiedonhallinta parantaa yrityksen tuottavuutta ja tukee kasvua.")
 
-Tiedonhallinta ei välttämättä nouse heti ensimmäisenä mieleen, kun mietit yrityksesi kehityskohteita. Usein huomio kiinnittyy markkinointiin, toimituksiin, koulutuksiin ja tiimin johtamiseen. Tieto kulkee siinä sivussa. Tämä on sekä haaste, että mahdollisuus. Kasvavan yrityksen menestys perustuu oikeaan tietoon ja sen tuottaminen vaatii selkeitä prosesseja. 
+Tiedonhallinta ei aina nouse heti ensimmäisenä mieleen, jos mietit yrityksen kehityskohteita. Usein huomio kiinnittyy markkinointiin, toimituksiin ja tiimien toimintaan. Tieto kulkee siinä ohessa. Tämä on sekä haaste, että mahdollisuus. Kasvavan yrityksen menestys perustuu oikeaan tietoon ja sen tuottaminen vaatii selkeitä prosesseja. 
 
-Monessa yrityksessä arki pyörii vauhdilla ja tietoa kertyy joka suunnasta. Asiakasdokumentteja, tarjousversioita ja sisäisiä muistioita syntyy jatkuvasti. Jos näitä varten ei ole selkeitä yhteisiä käytäntöjä, niin alkaa näkyä merkkejä haasteista. Tiedon etsimiseen kuluu yhä enemmän aikaa, versiot sekoittuvat ja osaamista katoaa henkilövaihdosten myötä. Pahimmillaan arvokas tieto jää vain yksittäisten ihmisten päähän.
+Useissa yrityksissä arki pyörii vauhdilla ja tietoa kertyy joka suunnasta. Asiakasdokumentteja, tarjousversioita ja erilaisia muistioita syntyy jatkuvasti. Jos näitä varten ei ole yhteisiä käytäntöjä, niin yleensä alkaa näkyä merkkejä haasteista. Tiedon etsimiseen kuluu yhä enemmän aikaa, versiot sekoittuvat ja osaamista katoaa henkilövaihdosten myötä. Pahimmillaan arvokas tieto jää vain yksittäisten ihmisten päähän tai hukkuu täysin.
 
-Tiedonhallinta ei ole vain IT-osaston asia. Se on jokaisen yrityksen perusrakenne, joka joko tukee kasvua tai jarruttaa sitä. Hyvä uutinen on se, että ratkaisut eivät ole monimutkaisia. Usein kyse on yhteisten pelisääntöjen sopimisesta, olemassa olevien työkalujen tehokkaammasta hyödyntämisestä.
+Tiedonhallinta ei ole ainoastaan IT-osaston asia. Se on kriittinen osa perusasia, joka joko tukee yrityksen kasvua ja kilpailukykyä tai haittaa sitä. Hyvä uutinen on se, että on olemassa useita yksinkertaisia, mutta huomattavaa hyötyä tuovia, ratkaisuja. Usein kyse on haasteiden tunnistamisesta, yhteisten pelisääntöjen sopimisesta ja olemassa olevien työkalujen tehokkaammasta hyödyntämisestä.
 
-Tämä opas on tehty tukemaan arkea, jossa ihmiset, projektit ja dokumentit liikkuvat nopeasti. Tavoitteena on tarjota käytännönläheisiä vinkkejä ja selkeitä malleja, joilla tieto pysyy hallinnassa ja yrityksesi voi keskittyä ydinliiketoimintaansa.
+Tämä opas on tarkoitettu tukemaan aktiivisen yrityksen arkea. Tavoitteenamme on tarjota käytännönläheisiä vinkkejä, sekä selkeitä malleja, jotta tiedot pysyvät hallinnassa ja yrityksesi voi keskittyä ydinliiketoimintaansa.
 
 ![Kuvituskuva. Kolme henkilöä keskustelemassa kiivaasti.](/assets/tiedonhallinnan-haasteet.png "Tiedonhallinnan yleisiä haasteita ovat epäselvät dokumentit, eri järjestelmiin hajaantunut tieto ja kadonneet tiedot.")
 
 ## Tiedonhallinnan yleisimmät haasteet yrityksissä
 
-Kasvavissa yrityksissä tekemisen tahti on nopea. Projektit vaihtuvat, asiakkuuksia tulee lisää ja henkilöstömäärä kasvaa. Tiedonhallinta voi tuntua toissijaiselta, kun hommat rullaavat. Ennemmin tai myöhemmin tulee kuitenkin hetki, jolloin heikosti hallittu tieto alkaa näkyä arjen kitkana. Ei välttämättä isoina kriiseinä, vaan jatkuvina pieniä hidasteina, jotka syövät aikaa ja aiheuttavat turhautumista..
+Kasvuyrityksissä kiireet painavat usein päälle. Projektit vaihtuvat, asiakkuuksia tulee lisää ja henkilöstömäärä kasvaa. Tiedonhallinta jää herkästi hieman sivuun, kun hommat rullaavat. Jossain vaiheessa tulee kuitenkin vastaan hetki, jolloin heikosti hallittu tieto alkaa näkyä arjen kitkana. Alkuun kyse ei ole välttämättä isoista kriiseistä. Usein ensimmäisiä merkkejä haasteista ovat toistuvat pienet hidasteet, jotka syövät aikaa ja aiheuttavat turhautumista.
 
-Yksi ensimmäisistä merkeistä on yleensä se, että tieto ei enää löydy helposti. Tiedostoja on verkkolevyllä, sähköpostissa, kenties myös jonkun työpöydällä tai muistitikulla. Sitten kun tarvitaan juuri tietty versio tarjouksesta, sopimuksesta tai projektisuunnitelmasta, alkaa tiedon etsintä. Arvokasta aikaa kuluu siihen, että etsitään, kysellään ja varmistellaan. Tämä ei ole harvinaista, vaan pikemminkin yllättävän yleistä.
+Yksi yleisimmistä merkeistä on se, kun tietoa ei enää löydy helposti. Tiedostoja on verkkolevyllä ja sähköpostissa, kenties myös jonkun työpöydällä tai muistitikulla. Sitten kun pitäisi löytää juuri tietty versio tarjouksesta tai projektisuunnitelmasta, niin alkaakin tiedon etsintä. Arvokasta työaikaa kuluu turhauttavaan etsintään, kyselemiseen ja varmisteluun. Tämä ei ole mitenkään harvinaista, vaan enemmänkin yllättävän yleistä. 
 
-Toinen hyvin tavallinen tilanne on se, että tieto jää yksittäisten asiantuntijoiden varaan. Yksi tuntee asiakkaan historian ja toinen tietää nykyisen projektin yksityiskohdat, mutta kun nämä ihmiset eivät ole paikalla, katoaa myös tieto heidän mukanaan. Prosessit saattavat olla olemassa, mutta vain suullisesti tai muistilapulla ja organisaatio joutuu oppimaan samoja asioita yhä uudelleen.
+Toinen varsin tavallinen tilanne on se, että tiedot ovat vain yksittäisten asiantuntijoiden varassa. Yksi tuntee asiakkaan historian ja toinen nykyisen prosessin yksityiskohdat. Kun nämä ihmiset eivät ole paikalla, niin myös tieto katoaa heidän mukanaan. Prosessit saattavat olla olemassa, mutta ne elävät ainoastaan suullisen tiedon varassa tai muistilapuilla ja organisaatio joutuu opettelemaan samoja asioita yhä uudelleen. 
 
-Lisäksi kasvun myötä syntyy herkästi päällekkäisiä tiedostoja ja ristiriitaista dataa. Sama asiakastieto voi löytyä Excelissä, sähköpostista ja projektidokumenteista. Jokaisessa hieman erilaisena. Ilman yhteisiä käytäntöjä siitä, että kuka päivittää mitäkin ja mihin tieto tallennetaan, syntyy epäselvyyksiä. Epäselvä tieto johtaa virheisiin ja väärinkäsityksiin.
+Yrityksen kasvun myötä syntyy herkästi päällekkäisiä tiedostoja ja ristiriitaista dataa. Saman asiakkaan tiedot voivat löytyä Excelistä, sähköposteista ja projektidokumenteista. Kaikissa näissä hieman erilaisena. Ilman yhteisiä käytänteitä siitä, että kuinka tietoja käsitellään; kuka päivittää mitäkin ja mihin tieto tallennetaan, syntyy epäselvyyksiä. Epäselvät tiedot puolestaan johtavat virheisiin ja väärinkäsityksiin. 
 
-Usein unohtuvat myös [tietoturva ja tietosuoja](https://www.tdp.fi/it-palvelut/tietoturva-total-ja-lite). Pienissä yrityksissä ei välttämättä ole nimettyä vastuuhenkilöä, joka tietää missä asiakasdataa säilytetään ja millä ehdoilla sitä käytetään. Dokumentteja voidaan jakaa linkeillä tai tallentaa suojaamattomille alustoille. Tämä altistaa sekä teknisille riskeille että tietosuojaongelmille. GDPR ei tee poikkeuksia kokoluokan suhteen, jokaisen yrityksen täytyy tietää, missä henkilötiedot sijaitsevat ja kuka niistä vastaa.
+Usein myös [tietoturva ja tietosuoja](https://www.tdp.fi/it-palvelut/tietoturva-total-ja-lite) unohtuvat. Pienessä yrityksessä ei välttämättä ole vastuuhenkilöä, joka tietää missä asiakastietoja säilytetään ja millä ehdoilla niitä käytetään. Dokumentteja voidaan jakaa linkeillä tai tallentaa suojaamattomille alustoille. Tämä on riskialtista niin tiedon saatavuuden, kuin myös tietosuojan näkökulmasta. GDPR ei tee kokoluokka poikkeuksia, vaan jokaisen yrityksen täytyy tietää, että missä henkilötiedot sijaitsevat ja kuka niistä vastaa.
 
-Kasvun mukana syntyy myös uusia tarpeita. Kun tiimi kasvaa, ei enää riitä, että tieto kulkee vapaamuotoisesti Slackissa tai kahvipöydässä. Tarvitaan yhteisiä ohjeita, selkeitä rakenteita ja saavutettavaa dokumentaatiota. Ilman näitä organisaation kehitys hidastuu. Uudet työntekijät joutuvat kasaamaan ymmärryksensä sirpaleista ja työmäärä kasvaa, kun jokainen joutuu keksimään pyörän uudelleen.
+Kasvun myötä syntyy yleensä myös uusia tarpeita. Tiimin kasvaessa ei enää riitä, jos tieto kulkee vapaamuotoisesti Slackissa tai kahvipöydässä. Tarvitaan yhteisiä ohjeita, selkeitä rakenteita ja toimivaa dokumentointia. Ilman näitä organisaation kehitys hidastuu. Uudet työntekijät joutuvat oppimaan hajanaisista sirpaleista ja työmäärä kasvaa, kun kaikki joutuvat keksimään pyörän uudelleen.
 
-Nämä haasteet eivät ole harvinaisia poikkeuksia, vaan tunnistettavia vaiheita lähes jokaisessa kasvavassa yrityksessä. Hyvä uutinen on se, että ne ovat ratkaistavissa. Ensimmäinen askel on haasteiden tiedostaminen ja toinen asioiden tekeminen hieman järjestelmällisemmin.
+Tällaiset haasteet eivät ole harvinaisia poikkeuksia, vaan tunnistettavia vaiheita lähes kaikissa kasvavissa yrityksissä. Hyvä uutinen on se, että näitä on jouduttu miettimään paljon ja ne ovat ratkaistavissa. Ensimmäinen askel on haasteiden tiedostaminen ja toinen asioiden tekeminen hiljalleen yhä järjestelmällisemmin.
 
 ![Kuvituskuva. Keskellä verkkoon yhdistetty tietokone, joka on yhteydessä tietokantaan sekä verkkolevyyn. Taustalla kilpi, jossa oikein-merkki.](/assets/tiedonhallinta-parhaat-kaytanteet.png "Selkeät prosessit ja oikeat työkalut tekevät tiedonhallinnasta yrityksen kilpailuedun.")
 
 ## Parhaat käytännöt tiedonhallinnan kehittämiseen
 
-Tiedonhallinta ei ole mikään mystinen tietohallinnon taikatemppu, se on ennemminkin sujuvan arjen rakennuspalikka. Käytännössä kyse on siitä, mistä tiedot tulevat, minne ne laitetaan ja kuka niistä vastaa. Ja ennen kaikkea: miten tietoa hyödynnetään.
+Tiedonhallinta ei ole mikään mystinen nörttien taikatemppu, se on yritysten sujuvan arjen perus rakennuspalikka. Käytännössä kyse on siitä, mistä tiedot tulevat, minne ne laitetaan ja kuka niistä vastaa. Sekä sen miettimisestä, että miten kertynyttä tietoa hyödynnetään.
 
-Yksi yksinkertainen, mutta tehokas askel on yhteisen kansiorakenteen luominen. Kun tiedetään mihin tallennetaan tarjousten versiot, projektisuunnitelmat ja sisäiset ohjeet, sekä nimetään ne johdonmukaisesti, niin säästytään valtavalta määrältä turhaa työtä. Valmiit pohjat, kuten “AsiakasX_Tarjous_Päivämäärä.docx”, voivat vaikuttaa pieniltä asioilta, mutta niillä on iso vaikutus arjen sujuvuuteen.
+Yksi yksinkertainen ja tehokas askel on yhteisen kansiorakenteen luonti ja käytänteiden määrittely. Kun on tiedossa, että mihin asiat tallennetaan ja tiedostot on nimetty johdonmukaisesti, niin säästytään valtavalta määrältä turhaa työtä. Valmiit pohjat, kuten “AsiakasX_Tarjous_Päivämäärä.docx”, voivat vaikuttaa pieniltä asioilta, mutta niillä on iso vaikutus työn sujumiseen.
 
-Pilvipalvelut, kuten [Microsoft 365](https://www.tdp.fi/ohjelmistot/microsoft-365) ja [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace), tarjoavat tähän mainion alustan. Kun yrityksen kaikki dokumentit ovat samassa paikassa, päällekkäisistä versioista ja unohtuneista sähköpostiliitteistä voidaan päästä eroon. Samalla mahdollistuu reaaliaikainen yhteistyö. Ei enää erillisiä tiedostoversioita, vaan yhteinen näkymä siihen, mitä ollaan tekemässä. Näidenkin osalta todellinen hyöty korostuu vasta sitten, kun niiden käyttöön sovitaan yhteiset pelisäännöt.
+Pilvipalvelut, kuten [Microsoft 365](https://www.tdp.fi/ohjelmistot/microsoft-365) ja [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace), tarjoavat erinomaisen alustan tähän. Kun yrityksen dokumentit ovat samassa paikassa, päällekkäisistä versioista ja unohtuneista sähköposti liitteistä on mahdollista päästä eroon. Samalla reaaliaikainen yhteistyö tehostuu. Ei enää erillisiä tiedosto versioita, vaan yhteinen näkymä siihen, mitä ollaan tekemässä. On kuitenkin tärkeää tiedostaa, että näidenkin osalta hyödyt korostuvat vasta yhteisten pelisääntöjen sopimisen myötä. 
 
-Toinen usein aliarvioitu käytäntö on prosessien dokumentointi. Usein tähän ei tarvita monimutkaisia kaavioita, vaan ihan jo se riittää, että kirjataan miten tyypillinen myyntiprosessi etenee tai mitä vaiheita sisältyy asiakasprojektin toteutukseen. Tällainen dokumentaatio helpottaa uusien työntekijöiden perehdytystä ja tuo varmuutta tekemiseen.
+Toinen usein turhan vähälle huomiolle jäävä asia on prosessien dokumentointi. Tähän ei välttämättä tarvita monimutkaisia kaavioita ja viikkojen suunnittelutyötä, vaan usein ihan se  riittää, että kirjataan miten tyypillinen myyntiprosessi etenee tai mitä vaiheita sisältyy asiakasprojektin toteutukseen. Yksinkertainenkin dokumentaatio helpottaa työntekijöiden perehdytystä ja tuo varmuutta tekemiseen. 
 
-Samalla on hyvä miettiä myös vastuualueita. Usein käy niin, että tiedonhallinta ei ole oikein kenenkään asia. Kun sovitaan, että esimerkiksi myyntitiimi vastaa CRM:n ajantasaisuudesta tai projektipäällikkö huolehtii projektikansion rakenteesta, muodostuu yhteisestä tekemisestä selkeämpää ja vastuullisempaa.
+Myös vastuualueita on hyvä miettiä. Usein käy niin, että tiedonhallinta ei ole oikein kenenkään asia. Kun esimerkiksi sovitaan, että myyntitiimi vastaa CRM:n ajantasaisuudesta tai projektipäällikkö projektikansion rakenteesta, muodostuu yhteisestä tekemisestä selkeämpää ja vastuullisempaa.
 
-Tiedonhallinta liittyy kiinteästi myös tietoturvaan ja tietosuojaan. Jos ei tiedetä, missä asiakastiedot ovat tai kenellä niihin on pääsy, otetaan turhia riskejä. Onko yrityksen dokumentit suojattu? Käytetäänkö kaksivaiheista tunnistautumista? Ovatko henkilötiedot järjestyksessä? Pienillä ohjeistuksilla ja selkeillä käytännöillä voidaan ehkäistä suuria vahinkoja ja samalla osoittaa asiakkaille, että heidän tietonsa ovat hyvissä käsissä.
+Tiedonhallinta liittyy kiinteästi myös tietoturvaan ja tietosuojaan. Mikäli ei ole tiedossa, missä asiakastiedot ovat tai kenellä niihin on pääsy otetaan turhia riskejä. On hyvä tarkistaa ainakin seuraavat asiat:
 
-Myös viestintä kaipaa yhteisiä pelisääntöjä. Kun käytössä on useita kanavia syntyy helposti sekaannusta. Jos on selkeys siitä, että missä asioita hoidetaan ja minne tärkeät tiedot kuuluvat, niin ollaan jo pitkällä.
+* Onko yrityksen dokumentit suojattu?
+* Käytetäänkö palveluissa kaksivaiheista tunnistautumista?
+* Ovatko henkilötiedot järjestyksessä?
 
-Yksi tärkeimmistä käytännöistä on tilanteen jatkuva seuraaminen. Tiedonhallinta ei ole asia, jonka voi vain laittaa kerralla kuntoon ja unohtaa sitten. Kerää palautetta: mikä toimii ja missä on kipupisteitä? Varmista, että sovitut käytännöt päätyvät käyttöön ja tee niihin tarvittaessa säätöjä. Näin tiedonhallinnasta tulee osa jatkuvaa kehitystä, ei vain irrallinen IT -asia.
+Yksinkertaisilla ohjeilla ja selkeillä käytännöillä voidaan ehkäistä suuria vahinkoja ja samalla viestitään asiakkaalle, että heidän tietonsa ovat hyvissä käsissä.
+
+Viestintäkin kaipaa yhteisiä pelisääntöjä. Jos käytössä on useita kanavia syntyy helposti  sekaannusta. Kun on selkeää, että missä asioita hoidetaan ja minne tärkeät tiedot kuuluvat, niin ollaan jo pitkällä.
+
+Yksi olennaisimmista asioista on tilanteen jatkuva seuraaminen. Tiedonhallinta ei ole asia, jonka voi vain laittaa kuntoon ja unohtaa. Kerää palautetta: mikä toimii ja missä on kipupisteitä? Varmista, että sovitut käytännöt päätyvät käyttöön ja päivitä niitä tarvittaessa. Näin tiedonhallinnasta tulee jatkuvasti kehittyvä liiketoiminnan osa, eikä vain irrallinen IT -asia.
 
 ![Kuvituskuva. Keskellä robotti kuvaamassa tekoälyä. Tekoäly on yhteydessä tiedostoasemaan sekä pilvipalveluihin.](/assets/tiedonhallinta-tekoaly-avuksi.png "Hyvin hallittu data on edellytys tekoälyn hyödyntämiselle pienyrityksessä.")
 
-## Tekoälystä apua arjen tietotyöhön – kun pohjatyöt on tehty
+## Tekoälystä apua arjen tietotyöhön
 
-Tekoäly, erityisesti suuret kielimallit, kuten ChatGPT, ovat nousseet nopeasti osaksi yritysten arkea. Siinä missä AI tuntui ennen kaukaiselta tulevaisuuden teknologialta, nykyisin se löytyy jo työpöydältä, osana esimerkiksi [Microsoftin](https://www.tdp.fi/ohjelmistot/microsoft-365) tai [Googlen](https://www.tdp.fi/ohjelmistot/google-workspace) toimistosovelluksia. Mutta mitä tämä oikeastaan tarkoittaa käytännössä ja mitä yrityksen on hyvä ottaa huomioon ennen kuin tekoälyltä voi odottaa apua?
+AI ja erityisesti suuret kielimallit, kuten ChatGPT, ovat nousseet nopeasti osaksi yritysten arkea. Siinä missä tekoäly tuntui ennen kaukaiselta tulevaisuuden teknologialta, nykyisin se löytyy jo työpöydältä, osana esimerkiksi [Microsoftin](https://www.tdp.fi/ohjelmistot/microsoft-365) tai [Googlen](https://www.tdp.fi/ohjelmistot/google-workspace) toimistosovelluksia. Mitä tämä oikeastaan tarkoittaa käytännössä ja mitä on hyvä ottaa huomioon ennen kuin tekoälystä on apua.
 
-Aloitetaan tärkeimmästä: tekoäly hyödyntää saatavilla olevaa tietoa, oli se sitten hyvin organisoitua tai täysin hajallaan. Jos dokumentteja on useissa eri paikoissa, versiot ristiriitaisia ja osa tiedosta vain työntekijöiden muistikuvissa, ei tekoäly voi taikoa tarkkoja ja hyödyllisiä vastauksia. “Roskaa sisään, roskaa ulos”, kuten sanonta kuuluu.
+Aloitetaan olennaisimmasta: tekoäly hyödyntää ainoastaan saatavilla olevaa tietoa, oli se sitten hyvin organisoitua tai täysin hajallaan. Jos dokumentteja on useissa paikoissa, versiot ristiriitaisia ja osa tiedoista vain työntekijöiden muistikuvissa, ei tekoäly voi taikoa tarkkoja ja hyödyllisiä vastauksia. “Roskaa sisään, roskaa ulos”, kuten sanonta kuuluu.
 
-Sen sijaan silloin, kun tieto on kunnossa: tallennettu loogisesti, ajantasaista ja helposti löydettävissä, tekoäly voi tuoda todellista hyötyä. Esimerkiksi tilanteessa, jossa projektipäällikkö haluaa nopeasti koota yhteenvedon projektin tilanteesta asiakkaalle. Aiemmin tämä vaati sähköpostien, muistiinpanojen ja työkirjausten läpikäyntiä. Nyt tekoäly voi kaivaa tarvittavat palaset suoraan ja ehdottaa valmista koontia. Tässä säästyy huomattavasti aikaa ja usein myös hermoja.
+Kun tiedot ovat kunnossa: tallennettu loogisesti, ajantasaisia ja helposti löydettävissä, tekoäly voi tuoda todellista hyötyä. Esimerkiksi tilanteessa, jossa päällikkö haluaa nopeasti koota yhteenvedon projektin tilanteesta asiakkaalle. Aiemmin tämä saattoi vaatia sähköpostien, muistiinpanojen ja työkirjausten läpikäyntiä. Nyt tekoäly pystyy kaivamaan tarvittavat palaset suoraan esiin ja voi ehdottaa valmista koontia. Tämä säästää huomattavasti aikaa ja usein myös hermoja.
 
-Tai jos ajatellaan myyntitiimiä, joka haluaa tietää, mitä kyseinen asiakas osti viimeksi ja kuka siitä vastasi. Jos asiakastiedot ovat CRM:ssä ja sopimukset SharePointissa, voi tekoäly yhdistää nämä tiedot ja tarjota vastauksen muutamassa sekunnissa. Edellyttäen, että tiedot todella löytyvät sieltä missä niiden kuuluisi olla.
+Tai jos ajattelemme myyntitiimiä, joka haluaa tietää, että mitä kyseinen asiakas osti viimeksi ja kuka siitä vastasi. Jos asiakastiedot ovat CRM:ssä ja sopimukset SharePointissa, voi AI yhdistää nämä tiedot ja tarjota vastauksen muutamassa sekunnissa. Edellyttäen, että tiedot todellakin löytyvät sieltä missä niiden kuuluu olla.
 
-Tässä piilee tekoälyn voima, mutta myös sen riippuvuus laadukkaasta datasta. Tekoäly ei pelasta, jos taustat eivät ole kunnossa. Se ei myöskään korvaa ajattelua tai tarkistamista. AI voi auttaa, tehostaa ja ehdottaa, mutta käyttäjän täytyy ymmärtää mistä vastaukset tulevat ja mihin ne perustuvat.
+Tässä piilee tekoälyn voima, mutta se on riippuvainen laadukkaasta datasta. AI ei auta, jos taustat eivät ole kunnossa. Se ei myöskään korvaa omaa ajattelua ja tarkistamista. AI voi auttaa, tehostaa ja ehdottaa, mutta käyttäjän täytyy ymmärtää mistä vastaukset tulevat ja mihin ne perustuvat.
 
-Tekoälyä hyödyntävät ratkaisut, kuten Google Gemini ja Microsoft 365 Copilot, voivat viedä meitä kohti älykkäämpää arkea. Ne voivat yhdistää tiedon sirpaleet, ehdottaa toimintatapoja ja jopa kirjoittaa puolestamme, mutta ne eivät tee sitä tyhjästä. Siksi tekoälyn käyttöönotto on usein myös oiva hetki tarkastella, että missä kunnossa yrityksen tiedonhallinta oikeastaan on ja kiinnittää huomiota siihen, jos asialle on syytä tehdä jotain.
+Kielimallit, kuten Google Gemini ja Microsoft 365 Copilot, voivat viedä meitä kohti älykkäämpää arkea. Ne voivat yhdistää tiedon sirpaleet, ehdottaa toimintatapoja ja jopa kirjoittaa puolestamme, mutta ne eivät tee mitään tyhjästä. Siksi tekoälyn käyttöönotto on myös oiva hetki tarkastella, että missä kunnossa yrityksen tiedonhallinta on tällä hetkellä ja kiinnittää huomiota siihen, jos asialle on syytä tehdä jotain.
 
-Hyvin organisoitu tieto on edelleen parasta valmistautumista tulevaisuuteen. Se tekee arjesta sujuvampaa jo nyt ja avaa jatkuvasti ovia uusille mahdollisuuksille, kuten tekoälyn yhä tehokkaammalle hyödyntämiselle. Kun perustat ovat kunnossa, niin myös AI muuttuu avuksi eikä arvoitukseksi.
+Hyvin organisoitu tieto on parasta valmistautumista tulevaisuuteen. Se tekee arjesta sujuvampaa ja avaa jatkuvasti ovia uusille mahdollisuuksille, kuten tekoälyn yhä tehokkaammalle hyödyntämiselle. Kun perustat ovat kunnossa, niin tieto pysyy hallussa ja myös AI muuttuu avuksi eikä arvoitukseksi.
 
-### Kun otat tekoälyn käyttöön – tarkista nämä viisi asiaa
+### Kun otat tekoälyn käyttöön – tarkista nämä viisi asiaa:
 
 1. **Missä tieto sijaitsee?**\
    Onko tärkeät dokumentit tallennettu keskitetysti vai hajaantuneet eri paikkoihin?
@@ -97,7 +103,7 @@ Hyvin organisoitu tieto on edelleen parasta valmistautumista tulevaisuuteen. Se 
 
 ## Milloin on aika kysyä apua?
 
-Tiedonhallinnan kehittäminen lähtee usein liikkeelle sisältä päin. Yrityksessä huomataan, että tiedostoja on vaikea löytää tai että asiakkaiden tiedot ovat vähän missä sattuu. Niinpä laaditaan kansiorakenne, testataan CRM:ää tai ERP:iä ja annetaan ohjeita tallennustavoista. Alku vaikuttaa lupaavalta, mutta sitten arki astuu kuvaan.
+Tiedonhallinnan kehittäminen lähtee usein liikkeelle sisältä päin. Yrityksessä huomataan, että tiedostoja on vaikea löytää tai että asiakkaiden tiedot ovat vähän missä sattuu. Niinpä laaditaan kansiorakenne, testataan CRM:ää tai ERP:iä ja annetaan ohjeita tallennus tavoista. Alku vaikuttaa lupaavalta, mutta sitten arki astuu kuvaan.
 
 Projektit painavat päälle, henkilöstö vaihtuu ja jokaisella on omat kiireensä. Käytännöt jäävät puolitiehen, ohjeet unohtuvat ja pian ollaan taas takaisin lähtöpisteessä. Usein tämä ei johdu välinpitämättömyydestä, vaan siitä että pienyrityksen resurssit eivät yksinkertaisesti riitä kaiken hallintaan.
 
@@ -141,4 +147,4 @@ Asiantuntijan apu on paikallaan monenlaisissa tilanteissa. Jos tiedonhallinnan k
 
 On myös viisasta kääntyä asiantuntijan puoleen silloin, kun yritys suunnittelee uutta liiketoimintaa tai aikoo laajentaa toimintaansa. Kasvun kynnyksellä on tärkeää varmistaa, että tiedonhallinta tukee strategisia tavoitteita, skaalautuu mukana ja täyttää sääntelyn vaatimukset alusta asti.
 
-TDP tarjoaa asiantuntevaa tukea tiedonhallinnan suunnittelussa, järjestelmäintegraatioissa ja henkilöstön koulutuksessa, sekä arkisten haasteiden ratkaisuun että liiketoiminnan kehittämisen tueksi.
+TDP tarjoaa asiantuntevaa tukea tiedonhallinnan suunnittelussa, järjestelmä integraatioissa ja henkilöstön koulutuksessa, sekä arkisten haasteiden ratkaisuun että liiketoiminnan kehittämisen tueksi.
