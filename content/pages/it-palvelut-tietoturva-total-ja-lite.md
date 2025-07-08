@@ -17,7 +17,6 @@ breadcrumb:
   - label: Tietoturvapalvelut
 contactForm: Ota yhteyttä
 ---
-
 ![Henkilö käyttää kannettavaa tietokonetta. Tietokoneeseen on yhdistetty ulkoinen näyttö, jolla näkyy sähköisten allekirjoitusten palvelun Assentlyn kotisivut.](/assets/tietoturva2-1280-x-800.jpg)
 
 <DisplayVariable variableKey="datto-rmm-nimi" tag="h1" bold={true} />
@@ -26,8 +25,8 @@ Moderni yritys tarvitsee tehokkaat ja luotettavat työkalut IT-järjestelmien ha
 
 ## Palvelusisältö
 
-- Etähallinta ja -valvonta (Remote Monitoring and Management)
-- Virustorjunta
+* Etähallinta ja -valvonta (Remote Monitoring and Management)
+* Virustorjunta
 
 ## Palvelukuvaus
 
@@ -39,22 +38,27 @@ Etähallinnan avulla IT-järjestelmien ylläpito sujuu joustavasti ilman jatkuva
 
 <DisplayVariable variableKey="datto-rmm-edr-nimi" tag="h1" bold={true} />
 
-<DisplayVariable variableKey="datto-rmm-edr-nimi" tag="p" bold={false} /> tarjoaa kattavan suojauksen tietoturvauhkia vastaan, sisältäen kaikki <DisplayVariable variableKey="datto-rmm-nimi" tag="p" bold={false} /> palvelun osa-alueet sekä lisäsuojauksia, kuten ransomware-tunnistuksen ja työaseman-varmuuskopioinnin.
+<DisplayVariable variableKey="datto-rmm-edr-nimi" tag="p" bold={false} />
+
+ tarjoaa kattavan suojauksen tietoturvauhkia vastaan, sisältäen kaikki <DisplayVariable variableKey="datto-rmm-nimi" tag="p" bold={false} /> palvelun osa-alueet sekä lisäsuojauksia, kuten ransomware-tunnistuksen ja päätepisteiden aktiivisen suojauksen (EDR).
 
 ## Palvelusisältö
 
-- Tietoturva RMM
-- `3.` osapuolen sovelluspäivitykset
-- Virustorjunta
-- Ransomware-tunnistus
-- Endpoint Detection and Response (EDR)
-- Työaseman varmuuskopiointi
+* Tietoturva RMM
+* `3.` osapuolen sovelluspäivitykset
+* Virustorjunta
+* Ransomware-tunnistus
+* Endpoint Detection and Response (EDR)
+* Työaseman varmuuskopiointi
 
 ## Palvelukuvaus
 
-<DisplayVariable variableKey="datto-rmm-edr-nimi" tag="p" bold={false} /> yhdistää etähallinnan ja monipuoliset tietoturvaominaisuudet, tarjoten reaaliaikaisen uhkien havaitsemisen, tehokkaan ennakoivan suojauksen, sekä kattavat analyysi ja raportointi työkalut.
+<DisplayVariable variableKey="datto-rmm-edr-nimi" tag="p" bold={false} />
 
-Palvelu varmuuskopioi tärkeät tiedot ja mahdollistaa niiden palauttamisen, samalla kun virustorjunta, ransomware-tunnistus ja päivitysten hallinta pitävät päätelaitteet suojattuina ja ajan tasalla.
+ yhdistää etähallinnan ja monipuoliset tietoturvaominaisuudet, tarjoten reaaliaikaisen uhkien havaitsemisen, tehokkaan ennakoivan suojauksen, sekä kattavat analyysi- ja raportointityökalut.
+
+Päätepisteiden suojaus tarkkailee jatkuvasti uhkiin liittyviä merkkejä käytössä olevilla laitteilla. EDR hyödyntää koneoppimista tunnistaakseen epänormaalit toiminnot reaaliajassa ja reagoi mahdollisiin uhkiin nopeasti. Olennaisin ero EDR:n ja perinteisen virustorjunnan välillä on lähestymistavassa. Virustorjuntaratkaisut voivat puuttua ainoastaan sellaisiin uhkiin, jotka ne jo tuntevat. Päätepisteiden suojaus puolestaan käyttää ennakoivaa lähestymistapaa tunnistaakseen myös aktiiviset tietomurrot ja hyökkäykset epäilyttävän toiminnan perusteella.
+
 
 <HeroBlock bgColor="brand" imageAlign="right">
 
