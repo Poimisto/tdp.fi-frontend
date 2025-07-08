@@ -13,7 +13,6 @@ head:
 thumbnail: /assets/20220825-dsc07575-3.jpg
 contactForm: Ota yhteyttä
 ---
-<!--StartFragment-->
 
 Millaista on arki, kun IT sujuu niin hyvin, ettei sitä oikeastaan edes huomaa? Uudessa yritysvideossamme halusimme näyttää, miltä yhteistyö TDP:n kanssa voi parhaimmillaan tuntua – helpolta, sujuvalta ja turvalliselta.
 
@@ -29,6 +28,4 @@ Videomme kiteyttää ydinlupauksemme: **IT on meillä helppoa**. Se ei ole pelk
 
 Jos haluat nähdä, mitä tarkoittaa sujuva IT-kumppanuus käytännössä, kurkkaa video alta. Ja jos herää kysymyksiä, meiltä saa aina kysyä – helposti ja ilman IT-jargonia.
 
-[K﻿atso yritysvideomme YouTubessa](https://youtu.be/XgMP16qzAIQ)
-
-<!--EndFragment-->
+<YoutubeWrapper videoUrl="https://www.youtube.com/embed/XgMP16qzAIQ?si=VMvAl_XbHe5AkWEV" />
