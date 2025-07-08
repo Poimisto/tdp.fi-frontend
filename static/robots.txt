@@ -1,0 +1,3 @@
+# robots.txt — updated 2025-07-08 year-MM-DD, disallowing forms from being crawled and indexed
+User-agent: *
+Disallow: /AsiakasLomakeCapfull
