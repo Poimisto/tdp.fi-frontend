@@ -29,19 +29,17 @@ Dell Pro 14 Premium yhdistää huippuluokan suorituskyvyn, kevyen rakenteen ja e
 Kestävä rakenne, modulaariset osat ja takaavat pitkän elinkaaren ja erinomaisen huollettavuuden.  
 
 Huippulaatuinen kamera, parannettu ääni ja kattavat liitännät tekevät laitteesta täydellisen kumppanin  
-niin etätyöhön kuin matkalle. Tämä on kannettava, joka on suunniteltu tulevaisuutta varten.
+niin etätyöhön kuin matkalle. Tämä on kannettava, joka on suunniteltu tulevaisuutta varten.  
+Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, niin katso [tehokannettava-pakettimme](/leasing-paketit/tehokannettava) hieman tehokkaampaan työskentelyyn:
 
-Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, niin katso  
-<a href="/leasing-paketit/tehokannettava">tehokannettava-pakettimme</a> hieman tehokkaampaan työskentelyyn
+| **Konepakettien hinnat (alv 0%)**  | **36 kk leasing-sopimus** | **hinta suoraostona** |
+| ---------------------------------- | -------------------------- | ---------------------- |
+| DELL Pro Premium 14                | 68,92 €/kk                 | 2 098,00 €             |
+| DELL 27 PRO 2725DEHF -näyttö       | 9,43 €/kk                  | 288,00 €               |
 
-| Konepakettien hinnat (alv 0%)       | 36 kk leasing-sopimus | hinta suoraostona |
-| ---------------------------------- | --------------------- | ----------------- |
-| DELL Pro Premium 14                | 68,92 €/kk            | 2 098,00 €        |
-| DELL 27 PRO 2725DEHF -näyttö       | 9,43 €/kk             | 288,00 €          |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1–5 vuotta)  
-* Kysy tarjous usean koneen paketista  
-* Sisältää esiasennuksen ja toimituksen  
+* Kysy tarjous usean koneen paketista   
 * Paketti voidaan räätälöidä vastaamaan teidän tarpeitanne
 
 <Cards
