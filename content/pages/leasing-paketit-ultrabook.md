@@ -3,12 +3,14 @@ path: /leasing-paketit/ultrabook
 thumbnail: /assets/dell_7440.jpg
 date: 2021-02-25T09:34:30.731Z
 head:
-  title: Telakoitava Ultrabook ammattilaiselle
-  description: Tämä huippukevyt ja kestävä kokoonpano on suunniteltu täyttämään
-    vaativammankin käyttäjän tarpeet. Tehokas prosessori, metallirunko,
-    FullHD-näyttö, SSD-levy, helppo telakointi ja sisäänrakennettu modeemi
-    takaavat miellyttävän käyttökokemuksen.
-  keywords: Ultrabook, telakka
+  title: AI-kannettava – tehokkuutta ja kestävyyttä liikkuville ammattilaisille
+  description: Dell Pro 14 Premium yhdistää huippuluokan suorituskyvyn, kevyen
+    rakenteen ja edistyksellisen tekoälyteknologian. Kestävä rakenne,
+    modulaariset osat ja takaavat pitkän elinkaaren ja erinomaisen
+    huollettavuuden. Huippulaatuinen kamera, parannettu ääni ja kattavat
+    liitännät tekevät laitteesta täydellisen kumppanin niin etätyöhön kuin
+    matkalle. Tämä on kannettava, joka on suunniteltu tulevaisuutta varten.
+  keywords: Ultrabook, AI-kannettava
 contactForm: Ota yhteyttä
 breadcrumb:
   - path: /
@@ -21,18 +23,16 @@ breadcrumb:
     path: /tietokone-leasing-esimerkkipaketit
   - label: Ultrabook
 ---
-# Telakoitava Ultrabook tyylikästä laatua arvostavalle ammattilaiselle
+# AI-kannettava – tehokkuutta ja kestävyyttä liikkuville ammattilaisille
 
-Tämä huippukevyt ja kestävä kokoonpano on suunniteltu täyttämään vaativammankin käyttäjän tarpeet. Tehokas prosessori, metallirunko, FullHD-näyttö, SSD-levy, sekä langaton telakointi ja sisäänrakennettu modeemi takaavat miellyttävän käyttökokemuksen.
+Dell Pro 14 Premium yhdistää huippuluokan suorituskyvyn, kevyen rakenteen ja edistyksellisen tekoälyteknologian. Kestävä rakenne, modulaariset osat ja takaavat pitkän elinkaaren ja erinomaisen huollettavuuden. Huippulaatuinen kamera, parannettu ääni ja kattavat liitännät tekevät laitteesta täydellisen kumppanin niin etätyöhön kuin matkalle. Tämä on kannettava, joka on suunniteltu tulevaisuutta varten.
 
 Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, niin katso <a href="/leasing-paketit/tehokannettava">tehokannettava-pakettimme</a> hieman tehokkaampaan työskentelyyn
 
-| Konepakettien hinnat (alv 0%)   | 36 kk leasing-sopimus | hinta suoraostona |
-| :------------------------------ | --------------------: | ----------------: |
-| DELL Latitude 7450              | 49,92 €/kk           | 1 560,00 €        |
-| DELL 27 PRO P2722HE -näyttö     | 7,93 €/kk            | 228,00 €          |
-
-
+| Konepakettien hinnat (alv 0%) | 36 kk leasing-sopimus | hinta suoraostona |
+| ----------------------------- | --------------------- | ----------------- |
+| DELL Pro Premium 14           | 68,92 €/kk            | 2 098,00 €        |
+| DELL 27 PRO 2725DEHF -näyttö  | 9,43 €/kk             | 288,00 €          |
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
