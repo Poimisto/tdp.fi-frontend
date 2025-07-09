@@ -32,10 +32,10 @@ Huippulaatuinen kamera, parannettu ääni ja kattavat liitännät tekevät laitt
 niin etätyöhön kuin matkalle. Tämä on kannettava, joka on suunniteltu tulevaisuutta varten.  
 Jos alta löytyvän laitteiston ominaisuudet eivät ole riittävällä tasolla, niin katso [tehokannettava-pakettimme](/leasing-paketit/tehokannettava) hieman tehokkaampaan työskentelyyn:
 
-| **Konepakettien hinnat (alv 0%)**  | **36 kk leasing-sopimus** | **hinta suoraostona** |
-| ---------------------------------- | -------------------------- | ---------------------- |
-| DELL Pro Premium 14                | 68,92 €/kk                 | 2 098,00 €             |
-| DELL 27 PRO 2725DEHF -näyttö       | 9,43 €/kk                  | 288,00 €               |
+| Konepakettien hinnat (alv 0%)     | 36 kk leasing-sopimus | hinta suoraostona |
+| :-------------------------------- | ---------------------: | -----------------: |
+| DELL Pro Premium 14              | 68,92 €/kk             | 2 098,00 €         |
+| DELL 27 PRO 2725DEHF -näyttö     | 9,43 €/kk              | 288,00 €           |
 
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1–5 vuotta)  
