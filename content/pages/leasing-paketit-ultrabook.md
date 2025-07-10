@@ -1,6 +1,6 @@
 ---
 path: /leasing-paketit/ultrabook
-thumbnail: /assets/dell_7440.jpg
+thumbnail: /assets/dell-pro-14-premium.jpg
 date: 2021-02-25T09:34:30.731Z
 head:
   title: AI-kannettava – tehokkuutta ja kestävyyttä liikkuville ammattilaisille
