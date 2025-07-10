@@ -49,7 +49,6 @@ Etähallinnan avulla IT-järjestelmien ylläpito sujuu joustavasti ilman jatkuva
 * Virustorjunta
 * Ransomware-tunnistus
 * Endpoint Detection and Response (EDR)
-* Työaseman varmuuskopiointi
 
 ## Palvelukuvaus
 
