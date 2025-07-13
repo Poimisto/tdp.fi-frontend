@@ -135,7 +135,7 @@ Ydinosaamistamme on toimittaa, asentaa ja edelleen kehittää yritysten todellis
 
 YIeinen IT-tuki yrityksille tai kohdennetut ICT-palvelut yrityksille ovat selkeitä vahvuusalueitamme, kysy ihmeessä lisää!
 
-<CallToAction bgColor="brand" url="https://bit.ly/3zsDs3q" align="center">Tilaa uutiskirjeemme</CallToAction>
+<CallToAction bgColor="brand" url="http://eepurl.com/hJGYfP" align="center">Tilaa uutiskirjeemme</CallToAction>
 
 </div>
 
