@@ -75,7 +75,7 @@ const LEASING_DEVICES = {
     { name: "Näppäimistö", price: 76 }, // Logitech MX Keys S ilman alv - Verkkokauppa
     { name: "Hiiri", price: 105 }, // Logitech MX Master 3S for Mac ilman alv - Verkkokauppa
     { name: "Kuulokkeet", price: 159 }, // Jabra Evolve2 65 Stereo LINK380C ilman alv - Verkkokauppa
-    { name: 'Näyttö 27"', price: 179 }, // Dell P2725H
+    { name: 'Näyttö 27" QHD USB-C', price: 292 }, // Dell P2725DEHF
   ],
 }
 
