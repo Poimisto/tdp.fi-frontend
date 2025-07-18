@@ -27,12 +27,12 @@ const LEASING_DEVICES = {
   devices: [
     {
       name: 'MacBook Pro 16" M4 Pro 24 Gt, 1 Tt 2024',
-      price: 2628,
+      price: 2594,
       warrantyId: 2,
     },
     {
       name: 'MacBook Pro 16" M4 Max 64 Gt, 1Tt 2024',
-      price: 4142,
+      price: 3978,
       warrantyId: 2,
     },
     {
@@ -43,7 +43,7 @@ const LEASING_DEVICES = {
     {
       name: 'MacBook Air 15" M4 16 Gt, 512 Gt 2024',
       price: 1449,
-      warrantyId: 5,
+      warrantyId: 4,
     },
     { name: "Mac mini M4 Pro 24 Gt, 512 Gt", price: 1393, warrantyId: 3 },
   ],
@@ -64,6 +64,11 @@ const LEASING_DEVICES = {
       id: 3,
       name: "mcare Business Premium -huoltopalvelu, Mac Mini M4 Pro, 36 kk",
       price: 112,
+    },
+    {
+      id: 4,
+      name: 'mcare Business Premium -huoltopalvelu, MacBook Air 15" M4, 36 kk',
+      price: 178,
     },
   ],
   peripherals: [
