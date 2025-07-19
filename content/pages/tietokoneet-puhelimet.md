@@ -50,7 +50,7 @@ Mika Mäkinen | 040 632 7090 | mika.makinen@tdp.fi
 </HeroBlock>
 
 
-Kauttamme saatte niin Dellin, Applen, Lenovon, HP:n ja Fujitsun kannettavat kuin Windows-, Linux- ja Mac-tehotyöasemat sekä vaikka Samsungin ja Applen puhelimet toivotulla hintatasolla. 
+Kauttamme saatte niin Dellin, Applen, Lenovon ja HP:n kannettavat kuin Windows-, Linux- ja Mac-tehotyöasemat sekä vaikka Samsungin ja Applen puhelimet toivotulla hintatasolla. 
 
 Laitteisiin voidaan esiasentaa myös yrityksesi omia ohjelmistoja ja määrityksiä, jolloin ne toimitetaan käyttövalmiina ja työntekijäsi pääsevät heti omaan ydintyöhönsä käsiksi ilman tarvetta käyttää aikaa asennusten selvittämiseen.
 
