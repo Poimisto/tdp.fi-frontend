@@ -26,7 +26,7 @@ Uusimmat Apple M4 -sarjan laitteet nyt leasingillä tai suoraostolla: MacBook Pr
 
 <LeasingCalculator />
 
-Tarjoamme uusimmat MacBook Pro -mallit 14" ja 16" koossa, varustettuna tehokkailla M4 Pro ja M4 Max -suorittimilla sekä koko työpäivän kestävällä akulla – täydellinen valinta vaativaan ammattilaiskäyttöön.
+Uusimmat MacBook Pro -mallit 14" ja 16" koossa, varustettuna tehokkailla M4 Pro ja M4 Max -suorittimilla sekä koko työpäivän kestävällä akulla – täydellinen valinta vaativaan ammattilaiskäyttöön.
 
 M4-sarjan Macit tarjoavat entistä enemmän tehoa tekoäly- ja grafiikkaprosessointiin, parannetun moninäyttötuen sekä entistäkin energiatehokkaamman arkkitehtuurin – kaikki sujuvassa ja hiljaisessa paketissa.
 
