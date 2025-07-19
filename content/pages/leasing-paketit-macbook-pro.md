@@ -4,10 +4,9 @@ thumbnail: /assets/macbook_16.webp
 date: 2023-07-26T08:41:17.622Z
 head:
   title: Apple-laitteet yrityksille – Tehoa, tyyliä ja luotettavuutta
-  description: Kevyt ja kestävä MacBook Pro on suunniteltu vastaamaan
-    vaativimpienkin käyttäjien tarpeisiin. Tehokas prosessori, alumiinirunko,
-    Retina-näyttö, nopea SSD-tallennus sekä Thunderbolt-liitännät takaavat
-    sujuvan ja miellyttävän käyttökokemuksen.
+  description: "Uusimmat Apple M4 -sarjan laitteet nyt leasingillä tai
+    suoraostolla: MacBook Pro, MacBook Air ja Mac mini huippusuorituskyvyllä ja
+    tyylikkäällä designilla"
   keywords: Ultrabook, Macbook Pro, MacBook Air, Mac mini
 contactForm: Ota yhteyttä
 breadcrumb:
