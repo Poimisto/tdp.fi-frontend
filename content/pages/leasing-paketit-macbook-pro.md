@@ -42,13 +42,13 @@ Kauttamme saat myös kaikki muut Applen laitteet, kuten Mac mini, Mac Studio, iM
     "title": "Apple MacBook Pro 16”",
     "linkBgColor": "darkest",
     "image": "/assets/macbook_16.webp",
-    "content": "* Suoritin: M4 Pro 10–14 ydintä tai M4 Max 14–16 ydintä\n* Muisti: 24–128 Gt yhtenäismuistia\n* Tallennustila: 512 Gt – 8 Tt supernopeaa SSD-tilaa\n* Näyttö: 16\" Liquid Retina XDR – laaja väriskaala ja huippukirkkaus\n* Akkukesto: jopa 24 tuntia\n* Liitännät: 3× Thunderbolt 4, HDMI, SDXC, MagSafe-lataus, kuulokeliitäntä\n* Yhteydet: Wi-Fi 6E ja Bluetooth 5.3\n* Värit: Tähtimusta tai Hopea"
+    "content": "* Suoritin: M4 Pro 10–14 ydintä tai M4 Max 14–16 ydintä\n* Muisti: 24–128 Gt\n* Tallennustila: 512 Gt – 8 Tt supernopeaa SSD-tilaa\n* Näyttö: 16\" Liquid Retina XDR – laaja väriskaala ja huippukirkkaus\n* Akkukesto: jopa 24 tuntia\n* Liitännät: 3× Thunderbolt 4, HDMI, SDXC, MagSafe-lataus, kuulokeliitäntä\n* Yhteydet: Wi-Fi 6E ja Bluetooth 5.3\n* Värit: Tähtimusta tai Hopea"
   },
   {
     "bgColor": "lightest",
     "title": "Apple MacBook Pro 14”",
     "linkBgColor": "darkest",
     "image": "/assets/macbook_14.webp",
-    "content": "* Suoritin: M4 Pro 10–14 ydintä tai M4 Max 14–16 ydintä\n* Muisti: 16–128 Gt yhtenäismuistia\n* Tallennustila: 512 Gt – 8 Tt supernopeaa SSD-tilaa\n* Näyttö: 14\" Liquid Retina XDR – laaja väriskaala ja huippukirkkaus\n* Akkukesto: jopa 24 tuntia\n* Liitännät: 3× Thunderbolt 4, HDMI, SDXC, MagSafe-lataus, kuulokeliitäntä\n* Yhteydet: Wi-Fi 6E ja Bluetooth 5.3\n* Värit: Tähtimusta tai Hopea"
+    "content": "* Suoritin: M4 Pro 10–14 ydintä tai M4 Max 14–16 ydintä\n* Muisti: 16–128 Gt\n* Tallennustila: 512 Gt – 8 Tt supernopeaa SSD-tilaa\n* Näyttö: 14\" Liquid Retina XDR – laaja väriskaala ja huippukirkkaus\n* Akkukesto: jopa 24 tuntia\n* Liitännät: 3× Thunderbolt 4, HDMI, SDXC, MagSafe-lataus, kuulokeliitäntä\n* Yhteydet: Wi-Fi 6E ja Bluetooth 5.3\n* Värit: Tähtimusta tai Hopea"
   }
 ]' />
