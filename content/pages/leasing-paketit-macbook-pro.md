@@ -36,4 +36,19 @@ Kauttamme saat myös kaikki muut Applen laitteet, kuten Mac mini, Mac Studio, iM
 * Kysy tarjous usean koneen paketista
 * Paketti voidaan räätälöidä vastaamaan teidän tarpeitanne
 
-<Cards cardsPerRow="2" cards='[{"bgColor":"lightest","title":"Apple MacBook Pro 16”","linkBgColor":"darkest","image":"/assets/macbook_16.webp","content":"* Vaikuttava 16 tuuman Liquid Retina XDR näyttö, jossa on erittäin laaja sävyala ja kontrastisuhde\n* M4 Pro 10-ytiminen siru tarjoaa poikkeuksellista tehoa ja nopeutta\n* 19-ytiminen näytönohjain takaa vaadittavan tehon raskaimpiinkin käyttökohteisiin.\n* 16 Gt yhteismuistia\n* Jopa 22 tuntia kestävä akku\n* 512 Gt supernopea SSD-tallennustila\n* Kolme Thunderbolt 4 porttia, HDMI-portti, SDXC-korttipaikka, kuulokeliitäntä, MagSafe-latausportti\n* Nopeat langattomat wifi 6E -yhteydet jopa 2 kertaa nopeampaan tiedonsiirtoon\n*"},{"bgColor":"lightest","title":"Apple MacBook Pro 14”","linkBgColor":"darkest","content":"* Vaikuttava 14 tuuman Liquid Retina XDR näyttö, jossa on erittäin laaja sävyala ja kontrastisuhde\n* M4 Pro 12-ytiminen siru tarjoaa poikkeuksellista tehoa ja nopeutta\n* 20-ytiminen näytönohjain takaa vaadittavan tehon raskaimpiinkin käyttökohteisiin.\n* 16 Gt yhteismuistia\n* Jopa 22 tuntia kestävä akku\n* 512 Gt supernopea SSD-tallennustila\n* Kolme Thunderbolt 4 porttia, HDMI-portti, SDXC-korttipaikka, kuulokeliitäntä, n* Nopeat langattomat wifi 6E -yhteydet jopa 2 kertaa nopeampaan tiedonsiirtoon\n* ","image":"/assets/macbook_14.webp"}]' />
+<Cards cardsPerRow="2" cards='[
+  {
+    "bgColor": "lightest",
+    "title": "Apple MacBook Pro 16”",
+    "linkBgColor": "darkest",
+    "image": "/assets/macbook_16.webp",
+    "content": "* Suoritin: M4 Pro 10–14 ydintä tai M4 Max 14–16 ydintä\n* Muisti: 24–128 Gt yhtenäismuistia\n* Tallennustila: 512 Gt – 8 Tt supernopeaa SSD-tilaa\n* Näyttö: 16\" Liquid Retina XDR – laaja väriskaala ja huippukirkkaus\n* Akkukesto: jopa 22 tuntia\n* Liitännät: 3× Thunderbolt 4, HDMI, SDXC, MagSafe-lataus, kuulokeliitäntä\n* Yhteydet: Wi-Fi 6E ja Bluetooth 5.3\n* Värit: Tähtimusta tai Hopea"
+  },
+  {
+    "bgColor": "lightest",
+    "title": "Apple MacBook Pro 14”",
+    "linkBgColor": "darkest",
+    "image": "/assets/macbook_14.webp",
+    "content": "* Suoritin: M4 Pro 10–14 ydintä tai M4 Max 14–16 ydintä\n* Muisti: 24–128 Gt yhtenäismuistia\n* Tallennustila: 512 Gt – 8 Tt supernopeaa SSD-tilaa\n* Näyttö: 14\" Liquid Retina XDR – laaja väriskaala ja huippukirkkaus\n* Akkukesto: jopa 22 tuntia\n* Liitännät: 3× Thunderbolt 4, HDMI, SDXC, MagSafe-lataus, kuulokeliitäntä\n* Yhteydet: Wi-Fi 6E ja Bluetooth 5.3\n* Värit: Tähtimusta tai Hopea"
+  }
+]' />
