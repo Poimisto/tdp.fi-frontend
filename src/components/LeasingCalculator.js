@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react"
+import Helmet from "react-helmet"
 import { getContrast, shade } from "polished"
 import styled from "styled-components"
 import theme from "../theme"
@@ -287,6 +288,16 @@ export default () => {
 
   return (
     <LeasingCalculatorContainer>
+      <Helmet
+        meta={[
+          {
+            name: "calculator-keywords",
+            content: LEASING_DEVICES.devices
+              .map(d => d.name.replaceAll(",", ""))
+              .join(", "),
+          },
+        ]}
+      />
       <LeasingCalculator>
         <LeasingCalculatorFormContainer>
           <LeasingCalculatorFormUpper>
