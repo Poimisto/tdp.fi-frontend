@@ -215,6 +215,7 @@ const EntryTemplate = ({ data, pageContext }) => {
         description={data.mdx.frontmatter.head ? data.mdx.frontmatter.head.description : null}
         title={data.mdx.frontmatter.head ? data.mdx.frontmatter.head.title : null}
         image={data.mdx.frontmatter.thumbnail ? data.mdx.frontmatter.thumbnail.childImageSharp.fixed.src : null}
+        keywords={data.mdx.frontmatter.head.keywords ? data.mdx.frontmatter.head.keywords : null}
       />
 
       {data.mdx.fields.collection === 'posts' && (
@@ -284,6 +285,7 @@ export const pageQuery = graphql`
         head {
           title
           description
+          keywords
         }
         breadcrumb {
           label
