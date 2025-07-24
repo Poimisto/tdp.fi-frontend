@@ -21,7 +21,6 @@ import {
  * and peripherals.
  */
 const ADDITIONAL_MARGIN = 0
-const TWO_YEAR_INTEREST = 1.03129
 const THREE_YEAR_INTEREST = 1.04663
 const LEASING_DEVICES = {
   devices: [
@@ -195,7 +194,6 @@ export default () => {
   const [leasingPrices, setLeasingPrices] = useState([
     {
       name: "Leasing hinnat",
-      price24: "--",
       price36: "--",
       directPurchase: "--",
     },
@@ -225,18 +223,12 @@ export default () => {
   }
 
   useEffect(() => {
-    console.log("Contents of the leasing package:")
-    console.log(leasingPackage)
-
     // Calculate the leasing prices for the selected package.
     let extendedWarrantyPrice = 0
     if (leasingPackage.extendedWarranty) {
       const extendedWarranty = LEASING_DEVICES.warranty.find(
         w => w.id === leasingPackage.device.warrantyId
       )
-
-      console.log("Found extended warranty:")
-      console.log(extendedWarranty)
 
       if (extendedWarranty) {
         extendedWarrantyPrice = extendedWarranty.price
@@ -253,9 +245,6 @@ export default () => {
         return total
       }, 0)
 
-    // const twoYearPayment =
-    //   ((pricePerUnit * leasingPackage.count + ADDITIONAL_MARGIN) / 24) *
-    //   TWO_YEAR_INTEREST
     const threeYearPayment =
       ((pricePerUnit * leasingPackage.count + ADDITIONAL_MARGIN) / 36) *
       THREE_YEAR_INTEREST
@@ -263,7 +252,6 @@ export default () => {
 
     setLeasingPrices([
       {
-        // price24: `${twoYearPayment.toFixed(2)} €/kk`,
         price36: `${threeYearPayment.toFixed(2)} €/kk`,
         directPurchase: `${directPurchase.toFixed(2)} €`,
       },
