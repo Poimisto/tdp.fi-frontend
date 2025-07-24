@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react"
 import { getContrast, shade } from "polished"
 import styled from "styled-components"
+import theme from "../theme"
 import {
   FormControl,
   MenuItem,
@@ -13,6 +14,7 @@ import {
   Input,
   withStyles,
   Checkbox,
+  Button,
 } from "@material-ui/core"
 
 /**
@@ -184,6 +186,21 @@ const WarrantyCheckbox = withStyles({
   checked: {},
 })(props => <Checkbox color="default" {...props} />)
 
+const BrandButton = withStyles({
+  root: {
+    backgroundColor: `${theme.colors.brand}`,
+    // width = parent - margins
+    width: "calc(100% - 10px)",
+    margin: "5px 5px 0px",
+  },
+  text: {
+    color: `${props =>
+      getContrast(props.theme.colors.darkest, props.theme.colors.lightest) > 10
+        ? props.theme.colors.darkest
+        : props.theme.colors.lightest}`,
+  },
+})(props => <Button {...props} />)
+
 export default () => {
   const [leasingPackage, setLeasingPackage] = useState({
     device: LEASING_DEVICES.devices[0],
@@ -198,6 +215,7 @@ export default () => {
       directPurchase: "--",
     },
   ])
+  const [peripheralsOpen, setPeripheralsOpen] = useState(false)
 
   const handleInputChange = (e, key) => {
     const { value, checked } = e.target
@@ -205,6 +223,12 @@ export default () => {
     switch (key) {
       case "extendedWarranty":
         setLeasingPackage(prev => ({ ...prev, [key]: checked }))
+        break
+      case "peripherals":
+        setLeasingPackage(prev => ({
+          ...prev,
+          [key]: value.filter(v => !!v),
+        }))
         break
       default:
         setLeasingPackage(prev => ({
@@ -221,6 +245,9 @@ export default () => {
       setLeasingPackage(prev => ({ ...prev, count: 1000 }))
     }
   }
+
+  const handlePeripheralsOpen = () => setPeripheralsOpen(true)
+  const handlePeripheralsClose = () => setPeripheralsOpen(false)
 
   useEffect(() => {
     // Calculate the leasing prices for the selected package.
@@ -295,6 +322,9 @@ export default () => {
                       ? leasingPackage.peripherals
                       : []
                   }
+                  open={peripheralsOpen}
+                  onOpen={handlePeripheralsOpen}
+                  onClose={handlePeripheralsClose}
                   onChange={e => handleInputChange(e, "peripherals")}
                   multiple
                   input={<Input label="peripherals-input" />}
@@ -309,6 +339,9 @@ export default () => {
                         {p.name}
                       </MenuItem>
                     ))}
+                  <BrandButton onClick={handlePeripheralsClose}>
+                    Sulje
+                  </BrandButton>
                 </Select>
               </FormControl>
             </InputContainer>
