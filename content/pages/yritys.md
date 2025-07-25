@@ -60,7 +60,7 @@ Tavoitteenamme on kehittää palvelukokonaisuuttamme entisestään ja olla siten
 
 Jos haluat tietää enemmän IT-alasta ja yrityksemme uusimmista käänteistä, ryhdy uutiskirjeemme tilaajaksi:
 
-<CallToAction bgColor="brand" url="https://bit.ly/3zsDs3q" align="center">Tilaa uutiskirje</CallToAction>
+<CallToAction bgColor="brand" url="http://eepurl.com/hJGYfP" align="center">Tilaa uutiskirjeemme</CallToAction>
 
 ## S﻿osiaalinen media
 
