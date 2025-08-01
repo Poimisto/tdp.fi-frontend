@@ -54,7 +54,8 @@ Ratkaisu voi sisältää esimerkiksi:
 Asennamme laitteet avaimet käteen -periaatteella, jolloin yrityksen ei tarvitse huolehtia
 teknisistä yksityiskohdista.
 
-###﻿ Tietoturvallinen Yritysverkko
+### Tietoturvallinen Yritysverkko
+
 Tietoturva on pk-yrityksille kriittinen tekijä. TDP:n ratkaisut koostuvat seuraavista osista:
 
 * ﻿Edistyneet palomuuriratkaisut (Cisco, Sophos, Fortinet)
@@ -74,13 +75,13 @@ verkkoympäristöäsi, päivittävät laitteet ja reagoivat nopeasti mahdollisii
 Palvelumme mahdollistaa myös jo olemassa olevan verkkoympäristön siirtämisen
 hallintaamme, jolloin voitte keskittyä ydinliiketoimintaanne.
 
-###﻿ Ratkaisujen skaalautuvuus ja joustavuus
+### Ratkaisujen skaalautuvuus ja joustavuus
 
 Tarjoamamme verkkoratkaisut sopivat erinomaisesti pk-yrityksille ja mukautuvat joustavasti
 yrityksen kasvun mukana. Ratkaisumme tukevat myös monen toimipisteen organisaatioita
 sekä yrityksiä, joissa etätyö on arkea.
 
-###﻿ Miksi valita TDP verkkoyhteyksien kumppaniksi?
+### Miksi valita TDP verkkoyhteyksien kumppaniksi?
 
 TDP:n verkkoratkaisut tarjoavat:
 
@@ -90,7 +91,8 @@ TDP:n verkkoratkaisut tarjoavat:
 * Laadukkaat laitteet johtavilta valmistajilta (Cisco, Ubiquiti, Sophos, Fortinet) 
 * Vahvan ja jatkuvan tietoturvan
 
-###﻿ Ota meihin yhteyttä ja paranna yrityksesti verkkoyhteyksiä jo tänään
+### Ota meihin yhteyttä ja paranna yrityksesti verkkoyhteyksiä jo tänään
+
 Ota yhteyttä Tampereen Datapisteeseen ja anna meidän suunnitella juuri sinun yrityksesi
 tarpeisiin sopiva verkkoratkaisu. Räätälöidyt, turvalliset ja laadukkailla laitteilla toteutetut
 verkkoyhteydet ovat yrityksesi menestyksen perusta.
