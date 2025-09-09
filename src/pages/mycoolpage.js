@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react'
-import CircularProgress from '@material-ui/core/CircularProgress'
+import CircularProgress from '@mui/material/CircularProgress'
 
 const widgetExperimentId = '20Cd20iESRSgpQSfhsr8iw';
 

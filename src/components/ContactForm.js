@@ -1,12 +1,12 @@
 import React, {useState} from "react";
 import HeroBlock from './HeroBlock'
-import TextField from '@material-ui/core/TextField';
-import Checkbox from '@material-ui/core/Checkbox'
-import FormControlLabel from '@material-ui/core/FormControlLabel'
-import FormControl from '@material-ui/core/FormControl'
+import TextField from '@mui/material/TextField';
+import Checkbox from '@mui/material/Checkbox'
+import FormControlLabel from '@mui/material/FormControlLabel'
+import FormControl from '@mui/material/FormControl'
 import CallToAction from './CallToAction'
 import styled from 'styled-components'
-import CircularProgress from '@material-ui/core/CircularProgress';
+import CircularProgress from '@mui/material/CircularProgress';
 
 
 const FormWrapper = styled.div`

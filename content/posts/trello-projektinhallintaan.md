@@ -4,7 +4,8 @@ path: /trello-tehokkaaseen-projektinhallintaan
 date: 2023-02-03T14:47:32.010Z
 head:
   keywords: Trello, projektinhallinta, työnhallinta, IT-työkalu, työkaluohjelma
-  description: Trello on ilmainen digitaalinen työnhallintatyökalu, joka tehostaa
+  description:
+    Trello on ilmainen digitaalinen työnhallintatyökalu, joka tehostaa
     yritysten työntekoa visualisoimalla projektit ja työtehtävät helposti
     hallittavaan muotoon. Se palvelee niin yksittäistä käyttäjää, työryhmää kuin
     koko organisaatiota turvallisesti pilvessä.
@@ -13,11 +14,12 @@ head:
 thumbnail: /assets/trello-netlify-1280-x-800.jpg
 contactForm: Ota yhteyttä
 ---
+
 ![Projektinhallintaohjelma Trello kulkee kaikkialla mukanasi.](/assets/trello-netlify-1280-x-800.jpg)
 
-**Onko työarjessa hyödyllisempää kuin nähdä vilauksessa, mitä pitää tehdä määrätyssä ajassa, ajasta ja paikasta riippumatta?** 
+**Onko työarjessa hyödyllisempää kuin nähdä vilauksessa, mitä pitää tehdä määrätyssä ajassa, ajasta ja paikasta riippumatta?**
 
-Projektinhallintaan ﻿optimoitu **[Trello](https://trello.com/fi)** on ilmainen digitaalinen työnhallintatyökalu, joka tehostaa yritysten työntekoa visualisoimalla projektit ja työtehtävät helposti hallittavaan muotoon. Se palvelee niin yksittäistä käyttäjää, työryhmää kuin koko organisaatiota turvallisesti pilvessä. 
+Projektinhallintaan ﻿optimoitu **[Trello](https://trello.com/fi)** on ilmainen digitaalinen työnhallintatyökalu, joka tehostaa yritysten työntekoa visualisoimalla projektit ja työtehtävät helposti hallittavaan muotoon. Se palvelee niin yksittäistä käyttäjää, työryhmää kuin koko organisaatiota turvallisesti pilvessä.
 
 ## Mitä Trello tarjoaa?
 
@@ -31,7 +33,7 @@ Käytössäsi ovat ideoinnin ja hallinnan eri tasot, kuten taulut, luettelot ja 
 
 ## Kenelle?
 
-**Trello mukautuu monipuolisesti eri kohderyhmien tarpeisiin, on kyseessä sitten yksityinen tai julkinen toimija ja pieni tai suuri organisaatio.** Yksittäiselle työntekijälle Trello näyttäytyy digitaalisena post-it -varastona, josta voi yhdeltä taululta poimia muistettavat tehtävät ja tehdä ne valmiiksi ajoissa omaan tahtiin. 
+**Trello mukautuu monipuolisesti eri kohderyhmien tarpeisiin, on kyseessä sitten yksityinen tai julkinen toimija ja pieni tai suuri organisaatio.** Yksittäiselle työntekijälle Trello näyttäytyy digitaalisena post-it -varastona, josta voi yhdeltä taululta poimia muistettavat tehtävät ja tehdä ne valmiiksi ajoissa omaan tahtiin.
 
 Suuremmalle työryhmälle Trello antaa vapauden viestiä projektikohtaisesti, mitkä asiat pitää suorittaa määrätyssä ajassa. Tarkistuslista automaattisine muistutuksineen on erityisen kätevä silloin, kun projekti kattaa paljon päällekkäisiä vaiheita usealla takarajalla.
 
@@ -39,11 +41,11 @@ Etätyöntekijöille Trello on suuri mahdollisuus, kun koko organisaation tasoll
 
 ## Kohti ERP-järjestelmää
 
-**Toiminnanohjausjärjestelmän hankkimista pohtivalle yritykselle Trello voi toimia fiksuna ensiaskeleena.** Järjestelmän hankinnan jälkeenkin ERP ja Trello voivat muodostaa toisiaan tukevan kombinaation. 
+**Toiminnanohjausjärjestelmän hankkimista pohtivalle yritykselle Trello voi toimia fiksuna ensiaskeleena.** Järjestelmän hankinnan jälkeenkin ERP ja Trello voivat muodostaa toisiaan tukevan kombinaation.
 
 ## Trello konkreettisesti
 
-Trellossa on valittavana paljon työntekoa sujuvoittavia ominaisuuksia, joiden käyttöönotto on vain parin klikkauksen takana. Esimerkiksi erilaiset Trello-näkymät tuovat lisätehoa töiden suorittamiseen: 
+Trellossa on valittavana paljon työntekoa sujuvoittavia ominaisuuksia, joiden käyttöönotto on vain parin klikkauksen takana. Esimerkiksi erilaiset Trello-näkymät tuovat lisätehoa töiden suorittamiseen:
 
 **Aikajana**-näkymällä hahmotat helposti projektien aloituspäivän ja määräajan, mikä varmistaa töiden valmistumisen ajallaan. Teet näkymässä muutamassa sekunnissa tarvittavat muutokset, jotka tulevat välittömästi koko työryhmän tiedoksi.
 
@@ -69,31 +71,31 @@ Voit integroida Trelloon muut työarkea helpottavat valtavirtasovellukset. Muun 
 
 **Trellon käyttö tuottaa konkreettisia hyötyjä työntekijän, tiimin ja organisaation arjessa jo lyhyelläkin aikavälillä:**
 
-* Minimoi tehtävien organisointiin käytetyn työajan 
-* Kirkastaa koko työryhmälle projektin etenemisen
-* Varastoi kaiken aiheeseen liittyvän viestinnän
-* Muistuttaa töiden takarajoista
-* Pilkkoo suuret projektit hallittavammiksi
-* Tärkeysjärjestää suurenkin joukon tehtäviä
-* Arkistoi tehdyt työsuoritukset
+- Minimoi tehtävien organisointiin käytetyn työajan
+- Kirkastaa koko työryhmälle projektin etenemisen
+- Varastoi kaiken aiheeseen liittyvän viestinnän
+- Muistuttaa töiden takarajoista
+- Pilkkoo suuret projektit hallittavammiksi
+- Tärkeysjärjestää suurenkin joukon tehtäviä
+- Arkistoi tehdyt työsuoritukset
 
 ## Käytössä opittua
 
-“*TDP:n sisäisessä käytössä Trello on ollut jo viisi vuotta ja sinä aikana se on osoittautunut käteväksi työkaluksi viedä projekteja eteenpäin. Siinä on vaikuttava määrä lisäosia ja mm. erilaiset automaatiot ja rajapinnat integraatioille tekevät siitä itseään isomman. Kenttätyössä etenkin Trellon mobiilisovellus tuottaa hyvän työtehokkuuden ja käyttökokemuksen.* 
+“_TDP:n sisäisessä käytössä Trello on ollut jo viisi vuotta ja sinä aikana se on osoittautunut käteväksi työkaluksi viedä projekteja eteenpäin. Siinä on vaikuttava määrä lisäosia ja mm. erilaiset automaatiot ja rajapinnat integraatioille tekevät siitä itseään isomman. Kenttätyössä etenkin Trellon mobiilisovellus tuottaa hyvän työtehokkuuden ja käyttökokemuksen._
 
-*Kuten muutkin ohjelmistot, myös Trello kaipaa ja sille tehdään kehitystyötä. Mikäli yrityksellesi kertyy valtavasti dataa Trelloon, sen Haku-toiminto voi tuottaa pettymyksen halutessasi kaivaa korteilta vanhaa tietoa esille. Toisaalta taas kaiken Trelloon viedyn datan voi halutessaan viedä helposti ulos seuraavaan sovellukseen, ja etenkin tämä Trellon kyky jutella muiden sovellusten kanssa tekee siitä yleishyödyllisen työkalun.*”
+_Kuten muutkin ohjelmistot, myös Trello kaipaa ja sille tehdään kehitystyötä. Mikäli yrityksellesi kertyy valtavasti dataa Trelloon, sen Haku-toiminto voi tuottaa pettymyksen halutessasi kaivaa korteilta vanhaa tietoa esille. Toisaalta taas kaiken Trelloon viedyn datan voi halutessaan viedä helposti ulos seuraavaan sovellukseen, ja etenkin tämä Trellon kyky jutella muiden sovellusten kanssa tekee siitä yleishyödyllisen työkalun._”
 
 ## I﻿lmainen vs. maksullinen versio
 
 **Jo Trellon ilmaisversio tarjoaa kattavat ominaisuudet, joilla yrityksesi voi nostaa projektinhallintansa korkeammalle tasolle.** Ilmaisversio tarjoaa:
 
-* Rajattomasti kortteja
-* Kymmenen taulua työtilaa kohden
-* Rajattomat Power-Upit taulua kohden
-* Rajoittamaton tallennustila (10 Mt/tiedosto)
-* Rajattomat toimintalokit
-* iOS- ja Android mobiilisovellukset
-* Kaksivaiheinen todennus
+- Rajattomasti kortteja
+- Kymmenen taulua työtilaa kohden
+- Rajattomat Power-Upit taulua kohden
+- Rajoittamaton tallennustila (10 Mt/tiedosto)
+- Rajattomat toimintalokit
+- iOS- ja Android mobiilisovellukset
+- Kaksivaiheinen todennus
 
 Yrityksesi halutessa lisäominaisuuksia ja siten tehokkuutta Trello tarjoaa myös maksullisia versioita usealla tasolla:
 
@@ -101,10 +103,10 @@ Yrityksesi halutessa lisäominaisuuksia ja siten tehokkuutta Trello tarjoaa myö
 
 **Premium**-versiossa saatavilla ovat mm. laajat kalenterinäkymät, rajattomasti työtilakomentojen suorituksia, kehittyneemmät ylläpito- ja tietoturvaominaisuudet ja yksinkertainen tietojen vienti.
 
-**Enterprise**-versio vastaa suurempien PK-yritysten tarpeisiin. Tällöin saatavilla on työtiloja rajoittamaton määrä, käyttöluvat voidaan asettaa organisaatiotasolla, kertakirjautuminen on oletuksena ja monta muuta lisäetua. 
+**Enterprise**-versio vastaa suurempien PK-yritysten tarpeisiin. Tällöin saatavilla on työtiloja rajoittamaton määrä, käyttöluvat voidaan asettaa organisaatiotasolla, kertakirjautuminen on oletuksena ja monta muuta lisäetua.
 
-- - -
+---
 
 **Olemme niin TDP:n omassa kuin asiakkaidemme arjessa huomanneet Trellon tuoman lisäarvon ja tehokkuuden arkisten töiden suorittamisessa. Vaikka Trellossa on maksullisia, edistyneempiä tasoja, voimme antaa vahvan suosituksemme jo Trellon ilmaisversion käyttöönottamiseksi.**
 
-Voit tutustua Trelloon omaan tahtiisi sen omilla sivuilla: <https://trello.com/pricing>. Kun kaipaat apua projektinhallinnan käyttöönotossa, ota yhteyttä suoraan meihin!
+Voit tutustua Trelloon omaan tahtiisi sen omilla sivuilla: [trello hinnoittelu](https://trello.com/pricing). Kun kaipaat apua projektinhallinnan käyttöönotossa, ota yhteyttä suoraan meihin!

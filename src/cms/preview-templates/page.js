@@ -1,13 +1,13 @@
-import React from 'react'
-import marked from 'marked';
-import {MDXProvider} from '@mdx-js/react'
-import {MDXRenderer} from 'gatsby-plugin-mdx';
+// src/cms/preview-templates/page.js
+import React from "react";
 
-const PreviewTemplate = ({ entry, widgetFor }) => {
-  const js = entry.getIn(['data']).toJS();
+/**
+ * Decap CMS preview for "page". We just render the CMS-provided widget
+ * (which already knows how to preview the body field).
+ */
+const PreviewTemplate = ({ widgetFor }) => {
+  const bodyEl = widgetFor && widgetFor("body");
+  return <div style={{ padding: 16 }}>{bodyEl}</div>;
+};
 
-  return (
-    <div dangerouslySetInnerHTML={{__html : marked(js.body)}} />     
-  )
-}
-export default PreviewTemplate
+export default PreviewTemplate;

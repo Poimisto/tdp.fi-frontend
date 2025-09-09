@@ -1,115 +1,221 @@
 /**
  * Implement Gatsby's Node APIs in this file.
- *
  * See: https://www.gatsbyjs.com/docs/node-apis/
  */
+const path = require(`path`);
+const { createFilePath } = require(`gatsby-source-filesystem`);
+const config = require("./content/settings.json");
 
-const path = require(`path`)
-const { createFilePath } = require(`gatsby-source-filesystem`)
-const config = require('./content/settings.json');
-const crypto = require('crypto')
-
+/**
+ * Strongly type MDX/Markdown frontmatter so image-like fields are File nodes,
+ * which fixes "String has no subfields" GraphQL errors.
+ */
 exports.createSchemaCustomization = ({ actions }) => {
-  const { createTypes } = actions
-
-  const typeDefs = `
+  const { createTypes } = actions;
+  createTypes(`
+    # ===== MDX =====
     type Mdx implements Node {
-      frontmatter: Frontmatter
+      frontmatter: MdxFrontmatter
+      fields: MdxFields
     }
-    
-    type Frontmatter @infer {
-      thumbnail: File @fileByRelativePath,
+
+    type MdxFields {
+      slug: String
+      collection: String
     }
-    type PeopleJson implements Node {
+
+    type MdxFrontmatter {
+      title: String
+      description: String
+      path: String
+      personName: String
+      contactFormPerson: String
+      contactForm: String
+      author: String
+      tags: [String]
+      date: Date @dateformat
+
+      # local file fields (strings saved by Decap under /assets)
       image: File @fileByRelativePath
+      thumbnail: File @fileByRelativePath
+      avatar: File @fileByRelativePath
+      photo: File @fileByRelativePath
+      hero: File @fileByRelativePath
+      logo: File @fileByRelativePath
+
+      head: MdxFrontmatterHead
+      breadcrumb: [BreadcrumbItem]
     }
-  `;
-  createTypes(typeDefs);
-  createTypes(typeDefs)
-}
 
-exports.onCreateNode = async ({ node, getNode, actions }) => {
- 
-  const { createNodeField, createNode, digest } = actions;
-  if (node.internal.type === `Mdx`) {
-
-    let slug = createFilePath({ node, getNode })
-    if (node.frontmatter.path) slug = node.frontmatter.path
-    if (slug === config.homepage) slug = '/'
-    createNodeField({
-      node,
-      name: `slug`,
-      value: slug,
-    })
-    const parent = getNode(node.parent);
-    let collection = parent.sourceInstanceName;
-    createNodeField({
-      node,
-      name: 'collection',
-      value: collection,
-    });
-  }
-
-  /*
-    This is how to force a field to be processed as markdown
-
-  if (node.internal.type === 'LeasingPackagesJson') {
-    let slug = createFilePath({ node, getNode })
-    createNodeField({
-      node,
-      name: `slug`,
-      value: '/leasing-paketit' + slug,
-    })
-    // Add text/markdown node children to Release node
-    const textNode = {
-      id: `${node.id}-MarkdownBody`,
-      parent: node.id,
-      dir: path.resolve("./"),
-      internal: {
-        type: `${node.internal.type}MarkdownBody`,
-        mediaType: "text/markdown",
-        content: node.body,
-        contentDigest: crypto
-        .createHash(`md5`)
-        .update(node.body)
-        .digest(`hex`),
-      },
+    type BreadcrumbItem {
+      label: String
+      path: String
     }
-    createNode(textNode)
 
-    // Create markdownBody___NODE field
-    createNodeField({
-      node,
-      name: "markdownBody___NODE",
-      value: textNode.id,
-    })
-  }
-  */
+    type MdxFrontmatterHead {
+      title: String
+      description: String
+      image: File @fileByRelativePath
+      thumbnail: File @fileByRelativePath
+    }
+
+    # ===== MarkdownRemark (if any .md files remain) =====
+    type MarkdownRemark implements Node {
+      frontmatter: MarkdownRemarkFrontmatter
+      fields: MarkdownRemarkFields
+    }
+
+    type MarkdownRemarkFields {
+      slug: String
+      collection: String
+    }
+
+    type MarkdownRemarkFrontmatter {
+      title: String
+      description: String
+      path: String
+      tags: [String]
+      date: Date @dateformat
+      image: File @fileByRelativePath
+      thumbnail: File @fileByRelativePath
+      head: MarkdownRemarkFrontmatterHead
+    }
+
+    type MarkdownRemarkFrontmatterHead {
+      title: String
+      description: String
+      image: File @fileByRelativePath
+      thumbnail: File @fileByRelativePath
+    }
+
+    # ===== JSON content =====
+    type PeopleJson implements Node {
+      title: String
+      name: String
+      email: String
+      phone: String
+      isEmployee: Boolean
+      image: File @fileByRelativePath
+      linkedin: String
+    }
+
+    type FormsJson implements Node {
+      title: String
+      contactPerson: String
+    }
+  `);
 };
 
+/**
+ * Map string paths like "/assets/foo.jpg" to real File nodes without using
+ * gatsby-plugin-netlify-cms-paths. Uses nodeModel.findOne (supported in Gatsby).
+ */
+exports.createResolvers = ({ createResolvers }) => {
+  const escapeRegExp = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+  const fileLookup = fieldName => ({
+    type: "File",
+    async resolve(source, args, context) {
+      const val = source[fieldName];
+      if (!val) return null;
+
+      // Already a File? (when @fileByRelativePath matched)
+      if (val && val.internal && val.internal.type === "File") return val;
+
+      // Accept "/assets/foo.jpg" or "assets/foo.jpg"
+      const raw = String(val);
+      const rel = raw.replace(/^\/+/, ""); // drop leading slash(es)
+
+      // Look up by suffix to be tolerant of subfolders under static/assets
+      return context.nodeModel.findOne({
+        type: "File",
+        query: {
+          filter: {
+            relativePath: { regex: `/${escapeRegExp(rel)}$/` },
+          },
+        },
+      });
+    },
+  });
+
+  createResolvers({
+    // JSON people (your ListOfEmployees query depends on this)
+    PeopleJson: {
+      image: fileLookup("image"),
+    },
+
+    // Make MDX frontmatter image-like fields robust even if Decap saved absolute paths
+    MdxFrontmatter: {
+      image: fileLookup("image"),
+      thumbnail: fileLookup("thumbnail"),
+      avatar: fileLookup("avatar"),
+      photo: fileLookup("photo"),
+      hero: fileLookup("hero"),
+      logo: fileLookup("logo"),
+    },
+    MdxFrontmatterHead: {
+      image: fileLookup("image"),
+      thumbnail: fileLookup("thumbnail"),
+    },
+
+    // If you still have any MarkdownRemark content:
+    MarkdownRemarkFrontmatter: {
+      image: fileLookup("image"),
+      thumbnail: fileLookup("thumbnail"),
+    },
+    MarkdownRemarkFrontmatterHead: {
+      image: fileLookup("image"),
+      thumbnail: fileLookup("thumbnail"),
+    },
+  });
+};
+
+/**
+ * Create slug and collection for MDX nodes.
+ */
+exports.onCreateNode = ({ node, getNode, actions }) => {
+  const { createNodeField } = actions;
+
+  if (node.internal.type === `Mdx`) {
+    let slug = createFilePath({ node, getNode });
+    if (node.frontmatter && node.frontmatter.path) slug = node.frontmatter.path;
+    if (slug === config.homepage) slug = `/`;
+
+    createNodeField({ node, name: `slug`, value: slug });
+
+    const parent = getNode(node.parent);
+    const collection =
+      parent && parent.sourceInstanceName ? parent.sourceInstanceName : null;
+    createNodeField({ node, name: `collection`, value: collection });
+  }
+};
+
+/**
+ * Create pages from MDX using the NEW MDX runtime.
+ * Pass __contentFilePath so the compiled MDX is injected as `children`
+ * into the page template.
+ * Also pass a flattened contactForm and author object in page context.
+ */
 exports.createPages = async ({ actions, graphql, reporter }) => {
+  const { createPage } = actions;
 
-  const { createPage } = actions
-
-  const template = path.resolve(`src/templates/entry.js`)
-  const query = await graphql(`
+  const template = path.resolve(`src/templates/entry.js`);
+  const result = await graphql(`
     {
-      allMdx(
-        sort: { order: DESC, fields: [frontmatter___date] }
-        limit: 1000
-      ) {
+      allMdx(sort: { frontmatter: { date: DESC } }, limit: 1000) {
         edges {
           node {
             id
-            fields {
-              slug
-            }
+            fields { slug collection }
+            internal { contentFilePath }
             frontmatter {
               contactForm
+              author
             }
           }
         }
       }
+
       allFormsJson {
         edges {
           node {
@@ -118,6 +224,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
           }
         }
       }
+
       allPeopleJson {
         edges {
           node {
@@ -127,49 +234,90 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             phone
             image {
               childImageSharp {
-                fixed(width: 200, height:200) {
-                  src
-                }
+                gatsbyImageData(width: 200, height: 200, placeholder: BLURRED)
               }
+              publicURL
             }
           }
         }
       }
     }
-  `)
+  `);
 
-
-  // Handle errors
-  if (query.errors) {
-    reporter.panicOnBuild(`Error while running GraphQL query.`)
-    return
+  if (result.errors) {
+    reporter.panicOnBuild(`Error while running GraphQL query.`, result.errors);
+    return;
   }
 
-  query.data.allMdx.edges.forEach(({ node }) => {
+  const forms = result.data.allFormsJson.edges.map(e => e.node);
+  const people = result.data.allPeopleJson.edges.map(e => e.node);
 
-    let contactForm = (node.frontmatter.contactForm) ? query.data.allFormsJson.edges.find( form => form.node.title === node.frontmatter.contactForm) : null;
-    if (contactForm) contactForm = contactForm.node;
+  result.data.allMdx.edges.forEach(({ node }) => {
+    // resolve contact form + person
+    let contactForm = null;
+    if (node.frontmatter?.contactForm) {
+      contactForm =
+        forms.find(f => f.title === node.frontmatter.contactForm) || null;
+      if (contactForm?.contactPerson) {
+        const person =
+          people.find(p => p.name === contactForm.contactPerson) || null;
+        if (person) {
+          const imgData = person.image?.childImageSharp?.gatsbyImageData;
+          const imageUrl =
+            (imgData &&
+              imgData.images &&
+              imgData.images.fallback &&
+              imgData.images.fallback.src) ||
+            person.image?.publicURL ||
+            null;
 
-    if (contactForm && contactForm.contactPerson) {
-      let person = query.data.allPeopleJson.edges.find( person => person.node.name === contactForm.contactPerson);
-      if (person) contactForm.contactPerson = person.node;
+          contactForm = {
+            ...contactForm,
+            contactPerson: {
+              title: person.title || null,
+              name: person.name || null,
+              email: person.email || null,
+              phone: person.phone || null,
+              imageUrl, // <— pass a plain URL for runtime
+            },
+          };
+        }
+      }
     }
 
-    let author = (node.frontmatter.author) ? query.data.allPeopleJson.edges.find( person => person.node.name === node.frontmatter.author) : null;
-    if (author) author = author.node;
-  
+    // resolve author (optional)
+    let author = null;
+    if (node.frontmatter?.author) {
+      const person = people.find(p => p.name === node.frontmatter.author) || null;
+      if (person) {
+        const imgData = person.image?.childImageSharp?.gatsbyImageData;
+        const imageUrl =
+          (imgData &&
+            imgData.images &&
+            imgData.images.fallback &&
+            imgData.images.fallback.src) ||
+          person.image?.publicURL ||
+          null;
+        author = {
+          title: person.title || null,
+          name: person.name || null,
+          email: person.email || null,
+          phone: person.phone || null,
+          imageUrl,
+        };
+      }
+    }
+
     createPage({
       path: node.fields.slug,
-      component: template,
+      component: `${template}?__contentFilePath=${node.internal.contentFilePath}`,
       context: {
-        contactForm : contactForm,
-        author: author,
-      }, // additional data can be passed via context
-    })
-  })
-
-  
-
-  
-}
-
+        id: node.id,
+        slug: node.fields.slug,
+        collection: node.fields.collection,
+        contactForm,
+        author,
+      },
+    });
+  });
+};

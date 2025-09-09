@@ -9,10 +9,10 @@ backend:
 # when using the default proxy server port, run npx netlify-cms-proxy-server
 local_backend: true
 #local_backend:
-  # when using a custom proxy server port
-  #url: http://localhost:8081/api/v1
-  # when accessing the local site from a host other than 'localhost' or '127.0.0.1'
-  # allowed_hosts: ['192.168.0.1']
+# when using a custom proxy server port
+#url: http://localhost:8081/api/v1
+# when accessing the local site from a host other than 'localhost' or '127.0.0.1'
+# allowed_hosts: ['192.168.0.1']
 
 # publish_mode: editorial_workflow
 
@@ -24,14 +24,16 @@ collections:
     label: Pages
     folder: content/pages
     create: true
-    slug: '{{fields.path}}'
-    summary: '{{fields.path}}'
-    fields: 
+    slug: "{{fields.path}}"
+    summary: "{{fields.path}}"
+    fields:
       - name: path
         label: Path
         widget: string
-        pattern: [^/,"Path must start with /"]
         required: false
+        pattern:
+          - "^/.*"
+          - "Path must start with /"
       - label: Featured Image
         name: thumbnail
         widget: image
@@ -43,27 +45,24 @@ collections:
       - name: head
         label: Meta
         widget: object
-        summary: '{{fields.title}}'
+        summary: "{{fields.title}}"
         fields:
-          - label: Title
-            name: title
-            widget: string
-          - label: Description
-            name: description
-            widget: text
-          - label: keywords (comma separated)
-            name: keywords 
-            widget: string
-      - { label: "Body", name: "body", widget: "markdown" }
+          - { label: Title, name: title, widget: string }
+          - { label: Description, name: description, widget: text }
+          - {
+              label: keywords (comma separated),
+              name: keywords,
+              widget: string,
+            }
+      - { label: Body, name: body, widget: markdown }
       - name: contactForm
         label: Yhteydenottolomake
         widget: relation
         collection: contactForms
         search_fields: ["title"]
-        value_field: '{{fields.title}}'
-        display_fields: ['title']
+        value_field: "{{fields.title}}"
+        display_fields: ["title"]
         required: false
-
 
   - name: settings
     label: Settings
@@ -77,33 +76,35 @@ collections:
             widget: relation
             collection: pages
             search_fields: ["path"]
-            value_field: '{{fields.path}}'
+            value_field: "{{fields.path}}"
             display_fields: ["path"]
           - label: Blog page
             name: blogpage
             widget: relation
             collection: pages
             search_fields: ["path"]
-            value_field: '{{fields.path}}'
-            display_fields: ["path"] 
-          - widget: string
-            name: title
-            label: Site Title
-            required: true
-          - widget: string
-            name: siteUrl
-            label: Website URL
-            required: true
-          - widget: text
-            name: description
-            label: Description
-            default: ''
-            required: false
-          - widget: image
-            name: thumbnail
-            label: Default image for metadata (FB, Twitter...)
-            
-
+            value_field: "{{fields.path}}"
+            display_fields: ["path"]
+          - { widget: string, name: title, label: Site Title, required: true }
+          - {
+              widget: string,
+              name: siteUrl,
+              label: Website URL,
+              required: true,
+            }
+          - {
+              widget: text,
+              name: description,
+              label: Description,
+              default: "",
+              required: false,
+            }
+          - {
+              widget: image,
+              name: thumbnail,
+              label: Default image for metadata (FB,
+              Twitter...),
+            }
           - label: Navigation Type
             name: navtype
             widget: select
@@ -116,7 +117,7 @@ collections:
               - label: Page
                 name: page
                 widget: object
-                summary: '{{fields.title}}'
+                summary: "{{fields.title}}"
                 fields:
                   - { label: Title, name: title, widget: string }
                   - label: Link
@@ -124,12 +125,12 @@ collections:
                     widget: relation
                     collection: pages
                     search_fields: ["path"]
-                    value_field: '{{fields.path}}'
+                    value_field: "{{fields.path}}"
                     display_fields: ["path"]
               - label: Post
                 name: post
                 widget: object
-                summary: '{{fields.title}}'
+                summary: "{{fields.title}}"
                 fields:
                   - { label: Title, name: title, widget: string }
                   - label: Link
@@ -137,17 +138,15 @@ collections:
                     widget: relation
                     collection: posts
                     search_fields: ["path"]
-                    value_field: '{{fields.path}}'
+                    value_field: "{{fields.path}}"
                     display_fields: ["path"]
               - label: Link
                 name: link
                 widget: object
-                summary: '{{fields.title}}'
+                summary: "{{fields.title}}"
                 fields:
                   - { label: Title, name: title, widget: string }
-                  - label: Link
-                    name: link
-                    widget: string
+                  - { label: Link, name: link, widget: string }
       - name: variables
         label: Variables
         file: content/variables/variables.json
@@ -161,54 +160,45 @@ collections:
                 widget: object
                 summary: "{{fields.title}}"
                 fields:
-                  - label: Key
-                    name: key
-                    widget: string
-                  - label: Value
-                    name: value
-                    widget: string
+                  - { label: Key, name: key, widget: string }
+                  - { label: Value, name: value, widget: string }
 
   - name: posts
     label: Posts
     folder: content/posts
-    slug: '{{fields.path}}'
-    summary: '{{fields.path}}'
+    slug: "{{fields.path}}"
+    summary: "{{fields.path}}"
     create: true
     fields:
-      - {
-          label: Template,
-          name: template,
-          widget: hidden,
-          default: BlogPost,
-        }
+      - { label: Template, name: template, widget: hidden, default: BlogPost }
       - name: path
         label: Path
         widget: string
-        pattern: [^/,"Path must start with /"]
-        required: false 
+        required: false
+        pattern:
+          - "^/.*"
+          - "Path must start with /"
       - name: author
         label: Author
         widget: relation
         collection: people
-        search_fields: ["name",]
-        value_field: '{{fields.name}}'
+        search_fields: ["name"]
+        value_field: "{{fields.name}}"
         display_fields: ["name"]
         required: false
       - { name: date, label: Date, widget: datetime }
       - name: head
         label: Meta
         widget: object
-        summary: '{{fields.title}}'
+        summary: "{{fields.title}}"
         fields:
-          - label: Title
-            name: title
-            widget: string
-          - label: Description
-            name: description
-            widget: text
-          - label: keywords (comma separated)
-            name: keywords 
-            widget: string
+          - { label: Title, name: title, widget: string }
+          - { label: Description, name: description, widget: text }
+          - {
+              label: keywords (comma separated),
+              name: keywords,
+              widget: string,
+            }
       - label: Featured Image
         name: thumbnail
         widget: image
@@ -223,42 +213,36 @@ collections:
         widget: relation
         collection: contactForms
         search_fields: ["title"]
-        value_field: '{{fields.title}}'
-        display_fields: ['title']
+        value_field: "{{fields.title}}"
+        display_fields: ["title"]
         required: false
 
   - name: people
     label: People
     folder: content/people
-    slug: '{{fields.name}}'
+    slug: "{{fields.name}}"
     create: true
     format: json
-    summary: '{{fields.name}} | {{fields.title}}'
+    summary: "{{fields.name}} | {{fields.title}}"
     fields:
       - { name: name, label: Public Name }
-      - { name: isEmployee, label: Is Employee?, widget: boolean, default: true }
+      - {
+          name: isEmployee,
+          label: Is Employee?,
+          widget: boolean,
+          default: true,
+        }
       - { name: title, label: Title }
-      - label: Featured Image
-        name: image
-        widget: image
-        required: true
-      - label: Description
-        name: description
-        widget: markdown
-        required: false
-      - label: Phone
-        name: phone
-        widget: string
-        required: false
-      - label: Email
-        name: email
-        widget: string
-        required: false
-      - label: Linkedin
-        name: linkedin
-        widget: string
-        required: false
-
+      - { label: Featured Image, name: image, widget: image, required: true }
+      - {
+          label: Description,
+          name: description,
+          widget: markdown,
+          required: false,
+        }
+      - { label: Phone, name: phone, widget: string, required: false }
+      - { label: Email, name: email, widget: string, required: false }
+      - { label: Linkedin, name: linkedin, widget: string, required: false }
 
   - name: contactForms
     label: Contact Forms
@@ -271,7 +255,7 @@ collections:
         label: Contact Person
         widget: relation
         collection: people
-        search_fields: ["name",]
-        value_field: '{{fields.name}}'
+        search_fields: ["name"]
+        value_field: "{{fields.name}}"
         display_fields: ["name"]
         required: false

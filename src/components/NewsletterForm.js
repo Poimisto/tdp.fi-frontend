@@ -1,10 +1,10 @@
 import React, {useState} from "react";
 import HeroBlock from './HeroBlock'
-import TextField from '@material-ui/core/TextField';
-import FormControl from '@material-ui/core/FormControl'
+import TextField from '@mui/material/TextField';
+import FormControl from '@mui/material/FormControl'
 import CallToAction from './CallToAction'
 import styled from 'styled-components'
-import CircularProgress from '@material-ui/core/CircularProgress';
+import CircularProgress from '@mui/material/CircularProgress';
 
 import addToMailchimp from 'gatsby-plugin-mailchimp'
 
