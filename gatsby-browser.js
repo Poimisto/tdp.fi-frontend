@@ -9,12 +9,7 @@ import React from 'react';
 import { ThemeProvider } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import theme from './src/theme';
-if (process.env.NODE_ENV === "development") {
-  require("./src/sanity/verifyShortcodes.js");
-}
-if (typeof window !== "undefined") {
-  require("./src/sanity/verifyShortcodes.js");
-}
+
 export const wrapRootElement = ({ element }) => (
   <ThemeProvider theme={theme}>
     <CssBaseline />
