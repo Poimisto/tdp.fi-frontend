@@ -3,10 +3,11 @@ import Card from "@mui/material/Card";
 import CardActionArea from "@mui/material/CardActionArea";
 import CardContent from "@mui/material/CardContent";
 import Grid from "@mui/material/Grid";
-import Button from "@mui/material/Button";
 import { Link, StaticQuery, graphql } from "gatsby";
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
 import styled from "styled-components";
+
+const THUMB_HEIGHT = 170;
 
 const PostTitle = styled.h3`
   margin: 0 0 5px 0;
@@ -14,27 +15,51 @@ const PostTitle = styled.h3`
   line-height: 160%;
 `;
 
+const ThumbImg = styled.img`
+  display: block;
+  width: 100%;
+  height: ${THUMB_HEIGHT}px;
+  object-fit: cover;
+  /* Match card’s rounded top corners visually */
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+`;
+
+const Wrapper = styled.div`
+  margin: 40px 0 20px 0;
+`;
+
 const config = require("./../../content/settings.json");
 
 const PostLink = ({ post }) => {
-  const img = post.frontmatter?.thumbnail
-    ? getImage(post.frontmatter.thumbnail)
+  const fm = post.frontmatter || {};
+  const title = fm?.head?.title || fm?.title || "Untitled";
+
+  // Three-level fallback: gatsbyImageData -> publicURL -> raw string
+  const fileNode = fm.thumbnail || null;
+  const gatsbyImg = fileNode?.childImageSharp
+    ? getImage(fileNode.childImageSharp)
     : null;
-  const title =
-    post.frontmatter?.head?.title || post.frontmatter?.title || "Untitled";
+  const publicURL = fileNode?.publicURL || null;
+  const raw = typeof fileNode === "string" ? fileNode : null;
 
   return (
     <Link to={post.fields.slug} style={{ textDecoration: "none" }}>
-      <Card>
+      <Card elevation={1}>
         <CardActionArea>
-          {img && (
+          {gatsbyImg ? (
             <GatsbyImage
-              image={img}
+              image={gatsbyImg}
               alt={title}
-              style={{ height: 170 }}
+              style={{ height: THUMB_HEIGHT }}
               imgStyle={{ objectFit: "cover" }}
             />
-          )}
+          ) : publicURL ? (
+            <ThumbImg src={publicURL} alt={title} />
+          ) : raw ? (
+            <ThumbImg src={raw} alt={title} />
+          ) : null}
+
           <CardContent>
             <PostTitle>{title}</PostTitle>
             {post.excerpt}
@@ -62,27 +87,22 @@ export default function PostList(props) {
                 id
                 excerpt(pruneLength: 140)
                 frontmatter {
-                  date(formatString: "MMMM DD, YYYY")
-                  path
-                  head {
-                    title
-                    description
-                  }
-                  # NOTE: Requires createSchemaCustomization with
-                  # thumbnail: File @fileByRelativePath
+                  title
+                  head { title description }
+                  # We support both optimized and raw/public URL
                   thumbnail {
+                    publicURL
                     childImageSharp {
                       gatsbyImageData(
                         width: 640
                         height: 170
                         placeholder: BLURRED
+                        transformOptions: { fit: COVER }
                       )
                     }
                   }
                 }
-                fields {
-                  slug
-                }
+                fields { slug }
               }
             }
           }
@@ -102,19 +122,15 @@ export default function PostList(props) {
           ));
 
         return (
-          <div style={{ margin: "40px 0 20px 0" }}>
-            <h2>
-              {props.title} &darr;
-            </h2>
-            <Grid container spacing={4}>
-              {Posts}
-            </Grid>
+          <Wrapper>
+            <h2>{props.title} &darr;</h2>
+            <Grid container spacing={4}>{Posts}</Grid>
             {data.allMdx.edges.length > maxNumberOfPosts && (
-              <div style={{ marginTop: "10px" }}>
+              <div style={{ marginTop: 10 }}>
                 <Link to={config.blogpage}>&raquo; Katso kaikki</Link>
               </div>
             )}
-          </div>
+          </Wrapper>
         );
       }}
     />
