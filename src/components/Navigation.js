@@ -1,6 +1,11 @@
-import React, { useState } from "react";
-import { Link, useStaticQuery, graphql } from "gatsby";
+// src/components/Navigation.js
+import React, { useState, useCallback } from "react";
+import { Link } from "gatsby";
+import styled, { keyframes } from "styled-components";
+import { rgba } from "polished";
+import settings from "../../content/settings.json";
 
+// MUI v7 (used only when settings.navtype === "dropdown")
 import Drawer from "@mui/material/Drawer";
 import Button from "@mui/material/Button";
 import List from "@mui/material/List";
@@ -10,40 +15,32 @@ import ListItemButton from "@mui/material/ListItemButton";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import ListItemText from "@mui/material/ListItemText";
 import MoveToInboxIcon from "@mui/icons-material/MoveToInbox";
-import MailIcon from "@mui/icons-material/Mail";
 
-import styled, { keyframes } from "styled-components";
-import { lighten, shade, getContrast, rgba } from "polished";
-
+/* ---------- Animations ---------- */
 const slideIn = keyframes`
-  0% {
-    transform: translateX(100%);
-    background:${props => props.theme.color?.darkest};
-  }
-  100% {
-    transform: translateX(0%);
-    background:${props => props.theme.color?.dark};
-  }
+  from { transform: translateX(100%); }
+  to   { transform: translateX(0%); }
 `;
-
 const slideOut = keyframes`
   from { transform: translateX(0%); }
-  to { transform: translateX(100%); }
+  to   { transform: translateX(100%); }
 `;
 
+/* ---------- Styled components (ported) ---------- */
 const BurgerMenu = styled.div`
   @media (min-width: ${props => props.theme.mobileBreakpoint}px) {
     display: none;
   }
   text-align: center;
-  svg {
-    fill: ${props => props.theme.colors.light};
-  }
+
+  svg { fill: ${props => props.theme.colors.light}; }
+
   &:hover {
     cursor: pointer;
     svg { fill: ${props => props.theme.colors.brand}; }
     .burger-label { color: ${props => props.theme.colors.brand}; }
   }
+
   .burger-label {
     text-transform: uppercase;
     font-size: 80%;
@@ -54,6 +51,9 @@ const BurgerMenu = styled.div`
 `;
 
 const MenuItems = styled.nav`
+  /* hide by default (desktop and tablets) */
+  display: none;
+
   @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
     position: fixed;
     top: 0;
@@ -67,7 +67,10 @@ const MenuItems = styled.nav`
     width: 100%;
     height: 100%;
     z-index: 99;
+
+    /* only render on mobile, and only when open */
     display: ${props => (props.isOpen ? "block" : "none")};
+
     animation: ${props => (props.isClosing ? slideOut : slideIn)} 0.2s ease-in;
     padding: 40px 10px 10px 10px;
     box-shadow: 0 0 6px ${props => props.theme.colors.darkest};
@@ -86,6 +89,7 @@ const CloseButton = styled.span`
   top: 10px;
   right: 10px;
   color: ${props => props.theme.colors.light};
+
   &:hover {
     color: ${props => props.theme.colors.lightest};
     font-weight: bold;
@@ -98,11 +102,13 @@ const MenuItem = styled(Link)`
     text-transform: uppercase;
     display: inline-block;
     padding: 0 10px;
+
     &:hover {
       color: ${props => props.theme.colors.lightest};
       font-weight: bold;
     }
   }
+
   @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
     && {
       border-bottom: ${props => props.theme.colors.light} 1px solid;
@@ -111,13 +117,26 @@ const MenuItem = styled(Link)`
     }
   }
 `;
-/*
-export default () => {
-  const [isOpen, setOpen] = useState(false);
-  const [isClosing, setClosing] = useState(false);
 
-  const settings = require("./../../content/settings.json");
-  const openMenu = open => {
+/* Desktop inline menu */
+const DesktopMenu = styled.nav`
+  display: flex;
+  gap: 10px;
+  align-items: center;
+
+  @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
+    display: none;
+  }
+`;
+
+/* ---------- Component ---------- */
+function Navigation() {
+  // declare all hooks up-front (no conditional hooks)
+  const [isOpen, setOpen] = useState(false);       // mobile overlay open
+  const [isClosing, setClosing] = useState(false); // mobile overlay anim flag
+  const [drawerOpen, setDrawerOpen] = useState(false); // MUI Drawer open
+
+  const openMenu = useCallback((open) => {
     if (!open) {
       setClosing(true);
       setTimeout(() => {
@@ -127,49 +146,21 @@ export default () => {
     } else {
       setOpen(true);
     }
-  };
+  }, []);
 
-  return (
-    <>
-      <BurgerMenu onClick={() => openMenu(true)}>
-        <svg viewBox="0 0 100 70" width="40" height="24">
-          <rect width="100" height="10"></rect>
-          <rect y="26" width="100" height="10"></rect>
-          <rect y="52" width="100" height="10"></rect>
-        </svg>
-        <span className="burger-label">Valikko</span>
-      </BurgerMenu>
+  const closeAndGo = useCallback(() => openMenu(false), [openMenu]);
 
-      <MenuItems isOpen={isOpen} isClosing={isClosing}>
-        <CloseButton onClick={() => openMenu(false)}>×</CloseButton>
+  const toggleDrawer = useCallback((open) => (event) => {
+    if (event?.type === "keydown" && (event.key === "Tab" || event.key === "Shift")) return;
+    setDrawerOpen(open);
+  }, []);
 
-        {settings.navigation.map(navItem => (
-          <MenuItem to={navItem.link} key={`${navItem.link}-${navItem.title}`}>
-            {navItem.title}
-          </MenuItem>
-        ))}
-      </MenuItems>
-    </>
-  );
-};
-*/
-
-
-export default (props) => {
-  const settings = require("./../../content/settings.json")
-  const [state, setState] = useState({ right: false });
-
-  const toggleDrawer = (anchor, open) => (event) => {
-    if (event.type === 'keydown' && (event.key === 'Tab' || event.key === 'Shift')) return;
-    setState({ ...state, [anchor]: open });
-  };
-
-  const list = (anchor) => (
+  const DrawerList = (
     <div
       className="top"
       role="presentation"
-      onClick={toggleDrawer(anchor, false)}
-      onKeyDown={toggleDrawer(anchor, false)}
+      onClick={toggleDrawer(false)}
+      onKeyDown={toggleDrawer(false)}
     >
       <List>
         {settings.navigation.map((navItem, index) => (
@@ -185,25 +176,56 @@ export default (props) => {
     </div>
   );
 
-  if (settings.navtype === 'dropdown') {
+  // If "dropdown" mode, show the MUI Drawer only (as in your original)
+  if (settings.navtype === "dropdown") {
     return (
       <>
-        <Button variant="outlined" onClick={toggleDrawer('right', true)}>Menu</Button>
-        <Drawer anchor="right" open={state.right} onClose={toggleDrawer('right', false)}>
-          {list('right')}
+        <Button variant="outlined" onClick={toggleDrawer(true)}>Menu</Button>
+        <Drawer anchor="right" open={drawerOpen} onClose={toggleDrawer(false)}>
+          {DrawerList}
         </Drawer>
       </>
     );
   }
 
+  // Default: desktop inline + mobile burger overlay
   return (
     <>
-      {settings.navigation.map((navItem) => (
-        <Link to={navItem.link} key={`${navItem.link}-${navItem.title}`}>
-          {navItem.title}
-        </Link>
-      ))}
+      {/* Desktop inline menu */}
+      <DesktopMenu aria-label="Primary">
+        {settings.navigation.map((navItem) => (
+          <MenuItem to={navItem.link} key={`${navItem.link}-${navItem.title}`}>
+            {navItem.title}
+          </MenuItem>
+        ))}
+      </DesktopMenu>
+
+      {/* Mobile burger */}
+      <BurgerMenu onClick={() => openMenu(true)} aria-label="Open menu">
+        <svg viewBox="0 0 100 70" width="40" height="24" aria-hidden="true" focusable="false">
+          <rect width="100" height="10"></rect>
+          <rect y="26" width="100" height="10"></rect>
+          <rect y="52" width="100" height="10"></rect>
+        </svg>
+        <span className="burger-label">Valikko</span>
+      </BurgerMenu>
+
+      {/* Mobile overlay */}
+      <MenuItems isOpen={isOpen} isClosing={isClosing} role="dialog" aria-modal="true" aria-label="Mobile menu">
+        <CloseButton onClick={() => openMenu(false)} aria-label="Close menu">×</CloseButton>
+
+        {settings.navigation.map((navItem) => (
+          <MenuItem
+            to={navItem.link}
+            key={`${navItem.link}-${navItem.title}`}
+            onClick={closeAndGo}
+          >
+            {navItem.title}
+          </MenuItem>
+        ))}
+      </MenuItems>
     </>
   );
 }
 
+export default Navigation;
