@@ -36,7 +36,7 @@ module.exports = {
     `gatsby-transformer-json`,
 
     // Filesystem sources
-    // NOTE: Decap writes to static/assets and serves as /assets
+    // NOTE: Decap writes to static/assets and serves them as /assets
     { resolve: `gatsby-source-filesystem`, options: { name: `uploads`,   path: `${__dirname}/static/assets` } },
     { resolve: `gatsby-source-filesystem`, options: { name: `posts`,     path: `${__dirname}/content/posts` } },
     { resolve: `gatsby-source-filesystem`, options: { name: `pages`,     path: `${__dirname}/content/pages` } },
@@ -44,7 +44,7 @@ module.exports = {
     { resolve: `gatsby-source-filesystem`, options: { name: `forms`,     path: `${__dirname}/content/forms` } },
     { resolve: `gatsby-source-filesystem`, options: { name: `variables`, path: `${__dirname}/content/variables` } },
 
-    // Decap CMS (the modern Netlify CMS)
+    // Decap CMS (modern Netlify CMS)
     {
       resolve: `gatsby-plugin-decap-cms`,
       options: {
@@ -104,5 +104,4 @@ module.exports = {
       },
     },
   ],
-  // Removed the old "mapping" block; it wasn't needed and could confuse schema.
 };
