@@ -33,9 +33,7 @@ export default () => {
             frontmatter {
               thumbnail {
                 childImageSharp {
-                  fixed(width: 175, height:240) {
-                    ...GatsbyImageSharpFixed
-                  }
+                  gatsbyImageData(width: 175, height: 240)
                 }
               }
               head {
@@ -47,17 +45,16 @@ export default () => {
           }
         }
       }
-    }
-    
+    }  
   `)
   return (
     <PackageGrid>
-      {data.allMdx.edges.map( (node) => {
+      {data.allMdx.edges.map((node) => {
         return (
           <Package>
 
-              <Img className="img" fixed={node.node.frontmatter.thumbnail.childImageSharp.fixed} />
-         
+            <Img className="img" fixed={node.node.frontmatter.thumbnail.childImageSharp.fixed} />
+
             <div className="content">
               <a href={node.node.fields.slug}><h2 className="title">{node.node.frontmatter.head.title}</h2></a>
               <p>{node.node.frontmatter.head.description}</p>
