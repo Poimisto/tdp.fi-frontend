@@ -124,7 +124,7 @@ exports.createResolvers = ({ createResolvers }) => {
 
       // Accept "/assets/foo.jpg" or "assets/foo.jpg"
       const raw = String(val);
-      const rel = raw.replace(/^\/+/, ""); // drop leading slash(es)
+      const rel = raw.replace(/^\/+/, "").replace(/^assets\/?/, ""); // drop leading slash(es) and "assets/"
 
       // Look up by suffix to be tolerant of subfolders under static/assets
       return context.nodeModel.findOne({
