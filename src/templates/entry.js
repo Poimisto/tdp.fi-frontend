@@ -8,7 +8,6 @@ import Link from "../components/Link";
 import Seo from "../components/Seo";
 import HeroBlock from "../components/HeroBlock";
 import Cards from "../components/Cards";
-import Img from "gatsby-image";
 import styled, { createGlobalStyle } from "styled-components";
 import LatestPosts from "./../components/LatestPosts";
 import ListOfEmployees from "../components/ListOfEmployees";
@@ -94,9 +93,9 @@ const ArticleContentContainer = styled.div`
     border-radius: 0;
     background: transparent;
     color: ${p =>
-      getContrast(p.theme.colors.darkest, p.theme.colors.brand) > 10
-        ? p.theme.colors.darkest
-        : p.theme.colors.lightest};
+    getContrast(p.theme.colors.darkest, p.theme.colors.brand) > 10
+      ? p.theme.colors.darkest
+      : p.theme.colors.lightest};
     font-family: ${p => p.theme.headingFontFamily};
   }
   .date_mobile { display: none; }
@@ -114,8 +113,6 @@ const ArticleContentContainer = styled.div`
     }
   }
 `;
-
-const ArticleImg = styled(Img)``;
 
 const ArticleTitle = styled.h1`
   @media (max-width: ${p => p.theme.mobileBreakpoint}px) {
