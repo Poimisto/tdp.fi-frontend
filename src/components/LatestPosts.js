@@ -88,7 +88,10 @@ export default function PostList(props) {
                 excerpt(pruneLength: 140)
                 frontmatter {
                   title
-                  head { title description }
+                  head {
+                    title
+                    description
+                  }
                   # We support both optimized and raw/public URL
                   thumbnail {
                     publicURL
@@ -102,7 +105,9 @@ export default function PostList(props) {
                     }
                   }
                 }
-                fields { slug }
+                fields {
+                  slug
+                }
               }
             }
           }
@@ -116,7 +121,19 @@ export default function PostList(props) {
             return count <= maxNumberOfPosts;
           })
           .map(({ node }) => (
-            <Grid item xs={12} sm={6} key={node.id}>
+            <Grid
+              item
+              xs={12}
+              sm={6}
+              key={node.id}
+              sx={theme => ({
+                minWidth: 0,
+                maxWidth: {
+                  xs: 1,
+                  sm: `calc((100% - ${theme.spacing(4)}) / 2)`,
+                },
+              })}
+            >
               <PostLink post={node} />
             </Grid>
           ));
@@ -124,7 +141,9 @@ export default function PostList(props) {
         return (
           <Wrapper>
             <h2>{props.title} &darr;</h2>
-            <Grid container spacing={4}>{Posts}</Grid>
+            <Grid container spacing={4}>
+              {Posts}
+            </Grid>
             {data.allMdx.edges.length > maxNumberOfPosts && (
               <div style={{ marginTop: 10 }}>
                 <Link to={config.blogpage}>&raquo; Katso kaikki</Link>
