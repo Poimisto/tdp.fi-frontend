@@ -2,15 +2,15 @@
  * Implement Gatsby's Node APIs in this file.
  * See: https://www.gatsbyjs.com/docs/node-apis/
  */
-const path = require(`path`);
-const { createFilePath } = require(`gatsby-source-filesystem`);
-const config = require("./content/settings.json");
+import path from "node:path";
+import { createFilePath } from "gatsby-source-filesystem";
+import config from "./content/settings.json" with { type: "json"};
 
 /**
  * Strongly type MDX/Markdown frontmatter so image-like fields are File nodes,
  * which fixes "String has no subfields" GraphQL errors.
  */
-exports.createSchemaCustomization = ({ actions }) => {
+export const createSchemaCustomization = ({ actions }) => {
   const { createTypes } = actions;
   createTypes(`
     # ===== MDX =====
@@ -110,7 +110,7 @@ exports.createSchemaCustomization = ({ actions }) => {
  * Map string paths like "/assets/foo.jpg" to real File nodes without using
  * gatsby-plugin-netlify-cms-paths. Uses nodeModel.findOne (supported in Gatsby).
  */
-exports.createResolvers = ({ createResolvers }) => {
+export const createResolvers = ({ createResolvers }) => {
   const escapeRegExp = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
   const fileLookup = fieldName => ({
@@ -173,7 +173,7 @@ exports.createResolvers = ({ createResolvers }) => {
 /**
  * Create slug and collection for MDX nodes.
  */
-exports.onCreateNode = ({ node, getNode, actions }) => {
+export const onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions;
 
   if (node.internal.type === `Mdx`) {
@@ -196,7 +196,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
  * into the page template.
  * Also pass a flattened contactForm and author object in page context.
  */
-exports.createPages = async ({ actions, graphql, reporter }) => {
+export const createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions;
 
   const template = path.resolve(`src/templates/entry.js`);

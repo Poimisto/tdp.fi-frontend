@@ -1,7 +1,14 @@
-require("dotenv").config();
+import "dotenv/config.js";
+import remarkGfm from "remark-gfm";
+import settings from './content/settings.json' with { type: 'json'};
+import { fileURLToPath } from 'node:url';
+import { dirname } from 'node:path';
 
-module.exports = {
-  siteMetadata: require("./content/settings.json"),
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
+export default {
+  siteMetadata: settings,
   plugins: [
     // Styling / head
     `gatsby-plugin-emotion`,
@@ -29,6 +36,13 @@ module.exports = {
             },
           },
         ],
+        mdxOptions: {
+          remarkPlugins: [
+            // Add support for GitHub Flavoured Markdown (GFM).
+            // Mainly used for tables.
+            remarkGfm
+          ]
+        }
       },
     },
 
@@ -37,11 +51,11 @@ module.exports = {
 
     // Filesystem sources
     // NOTE: Decap writes to static/assets and serves them as /assets
-    { resolve: `gatsby-source-filesystem`, options: { name: `uploads`,   path: `${__dirname}/static/assets` } },
-    { resolve: `gatsby-source-filesystem`, options: { name: `posts`,     path: `${__dirname}/content/posts` } },
-    { resolve: `gatsby-source-filesystem`, options: { name: `pages`,     path: `${__dirname}/content/pages` } },
-    { resolve: `gatsby-source-filesystem`, options: { name: `people`,    path: `${__dirname}/content/people` } },
-    { resolve: `gatsby-source-filesystem`, options: { name: `forms`,     path: `${__dirname}/content/forms` } },
+    { resolve: `gatsby-source-filesystem`, options: { name: `uploads`, path: `${__dirname}/static/assets` } },
+    { resolve: `gatsby-source-filesystem`, options: { name: `posts`, path: `${__dirname}/content/posts` } },
+    { resolve: `gatsby-source-filesystem`, options: { name: `pages`, path: `${__dirname}/content/pages` } },
+    { resolve: `gatsby-source-filesystem`, options: { name: `people`, path: `${__dirname}/content/people` } },
+    { resolve: `gatsby-source-filesystem`, options: { name: `forms`, path: `${__dirname}/content/forms` } },
     { resolve: `gatsby-source-filesystem`, options: { name: `variables`, path: `${__dirname}/content/variables` } },
 
     // Decap CMS (modern Netlify CMS)
