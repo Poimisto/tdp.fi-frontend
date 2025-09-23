@@ -8,6 +8,12 @@ head:
   description: WithSecure Elements EPP, EDR ja Mobile Protection suojaavat
     päätelaitteet ja datan, suomenkielisellä tuella ja kuukausilisenssillä.
     Pyydä arvio!
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /ohjelmistot
+    label: ohjelmistot
+  - label: WithSecure
 ---
 ![WithSecure - yritysten tietoturvan maksimointiin.](/assets/withsecure-netlify-1280-x-800.jpg)
 

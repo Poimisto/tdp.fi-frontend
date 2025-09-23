@@ -9,6 +9,12 @@ head:
     edelleenlähetyksen esto. Kysy lisää!
   keywords: Virtru, sähköpostin salaus
 contactForm: Ota yhteyttä
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /ohjelmistot
+    label: ohjelmistot
+  - label: Virtru
 ---
 ![Virtru tiedon salaukseen](/assets/virtru-tdp.jpg)
 
