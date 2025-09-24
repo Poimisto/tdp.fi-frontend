@@ -29,26 +29,25 @@ Palvelu on täysin automatisoitu ja kriittiset tiedot ovat aina nopeasti palaute
 * Data turvaluokitellussa palvelinsalissa
 
 
-  <HeroBlock bgColor="brand" imageAlign="right">
+<HeroBlock bgColor="brand" imageAlign="right">
 
-  <div className="HeroBlockImage">
+<div className="HeroBlockImage">
 
-  ![](/assets/tdp-hinnasto.jpg)
+![](/assets/tdp-hinnasto.jpg)
 
-  </div>
+</div>
 
-  <div className="HeroBlockContent">
+<div className="HeroBlockContent">
 
-  ## H﻿innasto varmuuskopioinnille
+## H﻿innasto varmuuskopioinnille
 
-  |                              |             |
-  | ---------------------------- | ----------- |
-  | Google Workspace             | 5,20 €/kk   |
-  | ﻿Microsoft 365                | 5,20 €/kk   |
-  | Työaseman varmuuskopiointi   | S﻿aatavilla  |
-  | Palvelimet räätälöidysti     | S﻿aatavilla  | 
+|                              |             |
+| ---------------------------- | ----------- |
+| Google Workspace             | 5,20 €/kk   |
+| ﻿Microsoft 365                | 5,20 €/kk   |
+| Työaseman varmuuskopiointi   | S﻿aatavilla  |
+| Palvelimet räätälöidysti     | S﻿aatavilla  | 
   
+</div>
 
-  </div>
-
-  </HeroBlock>
+</HeroBlock>
