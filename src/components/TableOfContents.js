@@ -1,5 +1,6 @@
-import React, { useState, useEffect, useMemo, useRef } from 'react';
-import styled from 'styled-components';
+import React, { useState, useEffect, useMemo, useRef } from "react";
+import styled from "styled-components";
+import { Link } from 'gatsby';
 
 const TableOfContentsContainer = styled.div`
   top: 0;
@@ -23,7 +24,7 @@ const ListItem = styled.li`
   line-height: 120%;
 `;
 
-const ListLink = styled.a`
+const ListLink = styled(Link)`
   color: ${props => props.theme.colors.dark};
   &:hover {
     text-decoration: underline;
@@ -110,13 +111,14 @@ export default ({ headings }) => {
             style={{ marginLeft: `${(item.level - 1) * 15}px` }}
           >
             <ListLink
-              href={`#${item.url}`}
+              to={`#${item.url}`}
               key={item.url}
               className={active === `#${item.url}` ? "active" : ""}
               onClick={() => {
-                setActive(`#${item.url}`);
-                tocUpdateRef.current = Date.now();
+                setActive(`#${item.url}`)
+                tocUpdateRef.current = Date.now()
               }}
+              replace
             >
               {item.title}
             </ListLink>
