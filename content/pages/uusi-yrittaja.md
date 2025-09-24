@@ -20,17 +20,17 @@ Yrityksen alkuvaiheessa päätöksiä riittää, eikä vähiten IT:n osalta. Ohj
 
 Tarjoamme tarvittavat ohjelmistot, laitetoimitukset ja kattavan valikoiman IT -palveluja, jotka voidaan mitoittaa juuri tarpeiden mukaan:
 
-* **[Laitetoimitukset](https://www.tdp.fi/it-laitteet/) ja [leasing](https://www.tdp.fi/tietokone-leasing)**: Tietokoneet, puhelimet ja lisälaitteet. 
+* **[Laitetoimitukset](/it-laitteet/) ja [leasing](/tietokone-leasing)**: Tietokoneet, puhelimet ja lisälaitteet. 
 * **Sähköpostit ja kotisivut**: Sivut ja sähköpostit yrityksen omalla domainilla.
-* **[IT-tuki ja ylläpito](https://www.tdp.fi/it-palvelut/tuki-ja-huolto)**: Etätuki, puhelintuki ja tarvittaessa apu paikan päälle.
-* **Liiketoimintasovellukset**: [Microsoft 365](https://www.tdp.fi/ohjelmistot/microsoft-365), [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace) tarjoavat kattavan valikoiman tuottavuustyökaluja
-* **[Tietoturvapalvelut](https://www.tdp.fi/it-palvelut/tietoturva-total-ja-lite)**: Kattavat virus- ja haittaohjelma suojaukset
-* **[Pilvipalveluiden varmuuskopiointi](https://www.tdp.fi/it-palvelut/varmuuskopiointi)**: Kustannustehokas tapa varmistaa tiedot 
+* **[IT-tuki ja ylläpito](/it-palvelut/tuki-ja-huolto)**: Etätuki, puhelintuki ja tarvittaessa apu paikan päälle.
+* **Liiketoimintasovellukset**: [Microsoft 365](/ohjelmistot/microsoft-365), [Google Workspace](/ohjelmistot/google-workspace) tarjoavat kattavan valikoiman tuottavuustyökaluja
+* **[Tietoturvapalvelut](/it-palvelut/tietoturva-total-ja-lite)**: Kattavat virus- ja haittaohjelma suojaukset
+* **[Pilvipalveluiden varmuuskopiointi](/it-palvelut/varmuuskopiointi)**: Kustannustehokas tapa varmistaa tiedot 
 
 Erityisesti yrityksen kasvaessa hyödyt myös seuraavista:
 
-* **[Keskitetty hallinta](https://www.tdp.fi/it-palvelut/keskitetty-hallinta)**: Yksi näkymä koneisiin, käyttäjiin ja kirjautumisiin.
-* **[KyberAkatemia](https://www.tdp.fi/it-palvelut/tdp-kyberakatemia)**: Tietoturvakoulutus työntekijöille. Helppoa, tehokasta ja jatkuvaa.
+* **[Keskitetty hallinta](/it-palvelut/keskitetty-hallinta)**: Yksi näkymä koneisiin, käyttäjiin ja kirjautumisiin.
+* **[KyberAkatemia](/it-palvelut/tdp-kyberakatemia)**: Tietoturvakoulutus työntekijöille. Helppoa, tehokasta ja jatkuvaa.
 
 ## Tärkeimmät IT -perustukset kuntoon heti alussa
 
@@ -42,7 +42,7 @@ Yrityksen toiminta rakentuu laitteiden, yhteyksien ja ohjelmistojen varaan. Kun 
 
 Käytännössä jokainen yritys tarvitsee vähintään yhden tietokoneen ja älypuhelimen. Usein tarvitaan myös lisälaitteita, kuten tulostimia, neuvottelulaitteita tai infonäyttöjä. Tärkeää on arvioida käyttöympäristö ja kuormitus: esimerkiksi graafinen suunnittelu, CAD-suunnittelu tai videoeditointi vaativat tehoa eri tavalla kuin kevyt toimistotyö.
 
-Laitehankinnoissa vaihtoehtoina on joko ostaminen tai [leasing](https://www.tdp.fi/tietokone-leasing). Leasing-sopimus on erityisesti uusille yrityksille houkutteleva, koska se jakaa kustannuksia ja mahdollistaa laitteiden säännöllisen uusimisen.Tarjoamme molemmat vaihtoehdot sekä tarvittavat huolto-, päivitys- ja tukipalvelut.
+Laitehankinnoissa vaihtoehtoina on joko ostaminen tai [leasing](/tietokone-leasing). Leasing-sopimus on erityisesti uusille yrityksille houkutteleva, koska se jakaa kustannuksia ja mahdollistaa laitteiden säännöllisen uusimisen.Tarjoamme molemmat vaihtoehdot sekä tarvittavat huolto-, päivitys- ja tukipalvelut.
 
 ### Internet ja puhelinyhteydet
 
@@ -58,7 +58,7 @@ Tarvittaessa TDP auttaa verkkotunnuksen rekisteröinnissä, DNS-hallinnassa, sä
 
 ### Pilvipalvelut työn tukena
 
-Sähköposti, kalenteri ja tiedostot, kaikki hoituu pilvessä. [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace) ja [Microsoft 365](https://www.tdp.fi/ohjelmistot/microsoft-365) ovat suosituimpia pilvipohjaisia työympäristöjä, jotka tarjoavat yrityksille sähköpostin omalla verkkotunnuksella, yhteiskalenterit, dokumenttityökalut ja turvallisen tallennustilan.
+Sähköposti, kalenteri ja tiedostot, kaikki hoituu pilvessä. [Google Workspace](/ohjelmistot/google-workspace) ja [Microsoft 365](/ohjelmistot/microsoft-365) ovat suosituimpia pilvipohjaisia työympäristöjä, jotka tarjoavat yrityksille sähköpostin omalla verkkotunnuksella, yhteiskalenterit, dokumenttityökalut ja turvallisen tallennustilan.
 
 Pilvipalveluiden etu on niiden skaalautuvuus: voit aloittaa yhdellä käyttäjällä ja laajentaa tiimin kasvaessa. Molemmissa ympäristöissä tiedostot ovat helposti jaettavissa ja käytettävissä missä tahansa. Jakaminen helpottaa tiimityötä ja sisäänrakennetut suojausominaisuudet, kuten kaksivaiheinen tunnistautuminen, luovat turvaa.
 
@@ -68,7 +68,7 @@ Voimme auttaa valitsemaan oikean palvelun yrityksesi tarpeisiin, hoitaa käyttö
 
 Tietojen menetys voi koitua kohtalokkaaksi. Vaikka pilvipalvelut tallentavat tietoa automaattisesti, ne eivät vastaa varmuuskopiota. Kyberuhat ja inhimilliset virheet vaativat erillistä varmistusta.
 
-TDP tarjoaa [pilvipohjaisen varmuuskopioinnin](https://www.tdp.fi/it-palvelut/varmuuskopiointi) Google- ja Microsoft-ympäristöihin. Lisäksi suosittelemme alusta alkaen selkeää tiedostojen hallintamallia: loogiset kansiorakenteet, nimeämiskäytännöt ja yhteiset pelisäännöt auttavat pitämään tiedot järjestyksessä ja löydettävissä.
+TDP tarjoaa [pilvipohjaisen varmuuskopioinnin](/it-palvelut/varmuuskopiointi) Google- ja Microsoft-ympäristöihin. Lisäksi suosittelemme alusta alkaen selkeää tiedostojen hallintamallia: loogiset kansiorakenteet, nimeämiskäytännöt ja yhteiset pelisäännöt auttavat pitämään tiedot järjestyksessä ja löydettävissä.
 
 ### IT-tuki apuna arjessa
 
@@ -80,7 +80,7 @@ TDP:n palvelusopimuksella saat käyttöösi etä- ja puhelintuen sekä tarvittae
 
 ![Kuvituskuva. Keskellä keltainen kilpi, jossa on lukon kuva. Kilven oikealla tietokone, joka on yhteydessä internetiin. Vasemmalla henkilökortti. Taustalla on vihreä piirakkakaavio, josta lähtee vihreä nuoli ylöspäin kuvastaen kasvua.](/assets/uusi-yrittaja-skaalaus.png "PK-yrityksen kasvu 5 → 50 hengessä onnistuu, kun verkko-infra, SSO-käyttäjähallinta, pilvipalvelut ja EDR-kyberturva skaalautuvat saumattomasti – TDP pitää kasvavan tiimin tekniikan iskussa ja vapauttaa aikaa liiketoiminnan kehittämiseen.")
 
-Yrityksen kasvaessa muutamasta hengestä kymmenien työntekijöiden organisaatioksi myös IT:n rooli muuttuu. Siinä missä alussa riittivät perusvälineet ja sähköposti, suurempi tiimi vaatii järeämpiä ratkaisuja. Verkkoinfra, [käyttäjähallinta](https://www.tdp.fi/it-palvelut/keskitetty-hallinta), [tietoturva](https://www.tdp.fi/it-palvelut/tietoturva-total-ja-lite) ja henkilöstön osaaminen korostuvat. IT-ratkaisuja kannattaa skaalata kasvun myötä ja uusia tarpeita nousee aina esiin.
+Yrityksen kasvaessa muutamasta hengestä kymmenien työntekijöiden organisaatioksi myös IT:n rooli muuttuu. Siinä missä alussa riittivät perusvälineet ja sähköposti, suurempi tiimi vaatii järeämpiä ratkaisuja. Verkkoinfra, [käyttäjähallinta](/it-palvelut/keskitetty-hallinta), [tietoturva](/it-palvelut/tietoturva-total-ja-lite) ja henkilöstön osaaminen korostuvat. IT-ratkaisuja kannattaa skaalata kasvun myötä ja uusia tarpeita nousee aina esiin.
 
 ### Verkkoympäristö ja palvelimet
 
@@ -90,7 +90,7 @@ Monet kasvavat yritykset toimivat täysin pilvipohjaisesti. Microsoft Azure, AWS
 
 ### Käyttäjähallinta ja kertakirjautuminen
 
-[Keskitetyn hallinnan](https://www.tdp.fi/it-palvelut/keskitetty-hallinta) -palvelu mahdollistaa keskitetyn identiteetin- ja pääsynhallinnan. Kasvun myötä tunnusten hallinta monimutkaistuu. On tärkeää, että uusien työntekijöiden tunnukset ja käyttöoikeudet luodaan hallitusti ja poistuvat käytöstä ajallaan. 
+[Keskitetyn hallinnan](/it-palvelut/keskitetty-hallinta) -palvelu mahdollistaa keskitetyn identiteetin- ja pääsynhallinnan. Kasvun myötä tunnusten hallinta monimutkaistuu. On tärkeää, että uusien työntekijöiden tunnukset ja käyttöoikeudet luodaan hallitusti ja poistuvat käytöstä ajallaan. 
 
 Yksi tehokas ratkaisu on kertakirjautuminen (Single Sign-On, SSO): työntekijä kirjautuu yhteen luotettuun palveluun ja saa samalla pääsyn kaikkiin tarvittaviin sovelluksiin. Tämä parantaa käyttökokemusta ja vähentää unohtuneista salasanoista johtuvaa tukikuormaa. 
 
@@ -100,13 +100,13 @@ Palvelu kokoaa käyttäjät, koneet ja kirjautumiset yhteen näkymään, helpott
 
 Kun tiimi kasvaa, niin kasvaa myös inhimillisten virheiden riski. Siksi henkilöstön koulutus on myös tietoturvan kannalta tärkeää. Perusasiat: epäilyttävien viestien tunnistus, vahvojen salasanojen käyttö ja asiakastietojen suojaaminen, tulee opettaa jokaiselle työntekijälle.
 
-TDP:n [KyberAkatemia](https://www.tdp.fi/it-palvelut/tdp-kyberakatemia) tarjoaa modernin, pienissä osissa toteutettavan tietoturvakoulutuksen, joka sopii kiireiseenkin työarkeen. Esimerkiksi kuukausittain suoritettava lyhyt kurssi tai kalasteluharjoitus voi nostaa koko organisaation tietoturvatasoa merkittävästi.
+TDP:n [KyberAkatemia](/it-palvelut/tdp-kyberakatemia) tarjoaa modernin, pienissä osissa toteutettavan tietoturvakoulutuksen, joka sopii kiireiseenkin työarkeen. Esimerkiksi kuukausittain suoritettava lyhyt kurssi tai kalasteluharjoitus voi nostaa koko organisaation tietoturvatasoa merkittävästi.
 
 ### Kehittynyt tietoturva kasvun tueksi
 
 Kun yritys kasvaa, myös kyberuhat monipuolistuvat. Perinteisen virustorjunnan rinnalle kannattaa harkita EDR-ratkaisuja (Endpoint Detection and Response), jotka tunnistavat poikkeavaa toimintaa laitteilla. Lisäksi voidaan hyödyntää esimerkiksi sähköpostien tietoturvasuodatusta, verkon haavoittuvuustarkistuksia ja kirjautumisten valvontaa.
 
-Yrityksen kannattaa lisäksi laatia valmiiksi toimintamalli mahdollisen tietomurron tai kyberhyökkäyksen varalle. Kuka ottaa ohjat, miten reagoidaan ja tiedotetaan. Kun yritys kasvaa, IT:n on kasvettava mukana. Oikein mitoitetut verkkoratkaisut, [keskitetty käyttäjähallinta](https://www.tdp.fi/it-palvelut/keskitetty-hallinta), [tietoturvakoulutus](https://www.tdp.fi/it-palvelut/tdp-kyberakatemia) ja edistyneet [suojausratkaisut](https://www.tdp.fi/it-palvelut/tietoturva-total-ja-lite) auttavat pitämään kokonaisuuden hallinnassa. Näin tekniikka ei muodostu esteeksi, vaan tukee liiketoiminnan jatkuvaa kehitystä.
+Yrityksen kannattaa lisäksi laatia valmiiksi toimintamalli mahdollisen tietomurron tai kyberhyökkäyksen varalle. Kuka ottaa ohjat, miten reagoidaan ja tiedotetaan. Kun yritys kasvaa, IT:n on kasvettava mukana. Oikein mitoitetut verkkoratkaisut, [keskitetty käyttäjähallinta](/it-palvelut/keskitetty-hallinta), [tietoturvakoulutus](/it-palvelut/tdp-kyberakatemia) ja edistyneet [suojausratkaisut](/it-palvelut/tietoturva-total-ja-lite) auttavat pitämään kokonaisuuden hallinnassa. Näin tekniikka ei muodostu esteeksi, vaan tukee liiketoiminnan jatkuvaa kehitystä.
 
 ## Tietosuoja kuntoon jo yritystoiminnan alussa
 
