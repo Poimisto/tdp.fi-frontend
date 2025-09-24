@@ -22,14 +22,6 @@ import DisplayVariable from "../components/DisplayVariable";
 import TableOfContents from "../components/TableOfContents";
 import YoutubeWrapper from "../components/YoutubeWrapper";
 import LeasingCalculator from "../components/LeasingCalculator";
-import {
-  H1 as h1,
-  H2 as h2,
-  H3 as h3,
-  H4 as h4,
-  H5 as h5,
-  H6 as h6,
-} from "../components/Headings";
 
 /* ---------------- global styles (kept from old) ---------------- */
 const GlobalStyle = createGlobalStyle`
@@ -193,7 +185,6 @@ const shortcodes = {
   NewsletterForm,
   SupportPricingCalculator,
   DisplayVariable,
-  h1, h2, h3, h4, h5, h6,
   YoutubeWrapper,
   LeasingCalculator,
   /* make markdown images responsive */

@@ -18,12 +18,6 @@ const TableOfContentsList = styled.ul`
   padding-left: 0;
 `;
 
-const TitleListItem = styled.li`
-  padding: 5px 0px;
-  line-height: 120%;
-  font-size: 1.1em;
-`;
-
 const ListItem = styled.li`
   padding: 5px 0px;
   line-height: 120%;
@@ -41,63 +35,94 @@ const ListLink = styled.a`
   }
 `;
 
-const flattenHeadings = (headings = [], level = 1) => {
-  return headings.flatMap(({ title, url, items }) => [{ title, url, level }, ...flattenHeadings(items, level + 1)])
-}
+const flattenAndFormatHeadings = (headings = [], level = 1) => {
+  return headings.flatMap(({ title, url, items }) => [
+    { title, url: String(url).replace(/^#/, "\\"), level },
+    ...flattenAndFormatHeadings(items, level + 1),
+  ]);
+};
 
 export default ({ headings }) => {
   if (!headings.items) {
-    return <TableOfContentsContainer />
+    return <TableOfContentsContainer />;
   }
 
+  const tocUpdateRef = useRef(Date.now());
   const listRef = useRef(null);
   const [active, setActive] = useState("");
 
-  const items = useMemo(() => flattenHeadings(headings.items), [headings]);
+  const items = useMemo(
+    () => flattenAndFormatHeadings(headings.items),
+    [headings]
+  );
 
   useEffect(() => {
-    const headings = items.map(i => document.querySelector(CSS.escape(i.url))).filter(e => e instanceof HTMLElement);
+    const headings = items
+      .map(i => document.getElementById(i.url))
+      .filter(e => e instanceof HTMLElement);
 
-    const observer = new IntersectionObserver(entries => {
-      const visible = entries.filter(e => e.isIntersecting).sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
+    const observer = new IntersectionObserver(
+      entries => {
+        const visible = entries
+          .filter(e => e.isIntersecting)
+          .sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0]
 
-      if (visible) {
-        setActive(`#${visible.target.id}`)
+        if (visible) {
+          if (Date.now() - tocUpdateRef.current > 250) {
+            tocUpdateRef.current = Date.now();
+            setActive(`#${visible.target.id}`);
+          }
+        }
+      },
+      {
+        rootMargin: "-10% 0px -90% 0px",
+        threshold: [0, 0.25, 0.5, 1],
       }
-    }, {
-      rootMargin: "-10% 0px -90% 0px",
-      threshold: [0, 0.25, 0.5, 1]
-    })
+    );
 
     headings.forEach(h => observer.observe(h));
 
     return () => observer.disconnect();
-  }, [items])
+  }, [items]);
 
   useEffect(() => {
-    const container = listRef.current
+    const container = listRef.current;
 
     if (!container) {
-      return
+      return;
     }
 
-    const activeHeading = container.querySelector(`a[href="${active}"]`)
+    const activeHeading = container.querySelector(`a[href="#${active}"]`);
 
     if (!activeHeading) {
-      return
+      return;
     }
 
     activeHeading.scrollIntoView({ block: "nearest", inline: "nearest" });
-  }, [active])
+  }, [active]);
 
-  return <TableOfContentsContainer>
-    <TableOfContentsList ref={listRef}>
-      {items.map(item =>
-        <ListItem key={item.url} style={{ marginLeft: `${(item.level - 1) * 15}px` }}>
-          <ListLink href={item.url} key={item.url} className={active === item.url ? "active" : ""} onClick={(e) => setActive(e.target.id)}>
-            {item.title}
-          </ListLink>
-        </ListItem>)}
-    </TableOfContentsList>
-  </TableOfContentsContainer>
+  return (
+    <TableOfContentsContainer>
+      <TableOfContentsList ref={listRef}>
+        {items.map(item => (
+          <ListItem
+            key={item.url}
+            style={{ marginLeft: `${(item.level - 1) * 15}px` }}
+          >
+            <ListLink
+              href={`#${item.url}`}
+              key={item.url}
+              className={active === `#${item.url}` ? "active" : ""}
+              onClick={() => {
+                setActive(`#${item.url}`);
+                tocUpdateRef.current = Date.now();
+              }}
+            >
+              {item.title}
+            </ListLink>
+          </ListItem>
+        ))}
+      </TableOfContentsList>
+    </TableOfContentsContainer>
+  );
 }

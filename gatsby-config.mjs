@@ -1,5 +1,6 @@
 import "dotenv/config.js";
 import remarkGfm from "remark-gfm";
+import rehypeSlug from "rehype-slug";
 import settings from './content/settings.json' with { type: 'json'};
 import { fileURLToPath } from 'node:url';
 import { dirname } from 'node:path';
@@ -41,6 +42,10 @@ export default {
             // Add support for GitHub Flavoured Markdown (GFM).
             // Mainly used for tables.
             remarkGfm
+          ],
+          rehypePlugins: [
+            // Generates heading IDs for use in article table-of-contents.
+            [rehypeSlug, { prefix: "\\" }]
           ]
         }
       },

@@ -12,5 +12,3 @@ export { default as DisplayVariable } from "./DisplayVariable";
 export { default as YoutubeWrapper } from "./YoutubeWrapper";
 export { default as LeasingCalculator } from "./LeasingCalculator";
 export { default as TableOfContents } from "./TableOfContents";
-// Headings are named exports (leave as named)
-export { H1, H2, H3, H4, H5, H6 } from "./Headings";
