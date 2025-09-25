@@ -38,9 +38,7 @@ Etähallinnan avulla IT-järjestelmien ylläpito sujuu joustavasti ilman jatkuva
 
 <DisplayVariable variableKey="datto-rmm-edr-nimi" tag="h1" bold={true} />
 
-<DisplayVariable variableKey="datto-rmm-edr-nimi" tag="p" bold={false} />
-
- tarjoaa kattavan suojauksen tietoturvauhkia vastaan, sisältäen kaikki <DisplayVariable variableKey="datto-rmm-nimi" tag="p" bold={false} /> palvelun osa-alueet sekä lisäsuojauksia, kuten ransomware-tunnistuksen ja päätepisteiden aktiivisen suojauksen (EDR).
+<DisplayVariable variableKey="datto-rmm-edr-nimi" tag="p" bold={false} /> tarjoaa kattavan suojauksen tietoturvauhkia vastaan, sisältäen kaikki <DisplayVariable variableKey="datto-rmm-nimi" tag="p" bold={false} /> palvelun osa-alueet sekä lisäsuojauksia, kuten ransomware-tunnistuksen ja päätepisteiden aktiivisen suojauksen (EDR).
 
 ## Palvelusisältö
 
@@ -52,9 +50,7 @@ Etähallinnan avulla IT-järjestelmien ylläpito sujuu joustavasti ilman jatkuva
 
 ## Palvelukuvaus
 
-<DisplayVariable variableKey="datto-rmm-edr-nimi" tag="p" bold={false} />
-
- yhdistää etähallinnan ja monipuoliset tietoturvaominaisuudet, tarjoten reaaliaikaisen uhkien havaitsemisen, tehokkaan ennakoivan suojauksen, sekä kattavat analyysi- ja raportointityökalut.
+<DisplayVariable variableKey="datto-rmm-edr-nimi" tag="p" bold={false} /> yhdistää etähallinnan ja monipuoliset tietoturvaominaisuudet, tarjoten reaaliaikaisen uhkien havaitsemisen, tehokkaan ennakoivan suojauksen, sekä kattavat analyysi- ja raportointityökalut.
 
 Päätepisteiden suojaus tarkkailee jatkuvasti uhkiin liittyviä merkkejä käytössä olevilla laitteilla. EDR hyödyntää koneoppimista tunnistaakseen epänormaalit toiminnot reaaliajassa ja reagoi mahdollisiin uhkiin nopeasti. Olennaisin ero EDR:n ja perinteisen virustorjunnan välillä on lähestymistavassa. Virustorjuntaratkaisut voivat puuttua ainoastaan sellaisiin uhkiin, jotka ne jo tuntevat. Päätepisteiden suojaus puolestaan käyttää ennakoivaa lähestymistapaa tunnistaakseen myös aktiiviset tietomurrot ja hyökkäykset epäilyttävän toiminnan perusteella.
 
