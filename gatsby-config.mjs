@@ -122,5 +122,8 @@ export default {
         timeout: 3500,
       },
     },
+
+    // Netlify plugin for SSR and DSG pages
+    'gatsby-plugin-netlify'
   ],
 };

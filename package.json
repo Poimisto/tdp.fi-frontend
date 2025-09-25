@@ -58,6 +58,7 @@
   },
   "devDependencies": {
     "dotenv": "^16.4.5",
+    "gatsby-plugin-netlify": "^5.1.1",
     "prettier": "^2.8.8"
   },
   "keywords": [

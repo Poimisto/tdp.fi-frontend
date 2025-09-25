@@ -27,8 +27,9 @@
 [context.deploy-preview]
   environment = { GATSBY_STAGE = "preview", GATSBY_ContactApiEndpoint = ' https://p3cajda7vh.execute-api.eu-north-1.amazonaws.com/v1'  }
 
+# Netlify build plugin
 [[plugins]]
-  package = "netlify-plugin-gatsby-cache"
+  package = "@netlify/plugin-gatsby"
 
 #test for redirection of airtable forms
 [[redirects]]
