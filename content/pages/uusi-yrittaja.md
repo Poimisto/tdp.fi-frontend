@@ -52,7 +52,7 @@ Puhelinliittymien osalta kannattaa miettiä, tarvitaanko yritykselle yksi keskit
 
 ### Verkkotunnus, sähköposti ja kotisivut
 
-Ammattimaisuus alkaa verkkotunnuksesta. Domain-muotoiset sähköpostit (esim. etunimi@yrityksesi.fi) herättävät enemmän luottamusta kuin ilmaispalveluiden osoitteet. Samalla domainilla kannattaa rakentaa myös edes yksinkertaiset kotisivut, jotka kertovat että kuka olet, mitä teet ja miten sinuun saa yhteyden.
+Ammattimaisuus alkaa verkkotunnuksesta. Domain-muotoiset sähköpostit (esim. `etunimi@yrityksesi.fi`) herättävät enemmän luottamusta kuin ilmaispalveluiden osoitteet. Samalla domainilla kannattaa rakentaa myös edes yksinkertaiset kotisivut, jotka kertovat kuka olet, mitä teet ja miten sinuun saa yhteyden.
 
 Tarvittaessa TDP auttaa verkkotunnuksen rekisteröinnissä, DNS-hallinnassa, sähköpostipalveluiden pystyttämisessä ja sivuston hostauksessa. Jos et halua heti panostaa isoon verkkosivuprojektiin, aloitus onnistuu helposti yksisivuisella verkkosivulla tai vaikkapa yrityksesi sosiaalisen median profiililla.
 
