@@ -1,64 +1,74 @@
-import React from 'react'
-import { useStaticQuery, graphql } from "gatsby"
-import Img from 'gatsby-image'
-import styled from 'styled-components'
+import React from "react";
+import { useStaticQuery, graphql } from "gatsby";
+import { GatsbyImage, getImage } from "gatsby-plugin-image";
+import styled from "styled-components";
 
 const PeopleGrid = styled.div`
-  display:grid;
+  display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
+  @media (max-width: ${(props) => props.theme.mobileBreakpoint}px) {
     grid-template-columns: 1fr 1fr;
   }
   margin: 30px 0;
 `;
+
 const Employee = styled.div`
-  width:100%;
-  display:flex;
-  flex-direction:column;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 
-  img {
-    border-radius:50%;
-  }
   .name {
-    font-weight:bold;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
   }
 `;
 
-export default () => {
+const ListOfEmployees = () => {
   const data = useStaticQuery(graphql`
     query peopleQuery {
-      allPeopleJson(filter: {isEmployee: { eq: true }}) {
+      allPeopleJson(filter: { isEmployee: { eq: true } }) {
         edges {
           node {
-            title
             name
-            phone
             isEmployee
             image {
               childImageSharp {
-                fixed(width: 175, height:175) {
-                  ...GatsbyImageSharpFixed
-                }
+                gatsbyImageData(
+                  width: 175
+                  height: 175
+                  placeholder: BLURRED
+                )
               }
             }
           }
         }
       }
     }
-  `)
+  `);
+
   return (
     <PeopleGrid>
-      {data.allPeopleJson.edges.map( (node) => {
+      {data.allPeopleJson.edges.map(({ node }) => {
+        const img = getImage(node.image);
         return (
-          <Employee>
-            <Img className="img" fixed={node.node.image.childImageSharp.fixed} />
-
-            <span className="name">{node.node.name}</span>
+          <Employee key={node.name}>
+            {img && (
+              <GatsbyImage
+                className="img"
+                image={img}
+                alt={node.name || "Employee photo"}
+                imgStyle={{ borderRadius: "50%" }}
+              />
+            )}
+            <span className="name">{node.name}</span>
           </Employee>
-        )
+        );
       })}
     </PeopleGrid>
-  )
-}
+  );
+};
+
+export default ListOfEmployees;

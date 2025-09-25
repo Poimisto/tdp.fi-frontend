@@ -2,7 +2,8 @@ import React, { useState, useEffect } from "react"
 import Helmet from "react-helmet"
 import { getContrast, shade } from "polished"
 import styled from "styled-components"
-import theme from "../theme"
+import appTheme from "../theme"
+
 import {
   FormControl,
   MenuItem,
@@ -13,10 +14,10 @@ import {
   TableHead,
   TableRow,
   Input,
-  withStyles,
   Checkbox,
   Button,
-} from "@material-ui/core"
+} from "@mui/material"
+import { styled as muiStyled } from "@mui/material/styles"
 
 /**
  * We'll use hard-coded devices and interest rates for now. In the future we
@@ -74,13 +75,14 @@ const LEASING_DEVICES = {
     },
   ],
   peripherals: [
-    { name: "Näppäimistö", price: 76 }, // Logitech MX Keys S ilman alv - Verkkokauppa
-    { name: "Hiiri", price: 105 }, // Logitech MX Master 3S for Mac ilman alv - Verkkokauppa
-    { name: "Kuulokkeet", price: 159 }, // Jabra Evolve2 65 Stereo LINK380C ilman alv - Verkkokauppa
-    { name: 'Näyttö 27" QHD USB-C', price: 292 }, // Dell P2725DEHF
+    { name: "Näppäimistö", price: 76 },
+    { name: "Hiiri", price: 105 },
+    { name: "Kuulokkeet", price: 159 },
+    { name: 'Näyttö 27" QHD USB-C', price: 292 },
   ],
 }
 
+/* ---------- layout wrappers (styled-components) ---------- */
 const LeasingCalculatorContainer = styled.div`
   height: fit-content;
   width: 100%;
@@ -144,7 +146,6 @@ const LeasingPriceTableContainer = styled.div`
 `
 
 const InputContainer = styled.div`
-  /* width = parent / 3 - margins */
   width: calc(100% / 3 - 16px);
   height: fit-content;
   display: flex;
@@ -177,32 +178,30 @@ const VatNotice = styled.p`
   color: ${props => props.theme.colors.dark};
 `
 
-const WarrantyCheckbox = withStyles({
-  root: {
-    color: `${props => props.theme.colors.dark}`,
-    "&$checked": {
-      color: `${props => props.theme.colors.brand}`,
-    },
+/* ---------- MUI-styled replacements for withStyles ---------- */
+const WarrantyCheckbox = muiStyled(Checkbox)({
+  color: appTheme.colors.dark,
+  "&.Mui-checked": {
+    color: appTheme.colors.brand,
   },
-  checked: {},
-})(props => <Checkbox color="default" {...props} />)
+})
 
-const BrandButton = withStyles({
-  root: {
-    backgroundColor: `${theme.colors.brand}`,
-    // width = parent - margins
-    width: "calc(100% - 10px)",
-    margin: "5px 5px 0px",
-  },
-  text: {
-    color: `${props =>
-      getContrast(props.theme.colors.darkest, props.theme.colors.lightest) > 10
-        ? props.theme.colors.darkest
-        : props.theme.colors.lightest}`,
-  },
-})(props => <Button {...props} />)
+const brandTextColor =
+  getContrast(appTheme.colors.darkest, appTheme.colors.lightest) > 10
+    ? appTheme.colors.darkest
+    : appTheme.colors.lightest
 
-export default () => {
+const BrandButton = muiStyled(Button)({
+  backgroundColor: appTheme.colors.brand,
+  width: "calc(100% - 10px)",
+  margin: "5px 5px 0px",
+  color: brandTextColor,
+  "&:hover": {
+    backgroundColor: appTheme.colors.brand, // keep same look on hover as before
+  },
+})
+
+export default function LeasingCalculatorComponent() {
   const [leasingPackage, setLeasingPackage] = useState({
     device: LEASING_DEVICES.devices[0],
     peripherals: [],
@@ -308,26 +307,29 @@ export default () => {
                   id="device"
                   value={leasingPackage.device}
                   onChange={e => handleInputChange(e, "device")}
-                  input={<Input label="device-input" />}
-                  MenuProps={{
-                    getContentAnchorEl: null,
-                  }}
+                  input={<Input aria-label="device-input" />}
                   displayEmpty
+                  MenuProps={{
+                    // modern anchoring; old getContentAnchorEl is removed
+                    anchorOrigin: { vertical: "bottom", horizontal: "left" },
+                    transformOrigin: { vertical: "top", horizontal: "left" },
+                  }}
                 >
-                  {LEASING_DEVICES.devices &&
-                    LEASING_DEVICES.devices.map(d => (
-                      <MenuItem key={d.name} value={d}>
-                        {d.name}
-                      </MenuItem>
-                    ))}
+                  {LEASING_DEVICES.devices?.map(d => (
+                    <MenuItem key={d.name} value={d}>
+                      {d.name}
+                    </MenuItem>
+                  ))}
                 </Select>
               </FormControl>
             </InputContainer>
+
             <InputContainer>
               <FormControl fullWidth>
                 <InputText>Oheislaitteet</InputText>
                 <Select
                   id="peripherals"
+                  multiple
                   value={
                     leasingPackage.peripherals.length > 0
                       ? leasingPackage.peripherals
@@ -337,31 +339,35 @@ export default () => {
                   onOpen={handlePeripheralsOpen}
                   onClose={handlePeripheralsClose}
                   onChange={e => handleInputChange(e, "peripherals")}
-                  multiple
-                  input={<Input label="peripherals-input" />}
-                  MenuProps={{
-                    getContentAnchorEl: null,
-                  }}
+                  input={<Input aria-label="peripherals-input" />}
                   displayEmpty
+                  renderValue={selected =>
+                    Array.isArray(selected) && selected.length > 0
+                      ? selected.map(s => s.name).join(", ")
+                      : "Valitse oheislaitteet"
+                  }
+                  MenuProps={{
+                    anchorOrigin: { vertical: "bottom", horizontal: "left" },
+                    transformOrigin: { vertical: "top", horizontal: "left" },
+                  }}
                 >
-                  {LEASING_DEVICES.peripherals &&
-                    LEASING_DEVICES.peripherals.map(p => (
-                      <MenuItem key={p.name} value={p}>
-                        {p.name}
-                      </MenuItem>
-                    ))}
+                  {LEASING_DEVICES.peripherals?.map(p => (
+                    <MenuItem key={p.name} value={p}>
+                      {p.name}
+                    </MenuItem>
+                  ))}
                   <BrandButton onClick={handlePeripheralsClose}>
                     Sulje
                   </BrandButton>
                 </Select>
               </FormControl>
             </InputContainer>
+
             <InputContainer>
               <FormControl fullWidth>
                 <InputText>Määrä</InputText>
                 <Input
                   id="count"
-                  labelId="count-label"
                   value={leasingPackage.count}
                   onChange={e => handleInputChange(e, "count")}
                   onBlur={handleBlur}
@@ -370,13 +376,15 @@ export default () => {
                     min: 1,
                     max: 1000,
                     type: "number",
+                    "aria-label": "count",
                   }}
                 />
               </FormControl>
             </InputContainer>
           </LeasingCalculatorFormUpper>
+
           <LeasingCalculatorFormLower>
-            <FormControl marginDense>
+            <FormControl margin="dense">
               <WarrantyCheckbox
                 checked={leasingPackage.extendedWarranty}
                 onChange={e => handleInputChange(e, "extendedWarranty")}
@@ -385,6 +393,7 @@ export default () => {
             <CheckboxLabel>36kk Business Premium takuulaajennus</CheckboxLabel>
           </LeasingCalculatorFormLower>
         </LeasingCalculatorFormContainer>
+
         <LeasingPriceTableContainer>
           <Table style={{ margin: 0 }}>
             <TableHead>

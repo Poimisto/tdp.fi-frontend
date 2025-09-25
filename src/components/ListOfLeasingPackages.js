@@ -1,6 +1,6 @@
 import React from 'react'
 import { useStaticQuery, graphql } from "gatsby"
-import Img from 'gatsby-image'
+import { GatsbyImage } from 'gatsby-plugin-image'
 import styled from 'styled-components'
 
 const PackageGrid = styled.div`
@@ -33,9 +33,12 @@ export default () => {
             frontmatter {
               thumbnail {
                 childImageSharp {
-                  fixed(width: 175, height:240) {
-                    ...GatsbyImageSharpFixed
-                  }
+                  gatsbyImageData(
+                    width: 175,
+                    height: 240,
+                    layout: FIXED,
+                    placeholder: BLURRED
+                  )
                 }
               }
               head {
@@ -47,25 +50,19 @@ export default () => {
           }
         }
       }
-    }
-    
+    }  
   `)
   return (
     <PackageGrid>
-      {data.allMdx.edges.map( (node) => {
+      {data.allMdx.edges.map((node) => {
         return (
           <Package>
-
-              <Img className="img" fixed={node.node.frontmatter.thumbnail.childImageSharp.fixed} />
-         
+            <GatsbyImage className="img" image={node.node.frontmatter.thumbnail.childImageSharp.gatsbyImageData} />
             <div className="content">
               <a href={node.node.fields.slug}><h2 className="title">{node.node.frontmatter.head.title}</h2></a>
               <p>{node.node.frontmatter.head.description}</p>
               <a href={node.node.fields.slug}>Tutustu tarkemmin</a>
-
             </div>
-
-
           </Package>
         )
       })}

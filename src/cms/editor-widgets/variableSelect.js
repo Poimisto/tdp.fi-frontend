@@ -1,6 +1,7 @@
 import variableJson from "../../../content/variables/variables.json"
-import CMS from "netlify-cms-app"
+import CMS from "decap-cms-app"
 import Immutable from "immutable"
+import React from "react";
 
 // Extends the Netlify CMS default select widget by populating it with values¨
 // read from variables.json

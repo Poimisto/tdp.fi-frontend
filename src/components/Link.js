@@ -1,25 +1,56 @@
-import React from "react"
-import { Link as GatsbyLink } from "gatsby"
+import React from "react";
+import { Link as GatsbyLink } from "gatsby";
 
 /*
- * Used to dynamically swap CMS links with appropriate Gatsby links
- * Adapted from:
- * https://www.gatsbyjs.org/docs/gatsby-link/#use-link-only-for-internal-links
+ * Used to dynamically swap CMS links with appropriate Gatsby links.
+ * Internal links start with "/" or "#".
+ * External links are everything else (http, https, mailto, tel, //, etc).
  */
 
-export default ({ children, to, activeClassName, ...other }) => {
-  // This assumes that any internal link (intended for Gatsby)
-  // will start with one slash or a hash tag
-  const internal = /^\/(?!\/|#)/.test(to)
+const isInternal = (to) => {
+  if (!to) return false;
+  return to.startsWith("/") || to.startsWith("#");
+};
 
-  // Use Gatsby Link for internal links, and <a> for others
-  return internal ? (
-    <GatsbyLink to={to} activeClassName={activeClassName} {...other}>
-      {children}
-    </GatsbyLink>
-  ) : (
-    <a href={to} {...other}>
+const AppLink = ({
+  children,
+  to = "#",
+  activeClassName,
+  partiallyActive,
+  target,
+  rel,
+  onClick,
+  // Strip out styling-only props that might be passed by styled-components wrappers
+  bgColor,   // eslint-disable-line no-unused-vars
+  $bg,       // eslint-disable-line no-unused-vars
+  align,     // eslint-disable-line no-unused-vars
+  $align,    // eslint-disable-line no-unused-vars
+  ...rest
+}) => {
+  if (isInternal(to)) {
+    return (
+      <GatsbyLink
+        to={to}
+        activeClassName={activeClassName}
+        partiallyActive={partiallyActive}
+        {...rest}
+      >
+        {children}
+      </GatsbyLink>
+    );
+  }
+
+  // External link: ensure security attrs when opening a new tab
+  const computedRel =
+    target === "_blank"
+      ? ["noopener", "noreferrer", rel].filter(Boolean).join(" ")
+      : rel;
+
+  return (
+    <a href={to} target={target} rel={computedRel} onClick={onClick} {...rest}>
       {children}
     </a>
-  )
-}
+  );
+};
+
+export default AppLink;

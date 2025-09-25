@@ -16,7 +16,7 @@ contactForm: Ota yhteyttä
 
 <Grid container spacing={2}>
 
-<Grid item xs={12} sm={8}>
+<Grid item xs={12} sm={8} sx={{ minWidth: 0, maxWidth: { xs: 1, sm: 0.6 } }}>
 
 **Tampereen Datapiste Oy on vuonna 2007 perustettu IT-alan asiantuntijayritys ja yritysten IT-ympäristöstä kokonaisvastuun kantava palvelukumppani.**
 
@@ -80,7 +80,7 @@ Seuraa meitä sosiaalisen median kanavissamme:
 
 </Grid>
 
-<Grid item xs={12} sm={4}>
+<Grid item xs={12} sm={4} sx={{minWidth: 0, maxWidth: {xs: 1, sm: 0.3} }}>
 
 #### Tutustu
 

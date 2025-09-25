@@ -1,4 +1,4 @@
-import CMS from "netlify-cms-app"
+import CMS from "decap-cms-app"
 import ctaEditor from "./editor-components/ctaEditor"
 import heroBlock from "./editor-components/heroBlockEditor"
 import latestPosts from "./editor-components/latestPostsEditor"
