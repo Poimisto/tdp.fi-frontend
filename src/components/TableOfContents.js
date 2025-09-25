@@ -89,17 +89,21 @@ export default ({ headings }) => {
   useEffect(() => {
     const container = listRef.current;
 
-    if (!container) {
+    if (!container || active.length === 0) {
       return;
     }
 
-    const activeHeading = container.querySelector(`a[href="#${active}"]`);
+    const anchors = container.querySelectorAll('a');
+    const activeHeading = Array.from(anchors).find(a =>
+      a.getAttribute("href") &&
+      a.getAttribute("href").endsWith(active)
+    )
 
     if (!activeHeading) {
       return;
     }
 
-    activeHeading.scrollIntoView({ block: "nearest", inline: "nearest" });
+    activeHeading.scrollIntoView({ block: "nearest", inline: "nearest", behavior: "smooth" });
   }, [active]);
 
   return (
