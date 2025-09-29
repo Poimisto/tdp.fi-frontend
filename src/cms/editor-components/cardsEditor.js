@@ -36,7 +36,8 @@ export default {
 
     return {
       cardsPerRow: match[1],
-      cards : JSON.parse(match[2])
+      // The third element in match is "undefined" when there are no cards.
+      cards: match[2] !== "undefined" ? JSON.parse(match[2]) : {}
     }
   },
   // Function to create a text block from an instance of this component
