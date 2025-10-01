@@ -19,69 +19,6 @@ import {
 } from "@mui/material"
 import { styled as muiStyled } from "@mui/material/styles"
 
-/**
- * We'll use hard-coded devices and interest rates for now. In the future we
- * can create a CMS component for editing the calculator and available devices
- * and peripherals.
- */
-const ADDITIONAL_MARGIN = 0
-const THREE_YEAR_INTEREST = 1.04663
-const LEASING_DEVICES = {
-  devices: [
-    {
-      name: 'MacBook Pro 16" M4 Pro 24 Gt, 1 Tt 2024',
-      price: 2594,
-      warrantyId: 2,
-    },
-    {
-      name: 'MacBook Pro 16" M4 Max 64 Gt, 1Tt 2024',
-      price: 3978,
-      warrantyId: 2,
-    },
-    {
-      name: 'MacBook Pro 14" M4 24 Gt, 512 Gt 2024',
-      price: 1792,
-      warrantyId: 1,
-    },
-    {
-      name: 'MacBook Air 15" M4 16 Gt, 512 Gt 2024',
-      price: 1449,
-      warrantyId: 4,
-    },
-    { name: "Mac mini M4 Pro 24 Gt, 512 Gt", price: 1393, warrantyId: 3 },
-  ],
-  warranty: [
-    {
-      id: 1,
-      name:
-        'mcare Business Premium -huoltopalvelu, MacBook Pro 14" M4 Pro/Max, 36 kk',
-      price: 198,
-    },
-    {
-      id: 2,
-      name:
-        'mcare Business Premium -huoltopalvelu, MacBook Pro 16" M4 Pro/Max, 36 kk',
-      price: 258,
-    },
-    {
-      id: 3,
-      name: "mcare Business Premium -huoltopalvelu, Mac Mini M4 Pro, 36 kk",
-      price: 112,
-    },
-    {
-      id: 4,
-      name: 'mcare Business Premium -huoltopalvelu, MacBook Air 15" M4, 36 kk',
-      price: 178,
-    },
-  ],
-  peripherals: [
-    { name: "Näppäimistö", price: 76 },
-    { name: "Hiiri", price: 105 },
-    { name: "Kuulokkeet", price: 159 },
-    { name: 'Näyttö 27" QHD USB-C', price: 292 },
-  ],
-}
-
 /* ---------- layout wrappers (styled-components) ---------- */
 const LeasingCalculatorContainer = styled.div`
   height: fit-content;
@@ -201,11 +138,22 @@ const BrandButton = muiStyled(Button)({
   },
 })
 
-export default function LeasingCalculatorComponent() {
+export default function LeasingCalculatorComponent({
+  additionalMargin,
+  threeYearInterest,
+  devices,
+  peripherals,
+}) {
+  // Parse the serialized JSON strings from the MDX.
+  devices = JSON.parse(devices)
+  peripherals = JSON.parse(peripherals)
+
   const [leasingPackage, setLeasingPackage] = useState({
-    device: LEASING_DEVICES.devices[0],
+    device: devices[0].name,
     peripherals: [],
     extendedWarranty: false,
+    warrantyName: devices[0].warrantyName,
+    warrantyPrice: devices[0].warrantyPrice,
     count: 1,
   })
   const [leasingPrices, setLeasingPrices] = useState([
@@ -230,6 +178,15 @@ export default function LeasingCalculatorComponent() {
           [key]: value.filter(v => !!v),
         }))
         break
+      case "device":
+        const selectedDevice = devices.find(d => d.name === value)
+
+        setLeasingPackage(prev => ({
+          ...prev,
+          [key]: value,
+          warrantyName: selectedDevice.warrantyName,
+          warrantyPrice: selectedDevice.warrantyPrice,
+        }))
       default:
         setLeasingPackage(prev => ({
           ...prev,
@@ -250,31 +207,28 @@ export default function LeasingCalculatorComponent() {
   const handlePeripheralsClose = () => setPeripheralsOpen(false)
 
   useEffect(() => {
+    const selectedDevice = devices.find(d => d.name === leasingPackage.device)
+    const selectedPeripherals = peripherals.filter(p =>
+      leasingPackage.peripherals.includes(p.name)
+    )
+
     // Calculate the leasing prices for the selected package.
-    let extendedWarrantyPrice = 0
-    if (leasingPackage.extendedWarranty) {
-      const extendedWarranty = LEASING_DEVICES.warranty.find(
-        w => w.id === leasingPackage.device.warrantyId
-      )
-
-      if (extendedWarranty) {
-        extendedWarrantyPrice = extendedWarranty.price
-      }
-    }
-
-    const pricePerUnit =
-      leasingPackage.device.price +
-      extendedWarrantyPrice +
-      leasingPackage.peripherals.reduce((total, current) => {
+    let pricePerUnit =
+      selectedDevice.price +
+      selectedPeripherals.reduce((total, current) => {
         if (current.price) {
           total += current.price
         }
         return total
       }, 0)
 
+    if (leasingPackage.extendedWarranty) {
+      pricePerUnit += selectedDevice.warrantyPrice
+    }
+
     const threeYearPayment =
-      ((pricePerUnit * leasingPackage.count + ADDITIONAL_MARGIN) / 36) *
-      THREE_YEAR_INTEREST
+      ((pricePerUnit * leasingPackage.count + additionalMargin) / 36) *
+      threeYearInterest
     const directPurchase = pricePerUnit * leasingPackage.count
 
     setLeasingPrices([
@@ -291,9 +245,7 @@ export default function LeasingCalculatorComponent() {
         meta={[
           {
             name: "calculator-keywords",
-            content: LEASING_DEVICES.devices
-              .map(d => d.name.replaceAll(",", ""))
-              .join(", "),
+            content: devices.map(d => d.name.replaceAll(",", "")).join(", "),
           },
         ]}
       />
@@ -315,8 +267,8 @@ export default function LeasingCalculatorComponent() {
                     transformOrigin: { vertical: "top", horizontal: "left" },
                   }}
                 >
-                  {LEASING_DEVICES.devices?.map(d => (
-                    <MenuItem key={d.name} value={d}>
+                  {devices?.map(d => (
+                    <MenuItem key={d.name} value={d.name}>
                       {d.name}
                     </MenuItem>
                   ))}
@@ -343,7 +295,7 @@ export default function LeasingCalculatorComponent() {
                   displayEmpty
                   renderValue={selected =>
                     Array.isArray(selected) && selected.length > 0
-                      ? selected.map(s => s.name).join(", ")
+                      ? selected.join(", ")
                       : "Valitse oheislaitteet"
                   }
                   MenuProps={{
@@ -351,8 +303,8 @@ export default function LeasingCalculatorComponent() {
                     transformOrigin: { vertical: "top", horizontal: "left" },
                   }}
                 >
-                  {LEASING_DEVICES.peripherals?.map(p => (
-                    <MenuItem key={p.name} value={p}>
+                  {peripherals?.map(p => (
+                    <MenuItem key={p.name} value={p.name}>
                       {p.name}
                     </MenuItem>
                   ))}
@@ -390,14 +342,14 @@ export default function LeasingCalculatorComponent() {
                 onChange={e => handleInputChange(e, "extendedWarranty")}
               />
             </FormControl>
-            <CheckboxLabel>36kk Business Premium takuulaajennus</CheckboxLabel>
+            <CheckboxLabel>{leasingPackage.warrantyName}</CheckboxLabel>
           </LeasingCalculatorFormLower>
         </LeasingCalculatorFormContainer>
 
         <LeasingPriceTableContainer>
           <Table style={{ margin: 0 }}>
             <TableHead>
-              <TableRow>
+              <TableRow key="heading">
                 <TableCell align="left">Suoraosto</TableCell>
                 <TableCell align="left">Hinta 36kk</TableCell>
               </TableRow>
