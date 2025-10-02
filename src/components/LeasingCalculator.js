@@ -6,8 +6,7 @@ import appTheme from "../theme"
 
 import {
   FormControl,
-  MenuItem,
-  Select,
+  Autocomplete,
   Table,
   TableBody,
   TableCell,
@@ -15,9 +14,17 @@ import {
   TableRow,
   Input,
   Checkbox,
-  Button,
+  TextField,
+  Slider,
+  ToggleButton,
+  ToggleButtonGroup,
+  tableCellClasses,
+  toggleButtonGroupClasses,
 } from "@mui/material"
 import { styled as muiStyled } from "@mui/material/styles"
+
+const MIN_DEVICES = 1
+const MAX_DEVICES = 100
 
 /* ---------- layout wrappers (styled-components) ---------- */
 const LeasingCalculatorContainer = styled.div`
@@ -47,53 +54,28 @@ const LeasingCalculator = styled.div`
   }
 `
 
-const LeasingCalculatorFormContainer = styled.div`
+const FormContainer = styled.div`
   height: fit-content;
   width: 100%;
 `
 
-const LeasingCalculatorFormUpper = styled.div`
+const FormInputContainer = styled.div`
   height: fit-content;
-  width: 100%;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
-
-  @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
-    display: flex;
-    flex-direction: column;
-  }
-`
-
-const LeasingCalculatorFormLower = styled.div`
-  height: fit-content;
-  width: 100%;
+  // Width: parent - margins
+  width: calc(100% - 2 * 0.5em);
+  margin: 0.75em;
   display: flex;
   flex-direction: row;
   justify-content: left;
   align-items: center;
 `
 
-const LeasingPriceTableContainer = styled.div`
+const TableContainer = styled.div`
   height: fit-content;
   width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: left;
-`
-
-const InputContainer = styled.div`
-  width: calc(100% / 3 - 16px);
-  height: fit-content;
-  display: flex;
-  flex-direction: column;
-  justify-content: left;
-  margin: 0px 8px 16px;
-
-  @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
-    width: 100%;
-    margin: 16px 0px;
-  }
 `
 
 const InputText = styled.p`
@@ -103,8 +85,15 @@ const InputText = styled.p`
 `
 
 const CheckboxLabel = styled.p`
+  height: fit-content;
   margin: 0;
   padding: 0;
+`
+
+const ButtonTextContainer = styled.p`
+  height: fit-content;
+  text-wrap: ${props => (props.noWrap ? "nowrap" : "wrap")};
+  margin: 0;
 `
 
 const VatNotice = styled.p`
@@ -116,27 +105,62 @@ const VatNotice = styled.p`
 `
 
 /* ---------- MUI-styled replacements for withStyles ---------- */
-const WarrantyCheckbox = muiStyled(Checkbox)({
+const CheckboxInput = muiStyled(Checkbox)({
   color: appTheme.colors.dark,
   "&.Mui-checked": {
     color: appTheme.colors.brand,
   },
 })
 
-const brandTextColor =
-  getContrast(appTheme.colors.darkest, appTheme.colors.lightest) > 10
-    ? appTheme.colors.darkest
-    : appTheme.colors.lightest
+const StyledToggleButtonGroup = muiStyled(ToggleButtonGroup)(({ theme }) => ({
+  gap: "1rem",
+  flexWrap: "wrap",
+  [`& .${toggleButtonGroupClasses.firstButton}, & .${toggleButtonGroupClasses.middleButton}`]:
+    {
+      borderTopRightRadius: (theme.vars || theme).shape.borderRadius,
+      borderBottomRightRadius: (theme.vars || theme).shape.borderRadius,
+    },
+  [`& .${toggleButtonGroupClasses.lastButton}, & .${toggleButtonGroupClasses.middleButton}`]:
+    {
+      borderTopLeftRadius: (theme.vars || theme).shape.borderRadius,
+      borderBottomLeftRadius: (theme.vars || theme).shape.borderRadius,
+      borderLeft: `1px solid ${(theme.vars || theme).palette.divider}`,
+    },
+  [`& .${toggleButtonGroupClasses.lastButton}.${toggleButtonGroupClasses.disabled}, & .${toggleButtonGroupClasses.middleButton}.${toggleButtonGroupClasses.disabled}`]:
+    {
+      borderLeft: `1pc solid ${
+        (theme.vars || theme).palette.action.disabledBackground
+      }`,
+    },
+}))
 
-const BrandButton = muiStyled(Button)({
-  backgroundColor: appTheme.colors.brand,
-  width: "calc(100% - 10px)",
-  margin: "5px 5px 0px",
-  color: brandTextColor,
-  "&:hover": {
-    backgroundColor: appTheme.colors.brand, // keep same look on hover as before
+const CountSlider = muiStyled(Slider)(({ theme }) => ({
+  color: theme.palette.secondary.main,
+  width: `calc(100% - 20px)`,
+  alignSelf: "center",
+}))
+
+const StyledTableCell = muiStyled(TableCell)(() => ({
+  [`&.${tableCellClasses.head}`]: {
+    fontWeight: "bold",
+    fontSize: 16,
   },
-})
+  "&:nth-child(1)": {
+    width: "55%",
+  },
+  "&:nth-child(2)": {
+    width: "22.5%",
+  },
+  "&:nth-child(3)": {
+    width: "22.5%",
+  },
+}))
+
+const StyledTableRow = muiStyled(TableRow)(() => ({
+  "&:last-child td, &:last-child th": {
+    fontWeight: "bold",
+  },
+}))
 
 export default function LeasingCalculatorComponent({
   additionalMargin,
@@ -151,25 +175,27 @@ export default function LeasingCalculatorComponent({
   const [leasingPackage, setLeasingPackage] = useState({
     device: devices[0].name,
     peripherals: [],
-    extendedWarranty: false,
+    extendedWarrantySelected: false,
     warrantyName: devices[0].warrantyName,
     warrantyPrice: devices[0].warrantyPrice,
     count: 1,
   })
-  const [leasingPrices, setLeasingPrices] = useState([
-    {
-      name: "Leasing hinnat",
-      price36: "--",
-      directPurchase: "--",
-    },
-  ])
-  const [peripheralsOpen, setPeripheralsOpen] = useState(false)
 
-  const handleInputChange = (e, key) => {
-    const { value, checked } = e.target
+  const [leasingPrices, setLeasingPrices] = useState({
+    itemContributions: [],
+    name: "Leasing hinnat",
+    price36: "--",
+    directPurchase: "--",
+  })
+
+  const handleInputChange = (e, key, newValue = false) => {
+    let { value, checked } = e.target
+    if (newValue) {
+      value = newValue
+    }
 
     switch (key) {
-      case "extendedWarranty":
+      case "extendedWarrantySelected":
         setLeasingPackage(prev => ({ ...prev, [key]: checked }))
         break
       case "peripherals":
@@ -177,6 +203,7 @@ export default function LeasingCalculatorComponent({
           ...prev,
           [key]: value.filter(v => !!v),
         }))
+
         break
       case "device":
         const selectedDevice = devices.find(d => d.name === value)
@@ -184,9 +211,24 @@ export default function LeasingCalculatorComponent({
         setLeasingPackage(prev => ({
           ...prev,
           [key]: value,
-          warrantyName: selectedDevice.warrantyName,
-          warrantyPrice: selectedDevice.warrantyPrice,
+          warrantyName: selectedDevice ? selectedDevice.warrantyName : "",
+          warrantyPrice: selectedDevice ? selectedDevice.warrantyPrice : 0,
+          extendedWarrantySelected: selectedDevice
+            ? prev.extendedWarrantySelected
+            : false,
         }))
+
+        break
+      case "count":
+        if (value > MAX_DEVICES) {
+          value = MAX_DEVICES
+        } else if (value < MIN_DEVICES) {
+          value = MIN_DEVICES
+        }
+
+        setLeasingPackage(prev => ({ ...prev, count: Number.parseInt(value) }))
+
+        break
       default:
         setLeasingPackage(prev => ({
           ...prev,
@@ -196,15 +238,12 @@ export default function LeasingCalculatorComponent({
   }
 
   const handleBlur = () => {
-    if (leasingPackage.count < 1) {
-      setLeasingPackage(prev => ({ ...prev, count: 1 }))
-    } else if (leasingPackage.count > 1000) {
-      setLeasingPackage(prev => ({ ...prev, count: 1000 }))
+    if (leasingPackage.count < MIN_DEVICES) {
+      setLeasingPackage(prev => ({ ...prev, count: MIN_DEVICES }))
+    } else if (leasingPackage.count > MAX_DEVICES) {
+      setLeasingPackage(prev => ({ ...prev, count: MAX_DEVICES }))
     }
   }
-
-  const handlePeripheralsOpen = () => setPeripheralsOpen(true)
-  const handlePeripheralsClose = () => setPeripheralsOpen(false)
 
   useEffect(() => {
     const selectedDevice = devices.find(d => d.name === leasingPackage.device)
@@ -212,17 +251,19 @@ export default function LeasingCalculatorComponent({
       leasingPackage.peripherals.includes(p.name)
     )
 
-    // Calculate the leasing prices for the selected package.
-    let pricePerUnit =
-      selectedDevice.price +
-      selectedPeripherals.reduce((total, current) => {
-        if (current.price) {
-          total += current.price
-        }
-        return total
-      }, 0)
+    // Calculate the montly leasing cost for the selected package.
+    let pricePerUnit = selectedPeripherals.reduce((total, current) => {
+      if (current.price) {
+        total += current.price
+      }
+      return total
+    }, 0)
 
-    if (leasingPackage.extendedWarranty) {
+    if (selectedDevice) {
+      pricePerUnit += selectedDevice.price
+    }
+
+    if (leasingPackage.extendedWarrantySelected) {
       pricePerUnit += selectedDevice.warrantyPrice
     }
 
@@ -231,12 +272,54 @@ export default function LeasingCalculatorComponent({
       threeYearInterest
     const directPurchase = pricePerUnit * leasingPackage.count
 
-    setLeasingPrices([
-      {
-        price36: `${threeYearPayment.toFixed(2)} €/kk`,
-        directPurchase: `${directPurchase.toFixed(2)} €`,
-      },
-    ])
+    // Calculate each item's contribution to the final monthly payment based on the products portion of the direct purchase price.
+    // KPMG: https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/ifrg/2024/lease-payments.pdf
+    const allProducts = [...selectedPeripherals]
+
+    if (selectedDevice) {
+      allProducts.unshift({
+        name: selectedDevice.name,
+        price: selectedDevice.price,
+      })
+    }
+
+    if (leasingPackage.extendedWarrantySelected) {
+      allProducts.push({
+        name: selectedDevice.warrantyName,
+        price: selectedDevice.warrantyPrice,
+      })
+    }
+
+    const itemContributions = allProducts.map(p => {
+      const weight = p.price / directPurchase
+
+      const contribution =
+        ((directPurchase * weight * leasingPackage.count + additionalMargin) /
+          36) *
+        threeYearInterest
+
+      const itemDirectPurchase = p.price * leasingPackage.count
+
+      if (devices.some(d => d.name === p.name)) {
+        return {
+          ...p,
+          price: `${itemDirectPurchase.toFixed(2)} €`,
+          contribution: `${contribution.toFixed(2)} €/kk`,
+        }
+      } else {
+        return {
+          ...p,
+          price: `${itemDirectPurchase.toFixed(2)} €`,
+          contribution: `+ ${contribution.toFixed(2)} €/kk`,
+        }
+      }
+    })
+
+    setLeasingPrices({
+      itemContributions,
+      price36: `${threeYearPayment.toFixed(2)} €/kk`,
+      directPurchase: `${directPurchase.toFixed(2)} €`,
+    })
   }, [leasingPackage])
 
   return (
@@ -250,121 +333,123 @@ export default function LeasingCalculatorComponent({
         ]}
       />
       <LeasingCalculator>
-        <LeasingCalculatorFormContainer>
-          <LeasingCalculatorFormUpper>
-            <InputContainer>
-              <FormControl fullWidth>
-                <InputText>Laite</InputText>
-                <Select
-                  id="device"
-                  value={leasingPackage.device}
-                  onChange={e => handleInputChange(e, "device")}
-                  input={<Input aria-label="device-input" />}
-                  displayEmpty
-                  MenuProps={{
-                    // modern anchoring; old getContentAnchorEl is removed
-                    anchorOrigin: { vertical: "bottom", horizontal: "left" },
-                    transformOrigin: { vertical: "top", horizontal: "left" },
-                  }}
-                >
-                  {devices?.map(d => (
-                    <MenuItem key={d.name} value={d.name}>
-                      {d.name}
-                    </MenuItem>
-                  ))}
-                </Select>
-              </FormControl>
-            </InputContainer>
-
-            <InputContainer>
-              <FormControl fullWidth>
-                <InputText>Oheislaitteet</InputText>
-                <Select
-                  id="peripherals"
-                  multiple
-                  value={
-                    leasingPackage.peripherals.length > 0
-                      ? leasingPackage.peripherals
-                      : []
-                  }
-                  open={peripheralsOpen}
-                  onOpen={handlePeripheralsOpen}
-                  onClose={handlePeripheralsClose}
-                  onChange={e => handleInputChange(e, "peripherals")}
-                  input={<Input aria-label="peripherals-input" />}
-                  displayEmpty
-                  renderValue={selected =>
-                    Array.isArray(selected) && selected.length > 0
-                      ? selected.join(", ")
-                      : "Valitse oheislaitteet"
-                  }
-                  MenuProps={{
-                    anchorOrigin: { vertical: "bottom", horizontal: "left" },
-                    transformOrigin: { vertical: "top", horizontal: "left" },
-                  }}
-                >
-                  {peripherals?.map(p => (
-                    <MenuItem key={p.name} value={p.name}>
-                      {p.name}
-                    </MenuItem>
-                  ))}
-                  <BrandButton onClick={handlePeripheralsClose}>
-                    Sulje
-                  </BrandButton>
-                </Select>
-              </FormControl>
-            </InputContainer>
-
-            <InputContainer>
-              <FormControl fullWidth>
-                <InputText>Määrä</InputText>
-                <Input
-                  id="count"
-                  value={leasingPackage.count}
-                  onChange={e => handleInputChange(e, "count")}
-                  onBlur={handleBlur}
-                  inputProps={{
-                    step: 1,
-                    min: 1,
-                    max: 1000,
-                    type: "number",
-                    "aria-label": "count",
-                  }}
-                />
-              </FormControl>
-            </InputContainer>
-          </LeasingCalculatorFormUpper>
-
-          <LeasingCalculatorFormLower>
-            <FormControl margin="dense">
-              <WarrantyCheckbox
-                checked={leasingPackage.extendedWarranty}
-                onChange={e => handleInputChange(e, "extendedWarranty")}
+        <FormContainer>
+          <FormInputContainer>
+            <FormControl fullWidth>
+              <Autocomplete
+                id="device"
+                options={devices.map(d => d.name)}
+                renderInput={params => <TextField {...params} label="Laite" />}
+                value={leasingPackage.device}
+                onChange={(e, newValue) =>
+                  handleInputChange(e, "device", newValue)
+                }
+                disablePortal
               />
             </FormControl>
-            <CheckboxLabel>{leasingPackage.warrantyName}</CheckboxLabel>
-          </LeasingCalculatorFormLower>
-        </LeasingCalculatorFormContainer>
+          </FormInputContainer>
 
-        <LeasingPriceTableContainer>
+          {!!leasingPackage.device && (
+            <FormInputContainer>
+              <FormControl margin="dense">
+                <CheckboxInput
+                  checked={leasingPackage.extendedWarrantySelected}
+                  onChange={e =>
+                    handleInputChange(e, "extendedWarrantySelected")
+                  }
+                />
+              </FormControl>
+              <CheckboxLabel>{leasingPackage.warrantyName}</CheckboxLabel>
+            </FormInputContainer>
+          )}
+
+          <FormInputContainer>
+            <StyledToggleButtonGroup
+              value={leasingPackage.peripherals}
+              onChange={(e, newValue) =>
+                handleInputChange(e, "peripherals", newValue)
+              }
+              aria-label="Button group for selecting peripherals"
+            >
+              {peripherals.map(p => (
+                <ToggleButton
+                  value={p.name}
+                  aria-label={p.name}
+                  sx={{ display: "flex", flexDirection: "column" }}
+                >
+                  <ButtonTextContainer>{p.name}</ButtonTextContainer>
+                  <ButtonTextContainer noWrap>{p.price} €</ButtonTextContainer>
+                </ToggleButton>
+              ))}
+            </StyledToggleButtonGroup>
+          </FormInputContainer>
+
+          <FormInputContainer>
+            <FormControl fullWidth>
+              <InputText>Määrä</InputText>
+              <CountSlider
+                id="count-slider"
+                value={
+                  typeof leasingPackage.count === "number"
+                    ? leasingPackage.count
+                    : MIN_DEVICES
+                }
+                onChange={e => handleInputChange(e, "count")}
+                min={MIN_DEVICES}
+                max={MAX_DEVICES}
+                aria-label="Device count slider"
+              />
+              <Input
+                id="count"
+                value={leasingPackage.count}
+                onChange={e => handleInputChange(e, "count")}
+                onBlur={handleBlur}
+                type="number"
+                inputProps={{
+                  step: 1,
+                  min: MIN_DEVICES,
+                  max: MAX_DEVICES,
+                }}
+                sx={{ width: "fit-content", alignSelf: "center" }}
+                arial-label="Device count input"
+              />
+            </FormControl>
+          </FormInputContainer>
+        </FormContainer>
+
+        <TableContainer>
           <Table style={{ margin: 0 }}>
             <TableHead>
-              <TableRow key="heading">
-                <TableCell align="left">Suoraosto</TableCell>
-                <TableCell align="left">Hinta 36kk</TableCell>
-              </TableRow>
+              <StyledTableRow key="heading">
+                <StyledTableCell align="left">Tuote</StyledTableCell>
+                <StyledTableCell align="left">Suoraosto</StyledTableCell>
+                <StyledTableCell align="left">Hinta 36kk</StyledTableCell>
+              </StyledTableRow>
             </TableHead>
             <TableBody>
-              {leasingPrices.map(row => (
-                <TableRow key={row.name}>
-                  <TableCell align="left">{row.directPurchase}</TableCell>
-                  <TableCell align="left">{row.price36}</TableCell>
-                </TableRow>
-              ))}
+              {leasingPrices.itemContributions.length > 0 &&
+                leasingPrices.itemContributions.map(row => (
+                  <StyledTableRow key={row.name}>
+                    <StyledTableCell align="left">{row.name}</StyledTableCell>
+                    <StyledTableCell align="left">{row.price}</StyledTableCell>
+                    <StyledTableCell align="left">
+                      {row.contribution}
+                    </StyledTableCell>
+                  </StyledTableRow>
+                ))}
+              <StyledTableRow key="total">
+                <StyledTableCell align="left">Yhteensä</StyledTableCell>
+                <StyledTableCell align="left">
+                  {leasingPrices.directPurchase}
+                </StyledTableCell>
+                <StyledTableCell align="left">
+                  {leasingPrices.price36}
+                </StyledTableCell>
+              </StyledTableRow>
             </TableBody>
           </Table>
           <VatNotice>Hinnat ALV 0%</VatNotice>
-        </LeasingPriceTableContainer>
+        </TableContainer>
       </LeasingCalculator>
     </LeasingCalculatorContainer>
   )
