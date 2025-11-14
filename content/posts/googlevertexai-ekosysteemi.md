@@ -15,6 +15,8 @@ contactForm: Ota yhteyttä
 ---
 ![Gemini yrityskäytössä - Google Vertex AI](/assets/vertexai_1.jpg "Google Vertex AI - Tekoälyn hyödyntäminen yrityksissä")
 
+## Vertex AI
+
 Mitä jos voisit valjastaa Googlen tehokkaimmat tekoälytyökalut suoraan oman yrityksesi käyttöön?  **Google Vertex AI**  -ekosysteemi tuo suurten kielimallien (LLM) voiman helposti käyttöön pilvipalveluna. Se on yhtenäinen alusta, joka kokoaa kaikki tekoälyratkaisujen hyödyntämiseen tarvittavat komponentitt yhden katon alle.
 
 Tämä tarkoittaa sitä, että monimutkaisen teknologian käyttöönotto on huomattavasti aiempaa helpompaa. Teidän ei enää tarvitse koostaa palveluita erillisistä paloista, vaan saatte valmiin ja toimivan ekosysteemin, joka kommunikoi sujuvasti suomen kielellä.
