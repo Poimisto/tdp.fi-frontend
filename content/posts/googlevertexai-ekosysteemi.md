@@ -189,9 +189,8 @@ Pilvipalvelut, mukaan lukien **Vertex AI**, noudattavat "maksa käytön mukaan" 
 
 Riski piilee siinä, jos käyttöä ei seurata ja se kasvaa hallitsemattomasti. Tekoälyn kulut perustuvat usein datan käsittelymäärään (esim. kuinka paljon tekstiä malli lukee ja tuottaa).
 
-Näin pidämme kulut hallinnassa:
+Me emme vain asenna työkalua, vaan autamme teitä aktiivisesti budjetoinnissa ja seurannassa. Näin pidämme kulut hallinnassa:
 
-Me emme vain asenna työkalua, vaan autamme teitä aktiivisesti budjetoinnissa ja seurannassa.
 
 * **Asetamme hälytykset:** Hyödynnämme Google Cloudin kustannushälytyksiä, jotka ilmoittavat heti, jos käyttö on ylittämässä sovitun budjetin.
 * **Optimoimme käyttöä:** Varmistamme, että tekoälymalleja käytetään tehokkaasti ja vain tarpeellisiin operaatioihin.
@@ -205,7 +204,7 @@ Uusi työkalu on hyödyllinen vasta, kun ihmiset käyttävät sitä. On luonnoll
 
 Tärkein viestimme on aina tämä: Tekoäly on työkalu, joka auttaa ihmisiä tekemään työnsä paremmin, ei korvaa heitä. Tekoäly on loistava apuri rutiineissa, mutta **asiantuntija tekee aina lopullisen päätöksen** ja varmistaa laadun.
 
-Me autamme tässä muutoksessa:
+**Me autamme teitä muutoksessa:**
 
 * **Otamme henkilöstön mukaan:** Emme vain asenna ohjelmistoa, vaan otamme tulevat käyttäjät mukaan suunnitteluun alusta alkaen.
 * **Koulutamme käytäntöön:** Tarjoamme käytännön koulutusta juuri heidän rooliinsa: miten myyjä hyödyntää uutta chattia tai miten projektitiimi käyttää uutta hakua.
@@ -260,7 +259,7 @@ Haluatko selvittää, mitä tekoäly voisi tehdä juuri teidän liiketoiminnassa
 
 Ota meihin yhteyttä. Lupauksemme on, ettemme yritä myydä sinulle monimutkaista järjestelmää, vaan käydään yhdessä läpi teidän arjen haasteenne. Autamme tunnistamaan sen ensimmäisen pienen kokeilun, jolla saadaan aikaan suurin hyöty.
 
-Olemme täällä auttaaksemme teitä ottamaan ensimmäisen askeleen ja **varmistamassa, että siitä kasvaa menestystarina.** 
+Olemme täällä auttaaksemme teitä ottamaan ensimmäisen askeleen ja **varmistaaksemme, että siitä kasvaa menestystarina!**
 
 ### Usein kysytyt kysymykset (UKK)
 
@@ -282,39 +281,33 @@ Tämä joustava malli sopii erinomaisesti myös PK-yritykselle, koska kynnys alo
 
 Ei välttämättä. Googlen tekoälymallit (kuten Gemini) on koulutettu valtavalla määrällä julkista tietoa. Ne osaavat siis jo valmiiksi tiivistää tekstejä, kääntää kieliä tai vastata yleistietoisiin kysymyksiin ilman, että niille tarvitsee opettaa mitään uutta.
 
-Todellinen liiketoimintahyöty saadaan kuitenkin yleensä silloin, kun tekoäly valjastetaan käyttämään teidän omaa dataanne.
-
-Jos haluat tekoälyn vastaavan kysymyksiin yrityksesi sisäisistä ohjeista, tuotetiedoista tai asiakasprojekteista ne täytyy tuoda mallien saataville niiden hyvin ymmärtämässä muodossa. Me voimme auttaa tässä. 
+Todellinen liiketoimintahyöty saadaan kuitenkin yleensä silloin, kun tekoäly valjastetaan käyttämään teidän omaa dataanne. Jos haluat tekoälyn vastaavan kysymyksiin yrityksesi sisäisistä ohjeista, tuotetiedoista tai asiakasprojekteista ne täytyy tuoda mallien saataville niiden hyvin ymmärtämässä muodossa. Me voimme auttaa tässä. 
 
 #### 3. Ymmärtääkö Vertex AI ja Gemini suomen kieltä?
 
 Kyllä, erinomaisesti. Tämä on yksi suurimmista harppauksista aiempaan. Uusimmat Gemini-mallit on koulutettu laajasti myös suomenkielisellä aineistolla.
 
-Ne ymmärtävät suomeksi esitettyjä kysymyksiä ja tuottavat laadukasta, luontevaa ja kieliopillisesti oikeaa suomea vastauksena.
+**Ne ymmärtävät suomeksi esitettyjä kysymyksiä ja tuottavat laadukasta, luontevaa ja kieliopillisesti oikeaa suomea vastauksena.**
 
 Voit siis huoletta rakentaa chatbotin palvelemaan suomalaisia asiakkaitasi tai antaa tekoälyn tehdä yhteenvetoja suomenkielisistä sopimuksista. Jos yrityksellänne on paljon omaa erikoissanastoa, voimme auttaa mallia oppimaan myös ne.
 
 #### 4. Miten tietosuoja ja GDPR on hoidettu? Uskallammeko laittaa sinne yrityksemme dataa?
 
-Tämä on tärkein kysymys, ja vastaus on selkeä: Vertex AI on suunniteltu yrityskäyttöön, ja sen tietoturva on huippuluokkaa.
+Tämä on tärkein kysymys, ja vastaus on selkeä: Vertex AI on suunniteltu yrityskäyttöön, ja sen tietoturva on huippuluokkaa. Suurin ero verrattuna julkisiin tekoälypalveluihin (kuten ilmainen ChatGPT) on tämä:
 
-Suurin ero verrattuna julkisiin tekoälypalveluihin (kuten ilmainen ChatGPT) on tämä:
-
-Google ei käytä teidän Vertex AI:hin syöttämää dataa omien julkisten malliensa kouluttamiseen.
+**Google ei käytä teidän Vertex AI:hin syöttämäänne dataa omien julkisten malliensa kouluttamiseen**.
 
 Kun käytät Vertex AI:ta, kaikki data pysyy teidän omassa, suljetussa Google Cloud -ympäristössänne.
 
-* Data pysyy teidän hallussanne: Tietojanne (kuten asiakaslistoja tai sisäisiä muistioita) ei lähetetä mihinkään julkiseen tietokantaan.
-* Täyttää standardit: Palvelu täyttää tiukimmat kansainväliset tietoturvastandardit (kuten ISO 27001) ja noudattaa GDPR-asetusta.
-* Me varmistamme loput: Kumppanina huolehdimme, että käyttöoikeudet on määritelty oikein ja että datan käsittely noudattaa parhaita käytäntöjä.
+* **Data pysyy teidän hallussanne**: Tietojanne (kuten asiakaslistoja tai sisäisiä muistioita) ei lähetetä mihinkään julkiseen tietokantaan.
+* **Täyttää standardit:** Palvelu täyttää tiukimmat kansainväliset tietoturvastandardit (kuten ISO 27001) ja noudattaa GDPR-asetusta.
+* **Me varmistamme loput**: Kumppanina huolehdimme, että käyttöoikeudet on määritelty oikein ja että datan käsittely noudattaa parhaita käytäntöjä.
 
 Voitte siis hyödyntää tekoälyä omalla datalla ilman pelkoa tietovuodoista.
 
 #### 5. Kuinka nopeasti käyttöönotosta saa konkreettisia tuloksia?
 
-Yllättävän nopeasti. Emme puhu kuukausien tai vuosien IT-projekteista.
-
-Generatiivisen tekoälyn pilotoinnissa puhutaan viikoista.
+Yllättävän nopeasti. Emme puhu kuukausien tai vuosien IT-projekteista. Generatiivisen tekoälyn pilotoinnissa puhutaan viikoista.
 
 Koska Vertex AI tarjoaa niin paljon valmiita työkaluja, voimme toteuttaa pienen, rajatun kokeiluprojektin ideasta ensimmäiseen testaukseen usein noin kahdessa viikossa.
 
@@ -336,10 +329,10 @@ Me tuomme teknisen asiantuntemuksen, jotta te voitte keskittyä täysin liiketoi
 
 Aloittaminen on tehty todella helpoksi.
 
-1. Ota meihin yhteyttä. Riittää, että olet utelias.
-2. Käydään lyhyt kartoitus: Pidämme palaverin, jossa emme puhu tekniikasta, vaan teidän liiketoiminnastanne. Mitkä ovat teidän arjen haasteet tai suurimmat aikasyöpöt?
-3. Ehdotamme pientä pilottia: Tämän keskustelun pohjalta ehdotamme yhtä, pientä kokeilua, jolla saadaan suurin ja nopein hyöty (esim. aiemmin mainittu chatbot-kokeilu tai sisäinen haku).
-4. Me toteutamme: Hoidamme "avaimet käteen" -periaatteella projektin: perustamme ympäristön, toteutamme teknisen ratkaisun ja tuemme teitä testauksessa.
+* Ota meihin yhteyttä. Riittää, että olet utelias.
+* Käydään lyhyt kartoitus: Pidämme palaverin, jossa emme puhu tekniikasta, vaan teidän liiketoiminnastanne. Mitkä ovat teidän arjen haasteet tai suurimmat aikasyöpöt?
+* Ehdotamme pientä pilottia: Tämän keskustelun pohjalta ehdotamme yhtä, pientä kokeilua, jolla saadaan suurin ja nopein hyöty (esim. aiemmin mainittu chatbot-kokeilu tai sisäinen haku).
+* Me toteutamme: Hoidamme "avaimet käteen" -periaatteella projektin: perustamme ympäristön, toteutamme teknisen ratkaisun ja tuemme teitä testauksessa.
 
 Meidän roolimme on olla teidän oppaanne ja toteuttajakumppaninne. Varmistamme, että pääsette turvallisesti ja tehokkaasti alkuun ja autamme teitä kasvattamaan onnistuneesta kokeilusta pysyvän, arvoa tuottavan ratkaisun.
 
@@ -349,6 +342,6 @@ Tämä on yleinen ja erittäin hyvä kysymys. Vaikka molemmat käyttävät gener
 
 Tässä kolme suurinta eroa PK-yritykselle:
 
-1. Tietosuoja (Tärkein): Kuten kohdassa 4 mainittiin, Vertex AI:lla data pysyy teidän hallinnassanne. Kun syötät yritystietoja julkiseen ChatGPT:hen, lähetät ne ulkopuoliselle palvelimelle, jota et hallitse. Tätä riskiä ei Vertex AI:ssa ole.
-2. Tarkkuus ja "Ankkurointi": Vertex AI voidaan "ankkuroida" (engl. grounding) yrityksesi omiin aineistoihin. Se tarkoittaa, että tekoäly perustaa vastauksensa teidän ohjeisiinne tai tietokantoihinne, eikä arvaile vastauksia yleisen internet-tiedon perusteella. Tämä tekee vastauksista luotettavia ja tarkkoja.
-3. Integrointi ja hallinta: Vertex AI on suunniteltu integroitavaksi osaksi yrityksesi muita prosesseja ja järjestelmiä. Se on kokonainen alusta, jota voidaan hallita, valvoa ja skaalata yrityksen tarpeiden mukaan – toisin kuin julkinen kuluttajasovellus.
+* Tietosuoja (Tärkein): Kuten kohdassa 4 mainittiin, Vertex AI:lla data pysyy teidän hallinnassanne. Kun syötät yritystietoja julkiseen ChatGPT:hen, lähetät ne ulkopuoliselle palvelimelle, jota et hallitse. Tätä riskiä ei Vertex AI:ssa ole.
+* Tarkkuus ja "Ankkurointi": Vertex AI voidaan "ankkuroida" (engl. grounding) yrityksesi omiin aineistoihin. Se tarkoittaa, että tekoäly perustaa vastauksensa teidän ohjeisiinne tai tietokantoihinne, eikä arvaile vastauksia yleisen internet-tiedon perusteella. Tämä tekee vastauksista luotettavia ja tarkkoja.
+* Integrointi ja hallinta: Vertex AI on suunniteltu integroitavaksi osaksi yrityksesi muita prosesseja ja järjestelmiä. Se on kokonainen alusta, jota voidaan hallita, valvoa ja skaalata yrityksen tarpeiden mukaan – toisin kuin julkinen kuluttajasovellus.
