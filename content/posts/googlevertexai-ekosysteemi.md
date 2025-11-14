@@ -3,7 +3,7 @@ template: BlogPost
 path: /GoogleVertexAI-ekosysteemi
 date: 2025-11-14T20:58:00.000Z
 head:
-  title: Google Vertex AI -ekosysteemi
+  title: Vertex AI tekee tekoälystä käytännön työkalun yrityksille
   description: Selkeä opas Vertex AI:n ja Geminin hyödyntämiseen pk-yrityksissä.
     Käytännön käyttökohteet, hyödyt ja riskien hallinta. Tekoäly käyttöön
     turvallisesti ja tuottavasti
@@ -23,7 +23,7 @@ Tämä tarkoittaa sitä, että monimutkaisen teknologian käyttöönotto on huom
 
 Käydään seuraavaksi läpi, että mistä osista tämä "tekoälyn työkalupakki" koostuu ja mitä hyötyä niistä on liiketoiminnalle.
 
-### Gemini -malliperhe
+### Gemini
 
 **Gemini** on **Vertex AI** -alustan "aivot". Se on Googlen uusin ja tehokkain tekoälymalli, joka pystyy ymmärtämään ja käsittelemään tietoa monipuolisemmin kuin koskaan ennen.
 
