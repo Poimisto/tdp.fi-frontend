@@ -21,7 +21,7 @@ Tämä tarkoittaa sitä, että monimutkaisen teknologian käyttöönotto on huom
 
 Käydään seuraavaksi läpi, että mistä osista tämä "tekoälyn työkalupakki" koostuu ja mitä hyötyä niistä on liiketoiminnalle.
 
-## Gemini -malliperhe
+### Gemini -malliperhe
 
 **Gemini** on **Vertex AI** -alustan "aivot". Se on Googlen uusin ja tehokkain tekoälymalli, joka pystyy ymmärtämään ja käsittelemään tietoa monipuolisemmin kuin koskaan ennen.
 
