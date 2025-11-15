@@ -331,10 +331,10 @@ Me tuomme teknisen asiantuntemuksen, jotta te voitte keskittyä täysin liiketoi
 
 Aloittaminen on tehty todella helpoksi.
 
-* Ota meihin yhteyttä. Riittää, että olet utelias.
-* Käydään lyhyt kartoitus: Pidämme palaverin, jossa emme puhu tekniikasta, vaan teidän liiketoiminnastanne. Mitkä ovat teidän arjen haasteet tai suurimmat aikasyöpöt?
-* Ehdotamme pientä pilottia: Tämän keskustelun pohjalta ehdotamme yhtä, pientä kokeilua, jolla saadaan suurin ja nopein hyöty (esim. aiemmin mainittu chatbot-kokeilu tai sisäinen haku).
-* Me toteutamme: Hoidamme "avaimet käteen" -periaatteella projektin: perustamme ympäristön, toteutamme teknisen ratkaisun ja tuemme teitä testauksessa.
+* **Ota meihin yhteyttä.** Riittää, että olet utelias.
+* **Käydään lyhyt kartoitus**: Pidämme palaverin, jossa emme puhu tekniikasta, vaan teidän liiketoiminnastanne. Mitkä ovat teidän arjen haasteet tai suurimmat aikasyöpöt?
+* **Ehdotamme pientä pilottia:** Tämän keskustelun pohjalta ehdotamme yhtä, pientä kokeilua, jolla saadaan suurin ja nopein hyöty (esim. aiemmin mainittu chatbot-kokeilu tai sisäinen haku).
+* **Me toteutamme:** Hoidamme "avaimet käteen" -periaatteella projektin: perustamme ympäristön, toteutamme teknisen ratkaisun ja tuemme teitä testauksessa.
 
 Meidän roolimme on olla teidän oppaanne ja toteuttajakumppaninne. Varmistamme, että pääsette turvallisesti ja tehokkaasti alkuun ja autamme teitä kasvattamaan onnistuneesta kokeilusta pysyvän, arvoa tuottavan ratkaisun.
 
@@ -344,8 +344,8 @@ Tämä on yleinen ja erittäin hyvä kysymys. Vaikka molemmat käyttävät gener
 
 Tässä kolme suurinta eroa PK-yritykselle:
 
-* Tietosuoja (Tärkein): Kuten kohdassa 4 mainittiin, Vertex AI:lla data pysyy teidän hallinnassanne. Kun syötät yritystietoja julkiseen ChatGPT:hen, lähetät ne ulkopuoliselle palvelimelle, jota et hallitse. Tätä riskiä ei Vertex AI:ssa ole.
-* Tarkkuus ja "Ankkurointi": Vertex AI voidaan "ankkuroida" (engl. grounding) yrityksesi omiin aineistoihin. Se tarkoittaa, että tekoäly perustaa vastauksensa teidän ohjeisiinne tai tietokantoihinne, eikä arvaile vastauksia yleisen internet-tiedon perusteella. Tämä tekee vastauksista luotettavia ja tarkkoja.
-* Integrointi ja hallinta: Vertex AI on suunniteltu integroitavaksi osaksi yrityksesi muita prosesseja ja järjestelmiä. Se on kokonainen alusta, jota voidaan hallita, valvoa ja skaalata yrityksen tarpeiden mukaan – toisin kuin julkinen kuluttajasovellus.\
+* **Tietosuoja (Tärkein)**: Kuten kohdassa 4 mainittiin, Vertex AI:lla data pysyy teidän hallinnassanne. Kun syötät yritystietoja julkiseen ChatGPT:hen, lähetät ne ulkopuoliselle palvelimelle, jota et hallitse. Tätä riskiä ei Vertex AI:ssa ole.
+* **Tarkkuus ja "Ankkurointi**": Vertex AI voidaan "ankkuroida" (engl. grounding) yrityksesi omiin aineistoihin. Se tarkoittaa, että tekoäly perustaa vastauksensa teidän ohjeisiinne tai tietokantoihinne, eikä arvaile vastauksia yleisen internet-tiedon perusteella. Tämä tekee vastauksista luotettavia ja tarkkoja.
+* **Integrointi ja hallinta**: Vertex AI on suunniteltu integroitavaksi osaksi yrityksesi muita prosesseja ja järjestelmiä. Se on kokonainen alusta, jota voidaan hallita, valvoa ja skaalata yrityksen tarpeiden mukaan – toisin kuin julkinen kuluttajasovellus.\
   \
   *Artikkelin sisällön tuottamisessa on hyödynnetty tekoälyä kirjoittamisen tukena.*
