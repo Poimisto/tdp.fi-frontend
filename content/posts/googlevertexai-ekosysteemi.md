@@ -135,7 +135,7 @@ Me voimme kumppanina auttaa tunnistamaan parhaat ideat ja toteuttamaan ensimmäi
 
 ### Mitä hyötyä Vertex AI:sta on PK-yritykselle?
 
-![Kuvituskuva. Abstrakti Vertex AI hakuikkuna yhdistettynä puhelimen näyttöön](/assets/vertexai_5.jpg "Vertex AI ja BigQuery tuovat pk-yritykselle selkeää arvoa")
+![Kuvituskuva. Abstrakti Vertex AI hakuikkuna yhdistettynä puhelimen näyttöön](/assets/vertexai_9.jpg "Vertex AI ja BigQuery tuovat pk-yritykselle selkeää arvoa")
 
 #### Helppo käyttöönotto ilman raskaita palvelinprojekteja
 
@@ -215,7 +215,7 @@ Tärkein viestimme on aina tämä: Tekoäly on työkalu, joka auttaa ihmisiä te
 
 ### Miten päästä alkuun?
 
-![Kuvituskuva. Ylöspäin nousevat portaat ja symboleja.](/assets/vertexai_6.jpg "Miten yritys pääsee alkuun Vertex AI:n käytössä")
+![Kuvituskuva. Ylöspäin nousevat portaat ja symboleja.](/assets/vertexai_8.jpg "Miten yritys pääsee alkuun Vertex AI:n käytössä")
 
 Generatiivisen tekoälyn kanssa liikkeelle pääsemisen ei tarvitse olla valtava, kuukausien IT-projekti. Usein suurin kynnys on juuri aloittaminen.
 
