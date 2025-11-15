@@ -17,7 +17,7 @@ contactForm: Ota yhteyttä
 
 ## Vertex AI
 
-Mitä jos voisit valjastaa Googlen tehokkaimmat tekoälytyökalut suoraan oman yrityksesi käyttöön?  **Google Vertex AI**  -ekosysteemi tuo suurten kielimallien (LLM) voiman helposti käyttöön pilvipalveluna. Se on yhtenäinen alusta, joka kokoaa kaikki tekoälyratkaisujen hyödyntämiseen tarvittavat komponentit yhden katon alle.
+Mitä jos voisit valjastaa **Googlen tehokkaimmat tekoälytyökalut** suoraan oman yrityksesi käyttöön?  **Google Vertex AI**  -ekosysteemi tuo suurten kielimallien (LLM) voiman helposti käyttöön pilvipalveluna. Se on yhtenäinen alusta, joka kokoaa kaikki tekoälyratkaisujen hyödyntämiseen tarvittavat komponentit yhden katon alle.
 
 Tämä tarkoittaa sitä, että monimutkaisen teknologian käyttöönotto on huomattavasti aiempaa helpompaa. Teidän ei enää tarvitse koostaa palveluita erillisistä paloista, vaan saatte valmiin ja toimivan ekosysteemin, joka kommunikoi sujuvasti suomen kielellä.
 
@@ -25,7 +25,7 @@ Käydään seuraavaksi läpi, että mistä osista tämä "tekoälyn työkalupakk
 
 ### Gemini
 
-**Gemini** on **Vertex AI** -alustan "aivot". Se on Googlen uusin ja tehokkain tekoälymalli, joka pystyy ymmärtämään ja käsittelemään tietoa monipuolisemmin kuin koskaan ennen.
+**Gemini** on **Vertex AI** -alustan "aivot". Se on **Googlen** uusin ja tehokkain tekoälymalli, joka pystyy ymmärtämään ja käsittelemään tietoa monipuolisemmin kuin koskaan ennen.
 
 Mitä tämä tarkoittaa käytännössä?
 
@@ -43,7 +43,7 @@ Tämän työkalun avulla voimme rakentaa yrityksellesi agentin, joka:
 
 * **Keskustelee luonnollisesti** ja ymmärtää asiakkaidesi tai työntekijöidesi tarpeet.
 * **Suorittaa tehtäviä**: Esimerkiksi varaa aikoja, tarkistaa tilauksia tai kirjaa tukipyyntöjä.
-* **Yhdistyy olemassa oleviin järjestelmiin:** Agent Builderissa on yli 100 valmista liitintä (konnektoria) esimerkiksi Salesforceen, Slackiin, Jiraan tai Confluenceen. Tämä tarkoittaa, että tekoäly voi hakea tietoa ja toimia suoraan niissä työkaluissa, joita jo käytätte.
+* **Yhdistyy olemassa oleviin järjestelmiin:** **Agent Builderissa** on yli 100 valmista liitintä (konnektoria) esimerkiksi Salesforceen, Slackiin, Jiraan tai Confluenceen. Tämä tarkoittaa, että tekoäly voi hakea tietoa ja toimia suoraan niissä työkaluissa, joita jo käytätte.
 
 Sinun ei tarvitse huolehtia palvelimista tai ylläpidosta. Alusta hoitaa sen ja me voimme keskittyä luomaan tehokkaan agentin liiketoimintasi tueksi.
 
@@ -57,23 +57,23 @@ Se ei vain anna sinulle listaa linkeistä, vaan **Vertex AI Search** pystyy laat
 
 Tämä on tekoälyn hyödyntämistä turvallisesti: Se ei keksi vastauksia omasta päästään, vaan perustaa ne aina yrityksesi omaan, hallinnoituun tietoon. Parasta on, että liikkeelle päästään nopeasti. Voimme toteuttaa tehokkaan haun tai chatbot-prototyypin verkkosivuillesi lisäämällä sinne valmiin linkin.
 
-Vertex AI Studio
+### Vertex AI Studio
 
-**Vertex AI Studio** on Google Cloud -alustaan kuuluva tehokas, selainpohjainen käyttöliittymä, joka on suunniteltu erityisesti generatiivisen tekoälyn (GenAI) mallien hyödyntämiseen ja **sovellusten rakentamiseen.**
+**Vertex AI Studio** on **Google Cloud** -alustaan kuuluva tehokas, selainpohjainen käyttöliittymä, joka on suunniteltu erityisesti generatiivisen tekoälyn (GenAI) mallien hyödyntämiseen ja **sovellusten rakentamiseen.**
 
-Yrityksille tämä tarkoittaa nopeutta ja ketteryyttä. Meidän ei tarvitse aloittaa joka kerta raskaasta kuukausien koodausprojektista. Voimme Vertex AI Studion avulla:
+Yrityksille tämä tarkoittaa nopeutta ja ketteryyttä. Meidän ei tarvitse aloittaa joka kerta raskaasta kuukausien koodausprojektista. Voimme **Vertex AI Studion** avulla:
 
 * **Suunnitella kehotteita (Prompt design)**: Testata helposti, millaisilla kysymyksillä ja ohjeilla tekoälyltä saadaan parhaat ja hyödyllisimmät vastaukset.
 * **Hienosäätää (fine-tuning):** Opettaa tekoälyä ymmärtämään teidän alanne erityissanastoa tai sisäisiä prosesseja yrityksen omalla datalla.
-* **Kokeilla valmismalleja:** Hyödyntää laajaa Model Garden -kirjastoa, josta löytyy satoja valmiita malleja eri tarpeisiin, mukaan lukien suosittuja avoimen lähdekoodin malleja.
+* **Kokeilla valmismalleja:** Hyödyntää laajaa **Model Garden** -kirjastoa, josta löytyy satoja valmiita malleja eri tarpeisiin, mukaan lukien suosittuja avoimen lähdekoodin malleja.
 
 **Vertex AI Studio** on yritystason työkalu. Se on suunniteltu tuotantokäyttöön ja integroituu muihin pilvipalveluihin (kuten tietokantoihin ja MLOps-työkaluihin). Studion avulla voimme löytää oikean tekoälymallin teidän käyttöönne, **testata** sitä, **räätälöidä** sen juuri teidän datallanne ja lopulta tuoda sen mukaan **omiin sovelluksiinne**.
 
 ### Integraatiot
 
-Vertex AI:n suurin vahvuus piilee siinä, ettei se ole erillinen saareke. Se on suunniteltu toimimaan saumattomasti yhteen niiden työkalujen kanssa, joita todennäköisesti jo käytät.
+**Vertex AI:n** suurin vahvuus piilee siinä, ettei se ole erillinen saareke. Se on suunniteltu toimimaan saumattomasti yhteen niiden työkalujen kanssa, joita todennäköisesti jo käytät.
 
-* **Google Workspace** (Gmail, Drive, Docs): Tekoäly voidaan kytkeä auttamaan suoraan sähköpostien laatimisessa tai hakemaan tietoa Drivesta (aina käyttäjän luvalla).
+* **[Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace/)** (Gmail, Drive, Docs): Tekoäly voidaan kytkeä auttamaan suoraan sähköpostien laatimisessa tai hakemaan tietoa Drivesta (aina käyttäjän luvalla).
 * **BigQuery** (Tietovarasto): Jos yrityksesi kerää dataa tietovarastoon, tekoäly voi analysoida sitä suoraan siellä. Voitte esimerkiksi pyytää tekoälyä analysoimaan vapaamuotoista asiakaspalautetta suoraan datakyselyn yhteydessä.
 * **Muut järjestelmät** (esim. Salesforce, SAP, HubSpot): Valmiiden laajennusten ja konnektoreiden ansiosta tekoäly saadaan keskustelemaan myös yrityksesi muiden tärkeiden järjestelmien, kuten asiakkuudenhallinnan (CRM), kanssa.
 
@@ -91,7 +91,7 @@ Olemme tunnistaneet asiakkaidemme arjesta useita tilanteita, joissa **Google Ver
 
 **Pitkien dokumenttien automaattinen tiivistäminen:** Kuinka monta kertaa pöydälläsi on ollut satojen sivujen laajuinen tarjouspyyntö, projektisuunnitelma tai sopimusluonnos? Niiden läpikäynti ja olennaisen hahmottaminen vie valtavasti asiantuntijoiden ja johdon aikaa.
 
-Voimme rakentaa Vertex AI:n avulla työkalun, joka "lukee" nämä pitkätkin asiakirjat puolestasi ja laatii niistä **tiiviin yhteenvedon** haluamallasi kielellä, vaikkapa suomeksi. Tämä tuo huomattavaa ajansäästöä valmistelutyössä. Voit tehdä parempia päätöksiä nopeammin, kun hahmotat keskeiset kohdat, riskit ja mahdollisuudet minuuteissa, et tunneissa.
+Voimme rakentaa **Vertex AI:n** avulla työkalun, joka "lukee" nämä pitkätkin asiakirjat puolestasi ja laatii niistä **tiiviin yhteenvedon** haluamallasi kielellä, vaikkapa suomeksi. Tämä tuo huomattavaa ajansäästöä valmistelutyössä. Voit tehdä parempia päätöksiä nopeammin, kun hahmotat keskeiset kohdat, riskit ja mahdollisuudet minuuteissa, et tunneissa.
 
 #### 2. Tiedonhaku
 
@@ -117,7 +117,7 @@ Asiakastyytyväisyys paranee välittömän palvelun ansiosta. Samalla vapautatte
 
 Generatiivinen tekoäly voi **hoitaa kirjaamisen**. Työntekijä tai työnjohtaja voi yksinkertaisesti sanella päivän tapahtumat, havainnot ja poikkeamat puhelimeensa. Tekoäly litteroi puheen, muotoilee siitä siistin ja johdonmukaisen päiväraportin ja jopa korostaa tärkeimmät huomiot, kuten viivästykset tai turvallisuusasiat.
 
-Manuaalinen kirjaustyö vähenee dramaattisesti. Tiedon laatu paranee, kun asiat kirjataan heti tuoreeltaan. Samalla johto saa ajantasaista tietoa kentältä, mikä vähentää riskejä ja auttaa reagoimaan ongelmiin nopeammin.
+Manuaalinen kirjaustyö vähenee dramaattisesti. Tiedon laatu paranee, kun asiat kirjataan heti tuoreeltaan. Samalla johto saa ajantasaista tietoa kentältä, mikä vähentää riskejä ja **auttaa reagoimaan ongelmiin nopeammin.**
 
 #### 5. Vaatimustenmukaisuus
 
@@ -125,7 +125,7 @@ Manuaalinen kirjaustyö vähenee dramaattisesti. Tiedon laatu paranee, kun asiat
 
 Voimme luoda organisaatiollenne oman tekoälyasiantuntijan, joka on koulutettu **vain teidän omilla materiaaleillanne.** Henkilöstö voi kysyä siltä suoraan: "Mitä uusi jätehuoltomääräys sanoo rakennustyömaan jätteiden käsittelystä?" tai "Mikä on yrityksemme käytäntö etätyöpäivien kirjaamiseen?"
 
-Tekoälyagentti etsii vastauksen oikeasta pykälästä tai ohjeesta ja vastaa käyttäjälle selkeällä suomen kielellä, viitaten aina alkuperäiseen lähteeseen. Tiedon löytäminen nopeutuu ja vaatimustenmukaisuus (compliance) paranee. Kun oikea ja ajantasainen tieto on kaikkien saatavilla helposti kysymällä, riski virheisiin ja kalliisiin laiminlyönteihin pienenee.
+Tekoälyagentti etsii vastauksen oikeasta pykälästä tai ohjeesta ja vastaa käyttäjälle **selkeällä suomen kielellä**, viitaten aina alkuperäiseen lähteeseen. Tiedon löytäminen nopeutuu ja vaatimustenmukaisuus (compliance) paranee. Kun oikea ja ajantasainen tieto on kaikkien saatavilla helposti kysymällä, riski virheisiin ja kalliisiin laiminlyönteihin pienenee.
 
 #### Mistä kannattaisi aloittaa?
 
@@ -141,7 +141,7 @@ Me voimme kumppanina auttaa tunnistamaan parhaat ideat ja toteuttamaan ensimmäi
 
 Monia yrittäjiä mietityttää, että tarkoittaako tekoälyn käyttöönotto automaattisesti valtavaa, kuukausien IT-projektia ja kalliita laitehankintoja. **Google Vertex AI:n** kohdalla vastaus on selkeä: **ei tarkoita.**
 
-Koska kyseessä on Googlen pilvialusta, teidän ei tarvitse investoida omiin palvelimiin tai niiden ylläpitoon. Jos yrityksellänne on jo käytössä Google Workspace tai muita Google Cloud -palveluita, kuten **BigQuery**, **Vertex AI** istuu saumattomasti ja luontevasti samaan, tuttuun ympäristöön.
+Koska kyseessä on **Googlen pilvialusta**, teidän ei tarvitse investoida omiin palvelimiin tai niiden ylläpitoon. Jos yrityksellänne on jo käytössä [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace/) tai muita **Google Cloud** -palveluita, kuten **BigQuery**, **Vertex AI** istuu saumattomasti ja luontevasti samaan, tuttuun ympäristöön.
 
 #### Nopeita tuloksia ja pienempi riski
 
@@ -151,7 +151,7 @@ Voimme pilotoida uutta ideaa viikoissa, emmekä kuukausissa. Esimerkiksi yksinke
 
 PK-yritykselle tämä tarkoittaa merkittävästi pienempää riskiä. Voimme kokeilla ketterästi useita ideoita pienellä budjetilla ja nähdä heti, mikä tuottaa tulosta. Jos jokin kokeilu ei toimikaan toivotusti, siitä opitaan ja siirrytään seuraavaan ilman suuria uponneita kustannuksia.
 
-Ja kun toimiva ratkaisu löytyy, sen skaalaaminen tuotantokäyttöön tuhansillekin käyttäjille onnistuu Google Cloudin ansiosta vaivattomasti. **Kapasiteetti kasvaa automaattisesti tarpeen mukaan.**
+Ja kun toimiva ratkaisu löytyy, sen skaalaaminen tuotantokäyttöön tuhansillekin käyttäjille onnistuu **Google Cloudin** ansiosta vaivattomasti. **Kapasiteetti kasvaa automaattisesti tarpeen mukaan.**
 
 #### Hallittu aloitus
 
@@ -162,7 +162,7 @@ Generatiivinen tekoäly on uusi asia lähes kaikille. Teidän ei tarvitse palkat
 * **Ylläpito ja turvallisuus:** Huolehdimme, että ratkaisu toimii luotettavasti, pysyy tietoturvallisena ja päivittyy aina uusimpiin, tehokkaampiin malleihin (kuten uusimpaan **Gemini**-versioon).
 * **Koulutus:** Varmistamme, että henkilöstönne osaa ja haluaa käyttää uusia työkaluja, jotta niistä tulee luonteva osa arkea.
 
-Te voitte keskittyä omaan ydinliiketoimintaanne samalla kun me varmistamme, että saatte tekoälystä todellisen hyödyn irti. Helposti, turvallisesti ja ilman teknistä päänsärkyä.
+Te voitte keskittyä omaan ydinliiketoimintaanne samalla kun me varmistamme, että saatte tekoälystä todellisen hyödyn irti. **Helposti, turvallisesti ja ilman teknistä päänsärkyä.**
 
 ### Tekoälyn käyttöönottoon liittyvät riskit
 
@@ -193,7 +193,6 @@ Riski piilee siinä, jos käyttöä ei seurata ja se kasvaa hallitsemattomasti. 
 
 Me emme vain asenna työkalua, vaan autamme teitä aktiivisesti budjetoinnissa ja seurannassa. Näin pidämme kulut hallinnassa:
 
-
 * **Asetamme hälytykset:** Hyödynnämme Google Cloudin kustannushälytyksiä, jotka ilmoittavat heti, jos käyttö on ylittämässä sovitun budjetin.
 * **Optimoimme käyttöä:** Varmistamme, että tekoälymalleja käytetään tehokkaasti ja vain tarpeellisiin operaatioihin.
 * **Aloitamme pienesti:** Suosittelemme aina aloittamaan pienellä, rajatulla kokeilulla. Näin näemme todelliset kulut ja voimme kasvattaa käyttöä hallitusti, kun hyödyt on todennettu.
@@ -220,7 +219,7 @@ Tärkein viestimme on aina tämä: Tekoäly on työkalu, joka auttaa ihmisiä te
 
 Generatiivisen tekoälyn kanssa liikkeelle pääsemisen ei tarvitse olla valtava, kuukausien IT-projekti. Usein suurin kynnys on juuri aloittaminen.
 
-Me suosittelemme selkeää kahden vaiheen mallia, joka minimoi riskit ja näyttää konkreettiset hyödyt nopeasti.
+Me suosittelemme selkeää kahden vaiheen mallia, joka **minimoi riskit ja näyttää konkreettiset hyödyt nopeasti.**
 
 #### Vaihe 1: Nopea kokeilu
 
@@ -253,19 +252,19 @@ Samalla kun hoidamme tekniikan, koulutamme henkilöstönne käyttämään uusia 
 
 On selvää, että tekoäly on saapunut jäädäkseen. Ja mikä parasta, se on nyt aidosti tarjolla myös pk -yrityksille.  Vielä muutama vuosi sitten ammattitasoiset tekoälyratkaisut näyttivät vain jättiyritysten kalliilta kokeiluilta, mutta **Google Vertex AI:n** kaltaiset alustat ovat muuttaneet pelin. Niiden ansiosta on mahdollista saada generatiivisen tekoälyn todelliset hyödyt osaksi kaikkien yritysten arkea.
 
-Kuten olemme tässä artikkelissa läpikäyneet, niin työkalut kuten **Vertex AI Studio, Agent Builder ja Vertex AI Search** eivät ole monimutkaista teknologiaa teknologian vuoksi. Ne tarjoavat käytännön ratkaisuja, joilla voidaan tehostaa työtä, parantaa asiakaspalvelua ja löytää uusia oivalluksia omasta datasta.
+Kuten olemme tässä artikkelissa läpikäyneet, niin työkalut kuten **Vertex AI Studio, Vertex AI Agent Builder ja Vertex AI Search** eivät ole monimutkaista teknologiaa teknologian vuoksi. Ne tarjoavat käytännön ratkaisuja, joilla voidaan tehostaa työtä, parantaa asiakaspalvelua ja löytää uusia oivalluksia omasta datasta.
 
 Nyt on oikea hetki toimia. Tekoäly on kehittynyt pisteeseen, jossa sen hyödyntäminen on paitsi teknisesti helppoa, myös taloudellisesti järkevää lähes kaikenkokoisille yrityksille. Pienikin, fiksusti kohdennettu askel tekoälyn suuntaan voi tuoda merkittävää kilpailuetua ja vapauttaa henkilöstönne aikaa rutiineista arvokkaampaan työhön.
 
 Haluatko selvittää, mitä tekoäly voisi tehdä juuri teidän liiketoiminnassanne?
 
-Ota meihin yhteyttä. Lupauksemme on, ettemme yritä myydä sinulle monimutkaista järjestelmää, vaan käydään yhdessä läpi teidän arjen haasteenne. Autamme tunnistamaan sen ensimmäisen pienen kokeilun, jolla saadaan aikaan suurin hyöty.
+[Ota meihin yhteyttä.](https://www.tdp.fi/GoogleVertexAI-ekosysteemi/#contact-form) Lupauksemme on, ettemme yritä myydä sinulle monimutkaista järjestelmää, vaan käydään yhdessä läpi teidän arjen haasteenne. Autamme tunnistamaan sen ensimmäisen pienen kokeilun, jolla saadaan aikaan suurin hyöty.
 
 Olemme täällä auttaaksemme teitä ottamaan ensimmäisen askeleen ja **varmistaaksemme, että siitä kasvaa menestystarina!**
 
 ### Usein kysytyt kysymykset (UKK)
 
-Tekoäly herättää paljon kysymyksiä. Kokosimme tähän yleisimpiä pohdintoja ja selkeät vastaukset niihin PK-yrityksen näkökulmasta.
+Tekoäly herättää paljon kysymyksiä. Kokosimme tähän yleisimpiä pohdintoja ja selkeät vastaukset niihin.
 
 #### 1. Miten Vertex AI:n hinnoittelu toimii? Onko se kallis PK-yritykselle?
 
@@ -273,9 +272,9 @@ Tämä on yleensä ensimmäinen kysymys, ja vastaus on PK-yrittäjälle hyvä: V
 
 Hinnoittelu perustuu täysin todelliseen käyttöön (ns. "pay-as-you-go" -malli). Maksat vain siitä, mitä käytät.
 
-* Matalat aloituskulut: Pienimuotoinen kokeilu tai vähän käytetty chatbot voi maksaa vain muutamia kymmeniä euroja kuukaudessa.
-* Riskitön kokeilu: Google tarjoaa usein uusille asiakkaille 300 dollarin arvosta yleiskäyttöisiä krediittejä ja tämän lisäksi jopa 1000 dollarin krediitit Vertex AI Search -hakupalvelun kokeiluun. Aloittaminen on siis käytännössä ilmaista.
-* Ei yllätyslaskuja: Kulut skaalautuvat käytön mukaan. Tämä on reilua: jos käyttö kasvaa, tekoäly todennäköisesti myös tuottaa yrityksellesi enemmän arvoa. Meidän tehtävämme kumppanina on auttaa teitä budjetoinnissa ja asettaa Google Cloud -ympäristöön kustannushälytykset, jotta budjetti ei ylity yllättäen.
+* **Matalat aloituskulut**: Pienimuotoinen kokeilu tai vähän käytetty chatbot voi maksaa vain muutamia kymmeniä euroja kuukaudessa.
+* **Riskitön kokeilu:** Google tarjoaa usein uusille asiakkaille 300 dollarin arvosta yleiskäyttöisiä krediittejä ja tämän lisäksi jopa 1000 dollarin krediitit Vertex AI Search -hakupalvelun kokeiluun. Aloittaminen on siis käytännössä ilmaista.
+* **Ei yllätyslaskuja:** Kulut skaalautuvat käytön mukaan. Tämä on reilua: jos käyttö kasvaa, tekoäly todennäköisesti myös tuottaa yrityksellesi enemmän arvoa. Meidän tehtävämme kumppanina on auttaa teitä budjetoinnissa ja asettaa Google Cloud -ympäristöön kustannushälytykset, jotta budjetti ei ylity yllättäen.
 
 Tämä joustava malli sopii erinomaisesti myös PK-yritykselle, koska kynnys aloittamiseen on olematon.
 
@@ -321,9 +320,9 @@ Ette tarvitse. Tämä on juuri se, missä me kumppanina autamme.
 
 Teidän ei tarvitse palkata omia koodareita tai data-analyytikoita hyödyntääksenne tekoälyä.
 
-* Me hoidamme tekniikan: Meidän tiimimme huolehtii tarvittavista teknisistä määrityksistä ja integraatioista (eli kytkemme tekoälyn keskustelemaan muiden järjestelmienne kanssa).
-* Helppo kokeilla: Vertex AI Studio -työkalussa on graafinen käyttöliittymä, jossa tekoälyä voi kokeilla ja ohjeistaa ilman riviäkään koodia.
-* Loppukäyttäjälle helppo: Yrityksenne työntekijä (esim. asiakaspalvelija tai projektipäällikkö) ei tarvitse mitään teknistä osaamista. Hänelle työkalu näkyy yksinkertaisena keskusteluikkunana tai hakukenttänä.
+* **Me hoidamme tekniikan:** Meidän tiimimme huolehtii tarvittavista teknisistä määrityksistä ja integraatioista (eli kytkemme tekoälyn keskustelemaan muiden järjestelmienne kanssa).
+* **Helppo kokeilla**: Vertex AI Studio -työkalussa on graafinen käyttöliittymä, jossa tekoälyä voi kokeilla ja ohjeistaa ilman riviäkään koodia.
+* **Loppukäyttäjälle helppo**: Yrityksenne työntekijä (esim. asiakaspalvelija tai projektipäällikkö) ei tarvitse mitään teknistä osaamista. Hänelle työkalu näkyy yksinkertaisena keskusteluikkunana tai hakukenttänä.
 
 Me tuomme teknisen asiantuntemuksen, jotta te voitte keskittyä täysin liiketoimintahyötyihin.
 
