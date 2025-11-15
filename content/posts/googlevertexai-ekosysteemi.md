@@ -178,7 +178,7 @@ Vastaus **Google Vertex AI:n** kohdalla on selkeä: **Eivät päädy.**
 
 Toisin kuin julkisia tekoälypalveluita käytettäessä, **Vertex AI:lla** kaikki data pysyy **täysin teidän omassa hallinnassanne**, yrityksen omassa, suljetussa Google Cloud -ympäristössä.
 
-* **Google ei käytä dataasi malliensa kouluttamiseen:** Tietoja, joita syötätte Vertex AI -ratkaisuun (kuten asiakaslistoja tai sisäisiä suunnitelmia), ei käytetä Googlen julkisten mallien opettamiseen. Data on ja pysyy teidän.
+* **Google ei käytä dataasi malliensa kouluttamiseen:** Tietoja, joita syötätte Vertex AI -ratkaisuun (kuten asiakaslistoja tai sisäisiä suunnitelmia), ei käytetä Googlen julkisten mallien opettamiseen. Data on ja pysyy teidän hallussanne.
 * **Korkeat standardit:** Google Cloud -alusta itsessään täyttää alan tiukimmat tietoturvastandardit ja sertifioinnit (kuten ISO/IEC 27001).
 * **Me varmistamme asetukset:** Meidän tehtävämme kumppanina on huolehtia, että ratkaisu on konfiguroitu oikein. Varmistamme, että data siirtyy aina salattuna ja että pääsyoikeudet ovat kunnossa.
 * **Sisäänrakennettu turvallisuus:** Uusimmissa Gemini-malleissa on myös sisäänrakennetut suodattimet, jotka estävät sopimattoman sisällön tuottamisen ja pitävät tekoälyn "ruodussa" yrityksenne arvojen mukaisesti.
