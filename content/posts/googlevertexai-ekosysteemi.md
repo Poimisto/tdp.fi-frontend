@@ -17,7 +17,7 @@ contactForm: Ota yhteyttä
 
 ## Vertex AI
 
-Mitä jos voisit valjastaa **Googlen tehokkaimmat tekoälytyökalut** suoraan oman yrityksesi käyttöön?  **Google Vertex AI**  -ekosysteemi tuo suurten kielimallien (LLM) voiman helposti käyttöön pilvipalveluna. Se on yhtenäinen alusta, joka kokoaa kaikki tekoälyratkaisujen hyödyntämiseen tarvittavat komponentit yhden katon alle.
+Mitä jos voisit valjastaa **Googlen tehokkaimmat tekoälytyökalut** suoraan oman yrityksesi käyttöön? **Google Vertex AI** -ekosysteemi tuo suurten kielimallien (LLM) voiman helposti käyttöön pilvipalveluna. Se on yhtenäinen alusta, joka kokoaa kaikki tekoälyratkaisujen hyödyntämiseen tarvittavat komponentit yhden katon alle.
 
 Tämä tarkoittaa sitä, että monimutkaisen teknologian käyttöönotto on huomattavasti aiempaa helpompaa. Teidän ei enää tarvitse koostaa palveluita erillisistä paloista, vaan saatte valmiin ja toimivan ekosysteemin, joka kommunikoi sujuvasti suomen kielellä.
 
@@ -77,7 +77,7 @@ Yrityksille tämä tarkoittaa nopeutta ja ketteryyttä. Meidän ei tarvitse aloi
 * **BigQuery** (Tietovarasto): Jos yrityksesi kerää dataa tietovarastoon, tekoäly voi analysoida sitä suoraan siellä. Voitte esimerkiksi pyytää tekoälyä analysoimaan vapaamuotoista asiakaspalautetta suoraan datakyselyn yhteydessä.
 * **Muut järjestelmät** (esim. Salesforce, SAP, HubSpot): Valmiiden laajennusten ja konnektoreiden ansiosta tekoäly saadaan keskustelemaan myös yrityksesi muiden tärkeiden järjestelmien, kuten asiakkuudenhallinnan (CRM), kanssa.
 
-Yhteenvetona voidaan todeta, että **Vertex AI** -ekosysteemi on joustava ja modulaarinen kokonaisuus. Se tarjoaa yrityksille tehokkaat, mutta saavutettavat työkalut tekoälyn hyödyntämiseen
+Yhteenvetona voidaan todeta, että **Vertex AI** -ekosysteemi on joustava ja modulaarinen kokonaisuus. Se tarjoaa yrityksille tehokkaat, mutta saavutettavat työkalut tekoälyn hyödyntämiseen.
 
 ### Konkreettisia mahdollisuuksia arjen tehostamiseksi
 
@@ -97,7 +97,7 @@ Voimme rakentaa **Vertex AI:n** avulla työkalun, joka "lukee" nämä pitkätkin
 
 **Älykäs haku projekteista ja kokousmuistioista**: Tieto on usein hajallaan sähköposteissa, projektikansioissa ja vanhoissa muistioissa. Tiedon etsimiseen kuluu turhaa aikaa, ja välillä tärkeät päätökset unohtuvat. Entä jos voisit vain kysyä luonnollisella kielellä: "Mitkä olivat keskeiset päätökset viime kokouksen pöytäkirjassa?" tai "Mitä asiakkaan X kanssa sovittiin toimitusajoista?"
 
-Voimme toteuttaa **Vertex AI Search** -toiminnon ja tekoälyagentin avulla yrityksellenne sisäisen haun, joka **etsii vastaukset suoraan dokumenteistanne**. Samalla logiikalla voidaan automatisoida kokousmuistioiden kirjoittaminen: tekoäly kuuntelee tallenteen ja kirjaa ylös tiivistelmän sekä sovitut tehtävät.
+Voimme toteuttaa **Vertex AI Search** -toiminnon ja tekoälyagentin avulla yrityksellenne sisäisen haun, joka **etsii vastaukset suoraan dokumenteistanne**. Samalla logiikalla voidaan automatisoida kokousmuistioiden kirjoittaminen: tekoäly kuuntelee tallenteen ja kirjaa ylös tiivistelmän, sekä sovitut tehtävät.
 
 Tämän ansiosta tiedon etsimiseen hukattu aika vähenee. Projektit pysyvät paremmin raiteillaan, kun kaikki löytävät tarvitsemansa tiedon välittömästi.
 
@@ -244,7 +244,7 @@ Me hoidamme teknisen toteutuksen "avaimet käteen" -periaatteella:
 
 * **Räätälöinti:** Teemme ratkaisusta tuotantovalmiin. Tarvittaessa "hienosäädämme" (fine-tuning) tekoälymallia yrityksenne omalla datalla, jotta sen tarkkuus ja tyyli ovat huippuluokkaa.
 * **Integraatiot:** Kytkemme tekoälyn keskustelemaan yrityksenne muiden järjestelmien, kuten tietokantojen tai käyttäjähallinnan, kanssa.
-* **Ylläpito ja skaalaus:** Googlen teknologia (kuten **Agent Engine**) huolehtii taustalla palvelun toimivuudesta, tietoturvasta ja skaalautumisesta. Voitte luottaa siiä, että ratkaisu palvelee luotettavasti, vaikka käyttäjämäärät kasvaisivat.
+* **Ylläpito ja skaalaus:** Googlen teknologia (kuten **Agent Engine**) huolehtii taustalla palvelun toimivuudesta, tietoturvasta ja skaalautumisesta. Voitte luottaa siihen, että ratkaisu palvelee luotettavasti, vaikka käyttäjämäärät kasvaisivat.
 
 Samalla kun hoidamme tekniikan, koulutamme henkilöstönne käyttämään uusia työkaluja tehokkaasti. Kuljemme rinnallanne ja varmistamme, että tekoälystä tulee luonteva osa arkea ja se tuottaa arvoa vielä vuosienkin päästä.
 
