@@ -13,11 +13,11 @@ head:
 thumbnail: /assets/vertexai_1.jpg
 contactForm: Ota yhteyttä
 ---
-![Gemini yrityskäytössä - Google Vertex AI](/assets/vertexai_1.jpg "Google Vertex AI - Tekoälyn hyödyntäminen yrityksissä")
+![Kuvituskuva. Tietokoneen näyttö, jonka yläpuolella aivoja kuvaava yhteysverkosto.](/assets/vertexai_1.jpg "Google Vertex AI - Tekoälyn hyödyntäminen yrityksissä")
 
 ## Vertex AI
 
-Mitä jos voisit valjastaa Googlen tehokkaimmat tekoälytyökalut suoraan oman yrityksesi käyttöön?  **Google Vertex AI**  -ekosysteemi tuo suurten kielimallien (LLM) voiman helposti käyttöön pilvipalveluna. Se on yhtenäinen alusta, joka kokoaa kaikki tekoälyratkaisujen hyödyntämiseen tarvittavat komponentitt yhden katon alle.
+Mitä jos voisit valjastaa Googlen tehokkaimmat tekoälytyökalut suoraan oman yrityksesi käyttöön?  **Google Vertex AI**  -ekosysteemi tuo suurten kielimallien (LLM) voiman helposti käyttöön pilvipalveluna. Se on yhtenäinen alusta, joka kokoaa kaikki tekoälyratkaisujen hyödyntämiseen tarvittavat komponentit yhden katon alle.
 
 Tämä tarkoittaa sitä, että monimutkaisen teknologian käyttöönotto on huomattavasti aiempaa helpompaa. Teidän ei enää tarvitse koostaa palveluita erillisistä paloista, vaan saatte valmiin ja toimivan ekosysteemin, joka kommunikoi sujuvasti suomen kielellä.
 
@@ -81,7 +81,7 @@ Yhteenvetona voidaan todeta, että **Vertex AI** -ekosysteemi on joustava ja mod
 
 ### Konkreettisia mahdollisuuksia arjen tehostamiseksi
 
-![](/assets/vertexai_3.jpg)
+![Kuvituskuva. Rajapintoja ja liitännäisiä kuvaavia yhteysviivoja ja symboleita.](/assets/vertexai_3.jpg "Vertex AI ja Gemini tehostavat yrityksen arkea")
 
 Generatiivinen tekoäly saattaa kuulostaa kaukaiselta tai monimutkaiselta, mutta sen tuomat hyödyt ovat hyvin käytännönläheisiä. Kyse ei ole tieteisfiktiosta, vaan uusista työkaluista, jotka säästävät aikaa, vähentävät manuaalista työtä ja parantavat asiakaspalvelua.
 
@@ -135,7 +135,7 @@ Me voimme kumppanina auttaa tunnistamaan parhaat ideat ja toteuttamaan ensimmäi
 
 ### Mitä hyötyä Vertex AI:sta on PK-yritykselle?
 
-![](/assets/vertexai_5.jpg)
+![Kuvituskuva. Abstrakti Vertex AI hakuikkuna yhdistettynä puhelimen näyttöön](/assets/vertexai_5.jpg "Vertex AI ja BigQuery tuovat pk-yritykselle selkeää arvoa")
 
 #### Helppo käyttöönotto ilman raskaita palvelinprojekteja
 
@@ -216,7 +216,7 @@ Tärkein viestimme on aina tämä: Tekoäly on työkalu, joka auttaa ihmisiä te
 
 ### Miten päästä alkuun?
 
-![](/assets/vertexai_6.jpg)
+![Kuvituskuva. Ylöspäin nousevat portaat ja symboleja.](/assets/vertexai_6.jpg "Miten yritys pääsee alkuun Vertex AI:n käytössä")
 
 Generatiivisen tekoälyn kanssa liikkeelle pääsemisen ei tarvitse olla valtava, kuukausien IT-projekti. Usein suurin kynnys on juuri aloittaminen.
 
@@ -346,4 +346,6 @@ Tässä kolme suurinta eroa PK-yritykselle:
 
 * Tietosuoja (Tärkein): Kuten kohdassa 4 mainittiin, Vertex AI:lla data pysyy teidän hallinnassanne. Kun syötät yritystietoja julkiseen ChatGPT:hen, lähetät ne ulkopuoliselle palvelimelle, jota et hallitse. Tätä riskiä ei Vertex AI:ssa ole.
 * Tarkkuus ja "Ankkurointi": Vertex AI voidaan "ankkuroida" (engl. grounding) yrityksesi omiin aineistoihin. Se tarkoittaa, että tekoäly perustaa vastauksensa teidän ohjeisiinne tai tietokantoihinne, eikä arvaile vastauksia yleisen internet-tiedon perusteella. Tämä tekee vastauksista luotettavia ja tarkkoja.
-* Integrointi ja hallinta: Vertex AI on suunniteltu integroitavaksi osaksi yrityksesi muita prosesseja ja järjestelmiä. Se on kokonainen alusta, jota voidaan hallita, valvoa ja skaalata yrityksen tarpeiden mukaan – toisin kuin julkinen kuluttajasovellus.
+* Integrointi ja hallinta: Vertex AI on suunniteltu integroitavaksi osaksi yrityksesi muita prosesseja ja järjestelmiä. Se on kokonainen alusta, jota voidaan hallita, valvoa ja skaalata yrityksen tarpeiden mukaan – toisin kuin julkinen kuluttajasovellus.\
+  \
+  *Artikkelin sisällön tuottamisessa on hyödynnetty tekoälyä kirjoittamisen tukena.*
