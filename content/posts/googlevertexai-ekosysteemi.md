@@ -10,10 +10,10 @@ head:
   keywords: Vertex AI,Google Vertex AI,Gemini tekoäly,tekoäly
     pk-yrityksille,tekoälyn käyttöönotto,tekoälyratkaisut,tekoälychatbot,älykäs
     tiedonhaku,Google Cloud, tekoäly,automaatio
-thumbnail: /assets/vertexai_1.jpg
+thumbnail: /assets/vertexai_1_1.jpg
 contactForm: Ota yhteyttä
 ---
-![Kuvituskuva. Tietokoneen näyttö, jonka yläpuolella aivoja kuvaava yhteysverkosto.](/assets/vertexai_1.jpg "Google Vertex AI - Tekoälyn hyödyntäminen yrityksissä")
+![Kuvituskuva. Tietokoneen näyttö, jonka yläpuolella aivoja kuvaava yhteysverkosto.](/assets/vertexai_1_1.jpg "Google Vertex AI - Tekoälyn hyödyntäminen yrityksissä")
 
 ## Vertex AI
 
@@ -81,7 +81,7 @@ Yhteenvetona voidaan todeta, että **Vertex AI** -ekosysteemi on joustava ja mod
 
 ### Konkreettisia mahdollisuuksia arjen tehostamiseksi
 
-![Kuvituskuva. Rajapintoja ja liitännäisiä kuvaavia yhteysviivoja ja symboleita.](/assets/vertexai_3.jpg "Vertex AI ja Gemini tehostavat yrityksen arkea")
+![Kuvituskuva. Rajapintoja ja liitännäisiä kuvaavia yhteysviivoja ja symboleita.](/assets/vertexai_2_1.jpg "Vertex AI ja Gemini tehostavat yrityksen arkea")
 
 Generatiivinen tekoäly saattaa kuulostaa kaukaiselta tai monimutkaiselta, mutta sen tuomat hyödyt ovat hyvin käytännönläheisiä. Kyse ei ole tieteisfiktiosta, vaan uusista työkaluista, jotka säästävät aikaa, vähentävät manuaalista työtä ja parantavat asiakaspalvelua.
 
