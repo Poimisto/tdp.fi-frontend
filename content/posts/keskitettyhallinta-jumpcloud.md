@@ -98,8 +98,8 @@ Pääsynhallinnan tehtävä on varmistaa, että oikeat ihmiset pääsevät oikei
 
 Työntekijä kirjautuu kerran **JumpCloudiin** ja pääsee sen jälkeen kaikkiin tarvitsemiinsa pilvipalveluihin, kuten:
 
-* Microsoft 365  
-* Google Workspace  
+* [Microsoft 365 ](https://www.tdp.fi/ohjelmistot/microsoft-365/) 
+* [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace/)  
 * Slack  
 * Zoom  
 * CRM , ERP  ja HR järjestelmät
