@@ -86,9 +86,7 @@ Kun työntekijän vastuut muuttuvat, samat muutokset voidaan tehdä yhdellä pä
 
 ### **Lopettavat työntekijät**
 
-Tämä on yksi yritysten suurimmista riskeistä: unohtuneet, aktiivisina jääneet tunnukset. **JumpCloudissa** lähteneen työntekijän tunnukset ja käyttöoikeudet kaikkiin sovelluksiin katkaistaan välittömästi yhdellä toimenpiteellä.
-
-Lisäksi järjestelmä näyttää kaikki laitteet, jotka liittyvät käyttäjään, mukaan lukien kadonneet tai palauttamatta jääneet laitteet.
+Tämä on yksi yritysten suurimmista riskeistä: unohtuneet, aktiivisina jääneet tunnukset. **JumpCloudissa** lähteneen työntekijän tunnukset ja käyttöoikeudet kaikkiin sovelluksiin katkaistaan välittömästi yhdellä toimenpiteellä. Lisäksi järjestelmä näyttää kaikki laitteet, jotka liittyvät käyttäjään, mukaan lukien kadonneet tai palauttamatta jääneet laitteet.
 
 Yhdessä nämä tekevät **identiteettien hallinnasta sekä helppoa että erittäin turvallista.**
 
@@ -133,10 +131,10 @@ Laitehallinnan tehtävä on varmistaa, että työntekijöiden käyttämät laitt
 
 **[Keskitetty hallinta](https://www.tdp.fi/it-palvelut/keskitetty-hallinta/)** näyttää yhdellä näkymällä kaikki Windows , macOS , Linux , iOS  ja Android laitteet sekä niiden:
 
-* Käyttöjärjestelmäversion  
-* Turvallisuustilan  
-* Asennetut ohjelmistot  
-* Puuttuvat tietoturvapatchit
+* **Käyttöjärjestelmäversion**  
+* **Turvallisuustilan**  
+* **Asennetut ohjelmistot**  
+* **Puuttuvat tietoturvapatchit**
 
 Tämä vähentää manuaalista seurantaa ja tekee **auditoinneista huomattavasti helpompia.**
 
@@ -144,12 +142,12 @@ Tämä vähentää manuaalista seurantaa ja tekee **auditoinneista huomattavasti
 
 Voimme määrittää politiikat, jotka jokainen laite toteuttaa automaattisesti:
 
-* Levyjen salaus  
-* Palomuuri  
-* Näytönlukon aikarajat  
-* USB laitteiden rajoitukset  
-* Kriittiset päivitykset  
-* Pakolliset sovellukset
+* **Levyjen salaus**  
+* **Palomuuri**  
+* **Näytönlukon aikarajat**  
+* **USB laitteiden rajoitukset**  
+* **Kriittiset päivitykset**  
+* **Pakolliset sovellukse**t
 
 Tämä poistaa epävarmuuden siitä, ovatko työntekijöiden laitteet turvallisia.
 
@@ -175,12 +173,12 @@ Jos laite katoaa voimme:
 
 Kun identiteetit, pääsy ja laitteet ovat samassa järjestelmässä, voidaan kirjautumista ohjata älykkäästi:
 
-* kuka käyttäjä on (identiteetti)  
-* onko kirjautuminen vahvistettu (MFA)  
-* miltä laitteelta käyttäjä toimii (laitehallinta)  
-* missä kunnossa laite on (turvallisuustila)  
-* mistä sijainnista tai verkosta yhteys tulee  
-* mihin käyttäjä yrittää päästä
+* Kuka käyttäjä on (identiteetti)  
+* Onko kirjautuminen vahvistettu (MFA)  
+* Miltä laitteelta käyttäjä toimii (laitehallinta)  
+* Missä kunnossa laite on (turvallisuustila)  
+* Mistä sijainnista tai verkosta yhteys tulee  
+* Mihin käyttäjä yrittää päästä
 
 **Keskitetyn hallinnan** tietoturvamalli on rakennettu **Zero Trust**  periaatteiden ympärille. Sen ydinajatus on yksinkertainen:\
 **Älä luota oletusarvoisesti kehenkään tai mihinkään, vaan varmista aina.**
