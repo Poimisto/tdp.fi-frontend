@@ -45,15 +45,15 @@ Ratkaisu pirstaleisuuteen on **[Keskitetty hallinta (JumpCloud)](https://www.tdp
 
 ## Keskeiset hyödyt
 
-### **1. Sujuvampi ja tehokkaampi arki**
+### **Sujuva arki**
 
 **JumpCloud** automatisoi suuren osan siitä manuaalisesta työstä, joka muuten vie aikaa ja aiheuttaa virheitä. Uusien työntekijöiden tunnukset, laiteasetukset ja sovellusoikeudet hoituvat kerralla, ja poistuvien **työntekijöiden pääsy kaikkiin järjestelmiin voidaan katkaista yhdellä toimenpiteellä.** 
 
-### **2. Selkeät kustannukset ja vähemmän päällekkäisiä järjestelmiä**
+### **Selkeät kustannukset**
 
 **JumpCloud** voi korvata perinteisen Active Directoryn, erilliset laitehallintaratkaisut (MDM/UEM), VPN:t ja monia muita työkaluja, joita pk yritykset ovat aiemmin joutuneet kasaamaan rinnakkain. **Yksi, pilvipohjainen** **palvelu** tarkoittaa ennustettavampia kuluja ja huomattavasti vähemmän järjestelmien ylläpitoa. Tämä **vapauttaa resursseja ja aikaa tuottavampaan tekemiseen.**
 
-### **3. Tietoturva kerralla kuntoon – ilman monimutkaisuutta**
+### **Tietoturva kuntoon**
 
 **JumpCloud** tuo modernin tietoturvan myös pk yritysten ulottuville: monivaiheinen tunnistautuminen (MFA), vähimpien oikeuksien periaate, laitepohjaiset ehdot, automaattiset tietoturvapolitiikat ja jopa varmenteisiin perustuva kirjautuminen (EAP TLS). Kun identiteetit, pääsy ja laitteet ovat samassa järjestelmässä, **Zero Trust  periaatteet toteutuvat luonnollisesti**.
 
@@ -69,7 +69,7 @@ Kun nämä kolme toimivat yhdessä, IT ei ole enää irrallisia sovelluksia ja a
 
 Identiteettien hallinta on **Keskitetyn hallinnan** perusta. Jokainen työntekijä saa yhden keskitetyn käyttäjätilin, joka toimii hänen digitaalisena ”avaimenaan” kaikkiin yrityksen palveluihin. Tähän liittyy kolme kriittistä vaihetta:
 
-### **1. Uudet työntekijät**
+### **Uudet työntekijät**
 
 Kun uusi työntekijä aloittaa, hänelle luodaan yksi käyttäjätili **JumpCloudiin**. Sen perusteella palvelu voi:
 
@@ -80,11 +80,11 @@ Kun uusi työntekijä aloittaa, hänelle luodaan yksi käyttäjätili **JumpClou
 
 Tämä auttaa poistamaan ensipäivän kaaoksen ja varmistaa, että uusi työntekijä pääsee **aloittamaan työt heti**.
 
-**2. Muutokset**
+### **Muutokset**
 
 Kun työntekijän vastuut muuttuvat, samat muutokset voidaan tehdä yhdellä päivityksellä. vaiheiden automatisointi varmistaa, että käyttäjä ei koskaan saa tarpeettoman laajoja oikeuksia tai joudu odottamaan pääsyä työssä **tarvitsemiinsa työkaluihin.**
 
-**3. Lopettavat työntekijät**
+### **Lopettavat työntekijät**
 
 Tämä on yksi yritysten suurimmista riskeistä: unohtuneet, aktiivisina jääneet tunnukset. **JumpCloudissa** lähteneen työntekijän tunnukset ja käyttöoikeudet kaikkiin sovelluksiin katkaistaan välittömästi yhdellä toimenpiteellä.
 
@@ -96,7 +96,7 @@ Yhdessä nämä tekevät **identiteettien hallinnasta sekä helppoa että eritt�
 
 Pääsynhallinnan tehtävä on varmistaa, että oikeat ihmiset pääsevät oikeisiin tietoihin – ja vain niihin. **Keskitetty hallinta** tekee tämän kolmella tavalla:
 
-### **1. Kertakirjautuminen (SSO)**
+### **Kertakirjautuminen (SSO)**
 
 Työntekijä kirjautuu kerran **JumpCloudiin** ja pääsee sen jälkeen kaikkiin tarvitsemiinsa pilvipalveluihin, kuten:
 
@@ -108,7 +108,7 @@ Työntekijä kirjautuu kerran **JumpCloudiin** ja pääsee sen jälkeen kaikkiin
 
 SSO vähentää salasanojen määrää, **poistaa unohtamisongelmat ja parantaa käyttökokemusta** merkittävästi.
 
-### 2. Monivaiheinen tunnistautuminen (MFA)
+### Monivaiheinen tunnistautuminen (MFA)
 
 **JumpCloudissa** MFA voidaan pakottaa käyttöön yrityksen kaikkiin sovelluksiin, kirjauduttaessa laitteelle, pilvipalveluun tai jopa Wi Fi verkkoon. Tämä yksin estää suuren osan salasanoihin liittyvistä murroista.
 
@@ -129,7 +129,7 @@ Tämä tekee palvelusta aidosti **keskitetyn kirjautumisportin koko yritykselle.
 
 Laitehallinnan tehtävä on varmistaa, että työntekijöiden käyttämät laitteet ovat turvallisia ja sääntöjen mukaisia. Riippumatta siitä, että tehdäänkö työtä toimistolla vai etänä.
 
-### **1. Laitekanta**
+### **Laitekanta**
 
 **[Keskitetty hallinta](https://www.tdp.fi/it-palvelut/keskitetty-hallinta/)** näyttää yhdellä näkymällä kaikki Windows , macOS , Linux , iOS  ja Android laitteet sekä niiden:
 
@@ -140,7 +140,7 @@ Laitehallinnan tehtävä on varmistaa, että työntekijöiden käyttämät laitt
 
 Tämä vähentää manuaalista seurantaa ja tekee **auditoinneista huomattavasti helpompia.**
 
-### **2. Turvallisuuspolitiikat**
+### **Turvallisuuspolitiikat**
 
 Voimme määrittää politiikat, jotka jokainen laite toteuttaa automaattisesti:
 
@@ -153,13 +153,13 @@ Voimme määrittää politiikat, jotka jokainen laite toteuttaa automaattisesti:
 
 Tämä poistaa epävarmuuden siitä, ovatko työntekijöiden laitteet turvallisia.
 
-### 3. Asennukset
+### Asennukset
 
 Tarvittavat sovellukset, asetukset ja päivitykset voidaan asentaa **suoraan pilven kautta**. Mac laitteille on tarjolla App Catalog, ja Windowsille vastaavat CSP politiikat.
 
 Tämä nopeuttaa työntekijöiden laiteasennuksia merkittävästi ja **poistaa tarpeen tuoda laitteita toimistolle** perusasennuksia varten.
 
-### **4. Laitteiden nollaus**
+### **Laitteiden nollaus**
 
 Jos laite katoaa voimme:
 
@@ -237,7 +237,7 @@ Tämä auttaa ottamaan otteen koko yrityksen sovellusekosysteemistä, minkä vä
 
 **Salasanat** ovat edelleen yksi yleisimmistä tietoturvariskeistä. Niitä kierrätetään, unohdetaan ja kalastellaan. Palvelussa salasanattomuus ei ole tulevaisuuden visio, vaan täysin toteutettavissa oleva toimintamalli.
 
-### **1. JumpCloud Protect**
+### **JumpCloud Protect**
 
 **JumpCloud Protect**  sovellus mahdollistaa kirjautumisen:
 
@@ -248,13 +248,13 @@ Tämä auttaa ottamaan otteen koko yrityksen sovellusekosysteemistä, minkä vä
 
 Käyttäjän ei tarvitse muistaa monimutkaisia salasanoja, ja kirjautuminen on sekä **nopeampaa että huomattavasti turvallisempaa.**
 
-### **2. Varmenteet**
+### **Varmenteet**
 
 Palvelun avulla yritys voi siirtyä perinteisistä Wi Fi salasanoista varmenteisiin perustuvaan kirjautumiseen. Tämä tarkoittaa, että jokainen laite tunnistetaan yksilöllisen sertifikaatin avulla, eikä verkkoon pääse ilman **hyväksyttyä identiteettiä ja laitetta**.
 
 Tämä parantaa yritysverkkojen turvallisuutta merkittävästi ja **poistaa jaettujen Wi Fi salasanojen riskit.**
 
-### **3. Salasanaton kirjautuminen**
+### **Salasanaton kirjautuminen**
 
 Palvelu mahdollistaa myös kirjautumisen työasemille (Windows, macOS, Linux) ilman salasanaa. Tämä toteutetaan biometrisilla tunnisteilla tai hyväksynnällä suoraan **JumpCloud Protect  sovelluksessa**.
 
@@ -280,7 +280,7 @@ Tuloksena:
 
 Palvelu vie yrityksen askeleen pidemmälle: pois salasanojen ongelmista ja kohti modernia, turvallista ja automatisoitua pilvi IT:tä.
 
-# **Yhteenveto**
+## **Yhteenveto**
 
 Yritysten IT on usein rakentunut pala kerrallaan ja lopputulos on helposti sirpaleinen kokonaisuus. Useita kirjautumisia, irrallisia laitekäytäntöjä ja kasvava määrä pilvipalveluja, joihin ei ole kunnollista näkyvyyttä. Tämä ei ole vain hallinnollinen haaste, vaan myös liiketoimintariski: **identiteettivarkaudet, kalastelut ja hallitsemattomat laitteet ovat tämän päivän yleisimpiä hyökkäyskanavia.**
 
