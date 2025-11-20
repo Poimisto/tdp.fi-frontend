@@ -16,7 +16,7 @@ contactForm: Ota yhteyttä
 
 
 
-# **Keskitetty hallinta**
+**Keskitetty hallinta**
 
 ## Ongelma
 
