@@ -9,6 +9,7 @@ head:
     keskitetysti. Aloita IT-ympäristösi mullistaminen jo tänään!"
   keywords: JumpCloud, Identiteetin hallinta, salasanan hallinta, Pääsynhallinta,
     Active Directory
+thumbnail: /assets/kuva-artikkeli-keskitetty-hallinta4.jpg
 contactForm: Ota yhteyttä
 ---
 ![Kuvituskuva: JumpCloud keskitetty hallinta](/assets/kuva-artikkeli-keskitetty-hallinta4.jpg "JumpCloud – keskitetty identiteetin ja pääsyn hallinta (IAM)")
@@ -64,7 +65,7 @@ Ratkaisu pirstaleisuuteen on **[Keskitetty hallinta (JumpCloud)](https://www.tdp
 
 Kun nämä kolme toimivat yhdessä, IT ei ole enää irrallisia sovelluksia ja asetuksia, vaan **hallittu ja läpinäkyvä kokonaisuus, jossa kaikki osat tukevat toisiaan**.
 
-## **1. Identiteetinhallinta**
+## **Identiteetinhallinta**
 
 Identiteettien hallinta on **Keskitetyn hallinnan** perusta. Jokainen työntekijä saa yhden keskitetyn käyttäjätilin, joka toimii hänen digitaalisena ”avaimenaan” kaikkiin yrityksen palveluihin. Tähän liittyy kolme kriittistä vaihetta:
 
@@ -91,7 +92,7 @@ Lisäksi järjestelmä näyttää kaikki laitteet, jotka liittyvät käyttäjä�
 
 Yhdessä nämä tekevät **identiteettien hallinnasta sekä helppoa että erittäin turvallista.**
 
-## 2. Pääsynhallinta
+## Pääsynhallinta
 
 Pääsynhallinnan tehtävä on varmistaa, että oikeat ihmiset pääsevät oikeisiin tietoihin – ja vain niihin. **Keskitetty hallinta** tekee tämän kolmella tavalla:
 
@@ -113,7 +114,7 @@ SSO vähentää salasanojen määrää, **poistaa unohtamisongelmat ja parantaa 
 
 **JumpCloud Protect**  sovellus mahdollistaa push hyväksynnät, biometrisen tunnistuksen ja turva avainten käytön.
 
-### **3. Autentikoinnit**
+### **Autentikoinnit**
 
 **JumpCloud** toimii avaimena melkein mihin tahansa sovellukseen, koska se tukee laajasti:
 
@@ -124,7 +125,7 @@ SSO vähentää salasanojen määrää, **poistaa unohtamisongelmat ja parantaa 
 
 Tämä tekee palvelusta aidosti **keskitetyn kirjautumisportin koko yritykselle.**
 
-## **3. Laitehallinta**
+## **Laitehallinta**
 
 Laitehallinnan tehtävä on varmistaa, että työntekijöiden käyttämät laitteet ovat turvallisia ja sääntöjen mukaisia. Riippumatta siitä, että tehdäänkö työtä toimistolla vai etänä.
 
@@ -353,6 +354,5 @@ Se sopii erityisesti yrityksille, jotka:
 * Käyttävät useita pilvipalveluja  
 * Haluavat vähentää salasanoihin liittyviä riskejä  
 * Haluavat luopua palvelimista ja siirtyä täysin pilvipohjaiseen malliin
-
 
 *Artikkelin sisällön tuottamisessa on hyödynnetty tekoälyä kirjoittamisen tukena.*
