@@ -153,7 +153,7 @@ Voimme määrittää politiikat, jotka jokainen laite toteuttaa automaattisesti:
 
 Tämä poistaa epävarmuuden siitä, ovatko työntekijöiden laitteet turvallisia.
 
-### 3. Asetuksenhallinta
+### 3. Asennukset
 
 Tarvittavat sovellukset, asetukset ja päivitykset voidaan asentaa **suoraan pilven kautta**. Mac laitteille on tarjolla App Catalog, ja Windowsille vastaavat CSP politiikat.
 
