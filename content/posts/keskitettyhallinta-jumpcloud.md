@@ -14,8 +14,6 @@ contactForm: Ota yhteyttä
 ---
 ![Kuvituskuva: JumpCloud keskitetty hallinta](/assets/kuva-artikkeli-keskitetty-hallinta4.jpg "JumpCloud – keskitetty identiteetin ja pääsyn hallinta (IAM)")
 
-# **Keskitetty hallinta**
-
 ## Ongelma
 
 Monissa pienissä ja keskisuurissa yrityksissä IT on jakautunut hallitsemattomasti eri järjestelmien välille: sähköpostit, sovellukset ja laitehallinta on toteutettu useilla erillisillä työkaluilla. Tämä pirstaleisuus johtaa nopeasti **IT kaaokseen**, joka hidastaa työntekoa ja lisää **liiketoimintariskejä.**
