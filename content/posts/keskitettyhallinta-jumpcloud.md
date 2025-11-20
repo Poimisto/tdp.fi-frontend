@@ -14,9 +14,7 @@ contactForm: Ota yhteyttä
 ---
 ![Kuvituskuva: JumpCloud keskitetty hallinta](/assets/kuva-artikkeli-keskitetty-hallinta4.jpg "JumpCloud – keskitetty identiteetin ja pääsyn hallinta (IAM)")
 
-
-
-**Keskitetty hallinta**
+# **Keskitetty hallinta**
 
 ## Ongelma
 
