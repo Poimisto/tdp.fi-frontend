@@ -301,7 +301,7 @@ Autamme suunnittelemaan, käyttöönoton ja kokonaisuuden, joka vastaa juuri yri
 * Millaisia kustannussäästöjä keskitetty hallinta voi tuoda  
 * Miten käyttöönotto voidaan hoitaa vaiheittain ja riskittömästi
 
-**Älä jää jälkeen, [ota yhteyttä](www.tdp.fi/keskitettyhallinta-jumpcloud/#contact-form) ja tee IT:stä yrityksesi uusi kilpailuetu!**
+**Älä jää jälkeen, [ota yhteyttä](https://www.tdp.fi/keskitettyhallinta-jumpcloud/#contact-form) ja tee IT:stä yrityksesi uusi kilpailuetu!**
 
 ![Kuvituskuva: IT laitteet ja hallinta](/assets/kuva-artikkeli-keskitetty-hallinta1.jpg "Etsitkö vastauksia? Kaikki tieto JumpCloudista yhdessä paikassa")
 
