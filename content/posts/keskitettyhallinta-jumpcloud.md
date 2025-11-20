@@ -215,7 +215,7 @@ Perinteisesti korkeatasoinen tietoturva on vaatinut raskaita VPN ratkaisuja, kal
 
 **Zero Trus**t ei siis ole vain suurille yrityksille. **Keskitetyn hallinnan** avulla se on kaikkien yritysten ulottuvilla yhtä helposti kuin sähköposti tai pilvitallennus.
 
-# **Edistyneet ominaisuudet**
+## **Edistyneet ominaisuudet**
 
 Palvelun vahvuus ei rajoitu pelkkään identiteettien, pääsyn ja laitteiden hallintaan. Alusta sisältää myös joukon **edistyneitä ominaisuuksia**, joiden tarkoituksena on **helpottaa modernin pilviympäristön hallintaa** ja vähentää salasanoihin liittyviä riskejä entisestään. Nämä toiminnot tekevät **Keskitetystä hallinnasta** kokonaisvaltaisen ratkaisun yrityksille, jotka haluavat **yksinkertaistaa IT arkkitehtuuria ja siirtyä kohti turvallisempaa, automaattisempaa toimintamallia.**
 
@@ -231,11 +231,11 @@ Yritysten digitaalinen ympäristö on usein pirstaleinen ja sisältää lukuisia
 
 Tämä auttaa ottamaan otteen koko yrityksen sovellusekosysteemistä, minkä vähentää kuluja ja vahvistaa tietoturvaa poistamalla **hallitsemattomien SaaS palveluiden aiheuttamia riskejä**.
 
-## **Salasanattomuus**
+### **Salasanattomuus**
 
 **Salasanat** ovat edelleen yksi yleisimmistä tietoturvariskeistä. Niitä kierrätetään, unohdetaan ja kalastellaan. Palvelussa salasanattomuus ei ole tulevaisuuden visio, vaan täysin toteutettavissa oleva toimintamalli.
 
-### **JumpCloud Protect**
+**JumpCloud Protect**
 
 **JumpCloud Protect**  sovellus mahdollistaa kirjautumisen:
 
@@ -246,13 +246,13 @@ Tämä auttaa ottamaan otteen koko yrityksen sovellusekosysteemistä, minkä vä
 
 Käyttäjän ei tarvitse muistaa monimutkaisia salasanoja, ja kirjautuminen on sekä **nopeampaa että huomattavasti turvallisempaa.**
 
-### **Varmenteet**
+**Varmenteet**
 
 Palvelun avulla yritys voi siirtyä perinteisistä Wi Fi salasanoista varmenteisiin perustuvaan kirjautumiseen. Tämä tarkoittaa, että jokainen laite tunnistetaan yksilöllisen sertifikaatin avulla, eikä verkkoon pääse ilman **hyväksyttyä identiteettiä ja laitetta**.
 
 Tämä parantaa yritysverkkojen turvallisuutta merkittävästi ja **poistaa jaettujen Wi Fi salasanojen riskit.**
 
-### **Salasanaton kirjautuminen**
+**Salasanaton kirjautuminen**
 
 Palvelu mahdollistaa myös kirjautumisen työasemille (Windows, macOS, Linux) ilman salasanaa. Tämä toteutetaan biometrisilla tunnisteilla tai hyväksynnällä suoraan **JumpCloud Protect  sovelluksessa**.
 
