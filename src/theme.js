@@ -3,8 +3,8 @@ import { createTheme } from '@mui/material/styles';
 const base = {
   containerMaxWidth: 1080,
   colors: {
-    brand: 'rgb(251,194,60)',
-    brandSecondary: 'rgb(255,181,0)',
+    brand: '#fbc23c',
+    brandSecondary: '#ffb500',
     success: '#5DE744',
     danger: '#B70000',
     dark: '#343A40',
