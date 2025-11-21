@@ -256,7 +256,7 @@ Tämä parantaa yritysverkkojen turvallisuutta merkittävästi ja **poistaa jaet
 
 Palvelu mahdollistaa myös kirjautumisen työasemille (Windows, macOS, Linux) ilman salasanaa. Tämä toteutetaan biometrisilla tunnisteilla tai hyväksynnällä suoraan **JumpCloud Protect  sovelluksessa**.
 
-#### Tuloksena
+### Tuloksena
 
 * Kirjautuminen nopeutuu  
 * Salasanojen kalastelun riski pienenee  
