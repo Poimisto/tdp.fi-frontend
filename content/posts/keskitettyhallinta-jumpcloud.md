@@ -256,16 +256,12 @@ Tämä parantaa yritysverkkojen turvallisuutta merkittävästi ja **poistaa jaet
 
 Palvelu mahdollistaa myös kirjautumisen työasemille (Windows, macOS, Linux) ilman salasanaa. Tämä toteutetaan biometrisilla tunnisteilla tai hyväksynnällä suoraan **JumpCloud Protect  sovelluksessa**.
 
-#### Tuloksena:
+#### Tuloksena
 
 * Kirjautuminen nopeutuu  
 * Salasanojen kalastelun riski pienenee  
 * Käyttäjätunnusten väärinkäyttö vaikeutuu  
 * Tietoturva paranee ilman, että käytettävyys kärsii
-
-![Kuvituskuva: Ohjelmienhallinta](/assets/kuva-artikkeli-keskitetty-hallinta2.jpg "Tietomurtojen riski pienenee: Hallittu sovellusympäristö ilman salasanoja")
-
-## Yhdistelmä
 
 **SaaS hallinnan ja salasanattomuuden** yhdistelmä tarkoittaa, että:
 
@@ -277,6 +273,9 @@ Palvelu mahdollistaa myös kirjautumisen työasemille (Windows, macOS, Linux) il
 * Yrityksen IT pysyy hallittuna, vaikka sovellukset ja työntekijämäärä kasvaisivat
 
 Palvelu vie yrityksen askeleen pidemmälle: pois salasanojen ongelmista ja kohti modernia, turvallista ja automatisoitua pilvi IT:tä.
+
+![Kuvituskuva: Ohjelmienhallinta](/assets/kuva-artikkeli-keskitetty-hallinta2.jpg "Tietomurtojen riski pienenee: Hallittu sovellusympäristö ilman salasanoja")
+
 
 ## **Yhteenveto**
 
