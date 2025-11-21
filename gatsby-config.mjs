@@ -124,6 +124,9 @@ export default {
     },
 
     // Netlify plugin for SSR and DSG pages
-    'gatsby-plugin-netlify'
+    'gatsby-plugin-netlify',
+
+    // Create a sitemap
+    'gatsby-plugin-sitemap'
   ],
 };
