@@ -16,7 +16,7 @@ contactForm: Ota yhteyttä
 
 ## Keskitetty hallinta
 
-## Ongelma
+### Ongelma
 
 Monissa pienissä ja keskisuurissa yrityksissä IT on jakautunut hallitsemattomasti eri järjestelmien välille: sähköpostit, sovellukset ja laitehallinta on toteutettu useilla erillisillä työkaluilla. Tämä pirstaleisuus johtaa nopeasti **IT kaaokseen**, joka hidastaa työntekoa ja lisää **liiketoimintariskejä.**
 
@@ -29,7 +29,7 @@ Käytännön haasteita sirpaleisissa ympäristössä:
 
 **Sirpaleinen IT** on siis paitsi tekninen ongelma, myös suora **kustannus  ja tietoturvauhka**, joka vie yrityksen **resursseja pois ydintoiminnasta.**
 
-## Ratkaisu
+### Ratkaisu
 
 Ratkaisu pirstaleisuuteen on **[Keskitetty hallinta (JumpCloud)](https://www.tdp.fi/it-palvelut/keskitetty-hallinta/)**. Kun käyttäjäidentiteetit, pääsynhallinta ja laitteiden hallinta yhdistetään yhteen moderniin pilvialustaan, kokonaisuus muuttuu **hallittavaksi, tehokkaaksi ja turvalliseks**i.
 
