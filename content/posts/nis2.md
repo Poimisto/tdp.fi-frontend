@@ -3,7 +3,7 @@ template: BlogPost
 path: /NIS2
 date: 2025-11-25T13:54:00.000Z
 head:
-  title: NIS2
+  title: NIS2 ja kyberturva helposti haltuun
   description: NIS2-direktiivi kiristää kyberturvavaatimuksia erityisesti
     kriittisillä toimialoilla, ja sen velvoitteet tulivat Suomessa voimaan
     keväällä 2025. Vaikka suurin osa pienistä ja keskisuurista yrityksistä
@@ -14,6 +14,7 @@ head:
     valmistautumista kilpailuetuna ja vähentää liiketoimintariskiänne.
   keywords: NIS2-direktiivi , Kyberturvallisuuslaki , Riskienhallinta , Vahva
     tunnistautuminen
+thumbnail: /assets/kuva-artikkeli-nis2_1.jpg
 contactForm: Ota yhteyttä
 ---
 ## NIS2
