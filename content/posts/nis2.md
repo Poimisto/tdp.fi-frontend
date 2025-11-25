@@ -12,18 +12,18 @@ head:
     tiivistää NIS2:n keskeiset vaatimukset ja antaa 6 konkreettista askelta
     seuraavalle 12–24 kuukaudelle, jotta voitte hyödyntää ennakoivaa
     valmistautumista kilpailuetuna ja vähentää liiketoimintariskiänne.
-  keywords: NIS2-direktiivi , Kyberturvallisuuslaki , Riskienhallinta , Vahva
-    tunnistautuminen
+  keywords: NIS2-direktiivi , Kyberturvallisuuslaki , Riskienhallinta ,
+    Direktiivit, Kyberturva
 thumbnail: /assets/kuva-artikkeli-nis2_1.jpg
 contactForm: Ota yhteyttä
 ---
+![Kuvituskuva: NIS2-direktiivi](/assets/kuva-artikkeli-nis2_1.jpg "NIS2-direktiivi: Suojaa yrityksesi digitaalinen sydän")
+
 ## NIS2
 
 EU:n NIS2-direktiivi on uusi kyberturvallisuutta kiristävä sääntelykehikko, joka laajentaa velvoitteita aiempaa useammille toimialoille ja organisaatioille. Direktiivi hyväksyttiin EU-tasolla 2022 ja jäsenmaiden piti tuoda se kansalliseen lainsäädäntöön vuoden 2024 loppuun mennessä. Suomessa tämä tehtiin kyberturvallisuuslailla, jonka NIS2-pohjaiset velvoitteet tulivat voimaan huhtikuussa 2025.
 
 Käytännössä NIS2 velvoittaa ensisijaisesti isoja ja keskisuuria toimijoita tietyillä kriittisillä toimialoilla. Suurin osa suomalaisista pk-yrityksistä jää toistaiseksi suoran velvoitteen ulkopuolelle. Se ei silti tarkoita, että direktiivin voisi unohtaa.
-
-![Kuvituskuva: NIS2-direktiivi](/assets/kuva-artikkeli-nis2_1.jpg "NIS2-direktiivi: Suojaa yrityksesi digitaalinen sydän")
 
 ### Miksi NIS2 on ajankohtainen myös pk-yrityksille
 
