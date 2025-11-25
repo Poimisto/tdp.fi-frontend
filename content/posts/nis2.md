@@ -239,7 +239,7 @@ Ajoissa aloitettu valmistautuminen tarjoaa kolme selkeää hyötyä:
 
 [Ota yhteyttä!](https://www.tdp.fi/NIS2/#contact-form)
 
-![Kuvituskuva: Kilpi-symboliikka](/assets/kuva-artikkeli-nis2_2.png "Tekniset Perusasiat Kuntoon")
+![Kuvituskuva: Kilpi-symboliikka](/assets/kuva-artikkeli-nis2_2.png "Tietoturva direktiivien kuntoonlaitto tuo suojaa")
 
 ### Usein kysytyt kysymykset
 
