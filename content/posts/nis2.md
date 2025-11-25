@@ -85,9 +85,8 @@ Pk -yritykselle tilanne voi tuntua rasitteelta, mitä se myös osittain onkin.. 
 Direktiivi ja kyberturvallisuuslaki ovat juridista tekstiä, mutta niiden ydin voidaan tiivistää muutamaan osa-alueeseen. Traficomin ja Kyberturvallisuuskeskuksen materiaaleissa puhutaan etenkin **riskienhallinnasta, teknisistä ja organisatorisista suojatoimista sekä raportointivelvoitteista.**
 
 * **Riskienhallinta**: Yrityksen pitää tunnistaa merkittävät kyberturvariskit, arvioida niiden vaikutukset ja päättää, miten niitä hallitaan. Tämä ei ole pelkkä kerran tehtävä excel, vaan jatkuva prosessi.  
-* **Tekniset suojaustoimet:** Direktiivi korostaa esimerkiksi:  
-
-  * Pääsynhallinnan ja vahvan tunnistautumisen merkitystä  
+* **Tekniset suojaustoimet:** Direktiivi korostaa esimerkiksi:
+  * Pääsynhallinnan ja vahvan tunnistautumisen merkitystä 
   * Verkkojen ja järjestelmien suojaamista  
   * Varmuuskopiointia ja palautumiskyvyn varmistamista  
   * Lokitusta ja valvontaa.  
@@ -150,29 +149,34 @@ Pienyrityksen ei tarvitse tehdä NIS2:ta kerralla. Järkevä eteneminen voidaan 
 
 1. **Johdon päätös**  
 
-   * Päätetään, että kyberturvaa kehitetään suunnitelmallisesti ja että NIS2 toimii mittatikkuna, vaikka laki ei vielä velvoita.  
-   * Sovitaan tavoitetaso, esimerkiksi, että 2 vuoden päästä olemme “perustasolla” seuraavien asioiden osalta.  
+* Päätetään, että kyberturvaa kehitetään suunnitelmallisesti ja että NIS2 toimii mittatikkuna, vaikka laki ei vielä velvoita.  
+* Sovitaan tavoitetaso, esimerkiksi, että 2 vuoden päästä olemme “perustasolla” seuraavien asioiden osalta.  
+
 2. **Vastuut ja organisointi**  
 
-   * Nimetään kyberturvasta vastaava henkilö ja varahenkilö.  
-   * Päätetään, mitä tehdään itse ja missä käytetään kumppania.  
+* Nimetään kyberturvasta vastaava henkilö ja varahenkilö.  
+* Päätetään, mitä tehdään itse ja missä käytetään kumppania.  
+
 3. **Nykytilan kartoitus ja riskien tunnistaminen**  
 
-   * Tehdään kevyt arvio nykyisestä tasosta, tarvittaessa ulkopuolisen kumppanin avulla.  
-   * Kootaan yhteen suurimmat riskit ja niihin liittyvät toimenpiteet.  
+* Tehdään kevyt arvio nykyisestä tasosta, tarvittaessa ulkopuolisen kumppanin avulla.  
+* Kootaan yhteen suurimmat riskit ja niihin liittyvät toimenpiteet.  
+
 4. **Teknisten perusasioiden kuntoon laittaminen**  
 
-   * Vahva tunnistautuminen tärkeimpiin järjestelmiin.  
-   * Käyttöoikeuksien läpikäynti ja siivous.  
-   * Varmuuskopioinnin tarkistus ja palautustestit.  
+* Vahva tunnistautuminen tärkeimpiin järjestelmiin.  
+* Käyttöoikeuksien läpikäynti ja siivous.  
+* Varmuuskopioinnin tarkistus ja palautustestit.  
+
 5. **Dokumentointi ja henkilöstön koulutus**  
 
-   * Kirjataan lyhyet käytännön ohjeet ja tietoturvapolitiikka.  
-   * Järjestetään vähintään yksi yhteinen tietoturvakoulutus vuodessa.  
+* Kirjataan lyhyet käytännön ohjeet ja tietoturvapolitiikka.  
+* Järjestetään vähintään yksi yhteinen tietoturvakoulutus vuodessa.  
+
 6. **Jatkuva parantaminen**  
 
-   * Luodaan vuosikello: milloin tarkistetaan riskit, testataan palautus ja päivitetään ohjeet.  
-   * Raportoidaan johdolle lyhyesti mutta säännöllisesti.
+* Luodaan vuosikello: milloin tarkistetaan riskit, testataan palautus ja päivitetään ohjeet.  
+* Raportoidaan johdolle lyhyesti mutta säännöllisesti.
 
 Tällä tavalla NIS2-valmistautuminen ei ole kertaponnistus, vaan osa normaalia johtamista.
 
@@ -182,27 +186,27 @@ Monissa yrityksissä arki pyörii pilvessä, tyypillisesti [Google Workspacen](h
 
 Esimerkkejä konkreettisista toimenpiteistä:
 
-**1. Tunnistautuminen ja pääsynhallinta**
+1. **Tunnistautuminen ja pääsynhallinta**
 
 * Kytke kaksivaiheinen tunnistautuminen (MFA) päälle kaikille käyttäjille.  
 * Hyödynnä ryhmiä ja rooleja oikeuksien hallinnassa, älä jaa resursseja yksittäisten käyttäjien sähköpostiosoitteilla.
 
-**2. Tiedonhallinta ja jaot**
+2. **Tiedonhallinta ja jaot**
 
 * Rakenna selkeä kansiorakenne osastoittain tai tiimeittäin.  
 * Vältä “kaikki pääsevät kaikkeen” -oletuksia. Dokumenteille ja jaetuille levyille vain tarpeelliset oikeudet.
 
-**3. Laitteiden hallinta**
+3. **Laitteiden hallinta**
 
 * Ota käyttöön keskitetty laitehallinta siltä osin kuin lisenssit sallivat.  
 * Varmista, että laitteet salataan ja että niillä on ajantasaiset päivitykset.
 
-**4. Varmuuskopiointi**
+4. **Varmuuskopiointi**
 
 * Pilvipalvelu (esim. Google Drive)  ei ole varsinainen varmuuskopio. Siellä tiedostot ovat edelleen alttiina sekä käyttäjävirheille, että haittaohjelmille.  
 * Liiketoimintakriittinen tieto on tärkeää suojata myös aktiivisessa käytössä olevan järjestelmän ulkopuolelle.
 
-**5. Lokitus ja valvonta**
+5. **Lokitus ja valvonta**
 
 * Käytä pilvialustan tarjoamia perusraportteja kirjautumisista, epäonnistuneista yrityksistä ja epäilyttävistä tapahtumista.  
 * Sovi prosessi sille, kuka seuraa ilmoituksia ja miten epäilyttävät tapahtumat tutkitaan.
