@@ -14,10 +14,10 @@ head:
     valmistautumista kilpailuetuna ja vähentää liiketoimintariskiänne.
   keywords: NIS2-direktiivi , Kyberturvallisuuslaki , Riskienhallinta ,
     Direktiivit, Kyberturva
-thumbnail: /assets/kuva-artikkeli-nis2_1.jpg
+thumbnail: /assets/kuva-artikkeli-nis2_1.png
 contactForm: Ota yhteyttä
 ---
-![Kuvituskuva: NIS2-direktiivi](/assets/kuva-artikkeli-nis2_1.jpg "NIS2-direktiivi: Suojaa yrityksesi digitaalinen sydän")
+![Kuvituskuva: NIS2-direktiivi](/assets/kuva-artikkeli-nis2_1.png "NIS2-direktiivi: Suojaa yrityksesi digitaalinen sydän")
 
 ## NIS2
 
@@ -237,7 +237,7 @@ Ajoissa aloitettu valmistautuminen tarjoaa kolme selkeää hyötyä:
 
 [Ota yhteyttä!](https://www.tdp.fi/NIS2/#contact-form)
 
-![Kuvituskuva: Kilpi-symboliikka](/assets/kuva-artikkeli-nis2_2.jpg "Tekniset Perusasiat Kuntoon")
+![Kuvituskuva: Kilpi-symboliikka](/assets/kuva-artikkeli-nis2_2.png "Tekniset Perusasiat Kuntoon")
 
 ### Usein kysytyt kysymykset
 
