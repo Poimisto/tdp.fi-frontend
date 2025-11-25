@@ -59,7 +59,7 @@ Suurin osa suomalaisista pk-yrityksistä ei siis kuulu suoraan NIS2:n piiriin. S
 
 1. **Toimitusketjut**: Direktiivi korostaa toimitusketjujen kyberturvallisuutta. Tämä tarkoittaa, että NIS2-velvoitettu asiakas joutuu arvioimaan ja usein myös kiristämään vaatimuksiaan alihankkijoille ja palvelutoimittajille.  
 2. **Sopimusehdot ja kilpailutus**: Pk-yritykset tulevat kohtaamaan  NIS2 -vaatimuksia sopimuksissa, vaikka laki ei vielä suoraan velvoita.  
-3. **NIS2 mittatikkuna**: Esimerkiksi asiantuntija kuvaa NIS2:ta hyväksi yleismittatikuksi teollisuusyritysten kyberturvalle. Sama ajattelu toimii muillakin toimialoilla: **jos olet NIS2-tasolla, olet todennäköisesti jo hyvässä kunnossa myös muiden vaatimusten suhteen.**
+3. **NIS2 mittatikkuna**: NIS2 on hyvä mittari, **jos olet NIS2-tasolla, olet todennäköisesti jo hyvässä kunnossa myös muiden vaatimusten suhteen.**
 
 ![Kuvituskuva: NIS2 yrityksessä](/assets/kuva-artikkeli-nis2_4.png "NIS2-Valmius Alkaa Johdon Pöydältä: 6 Askelta Kohti Kilpailuetua")
 
