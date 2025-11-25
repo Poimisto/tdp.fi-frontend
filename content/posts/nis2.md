@@ -295,5 +295,4 @@ Ajoissa aloitettu valmistautuminen tarjoaa kolme selkeää hyötyä:
 
 **Vastaus**: Kyllä. Suomessa on tarjolla tukea kyberturvallisuuden kehittämiseen. ELY-keskusten kehittämisavustus voi kattaa konsultoinnin ja kehittämishankkeiden kustannuksia, joilla parannetaan yrityksen prosesseja ja tietoturvaa. Myös Business Finlandin TKI-rahoitus voi soveltua tiettyihin hankkeisiin.
 
-
 *Artikkelin sisällön tuottamisessa on hyödynnetty tekoälyä kirjoittamisen tukena.*
