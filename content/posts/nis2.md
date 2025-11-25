@@ -17,7 +17,7 @@ head:
 thumbnail: /assets/kuva-artikkeli-nis2_1.png
 contactForm: Ota yhteyttä
 ---
-![Kuvituskuva: NIS2-direktiivi](/assets/kuva-artikkeli-nis2_1.png "NIS2-direktiivi: Suojaa yrityksesi digitaalinen sydän")
+![Kuvituskuva: Abstrakti suojakuori - NIS2-direktiivi](/assets/kuva-artikkeli-nis2_1.png "NIS2 direktiivi on kyberturvallisuuden perusta")
 
 ## NIS2
 
@@ -61,7 +61,7 @@ Suurin osa suomalaisista pk-yrityksistä ei siis kuulu suoraan NIS2:n piiriin. S
 2. **Sopimusehdot ja kilpailutus**: Pk-yritykset tulevat kohtaamaan  NIS2 -vaatimuksia sopimuksissa, vaikka laki ei vielä suoraan velvoita.  
 3. **NIS2 mittatikkuna**: NIS2 on hyvä mittari, **jos olet NIS2-tasolla, olet todennäköisesti jo hyvässä kunnossa myös muiden vaatimusten suhteen.**
 
-![Kuvituskuva: NIS2 yrityksessä](/assets/kuva-artikkeli-nis2_4.png "NIS2-Valmius Alkaa Johdon Pöydältä: 6 Askelta Kohti Kilpailuetua")
+![Kuvituskuva: Analytiikkaan ja suojaukseen liittyviä symboleita.](/assets/kuva-artikkeli-nis2_5_tech_cube.jpg "NIS2-valmius tuo kilpailuetuja pk-yritykselle")
 
 ### Velvoite vai kilpailuetu
 
@@ -97,6 +97,8 @@ Direktiivi ja kyberturvallisuuslaki ovat juridista tekstiä, mutta niiden ydin v
 
 Pk-yrityksen kannalta olennaista ei ole ulkoa opetella lakipykäliä, vaan **ymmärtää nämä viisi kokonaisuutta ja miettiä, miltä ne näyttävät omassa mittakaavassa.**
 
+![Kuvituskuva: Kilpäi ja datavirtoja keskuksen ympärillä](/assets/kuva-artikkeli-nis2_4_tech_lock.jpg "NIS2 tason tietoturva tuo suojaa myös pienyrityksille")
+
 ### “NIS2-tasoinen” kyberturva pk -yrityksessä
 
 Pk-yritykselle NIS2-taso ei tarkoita SOC-keskusta kellarissa, vaan sitä, että **perusasiat on tehty hyvin ja niitä johdetaan systemaattisesti.** Direktiivi nostaa tietoturvan strategiselle tasolle, ei pelkäksi IT-kustannukseksi.
@@ -123,8 +125,6 @@ Karkeasti jaettuna NIS2-tasoinen ympäristö sisältää seuraavat elementit:
 
 Kun nämä perusasiat ovat kunnossa, ero NIS2-vaatimuksiin nähden ei ole enää mahdoton. Usein tarvitaan lisää dokumentointia, joitain lisäkontrolleja ja viranomaisraportoinnin prosessit, mutta **perusrunko on sama**.
 
-![Kuvituskuva: Riippulukko-symboliikka](/assets/kuva-artikkeli-nis2_3.png "NIS2: Ei Vain Velvoite Vaan Polku PK-yrityksen Kyberturvaan")
-
 ### Yksinkertainen itsearvio
 
 Hyvä lähtökohta on nopea, rehellinen itsearvio. Alla on esimerkkilistaus kysymyksistä, joita useat NIS2- ja kyberturvallisuusoppaat käyttävät eri muodoissa.
@@ -141,6 +141,8 @@ Vastaa jokaiseen kyllä tai ei.
 8. Onko teillä yksinkertainen jatkuvuus- tai toipumissuunnitelma merkittäviä häiriöitä varten?
 
 **Mitä useampi “ei” löytyy, sitä suurempi on hyöty siitä, että otatte NIS2:n periaatteet käyttöön ajoissa, vaikka ette olisikaan vielä lain piirissä.**
+
+![Kuvistuskuva: Läpikuultavia kuutioita tornimuodostelmassa symboloimassa kehitystä.](/assets/kuva-artikkeli-nis2_5_tech_cube_tower.jpg "Direktiivien mukaiseen tietoturvaan valmistautuminen kannattaa")
 
 ### Ennakoiva valmistautuminen
 
