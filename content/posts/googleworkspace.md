@@ -12,14 +12,14 @@ head:
     Tämä artikkeli esittelee seitsemän konkreettista tapaa, joilla Workspace vastaa pk-yritysten arjen suurimpiin haasteisiin: Tehokkaampi yhteistyö reaaliaikaisella muokkaamisella. Liiketoiminnan jatkuvuus varmistamalla, että tiedostot kuuluvat organisaatiolle. Turvallinen tekoälyn hyödyntäminen (Gemini).
 
     Lue, miten siirryt hajautetusta työskentelystä hallittuun kokonaisuuteen ja luot samalla perustan yrityksesi kasvulle ja tulevaisuuden tekoälyvalmiudelle.
-  keywords: Google Workspace pk-yritykselle, Tiedon jatkuvuus, Tietoturva Zero
-    Trust, Reaaliaikainen yhteistyö, Gemini tekoäly työkalut
+  keywords: Google Workspace pk-yritykselle, Yrityssähköposti,  ohjelmistot
+    yritykselle,reaaliaikainen yhteistyö, gemini, tekoäly, AI
 thumbnail: /assets/kuva-artikkeli-googleworkspace-sphere.jpg
 contactForm: Ota yhteyttä
 ---
 ## Google Workspace
 
-![Kuvituskuva: 3D-kuvitus kullanvärisestä, hehkuvasta pallosta, joka on suljettu läpinäkyvään keltaiseen kuoreen. Kuoren alaosasta nousee kirkkaita, keltaisia valokuitumaisia säikeitä.](/assets/kuva-artikkeli-googleworkspace-sphere.jpg "Yhtenäinen perusta pk-yrityksen kasvuun")
+![Kuvituskuva: 3D-kuvitus kullanvärisestä, hehkuvasta pallosta, joka on suljettu läpinäkyvään keltaiseen kuoreen. Kuoren alaosasta nousee kirkkaita, keltaisia valokuitumaisia säikeitä.](/assets/kuva-artikkeli-googleworkspace-sphere.jpg "Googlw Workspace tarjoaa hyvän perustan yrityksen kasvun haasteisiin.")
 
 **Tiedätkö varmasti, missä yrityksesi tärkeät sopimukset tällä hetkellä sijaitsevat? Ovatko ne turvallisesti tallessa vai kenties sähköpostin Saapuneet-kansiossa?**
 
@@ -29,7 +29,7 @@ Hajautunut toimintatapa ei ole ainoastaan tehoton. Se luo myös merkittäviä li
 
 Tässä tilanteessa yrityksen kannattaa tarkastella työkalualustaansa kokonaisuutena eikä vain yksittäisinä sovelluksina. [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace/) on monille tuttu lähinnä Gmailista, mutta todellisuudessa kyse on kokonaisvaltaisesta pilvialustasta, joka kokoaa viestinnän, yhteistyön, tiedonhallinnan ja tietoturvan yhteen näkymään. Samalla se luo perustan tekoälyn hyödyntämiselle osana arjen työtä, ei erillisenä projektina.
 
-**Käytännön tasolla Google Workspace rakentuu muutamasta peruspilarista, jotka korvaavat tyypillisen sähköpostin, verkkoaseman ja sekalaisen joukon työkaluja yhdellä kokonaisuudella:**
+**Käytännön tasolla [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace/) rakentuu muutamasta peruspilarista, jotka korvaavat tyypillisen sähköpostin, verkkoaseman ja sekalaisen joukon työkaluja yhdellä kokonaisuudella:**
 
 * **Gmail**. Yrityssähköposti omalla verkkotunnuksella, roskapostinsuodatus ja älykkäät hakutoiminnot.  
 * **Google Kalenteri**. Ajanvaraus, resurssit ja kokouskutsut samassa näkymässä koko tiimille.  
@@ -38,7 +38,7 @@ Tässä tilanteessa yrityksen kannattaa tarkastella työkalualustaansa kokonaisu
 
 Tämä artikkeli esittelee seitsemän konkreettista tapaa, joilla Google Workspace vastaa yritysten arjen haasteisiin. Käymme läpi, miten se **tehostaa yhteistyötä, turvaa yrityksen dataa ja tuo tekoälyn osaksi jokapäiväistä tekemistä**. Nämä osa-alueet muodostavat perustan tehokkaammalle, turvallisemmalle ja älykkäämmälle liiketoiminnalle, joka skaalautuu yrityksen kasvun mukana.
 
-![Kuvituskuva: 3D-renderöity kuva toisiinsa liitetyistä mustista, neliönmuotoisista solmupisteistä, joiden läpi kulkee kirkkaasti hehkuvia, sinisiä putkia tai valonsäteitä.](/assets/kuva-artikkeli-googleworkspace-connectednodes.jpg "Yhteistyö reaaliajassa: Sano hyvästit versiohelvetille")
+![Kuvituskuva: 3D-renderöity kuva toisiinsa liitetyistä mustista, neliönmuotoisista solmupisteistä ja kirkkaasti hehkuvia, sinisiä putkia tai valonsäteitä.](/assets/kuva-artikkeli-googleworkspace-connectednodes.jpg "Google Drive, Gmail ja jaetut tiedot tarjoavat hyvän pohjan yhteistyölle.")
 
 ### Yhteistyö
 
@@ -60,7 +60,7 @@ Sisäänrakennettu tekoäly, kuten Gemini, vahvistaa tätä yhteistyötä. Esime
 
 Tekoäly helpottaa rutiinityötä, mutta päätökset ja vastuu pysyvät ihmisillä. Käytännössä se vapauttaa asiantuntijoiden aikaa vaativaan tekemiseen ja suunnitteluun. Isoa osaa päivästä ei enää tarvitse käyttää kopiointiin, muotoiluun ja siistimiseen, vaan on mahdollista keskittyä varsinaiseen arvon tuottamiseen.
 
-![Kuvituskuva: 3D-renderöity kuva, joka esittää virtaavaa keltaista ja sinistä nestettä tai energiaa mutkittelevassa, tummassa putkessa](/assets/kuva-artikkeli-googleworkspace-flow.jpg "Tiedon jatkuvuus: Tiedostot kuuluvat yritykselle")
+![Kuvituskuva: 3D-renderöity kuva, joka esittää virtaavaa keltaista ja sinistä nestettä tai energiaa mutkittelevassa, tummassa putkessa](/assets/kuva-artikkeli-googleworkspace-flow.jpg "Tiedon jatkuvuus. Tiedostojen hallinta kuuluu yritykselle")
 
 ### Jatkuvuus
 
@@ -78,7 +78,7 @@ Kun tieto on keskitetty hallitulla tavalla Jaettuun Driveen
 * Uuden työntekijän perehdytys helpottuu.  
 * Yksittäisten henkilöiden varassa oleva hiljainen tieto vähenee.
 
-Googlen haku toimii Drive-tiedostojen, sähköpostien ja muiden dokumenttien yli. Tarvitsemaasi materiaalia ei etsitä kansiopolku kerrallaan, vaan löydät sen usein yhdellä avainsanalla. Tämä vähentää aikaa, joka muuten kuluisi kadonneiden tiedostojen metsästykseen. Tiedot ovat myös integroitavissa suoraan Googlen Vertex AI -ekosysteemiin, mikä mahdollistaa AI avusteisen tiedonhaun ja analytiikan viemisen täysin uusille tasoille.
+Googlen haku toimii Drive-tiedostojen, sähköpostien ja muiden dokumenttien yli. Tarvitsemaasi materiaalia ei etsitä kansiopolku kerrallaan, vaan löydät sen usein yhdellä avainsanalla. Tämä vähentää aikaa, joka muuten kuluisi kadonneiden tiedostojen metsästykseen. Tiedot ovat myös integroitavissa suoraan [Googlen Vertex AI -ekosysteemiin,](https://www.tdp.fi/GoogleVertexAI-ekosysteemi/) mikä mahdollistaa AI avusteisen tiedonhaun ja analytiikan viemisen täysin uusille tasoille.
 
 Jaetun Driven tärkeimpiä hyötyjä yritykselle ovat
 
@@ -87,7 +87,7 @@ Jaetun Driven tärkeimpiä hyötyjä yritykselle ovat
 * **Helppo pääsy:** oikeuksien mukaan rajattu pääsy ajantasaisiin tiedostoihin mistä tahansa.  
 * **Parempi pohja analytiikalle:** kun tieto on yhdessä paikassa ja järjestyksessä, sen päälle on helpompi rakentaa raportointia ja automaatiota.
 
-![Kuvituskuva: 3D-renderöity kuva kirkkaankeltaisesta, säteilevästä pallosta, josta lähtee neljään suuntaan kierrettyjä, kultaisia ja läpikuultavia valonsäikeitä](/assets/kuva-artikkeli-googleworkspace-3d_motion.jpg "Vähemmän kontekstin vaihtoa: Kaikki työkalut yhdessä näkymässä")
+![Kuvituskuva: 3D-renderöity kuva kirkkaankeltaisesta, säteilevästä pallosta, josta lähtee neljään suuntaan kierrettyjä, kultaisia ja läpikuultavia valonsäikeitä](/assets/kuva-artikkeli-googleworkspace-3d_motion.jpg "Kaikki työkalut yhdessä näkymässä tehostavat pk-yrityksen arkea.")
 
 ### Keskittäminen
 
@@ -111,7 +111,7 @@ Yrityksen näkökulmasta yhtenäisen alustan hyödyt ovat
 * **Nopeampi päätöksenteko:** tieto löytyy yhdestä paikasta sen sijaan, että se olisi hajallaan eri järjestelmissä  
 * **Yksinkertaisempi IT-hallinta:** vähemmän päällekkäisiä työkaluja ja integraatioita ylläpidettävänä
 
-![Kuvituskuva: 3D-renderöity kuva kuusikulmaisesta, hiotusta prismasta, jonka sisällä on pilvenmuotoinen, hehkuva alue](/assets/kuva-artikkeli-googleworkspace-prism.jpg "Tietoturva on sisäänrakennettu perusta, ei kallis lisäosa")
+![Kuvituskuva: 3D-renderöity kuva kuusikulmaisesta, hiotusta prismasta, jonka sisällä on pilvenmuotoinen, hehkuva alue](/assets/kuva-artikkeli-googleworkspace-prism.jpg "Google Workspace tarjoaa tehokkaat työkalut yrityksen tietoturvan hallinnointiin")
 
 ### Tietoturva
 
@@ -135,7 +135,7 @@ Keskeisiä hyötyjä yrityksille ovat
 * **Liiketoiminnan jatkuvuus,** kun tieto on varmistettu ja suojattu  
 * **Hallittavuus,** kun asetuksia ei tarvitse tehdä kymmenessä eri järjestelmässä
 
-![Kuvituskuva: 3D-renderöity kuva tummalla, teknologisella alustalla olevasta metallisesta kuutiosta, jonka keskellä on kirkkaankeltainen, hehkuva, T-kirjainta tai avainta muistuttava aukko](/assets/kuva-artikkeli-googleworkspace-vault.jpg "Turvallinen tekoäly tuo kilpailuedun")
+![Kuvituskuva: 3D-renderöity kuva tummalla, teknologisella alustalla olevasta metallisesta kuutiosta, jonka keskellä on kirkkaankeltainen, hehkuva aukko](/assets/kuva-artikkeli-googleworkspace-vault.jpg "Gemini ja Google Vertex AI mahdollistavat tekoälyn turvallisen käytön yrityksessä.")
 
 ### Tekoäly
 
@@ -143,9 +143,9 @@ Tekoäly on monelle pk-yritykselle sekä mahdollisuus että huoli. Julkisten, ku
 
 Google Workspacen tekoälyratkaisu, kuten Gemini, on suunniteltu yrityskäyttöön. Kun tekoälyä käytetään osana Workspacen lisenssiä, organisaatio saa selkeät tietosuojalupaukset. Tiivistetysti:
 
-* Keskusteluja ei käytetä mallien kouluttamiseen  
-* Sisältöjä ei tarkastella manuaalisesti ilman erillistä lupaa.  
-* Data pysyy organisaation hallinnassa ja sen omissa järjestelmissä
+* **Keskusteluja ei käytetä mallien kouluttamiseen.**  
+* **Sisältöjä ei tarkastella manuaalisesti ilman erillistä lupaa.**  
+* **Data pysyy organisaation hallinnassa ja sen omissa järjestelmissä.**
 
 Näin uskallatte ottaa rohkeammin tekoälyn käyttöön siellä, missä siitä on eniten hyötyä: 
 
@@ -185,12 +185,12 @@ Tyypillinen esimerkki on tilanne, jossa myyjä lisää uuden liidin suoraan Gmai
 
 Monella pk-yrityksellä ei ole omia kehittäjiä prosessien digitalisointiin. AppSheet tarjoaa tähän ratkaisun. Se on työkalu, jolla voi rakentaa yrityksen omia sovelluksia ja automaatioita ilman perinteistä ohjelmointia. Esimerkiksi
 
-* Sähköinen lomake työmaapäiväkirjaan, jota voi täyttää kännykällä  
-* Kenttätyöntekijöille tehtävä mobiilisovellus, joka tallentaa tiedot suoraan Sheetsiin  
-* Varaston inventointi lomakkeella ja viivakoodinlukijalla  
-* Hyväksyntäketjut, jotka voidaan automatisoida sähköpostien sijaan
+* **Sähköinen lomake työmaapäiväkirjaan**, jota voi täyttää kännykällä.  
+* **Kenttätyöntekijöille tehtävä mobiilisovellus**, joka tallentaa tiedot suoraan Sheetsiin. 
+* **Varaston inventointi lomakkeella ja viivakoodinlukijalla.** 
+* **Hyväksyntäketjut, jotka voidaan automatisoida sähköpostien sijaan.**
 
-Tärkeää on, että voitte aloittaa pienestä, itseänne hyödyttävästä ratkaisusta ilman suuria projekteja. Ja kun kasvatte, niin Google Workspace skaalautuu mukana. Tarvittaessa se kytkeytyy tiiviisti Googlen muihin komponentteihin, kuten BigQueryyn ja Vertex AI:hin. Tämä mahdollistaa esimerkiksi suurten datamassojen käsittelyn tai omien tekoälymallien rakentamisen ilman, että perustyökalut vaihtuvat.
+Tärkeää on, että voitte aloittaa pienestä, itseänne hyödyttävästä ratkaisusta ilman suuria projekteja. Ja kun kasvatte, niin Google Workspace skaalautuu mukana. Tarvittaessa se kytkeytyy tiiviisti Googlen muihin komponentteihin, kuten BigQueryyn ja [Vertex AI:hin](https://www.tdp.fi/GoogleVertexAI-ekosysteemi/). Tämä mahdollistaa esimerkiksi suurten datamassojen käsittelyn tai omien tekoälymallien rakentamisen ilman, että perustyökalut vaihtuvat.
 
 Pk-yrityksen näkökulmasta tämä tarkoittaa, että
 
@@ -208,7 +208,7 @@ Voitte siis aloittaa kevyesti sähköpostista ja yhteiskäyttöisistä dokumente
 
 Pilvinatiivina ratkaisuna Workspace vähentää perinteisen IT-infrastruktuurin monimutkaisuutta. Palvelimet, päivitykset ja varmuuskopiointi eivät ole enää omalla vastuulla, vaan perusta tulee valmiina palveluna. Tämä vapauttaa resursseja ydinliiketoimintaan keskittymiseen.
 
-Lyhyesti koottuna [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace/) tarjoaa yritykselle
+Lyhyesti koottuna [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace/) tarjoaa teille:
 
 * **Tehokkaamman arjen:** reaaliaikainen yhteismuokkaus ja yhtenäinen työkaluympäristö vähentävät turhaa säätöä ja rutiinia  
 * **Liiketoiminnan jatkuvuuden:** Jaetut Drivet ja keskitetty hallinta varmistavat, että kriittinen tieto kuuluu organisaatiolle, ei yksittäisille käyttäjille  
@@ -227,7 +227,9 @@ Käytännön seuraavat askeleet voivat olla esimerkiksi
 3. **Keskustele asiantuntijan kanssa**\
    Google Workspace -kumppanina voimme auttaa arvioimaan, mitä kannattaa siirtää ensin, millaiset lisenssit sopivat teille ja miten tietoturva varmistetaan. Samalla voidaan sopia, miten avainhenkilöt vapautetaan matalan arvon ylläpitotyöstä ja miten ympäristöä kehitetään hallitusti eteenpäin.
 
-Näiden askeleiden tarkoitus ei ole käynnistää suurta IT-projektia, vaan ottaa ensimmäinen hallittu liike kohti yhtenäisempää ja tulevaisuuteen valmista työalustaa. Kun perusta on kunnossa, jokainen seuraava parannus on nopeampi toteuttaa ja tuottaa enemmän arvoa.
+Näiden askeleiden tarkoitus ei ole käynnistää raskasta IT-projektia, vaan ottaa ensimmäinen hallittu liike kohti yhtenäisempää ja tulevaisuuteen valmista työalustaa. Kun perusta on kunnossa, jokainen seuraava parannus on nopeampi toteuttaa ja tuottaa enemmän arvoa.\
+\
+Älä jää pohtimaan yksin, [ota yhteyttä,](https://www.tdp.fi/googleworkspace/#contact-form) niin laitetaan perusta kerralla kuntoon!
 
 ![Kuvituskuva: 3D-renderöity kuva kirkkaasta, geometrisesti leikatusta kuutiosta, jonka sisällä on hehkuva, kullanvärinen pallo](/assets/kuva-artikkeli-googleworkspace-lock_cube.jpg "Tietoturvan ydin kuinka suojattu tieto luo perustan älykkäälle kasvulle")
 
@@ -316,6 +318,5 @@ Käyttöönoton nopeus riippuu nykyisestä ympäristöstä, mutta tyypillisesti 
 Google Workspacen voi ottaa käyttöön myös omin voimin, etenkin pienemmässä organisaatiossa. Usein suurin haaste ei ole tekniikka, vaan se, miten kansiorakenne, käyttöoikeudet ja tietoturvakäytännöt suunnitellaan kerralla järkevästi.
 
 Kumppanina voimme auttaa linjaamaan rakenteet ja pelisäännöt niin, että tiedostot tallentuvat alusta alkaen oikeisiin kansioihin, tietoturva on yrityksen kokoon nähden riittävällä tasolla ja käyttäjillä on selkeä, yhteinen tapa käyttää työkaluja. Näin perusta on kunnossa ja [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace/)n hyödyt saadaan irti ilman turhaa säätöä.
-
 
 *Artikkelin sisällön tuottamisessa on hyödynnetty tekoälyä kirjoittamisen tukena.*
