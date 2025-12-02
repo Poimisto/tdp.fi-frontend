@@ -27,7 +27,7 @@ Monissa yrityksissä arki on pirstaleista. Tärkeät tiedostot ovat yhden työnt
 
 Hajautunut toimintatapa ei ole ainoastaan tehoton. Se luo myös merkittäviä liiketoimintariskejä.  Erityisesti etä- ja hybridityön yleistyminen on korostanut yhtenäisen ja luotettavan työalustan merkitystä. Kun tiimi ei työskentele saman katon alla, saumaton yhteistyö, tietoturva ja helppokäyttöisyys ovat liiketoiminnan perusedellytyksiä.
 
-Tässä tilanteessa yrityksen kannattaa tarkastella työkalualustaansa kokonaisuutena eikä vain yksittäisinä sovelluksina. [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace/) on monille tuttu lähinnä Gmailista, mutta todellisuudessa kyse on kokonaisvaltaisesta pilvialustasta, joka kokoaa viestinnän, yhteistyön, tiedonhallinnan ja tietoturvan yhteen näkymään. Samalla se luo perustan tekoälyn hyödyntämiselle osana arjen työtä, ei erillisenä projektina.
+Tässä tilanteessa yrityksen kannattaa tarkastella työkalualustaansa kokonaisuutena eikä vain yksittäisinä sovelluksina. Google Workspace on monille tuttu lähinnä Gmailista, mutta todellisuudessa kyse on kokonaisvaltaisesta pilvialustasta, joka kokoaa viestinnän, yhteistyön, tiedonhallinnan ja tietoturvan yhteen näkymään. Samalla se luo perustan tekoälyn hyödyntämiselle osana arjen työtä, ei erillisenä projektina.
 
 **Käytännön tasolla [Google Workspace](https://www.tdp.fi/ohjelmistot/google-workspace/) rakentuu muutamasta peruspilarista, jotka korvaavat tyypillisen sähköpostin, verkkoaseman ja sekalaisen joukon työkaluja yhdellä kokonaisuudella:**
 
