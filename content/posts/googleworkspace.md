@@ -42,7 +42,7 @@ Tämä artikkeli esittelee seitsemän konkreettista tapaa, joilla Google Workspa
 
 ### Yhteistyö
 
-**Jätä hyvästit versio helvetille!** Google Workspace on suunniteltu alusta asti pilvipohjaiseen yhteistyöhön. Sen sijaan, että tiedostoista lähetetään sähköpostitse erilaisia versioita edestakaisin, ydinsovellukset kuten Docs (tekstinkäsittely), Sheets (laskentataulukot) ja Slides (esitykset) mahdollistavat usean käyttäjän samanaikaisen muokkaamisen.
+**Jätä hyvästit versiohelvetille!** Google Workspace on suunniteltu alusta asti pilvipohjaiseen yhteistyöhön. Sen sijaan, että tiedostoista lähetetään sähköpostitse erilaisia versioita edestakaisin, ydinsovellukset kuten Docs (tekstinkäsittely), Sheets (laskentataulukot) ja Slides (esitykset) mahdollistavat usean käyttäjän samanaikaisen muokkaamisen.
 
 Moni siirtymistä pohtiva yrittäjä miettii, mitä tapahtuu olemassa oleville Word- ja Excel-tiedostoille. Menetänkö Office-tiedostoni? Google Drivessa näitä tiedostoja voidaan avata ja muokata suoraan ilman, että ne pitää ensin muuntaa toiseen formaattiin. Tämä madaltaa kynnystä siirtyä pilvipohjaiseen yhteistyöhön ja mahdollistaa sen, että vanha ja uusi tapa toimia voivat elää rinnakkain niin kauan kuin on tarve.
 
