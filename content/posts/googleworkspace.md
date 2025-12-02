@@ -56,7 +56,7 @@ Sisäänrakennettu tekoäly, kuten Gemini, vahvistaa tätä yhteistyötä. Esime
 
 * **Luonnokset** sähköposteihin, uutiskirjeisiin tai raportteihin syntyvät sekunneissa.  
 * **Tiivistelmät** pitkistä dokumenteista tai kokouksista hoituvat pyytämällä.   
-* **Datan visualisointi** ja oivallukset**.** Tekoäly voi auttaa sinua visualisoimaan dataa tai etsimään tiedoista oivalluksia entistä nopeammin.
+* **Datan visualisointi** ja oivallukset. Tekoäly voi auttaa sinua visualisoimaan dataa tai etsimään tiedoista oivalluksia entistä nopeammin.
 
 Tekoäly helpottaa rutiinityötä, mutta päätökset ja vastuu pysyvät ihmisillä. Käytännössä se vapauttaa asiantuntijoiden aikaa vaativaan tekemiseen ja suunnitteluun. Isoa osaa päivästä ei enää tarvitse käyttää kopiointiin, muotoiluun ja siistimiseen, vaan on mahdollista keskittyä varsinaiseen arvon tuottamiseen.
 
