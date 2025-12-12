@@ -261,7 +261,7 @@ Marketista saa yksittäisiä kuluttajakannettavia, mutta pk yritykselle tärkeä
 
 #### 5. Mikä on AI PC ja onko siitä hyötyä yritykselle?
 
-AI PC on kannettava, jossa on perinteisen prosessorin lisäksi erillinen NPU eli tekoälykiihdytin ja ohjelmistoekosysteemi, joka tukee paikallisesti ajettavia AI toimintoja. Käytännössä tämä tarkoittaa esimerkiksi Copilot avustinta, parempaa videoneuvottelun taustakäsittelyä ja jatkossa yhä enemmän paikallisia tekoälysovelluksia. TDP:n tarjoamat Dell Pro ja AI kannettavat on suunniteltu tähän käyttöön, jolloin kone ei vanhene yhtä nopeasti, kun AI työkalut yleistyvät.
+AI PC on kannettava, jossa on perinteisen prosessorin lisäksi erillinen NPU eli tekoälykiihdytin yli 40 TOPs suorituskyvyllä ja ohjelmistoekosysteemi, joka tukee paikallisesti ajettavia AI toimintoja. Käytännössä tämä tarkoittaa esimerkiksi Copilot avustinta, parempaa videoneuvottelun taustakäsittelyä ja jatkossa yhä enemmän paikallisia tekoälysovelluksia. TDP:n tarjoamat Dell Pro ja AI kannettavat on suunniteltu tähän käyttöön, jolloin kone ei vanhene yhtä nopeasti, kun AI työkalut yleistyvät.
 
 - - -
 
