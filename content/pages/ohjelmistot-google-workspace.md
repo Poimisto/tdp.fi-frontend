@@ -97,17 +97,17 @@ Hyviä kysymyksiä ovat:
 * **Miten aiomme hyödyntää tekoälyä?** Haluatteko käyttää Geminiä osana sähköposteja ja dokumentteja turvallisesti, ilman että luottamuksellinen data valuu kuluttajille suunnattuihin AI-palveluihin?
 * **Miten tietokoneet ja tiedot varmuuskopioidaan?** Kun tiedostot ovat turvassa pilvessä, tietokoneen rikkoutuminen ei enää hävitä työtuloksia. On kuitenkin tärkeää huolehtia myös itse pilviympäristön palautettavuudesta inhimillisten virheiden ja hyökkäysten varalle. Tähän tarvitaan oma [lisäpalvelu](https://www.tdp.fi/it-palvelut/varmuuskopiointi/).
 
-Näihin kysymyksiin ei tarvitse vastata yksin. Käymme ne läpi kartoituksen yhteydessä ja rakennamme mallin, joka sopii teidän arkeenne. 
+Näihin kysymyksiin ei tarvitse vastata yksin. Käymme ne läpi kartoituksen yhteydessä ja **rakennamme mallin, joka sopii teidän arkeenne.** 
 
-Mikäli haluat syventyä tarkemmin Workspacen ominaisuuksiin, tutustu kirjoitukseemme: ["Google Workspace pk-yrityksen arjessa – 7 tapaa tehostaa työtä"](https://www.tdp.fi/googleworkspace/) -artikkelissa avaamme käytännön esimerkkien kautta, miten Workspacea kannattaa käyttää tehokkaasti hyödyksi.
+Mikäli haluat syventyä tarkemmin Workspacen ominaisuuksiin, tutustu kirjoitukseemme: ["Google Workspace pk-yrityksen arjessa – 7 tapaa tehostaa työtä"](https://www.tdp.fi/googleworkspace/) -artikkelissa avaamme käytännön esimerkkien kautta, miten Workspacea voi ja kannattaa käyttää tehokkaasti hyödyksi.
 
 ## TDP kumppanina
 
-Olemme virallinen Google Cloud -kumppani ja palvelemme yrityksiä Pirkanmaalla, pääkaupunkiseudulla ja muualla Suomessa. Luotsaamme yritykset asiantuntevasti nykyisistä ratkaisuista Google Workspacen käyttöön ja huolehdimme, että ympäristö pysyy toimivana myös muutosten jälkeen.
+**Olemme virallinen Google Cloud -kumppani** ja palvelemme yrityksiä Pirkanmaalla, pääkaupunkiseudulla ja muualla Suomessa. Luotsaamme yritykset asiantuntevasti nykyisistä ratkaisuista Google Workspacen käyttöön ja huolehdimme, että ympäristö pysyy toimivana myös muutosten jälkeen.
 
 Ylläpidämme Google Workspace -ympäristöjä sadoille yrityksille. Asiakkaidemme kokemukset Workspacesta ja sen edeltäjästä G Suitesta ovat olleet positiivisia ja kokemuksesta tiedämme paketin täyttävän vaativammankin yrityksen tarpeet.
 
-Ota yhteyttä ja viedään yrityksesi Googlen pilveen,  jossa muutkin jo ovat!
+**Ota yhteyttä ja viedään yrityksesi Googlen pilveen,  jossa muutkin jo ovat!**
 
 
 
