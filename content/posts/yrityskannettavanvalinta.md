@@ -4,11 +4,12 @@ path: /Yrityskannettavanvalinta
 date: 2025-12-12T08:34:00.000Z
 head:
   title: Yrityskannettavan valinta
-  description: Tässä asiantuntijaoppaassa avaamme vuoden 2025 yrityskannettavien
-    tärkeimmät ominaisuudet (mm. AI PC, NPU, Wi-Fi 7) ja kerromme, miksi
-    kuluttajamallin ja yrityskannettavan ero on ratkaiseva tuottavuudelle. Lue,
-    miten valitset oikean Dell Pro -laitteen eri käyttäjäprofiileille ja miksi
-    laitteen elinkaaren hallinta on avain huolettomaan arkeen.
+  description: Tässä asiantuntijaoppaassa avaamme vuodenvaihteen 2025 - 2026
+    yrityskannettavien tärkeimmät ominaisuudet (mm. AI PC, NPU, Wi-Fi 7) ja
+    kerromme, miksi kuluttajamallin ja yrityskannettavan ero on ratkaiseva
+    tuottavuudelle. Lue, miten valitset oikean Dell Pro -laitteen eri
+    käyttäjäprofiileille ja miksi laitteen elinkaaren hallinta on avain
+    huolettomaan arkeen.
   keywords: "Yrityskannettava , Työkannettava , Halpa läppäri yritykselle , Dell ,
     IT-laitteiden leasing vs osto , AI PC yrityksille , Dell yrityskannettavat ,
     "
@@ -17,7 +18,7 @@ contactForm: Ota yhteyttä
 ---
 ### Yrityskannettavan valinta opas
 
-![Kuvituskuva: Studiokuva avatusta valkoisesta Dell XPS -kannettavasta tietokoneesta](/assets/3cq5dam.web.1280.1280.jpeg "Valkoinen Dell XPS 13 Plus -kannettava tietokone")
+![Kuvituskuva: Studiokuva avatusta valkoisesta Dell XPS -kannettavasta tietokoneesta](/assets/3cq5dam.web.1280.1280.jpeg "Dell kannettavat ovat hyvä vaihtoehto pk -yrityksen it -laitevakiointiin")
 
 **“Halpa” kannettava tuntuu ostotilanteessa loistavalta säästöltä. Kassassa näkyy pienempi miinusmerkki ja budjetti kiittää. Todellisuudessa kyse voi olla kuitenkin kymmenien tuhansien eurojen piilokulusta.**
 
@@ -35,7 +36,7 @@ Me TDP:llä hallinnoimme tuhansia yrityskannettavia. Tämä antaa meille ainutla
 
 Havaintomme eivät perustu mainoslauseisiin, vaan dataan. Näemme suoraan, miten laitevalinnat vaikuttavat tukipyyntöjen määrään, käyttökatkoihin ja työntekijöiden tyytyväisyyteen. Tämä artikkeli perustuu käytännön havaintoihin.
 
-Artikkelin tarkoitus on auttaa sinua tekemään harkittuja laitehankintoja. Olemme nähneet mitä tapahtuu, kun yrityksen ympäristö koostuu yksittäisistä “diilikoneista”, jonka takia tahdomme auttaa teitä rakentamaan toimivan ja itsellenne sopivan IT-ympäristön.
+Artikkelin tarkoitus on auttaa sinua tekemään harkittuja laitehankintoja. Emme halua, että metsästätte yksittäisiä “diilikoneita”, vaan tahdomme auttaa teitä rakentamaan toimivan ja itsellenne sopivan IT-ympäristön.
 
 Käymme läpi:
 
@@ -51,7 +52,7 @@ Käymme läpi:
 * Asiantuntijan kuratoima, Dell Pro ja Dell Pro Max malleihin pohjautuva vakioitu laiteympäristö ja valmiit asennusmediat helpottavat käyttöönottoa ja tekevät kustannuksista ennustettavia.  
 * Kun laitteet, hallinta ja elinkaari ovat kunnossa, IT tukee liiketoimintaa sen sijaan että se jarruttaa sitä. Tämä artikkeli antaa konkreettiset kriteerit, joilla vältät murheet.
 
-![Kuvituskuva: Studiokuva teknologiatuotteista valkoisella taustalla. Vasemmalla on avattu harmaa kannettava tietokone, jonka näytöllä on auki esitysgrafiikkaa sisältävä ohjelma.](/assets/4cq5dam.web.1280.1280.jpeg "Monilaitteinen työpiste: kannettava tietokone, tabletti ja langattomat oheislaitteet")
+![Kuvituskuva: Studiokuva Dell tietokoneista valkoisella taustalla. ](/assets/kuva-dell_promax1.jpeg "Dell tarjoaa laadukkaat yrityskannettavat pk yrityksen tarpeisiin")
 
 ### Yrityskannettava vs. kuluttajakannettava
 
@@ -81,7 +82,7 @@ Kuluttajakoneen 1–2 vuoden takuu ja hidas huoltoprosessi voivat pitää rikkou
 
 #### Liitännät
 
-Yrityskannettavissa on kaikki tarvittavat liitännät, kuten **USB-C/Thunderbolt 4/5** (telakointi yhdellä piuhalla), HDMI ja Ethernet. Lisäksi uudet **Wi-Fi 7** -standardit ja valinnaiset **4G/5G-optiot** varmistavat vakaan verkkoyhteyden. Tämä poistaa adapterisulkeiset ja takaa, että videopalaverit alkavat ajallaan.
+Yrityskannettavissa on kaikki tarvittavat liitännät, kuten **USB-C/Thunderbolt 4** (telakointi yhdellä piuhalla), HDMI ja Ethernet. Lisäksi uudet **Wi-Fi 7** -standardit ja valinnaiset **4G/5G-optiot** varmistavat vakaan verkkoyhteyden. Tämä poistaa adapterisulkeiset ja takaa, että videopalaverit alkavat ajallaan.
 
 #### Tietoturva
 
@@ -89,7 +90,7 @@ Tietoturva on alue, jossa kuluttajakoneen "säästö" voi kääntyä kalleimmaks
 
 Jos työntekijän kone katoaa, **BitLocker** salaa levyn automaattisesti. Varas saa raudan, mutta ei yrityksesi arkaluontoisia tietoja. Kuluttajakoneessa riski tietomurtoon on suuri, mikä voi johtaa mainevahinkoon ja GDPR-sakkoihin. Yritysmalleissa vakiona oleva **TPM 2.0 -turvasiru ja vPro/PRO-hallintaominaisuudet** mahdollistavat tietoturvakäytäntöjen (kuten salasanapolitiikan ja päivitysten) pakottamisen keskitetysti. Näin laitteet eivät jää "oman onnensa nojaan"  ja tietosuoja on helpompi toteuttaa.
 
-![Kuvituskuva: Ylhäältä päin otettu tuotekuva työpisteen laitteista valkoisella taustalla. Vasemmalla on osa hopeanväristä täysikokoista langatonta näppäimistöä.](/assets/1cq5dam.web.1280.1280.jpeg "Kannettava tietokone ja langattomat oheislaitteet ylhäältä kuvattuna")
+![Kuvituskuva: Dell Pro Max tehotyökone ja graafinen suunnitteluohjelmisto](/assets/kuva-dell_promax2.jpeg "Dell Pro Max tehotyöasemat tarjoavat laadukkaan vaihtoehdon tehokäyttäjien laitevakiointiin pk -yrityksissä.")
 
 #### TDP Suositus
 
@@ -99,9 +100,9 @@ Esimerkiksi Dell Pro 14 ja Dell Pro 16 ovat hyvä esimerkki tämän päivän “
 
 * **Prosessori:** Intel Core Ultra 5 tai 7 U -sarja, usein vPro-versiona (tärkeä etähallinnan kannalta).  
 * **Muisti:** 16 Gt DDR5 – nykypäivän minimi sujuvaan työhön.  
-* **Tallennus:** 512 Gt NVMe SSD. Käytämme laadukkaita TLC-tason levyjä, emme halvimpia variantteja, jotta luotettavuus säilyy.  
+* **Tallennus:** 256–512 Gt NVMe SSD. Käytämme laadukkaita TLC-tason levyjä, emme halvimpia variantteja, jotta luotettavuus säilyy.  
 * **Näyttö:** 14" tai 16" FHD+ mattapintainen näyttö, joka ei heijastele toimistovaloja.  
-* **Liitännät:** Wi-Fi 6E tai 7, HDMI 2.1, useampi USB-A, USB-C / Thunderbolt 4/5 ja kiinteä Ethernet – eli dongleja ei tarvita joka välissä.  
+* **Liitännät:** Wi-Fi 6E tai 7, HDMI 2.1, useampi USB-A, USB-C / Thunderbolt 4 ja kiinteä Ethernet – eli dongleja ei tarvita joka välissä.  
 * **Käyttöjärjestelmä:** Windows 11 Pro ja uusi Copilot AI -näppäin.
 
 **Mitä tämä tarkoittaa käytännössä?** Yrittäjälle tai toimistotyöntekijälle se tarkoittaa konetta, joka käynnistyy nopeasti ja jaksaa pyörittää toiminnanohjausjärjestelmää, selainta (jossa on 50 välilehteä auki) ja raskaita Excel-raportteja yhtä aikaa. Kone ei ole heti "köysissä", kun kytket sen telakkaan ja kahteen ulkoiseen näyttöön. Lisäksi laite istuu luontevasti yrityksen hallintaympäristöön (**vPro**, **Windows 11 Pro**, **TPM 2.0**), mikä helpottaa ylläpitoa.
@@ -111,13 +112,15 @@ Core Ultra -prosessorit sisältävät myös erillisen **NPU-yksikön**. Tätä h
 Kun siirrytään vaativampaan asiantuntijatyöhön, tarvitaan järeämpää kalustoa. **Dell Pro Max 16** ja **Pro Max 16 Plus** edustavat markkinoiden kovinta kärkeä. Näiden tyypillisiä ominaisuuksia ovat: 
 
 * **Prosessori:** Intel Core Ultra 7 tai 9 H -sarja (vPro Enterprise).  
-* **Muisti:** 32-64 Gt tai enemmän DDR5-muistia.  
+* **Muisti:** 32 Gt tai enemmän DDR5-muistia.  
 * **Tallennus:** 1 Tt suorituskykyinen SED ready SSD, jopa huippunopealla PCIe 5.0 -väylällä.  
-* **Grafiikka:** NVIDIA RTX Pro -sarjan näytönohjain (esim. RTX Pro 500,1000 tai 2000 Blackwell-sukupolvesta).
+* **Grafiikka:** NVIDIA RTX Pro -sarjan näytönohjain (esim. RTX Pro 500 tai 1000 Blackwell-sukupolvesta).
 
 **Pro Max** malleja markkinoidaan **AI PC työasemina**. Termillä viitataan tietokoneisiin, joissa on erillinen NPU ja tekoälytehtävien tehokkaan paikallisen suorittamisen mahdollistava ohjelmistoekosysteemi.Tämä on tärkeää erityisesti tietoturvan ja tulevien AI työkalujen käytettävyyden kannalta. Data ei aina kulje pilven kautta, vaan osa laskennasta ja sensitiivisen tiedon käsittelystä voidaan tehdä suoraan omalla kannettavalla.
 
 Tämä ei ole pelkkää hifistelyä, vaan suoraa ajansäästöä. Esimerkiksi CAD-piirtäminen, tietomallinnus (BIM), mediaeditointi sekä raskas BI-analytiikka sujuvat ilman nykimistä. Odottelu renderöintien tai raporttien valmistumisen kohdalla vähenee.  Lisäksi tehokkaampi rauta takaa laitteelle pidemmän elinkaaren. Kapasiteetti ei lopu kesken, vaikka työkuorma tai ohjelmistojen vaatimukset kasvaisivatkin lähivuosina.
+
+![Kuvituskuva: Dell 2 in 1 AI -pc](/assets/kuva-dell_copilot2in1.jpeg "Dell tarjoaa monipuolisen valikoiman AI kannettavia ja kestäviä yritystietokoneita yrityskäyttöön.")
 
 ### Käyttäjätyypit
 
@@ -134,7 +137,7 @@ Tämä on usein yrityksen suurin käyttäjäryhmä. Työ on pääasiassa selainp
 * **Suositus:** Luotettava ja tasapainoinen työjuhta.  
 
   * **Tehot:** Intel Core Ultra 5 (U-sarja) tai vastaava AMD Ryzen Pro.  
-  * **Muisti & Tallennus:** 16/32 Gt DDR5 -muistia ja 512 Gt nopea NVMe SSD.  
+  * **Muisti & Tallennus:** 16 Gt DDR5 -muistia ja 256–512 Gt nopea NVMe SSD.  
   * **Laite-esimerkki:** **Dell Pro 14** tai **Dell Pro 16**. Nämä tarjoavat erinomaisen hinta-laatusuhteen, hyvän liitettävyyden ja Windows 11 Pro:n tuoman tietoturvan.  
 * **Mistä ei kannata tinkiä:** Muistin määrästä (16 Gt on minimi) tai levyn laadusta.  
 * **Mistä voi tinkiä:** Erillisestä näytönohjaimesta ja 4K-näytöstä. Perustyössä integroitu näytönohjain ja hyvä Full HD -näyttö riittävät mainiosti.
@@ -160,7 +163,7 @@ Johtoryhmälle kannettava on toimisto, joka kulkee mukana junassa, asiakkaalla j
 
   * **Ominaisuudet:** Laadukas 14" tai 16" näyttö, erinomainen kamera ja mikrofoni etäpalavereihin.  
   * **Yhteydet:** Pitkä akunkesto, nopea lataus, Wi-Fi 6E/7 ja mielellään sisäänrakennettu 4G/5G yhteys.  
-  * **Laite-esimerkki:** Ohuet **Dell Pro Premium** sarjan mallit, jotka sujahtavat salkkuun helposti.  
+  * **Laite-esimerkki:** Ohuet **Dell Pro** sarjan mallit, jotka sujahtavat salkkuun helposti.  
 * **Mistä ei kannata tinkiä:** Akunkestosta, verkkoyhteyksistä tai kameran laadusta.  
 * **Mistä voi tinkiä:** Erillisestä näytönohjaimesta, ellei johtaja harrasta raskasta videoeditointia.
 
@@ -176,7 +179,7 @@ Varastot, tuotantohallit, työmaat ja huoltoautot ovat tietokoneille armottomia 
 * **Mistä ei kannata tinkiä:** Kestävyydestä (IP-luokitus) ja näytön kirkkaudesta.  
 * **Mistä voi tinkiä:** Ohuudesta ja "nätistä" muotoilusta. Tässä haetaan työkalua, ei korua.
 
-![Kuvituskuva: Takaa otettu tuotekuva hopeanvärisestä Dell-näytöstä ja tummanharmaasta kannettavasta tietokoneesta valkoisella taustalla.](/assets/2cq5dam.web.1280.1280.jpeg "Dell-näyttö ja kannettava tietokone: USB-C-telakointiratkaisu")
+![Kuvituskuva: Dell Rugged (erityisen kestävä) tabletti.](/assets/kuva_dell_rugged1.jpeg "Rugger kannettavat tarjoavat erityisen kestävän vaihtoehdon kenttätyöntekijöille.")
 
 ### Hallittu ympäristö
 
@@ -208,7 +211,7 @@ Vastuu ei kuitenkaan lopu laitteen ostoon. Me **TDP:llä** huolehdimme laitteen 
 2. **Oikea kierrätys:** Laitteet puretaan ja materiaalit kierrätetään asianmukaisesti.  
 3. **Dokumentointi:** Tarvittaessa saat raportin, jonka voit liittää suoraan yrityksesi vastuullisuusraporttiin.
 
-![Kuvituskuva: Suoraan edestä otettu lähikuva hopeanvärisen Dell XPS -kannettavan näytöstä. Kuvassa korostuvat laitteen erittäin ohuet näytön reunat.](/assets/cq5dam.web.1280.1280.jpeg "Lähikuva Dell XPS -kannettavan näytöstä")
+![]()
 
 ### Yhteenveto
 
@@ -218,7 +221,7 @@ Yhtenä tämän artikkelin tavoitteena oli avata silmät sille, miksi ”halpa�
 * **Vakioitu mallisto:** IT-tuki toimii nopeasti ja ennustettavasti.  
 * **Älykäs elinkaari:** Tiedät kokonaiskustannukset etukäteen ja toimit vastuullisesti.
 
-Lopputulema on selvä, kun tarkastellaan niitä kuluja, jotka eivät näy koneen alkuperäisessä hintalapussa. Vaikka laadukas yrityskannettava maksaa hankittaessa ehkä 200–1000 euroa enemmän kuin kuluttajamalli, tämä alkusijoitus mitätöityy nopeasti.
+Lopputulema on selvä, kun tarkastellaan niitä kuluja, jotka eivät näy koneen alkuperäisessä hintalapussa. Vaikka laadukas yrityskannettava maksaa hankittaessa ehkä 800–1000 euroa enemmän kuin kuluttajamalli, tämä alkusijoitus mitätöityy nopeasti.
 
 Kun työntekijän käytössä on alimitoitettu kuluttajakannettava, työ hidastuu helposti 5–10 minuuttia päivässä. Tämä näennäisesti pieni aika kuluu nopeasti koneen käynnistymiseen, selainten tahmaamiseen ja etäpalavereissa pätkimiseen. Jo pelkästään 5–10 minuuttia päivässä × 3 vuotta × 40 €/h tarkoittaa noin 2 200–4 400 euroa hukattua työaikaa yhtä työntekijää kohden. Kolmen vuoden elinkaaren aikana odotteluun hukattu työaika kasvaa helposti tuhansien eurojen piilokustannukseksi. **Summa, joka ylittää moninkertaisesti koneiden hintaeron**
 
@@ -227,6 +230,8 @@ Halvempi rakenne tekee konerikosta todennäköisemmän. Kun kuluttajakone hajoaa
 Kun huomioidaan kaikki piilokulut: hukattu työaika, huolto- ja IT-kulut sekä kalliit käyttökatkot,  kalliimpi **yrityskannettava maksaa itsensä elinkaarensa aikana takaisin moninkertaisesti**, usein jo ensimmäisen vuoden sisällä. Ja mikä tärkeintä: olet antanut työntekijällesi välineen, joka sujuvoittaa työpäivää, lisää tuottavuutta ja osoittaa, että yrityksesi arvostaa hänen aikaansa.
 
 Toimiva tietotekniikka on yritystoiminnan perusta. Älä anna huonojen työvälineiden syödä katettasi. [Ota yhteyttä](https://www.tdp.fi/yrityskannettavanvalinta/#contact-form) ja laitetaan IT yhdessä kuntoon!
+
+![Kuvituskuva: Dell Pro AI PC etupaneeli](/assets/kuva-dell_14_copilot.jpeg "Dell AI Copilot PC on hyvä vaihtoehto laatua arvostavan pk -yrityksen työntekijöille")
 
 ### Usein kysytyt kysymykset (FAQ)
 
@@ -268,7 +273,7 @@ Jos alimitoitettu kuluttajakannettava hidastaa työntekoa vain 5–10 minuuttia 
 
 #### 7. Millainen kannettava riittää peruskäyttäjälle yrityskessä (talous, hallinto, asiakaspalvelu)?
 
-Peruskäyttäjälle, joka käyttää Officea, taloushallinnon järjestelmiä, CRM:ää ja selainta, hyvä lähtötaso on esimerkiksi Intel Core Ultra 5 tai vastaava AMD Ryzen Pro, 16-32 Gt DDR5 muistia, 512 Gt SSD ja 14–15" mattapintainen näyttö. Windows 11 Pro ja 3 vuoden yritystason takuu ovat tässä profiilissa käytännössä perusvaatimus.
+Peruskäyttäjälle, joka käyttää Officea, taloushallinnon järjestelmiä, CRM:ää ja selainta, hyvä lähtötaso on esimerkiksi Intel Core Ultra 5 tai vastaava AMD Ryzen Pro, 16 Gt DDR5 muistia, 256–512 Gt SSD ja 14–15" mattapintainen näyttö. Windows 11 Pro ja 3 vuoden yritystason takuu ovat tässä profiilissa käytännössä perusvaatimus.
 
 - - -
 
