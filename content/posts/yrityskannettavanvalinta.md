@@ -51,7 +51,7 @@ Käymme läpi:
 * Asiantuntijan kuratoima, Dell Pro ja Dell Pro Max malleihin pohjautuva vakioitu laiteympäristö ja valmiit asennusmediat helpottavat käyttöönottoa ja tekevät kustannuksista ennustettavia.  
 * Kun laitteet, hallinta ja elinkaari ovat kunnossa, IT tukee liiketoimintaa sen sijaan että se jarruttaa sitä. Tämä artikkeli antaa konkreettiset kriteerit, joilla vältät murheet.
 
-![Kuvituskuva: Studiokuva teknologiatuotteista valkoisella taustalla. Vasemmalla on avattu harmaa kannettava tietokone, jonka näytöllä on auki esitysgrafiikkaa sisältävä ohjelma.](/assets/4cq5dam.web.1280.1280.jpeg "Monilaitteinen työpiste: kannettava tietokone, tabletti ja langattomat oheislaitteet")
+![Kuvituskuva: Studiokuva teknologiatuotteista valkoisella taustalla. Vasemmalla on avattu harmaa kannettava tietokone, jonka näytöllä on auki esitysgrafiikkaa sisältävä ohjelma.](/assets/kuva_all_dell_1.png "Monilaitteinen työpiste: kannettava tietokone, tabletti ja langattomat oheislaitteet")
 
 ### Yrityskannettava vs. kuluttajakannettava
 
@@ -317,6 +317,5 @@ Kun yrityskannettavat uusitaan hallitusti, vanhat koneet voidaan ensin tyhjentä
 #### 15. Toimitteko vain Pirkanmaalla ja pääkaupunkiseudulla vai myös muualle Suomeen.
 
 TDP:n toimipisteet sijaitsevat Nokialla ja Helsingissä, ja päätoimialue on Pirkanmaa sekä pääkaupunkiseutu. Laitteet, pilvipalvelut ja etähallinta eivät kuitenkaan ole paikkasidonnaisia, joten keskustelemme mielellämme myös muualla Suomessa toimivien pk yritysten kanssa sopivasta yhteistyömallista.
-
 
 *Artikkelin sisällön tuottamisessa on hyödynnetty tekoälyä kirjoittamisen tukena.*
