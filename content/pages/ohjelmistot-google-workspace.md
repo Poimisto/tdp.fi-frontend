@@ -23,16 +23,16 @@ breadcrumb:
 
 ### TDP + Google Workspace tarjoavat
 
-* Kaikki työkalut yhdessä: Yrityssähköpostit omalla verkkotunnuksella sekä tutut Google-työkalut yhteen paikkaan: Gmail, Kalenteri, Drive, Docs, Sheets ja Meet.
-* Jatkuvuutta: Keskitetyn tiedonhallinnan ja jaetut Drivet, joiden ansiosta sopimukset, asiakirjat ja projektit pysyvät yrityksen omistuksessa henkilövaihdoksista huolimatta.
-* Turvallisuutta: Tietoturvallisen työympäristön, jossa käyttäjät, laitteet ja pääsyoikeudet ovat hallittavissa yhdestä näkymästä.
-* Tukea arkeen: Suomenkielisen IT-kumppanin, joka auttaa lisenssien valinnassa, käyttöönotossa ja ongelmatilanteissa ilman chat-jonotuksia.
+* **Kaikki työkalut yhdessä**: Yrityssähköpostit omalla verkkotunnuksella sekä tutut Google-työkalut yhteen paikkaan: Gmail, Kalenteri, Drive, Docs, Sheets ja Meet.
+* **Jatkuvuutta:** Keskitetyn tiedonhallinnan ja jaetut Drivet, joiden ansiosta sopimukset, asiakirjat ja projektit pysyvät yrityksen omistuksessa henkilövaihdoksista huolimatta.
+* **Turvallisuutta:** Tietoturvallisen työympäristön, jossa käyttäjät, laitteet ja pääsyoikeudet ovat hallittavissa yhdestä näkymästä.
+* **Tukea arkeen:** Suomenkielisen IT-kumppanin, joka auttaa lisenssien valinnassa, käyttöönotossa ja ongelmatilanteissa ilman chat-jonotuksia.
 
 [Pyydä tarjous!](https://www.tdp.fi/ohjelmistot/google-workspace/) 
 
 ## Palvelupaketit
 
-**Google Workspace -lisenssit** hinnoitellaan käyttäjäkohtaisesti. Valittavana ovat **Business Starter, Business Standard, Business Plus** ja **Enterprise** -paketit ([kysy lisää](https://www.tdp.fi/ohjelmistot/google-workspace#contact-form)), joista jokainen sisältää yrityssähköpostin omalla verkkotunnuksella sekä kalenterin, verkkolevyn ja toimistotyökalut.
+**Google Workspace -lisenssit** hinnoitellaan käyttäjäkohtaisesti. Valittavana ovat **Business Starter, Business Standard, Business Plus** ja **Enterprise** -paketit (kysy lisää), joista jokainen sisältää yrityssähköpostin omalla verkkotunnuksella sekä kalenterin, verkkolevyn ja toimistotyökalut.
 
 Erot tulevat ennen kaikkea tallennustilassa, Meet-kokousten ominaisuuksissa ja tietoturvan laajennuksissa. Gemini-tekoäly sisältyy kaikkiin paketteihin, mutta ominaisuuksien laajuus vaihtelee lisenssitasojen mukaan.
 
