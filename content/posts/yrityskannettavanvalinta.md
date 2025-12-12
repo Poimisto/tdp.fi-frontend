@@ -51,7 +51,7 @@ Käymme läpi:
 * Asiantuntijan kuratoima, Dell Pro ja Dell Pro Max malleihin pohjautuva vakioitu laiteympäristö ja valmiit asennusmediat helpottavat käyttöönottoa ja tekevät kustannuksista ennustettavia.  
 * Kun laitteet, hallinta ja elinkaari ovat kunnossa, IT tukee liiketoimintaa sen sijaan että se jarruttaa sitä. Tämä artikkeli antaa konkreettiset kriteerit, joilla vältät murheet.
 
-![Kuvituskuva: Studiokuva teknologiatuotteista valkoisella taustalla. Vasemmalla on avattu harmaa kannettava tietokone, jonka näytöllä on auki esitysgrafiikkaa sisältävä ohjelma.](/assets/kuva_all_dell_1.png "Monilaitteinen työpiste: kannettava tietokone, tabletti ja langattomat oheislaitteet")
+![Kuvituskuva: Studiokuva teknologiatuotteista valkoisella taustalla. Vasemmalla on avattu harmaa kannettava tietokone, jonka näytöllä on auki esitysgrafiikkaa sisältävä ohjelma.](/assets/4cq5dam.web.1280.1280.jpeg "Monilaitteinen työpiste: kannettava tietokone, tabletti ja langattomat oheislaitteet")
 
 ### Yrityskannettava vs. kuluttajakannettava
 
@@ -93,7 +93,7 @@ Jos työntekijän kone katoaa, **BitLocker** salaa levyn automaattisesti. Varas 
 
 #### TDP Suositus
 
-Markkinoilla on paljon hyviä valmistajia. Pitkäaikaisen kokemuksemme perusteella olemme päätyneet suosittelemaan yrityskäyttöön erityisesti  [Dell Pro ja Dell Pro Max sarjoja](https://www.tdp.fi/dellin-kolme-uutta-sarjaa-mika-sopii-sinulle/). Emme tuijota pelkkiä mallinumeroita, vaan katsomme kokonaisuutta: miten laite palvelee liiketoimintaa, kestää käyttöä ja istuu yrityksen arkeen.
+Markkinoilla on paljon hyviä valmistajia. Pitkäaikaisen kokemuksemme perusteella olemme päätyneet suosittelemaan yrityskäyttöön erityisesti  **Dell Pro ja Dell Pro Max sarjoja.** [Linkin artikkelista](https://www.tdp.fi/dellin-kolme-uutta-sarjaa-mika-sopii-sinulle/) löydät lisätietoja näistä. Emme tuijota pelkkiä mallinumeroita, vaan katsomme kokonaisuutta: miten laite palvelee liiketoimintaa, kestää käyttöä ja istuu yrityksen arkeen.
 
 Esimerkiksi Dell Pro 14 ja Dell Pro 16 ovat hyvä esimerkki tämän päivän “oikeasta peruskoneesta” pk-yritykseen. Niissä yhdistyvät tyypillisesti
 
