@@ -28,7 +28,7 @@ breadcrumb:
 * **Turvallisuutta:** Tietoturvallisen työympäristön, jossa käyttäjät, laitteet ja pääsyoikeudet ovat hallittavissa yhdestä näkymästä.
 * **Tukea arkeen:** Suomenkielisen IT-kumppanin, joka auttaa lisenssien valinnassa, käyttöönotossa ja ongelmatilanteissa ilman chat-jonotuksia.
 
-[Pyydä tarjous!](https://www.tdp.fi/ohjelmistot/google-workspace/) 
+[Pyydä tarjous!](https://www.tdp.fi/ohjelmistot/google-workspace#contact-form) 
 
 ## Palvelupaketit
 
@@ -53,8 +53,6 @@ Meidän kauttamme saat lisenssit samoilla hinnoilla kuin suoraan Googlelta, mutt
 | **Kuukausilisenssi (EUR/kk/käyttäjä):** | <DisplayVariable variableKey="google-workspace-business-starter-kk" bold={true} />    | <DisplayVariable variableKey="google-workspace-business-standard-kk" bold={true} />    | <DisplayVariable variableKey="google-workspace-business-plus-kk" bold={true} />    |
 | **Vuosilisenssi (EUR/kk/käyttäjä):**    | <DisplayVariable variableKey="google-workspace-business-starter-vuosi" bold={true} /> | <DisplayVariable variableKey="google-workspace-business-standard-vuosi" bold={true} /> | <DisplayVariable variableKey="google-workspace-business-plus-vuosi" bold={true} /> |
 
-
-
 ### Google Workspace Starter, Standard ja Plus
 
 #### Business Starter
@@ -65,7 +63,7 @@ Meidän kauttamme saat lisenssit samoilla hinnoilla kuin suoraan Googlelta, mutt
 
 **Järkevä perusvalinta** **pk -yritykselle**: Standard on tyypillisesti paras lähtökohta kasvavalle pk-yritykselle. Saat selvästi enemmän pilvitallennustilaa käyttäjää kohti, jaetut Drivet, isommat Meet-kokoukset tallennuksineen sekä laajemmat yhteistyö- ja tietoturvaominaisuudet. Tämä paketti sopii, kun tiimi tekee aktiivista tiedostoyhteistyötä, pitää paljon etäpalavereja ja haluaa keskittää asiakirjat yhden työympäristön alle.
 
-#### Business Plus 
+#### Business Plus
 
 **Kun tarvitaan lisää tietoturvaa ja kapasiteettia:** Plus on oikea valinta, kun käyttäjiä on enemmän, tiedostomäärät ovat suuria tai tietoturva ja sääntely vaativat parempaa arkistointia. Saat runsaasti lisää pilvitallennustilaa, suuremmat ja monipuolisemmat Meet-kokoukset sekä kehittyneempiä suojaus- ja hallintaominaisuuksia, kuten arkistoinnin ja pitkän säilytyksen (Vault). Tämä sopii esimerkiksi kansainvälistyville yrityksille tai organisaatioille, joissa sähköposti ja dokumentit on säilytettävä pitkään.
 
@@ -108,32 +106,6 @@ Mikäli haluat syventyä tarkemmin Workspacen ominaisuuksiin, tutustu kirjoituks
 Ylläpidämme Google Workspace -ympäristöjä sadoille yrityksille. Asiakkaidemme kokemukset Workspacesta ja sen edeltäjästä G Suitesta ovat olleet positiivisia ja kokemuksesta tiedämme paketin täyttävän vaativammankin yrityksen tarpeet.
 
 **Ota yhteyttä ja viedään yrityksesi Googlen pilveen,  jossa muutkin jo ovat!**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - - -
 
