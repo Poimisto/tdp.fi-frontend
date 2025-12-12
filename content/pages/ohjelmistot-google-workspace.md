@@ -106,11 +106,3 @@ Mikäli haluat syventyä tarkemmin Workspacen ominaisuuksiin, tutustu kirjoituks
 Ylläpidämme Google Workspace -ympäristöjä sadoille yrityksille. Asiakkaidemme kokemukset Workspacesta ja sen edeltäjästä G Suitesta ovat olleet positiivisia ja kokemuksesta tiedämme paketin täyttävän vaativammankin yrityksen tarpeet.
 
 **Ota yhteyttä ja viedään yrityksesi Googlen pilveen,  jossa muutkin jo ovat!**
-
-- - -
-
-**TDP on virallinen Google Cloud -kumppani.** 
-
-Luotsaamme yritykset asiantuntevasti siirtymävaiheessa nykyisistä ratkaisuista Workspacen käyttöönottoon. Asiakkaidemme kokemukset Workspacesta ja sen edeltäjästä G Suitesta ovat olleet poikkeuksetta positiiviset, ja tiedämme paketin täyttävän monen erikokoisen yrityksen tarpeet. 
-
-*Ota yhteyttä ja viedään yrityksesi Googlen pilveen, jossa muutkin jo ovat!*
