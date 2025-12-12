@@ -36,7 +36,7 @@ Me TDP:llä hallinnoimme tuhansia yrityskannettavia. Tämä antaa meille ainutla
 
 Havaintomme eivät perustu mainoslauseisiin, vaan dataan. Näemme suoraan, miten laitevalinnat vaikuttavat tukipyyntöjen määrään, käyttökatkoihin ja työntekijöiden tyytyväisyyteen. Tämä artikkeli perustuu käytännön havaintoihin.
 
-Artikkelin tarkoitus on auttaa sinua tekemään harkittuja laitehankintoja. Emme halua, että metsästätte yksittäisiä “diilikoneita”, vaan tahdomme auttaa teitä rakentamaan toimivan ja itsellenne sopivan IT-ympäristön.
+Artikkelin tarkoitus on auttaa sinua tekemään harkittuja laitehankintoja. Olemme nähneet mitä tapahtuu, kun yrityksen ympäristö koostuu yksittäisistä “diilikoneita”, joten tahdomme mieluummin auttaa teitä rakentamaan toimivan ja itsellenne sopivan IT-ympäristön.
 
 Käymme läpi:
 
@@ -62,7 +62,7 @@ Tässä käymme läpi, miksi pinnan alla olevilla ominaisuuksilla on yllättäv�
 
 #### Suorituskyky
 
-Suurin arjen kulu syntyy hukatusta ajasta ja IT-tuen hallitsemattomasta työmäärästä. Yrityskannettavissa (kuten **Dell Pro** -sarjassa) hyödynnetään uusimpia **Intel Core Ultra**- tai **AMD Ryzen AI Pro** -suorittimia. Tämä tarkoittaa käytännössä, että Teams-kokous, selain, CRM ja raskaat Excel-raportit pyörivät samanaikaisesti sulavasti, ilman että kone hidastuu tai alkaa huudattaa tuulettimia. Näissä on myös erillinen **NPU** (Neural Processing Unit), joka on suunniteltu hoitamaan tekoälytehtävät paikallisesti.
+Suurin arjen kulu syntyy hukatusta ajasta ja IT-tuen hallitsemattomasta työmäärästä. Yrityskannettavissa hyödynnetään uusimpia **Intel Core Ultra**- tai **AMD Ryzen AI Pro** -suorittimia. Tämä tarkoittaa käytännössä, että Teams-kokous, selain, CRM ja raskaat Excel-raportit pyörivät samanaikaisesti sulavasti, ilman että kone hidastuu tai alkaa huudattaa tuulettimia. Näissä on myös erillinen **NPU** (Neural Processing Unit), joka on suunniteltu hoitamaan tekoälytehtävät paikallisesti.
 
 #### Kapasiteetti
 
@@ -99,8 +99,8 @@ Markkinoilla on paljon hyviä valmistajia. Pitkäaikaisen kokemuksemme perusteel
 Esimerkiksi Dell Pro 14 ja Dell Pro 16 ovat hyvä esimerkki tämän päivän “oikeasta peruskoneesta” pk-yritykseen. Niissä yhdistyvät tyypillisesti
 
 * **Prosessori:** Intel Core Ultra 5 tai 7 U -sarja, usein vPro-versiona (tärkeä etähallinnan kannalta).  
-* **Muisti:** 16 Gt DDR5 – nykypäivän minimi sujuvaan työhön.  
-* **Tallennus:** 256–512 Gt NVMe SSD. Käytämme laadukkaita TLC-tason levyjä, emme halvimpia variantteja, jotta luotettavuus säilyy.  
+* **Muisti:** 16 Gt DDR5 on nykypäivän minimi sujuvaan työhön.  
+* **Tallennus:** 512 Gt NVMe SSD. Käytämme laadukkaita TLC-tason levyjä, emme halvimpia variantteja, jotta luotettavuus säilyy.  
 * **Näyttö:** 14" tai 16" FHD+ mattapintainen näyttö, joka ei heijastele toimistovaloja.  
 * **Liitännät:** Wi-Fi 6E tai 7, HDMI 2.1, useampi USB-A, USB-C / Thunderbolt 4 ja kiinteä Ethernet – eli dongleja ei tarvita joka välissä.  
 * **Käyttöjärjestelmä:** Windows 11 Pro ja uusi Copilot AI -näppäin.
@@ -112,9 +112,9 @@ Core Ultra -prosessorit sisältävät myös erillisen **NPU-yksikön**. Tätä h
 Kun siirrytään vaativampaan asiantuntijatyöhön, tarvitaan järeämpää kalustoa. **Dell Pro Max 16** ja **Pro Max 16 Plus** edustavat markkinoiden kovinta kärkeä. Näiden tyypillisiä ominaisuuksia ovat: 
 
 * **Prosessori:** Intel Core Ultra 7 tai 9 H -sarja (vPro Enterprise).  
-* **Muisti:** 32 Gt tai enemmän DDR5-muistia.  
+* **Muisti:** 32-64 Gt tai enemmän DDR5-muistia.  
 * **Tallennus:** 1 Tt suorituskykyinen SED ready SSD, jopa huippunopealla PCIe 5.0 -väylällä.  
-* **Grafiikka:** NVIDIA RTX Pro -sarjan näytönohjain (esim. RTX Pro 500 tai 1000 Blackwell-sukupolvesta).
+* **Grafiikka:** NVIDIA RTX Pro -sarjan näytönohjain (esim. RTX Pro 500, 1000 tai Blackwell 2000-sukupolvesta).
 
 **Pro Max** malleja markkinoidaan **AI PC työasemina**. Termillä viitataan tietokoneisiin, joissa on erillinen NPU ja tekoälytehtävien tehokkaan paikallisen suorittamisen mahdollistava ohjelmistoekosysteemi.Tämä on tärkeää erityisesti tietoturvan ja tulevien AI työkalujen käytettävyyden kannalta. Data ei aina kulje pilven kautta, vaan osa laskennasta ja sensitiivisen tiedon käsittelystä voidaan tehdä suoraan omalla kannettavalla.
 
@@ -137,7 +137,7 @@ Tämä on usein yrityksen suurin käyttäjäryhmä. Työ on pääasiassa selainp
 * **Suositus:** Luotettava ja tasapainoinen työjuhta.  
 
   * **Tehot:** Intel Core Ultra 5 (U-sarja) tai vastaava AMD Ryzen Pro.  
-  * **Muisti & Tallennus:** 16 Gt DDR5 -muistia ja 256–512 Gt nopea NVMe SSD.  
+  * **Muisti & Tallennus:** 16-32 Gt DDR5 -muistia ja 512 Gt nopea NVMe SSD.  
   * **Laite-esimerkki:** **Dell Pro 14** tai **Dell Pro 16**. Nämä tarjoavat erinomaisen hinta-laatusuhteen, hyvän liitettävyyden ja Windows 11 Pro:n tuoman tietoturvan.  
 * **Mistä ei kannata tinkiä:** Muistin määrästä (16 Gt on minimi) tai levyn laadusta.  
 * **Mistä voi tinkiä:** Erillisestä näytönohjaimesta ja 4K-näytöstä. Perustyössä integroitu näytönohjain ja hyvä Full HD -näyttö riittävät mainiosti.
@@ -163,7 +163,7 @@ Johtoryhmälle kannettava on toimisto, joka kulkee mukana junassa, asiakkaalla j
 
   * **Ominaisuudet:** Laadukas 14" tai 16" näyttö, erinomainen kamera ja mikrofoni etäpalavereihin.  
   * **Yhteydet:** Pitkä akunkesto, nopea lataus, Wi-Fi 6E/7 ja mielellään sisäänrakennettu 4G/5G yhteys.  
-  * **Laite-esimerkki:** Ohuet **Dell Pro** sarjan mallit, jotka sujahtavat salkkuun helposti.  
+  * **Laite-esimerkki:** Ohuet **Dell Pro** **Premium** -sarjan mallit, jotka sujahtavat salkkuun helposti.  
 * **Mistä ei kannata tinkiä:** Akunkestosta, verkkoyhteyksistä tai kameran laadusta.  
 * **Mistä voi tinkiä:** Erillisestä näytönohjaimesta, ellei johtaja harrasta raskasta videoeditointia.
 
@@ -187,7 +187,7 @@ Laadukas yrityskannettava on vasta alku. Todellinen arvo mitataan siinä, miten 
 
 #### Etätuki
 
-Arki sujuu, kun apu on lähellä. Etätukemme on enemmän kuin pelkkä puhelinsoitto: voimme päivittää BIOSin, avata jumiutuneet ohjelmat ja jopa herättää koneen henkiin, vaikka käyttöjärjestelmä ei vastaisi. Työntekijäsi pääsee jatkamaan hommia ilman turhaa odottelua.
+Arki sujuu, kun apu on lähellä. Etätukemme on enemmän kuin pelkkä puhelinsoitto: voimme päivittää BIOSin, avata jumiutuneet ohjelmat ja usein jopa herättää koneen henkiin, vaikka käyttöjärjestelmä ei vastaisi. Työntekijäsi pääsee jatkamaan hommia ilman turhaa odottelua.
 
 #### Tietoturva
 
