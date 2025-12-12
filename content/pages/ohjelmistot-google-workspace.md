@@ -88,7 +88,7 @@ Käytännössä voimme tarjota:
 
 **Google Workspace -lisenssin** valinta ei ole vain sitä, montako gigatavua tallennustilaa tarvitaan. Kannattaa miettiä muutama peruskysymys etukäteen, jotta ympäristö tukee liiketoimintaa myös parin vuoden päästä.
 
-Hyviä kysymyksiä ovat esimerkiksi:
+Hyviä kysymyksiä ovat:
 
 * **Mitä käyttäjäryhmiä meillä on**? Tarvitseeko johto enemmän tallennustilaa ja laajempia Meet-ominaisuuksia kuin muu organisaatio? Kaikille ei välttämättä tarvitse ostaa kalleinta pakettia.
 * **Missä yrityksen sopimukset ja kriittiset dokumentit sijaitsevat nyt?** Jos tieto on työntekijöiden omilla koneilla tai henkilökohtaisilla Driveilla, on järkevää ottaa jaetut Drivet käyttöön ja suunnitella selkeä kansiorakenne.
