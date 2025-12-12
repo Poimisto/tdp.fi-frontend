@@ -229,7 +229,7 @@ Halvempi rakenne tekee konerikosta todennäköisemmän. Kun kuluttajakone hajoaa
 
 Kun huomioidaan kaikki piilokulut: hukattu työaika, huolto- ja IT-kulut sekä kalliit käyttökatkot,  kalliimpi **yrityskannettava maksaa itsensä elinkaarensa aikana takaisin moninkertaisesti**, usein jo ensimmäisen vuoden sisällä. Ja mikä tärkeintä: olet antanut työntekijällesi välineen, joka sujuvoittaa työpäivää, lisää tuottavuutta ja osoittaa, että yrityksesi arvostaa hänen aikaansa.
 
-Toimiva tietotekniikka on yritystoiminnan perusta. Älä anna huonojen työvälineiden syödä katettasi. [Ota yhteyttä](https://www.tdp.fi/yrityskannettavanvalinta/#contact-form) ja laitetaan IT yhdessä kuntoon!
+Toimiva tietotekniikka on yritystoiminnan perusta. Älä anna huonojen työvälineiden syödä katettasi. [Ota yhteyttä](https://www.tdp.fi/yrityskannettavanvalinta#contact-form) ja laitetaan IT yhdessä kuntoon!
 
 ![Kuvituskuva: Dell Pro AI PC etupaneeli](/assets/kuva-dell_14_copilot.jpeg "Dell AI Copilot PC on hyvä vaihtoehto laatua arvostavan pk -yrityksen työntekijöille")
 
