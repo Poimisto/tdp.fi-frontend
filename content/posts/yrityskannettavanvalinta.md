@@ -116,7 +116,7 @@ Kun siirrytään vaativampaan asiantuntijatyöhön, tarvitaan järeämpää kalu
 * **Tallennus:** 1 Tt suorituskykyinen SED ready SSD, jopa huippunopealla PCIe 5.0 -väylällä.  
 * **Grafiikka:** NVIDIA RTX Pro -sarjan näytönohjain (esim. RTX Pro 500, 1000 tai Blackwell 2000-sukupolvesta).
 
-**Pro Max** malleja markkinoidaan **AI PC työasemina**. Termillä viitataan tietokoneisiin, joissa on erillinen NPU ja tekoälytehtävien tehokkaan paikallisen suorittamisen mahdollistava ohjelmistoekosysteemi.Tämä on tärkeää erityisesti tietoturvan ja tulevien AI työkalujen käytettävyyden kannalta. Data ei aina kulje pilven kautta, vaan osa laskennasta ja sensitiivisen tiedon käsittelystä voidaan tehdä suoraan omalla kannettavalla.
+**Tehokkaimpia Pro Max** malleja markkinoidaan **AI PC työasemina**. Termillä viitataan tietokoneisiin, joissa on erillinen **NPU yli 40 TOPs suorituskyvyllä** ja tekoälytehtävien tehokkaan paikallisen suorittamisen mahdollistava ohjelmistoekosysteemi.Tämä on tärkeää erityisesti tietoturvan ja tulevien AI työkalujen käytettävyyden kannalta. Data ei aina kulje pilven kautta, vaan osa laskennasta ja sensitiivisen tiedon käsittelystä voidaan tehdä suoraan omalla kannettavalla.
 
 Tämä ei ole pelkkää hifistelyä, vaan suoraa ajansäästöä. Esimerkiksi CAD-piirtäminen, tietomallinnus (BIM), mediaeditointi sekä raskas BI-analytiikka sujuvat ilman nykimistä. Odottelu renderöintien tai raporttien valmistumisen kohdalla vähenee.  Lisäksi tehokkaampi rauta takaa laitteelle pidemmän elinkaaren. Kapasiteetti ei lopu kesken, vaikka työkuorma tai ohjelmistojen vaatimukset kasvaisivatkin lähivuosina.
 
