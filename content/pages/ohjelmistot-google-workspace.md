@@ -97,7 +97,7 @@ Hyviä kysymyksiä ovat:
 
 Näihin kysymyksiin ei tarvitse vastata yksin. Käymme ne läpi kartoituksen yhteydessä ja **rakennamme mallin, joka sopii teidän arkeenne.** 
 
-Mikäli haluat syventyä tarkemmin Workspacen ominaisuuksiin, tutustu kirjoitukseemme: ["Google Workspace pk-yrityksen arjessa – 7 tapaa tehostaa työtä"](https://www.tdp.fi/googleworkspace/) -artikkelissa avaamme käytännön esimerkkien kautta, miten Workspacea voi ja kannattaa käyttää tehokkaasti hyödyksi.
+Mikäli haluat syventyä tarkemmin Workspacen ominaisuuksiin, tutustu kirjoitukseemme: "[Google Workspace pk-yrityksen arjessa – 7 tapaa tehostaa työtä](https://www.tdp.fi/googleworkspace/)". Artikkelissa avaamme käytännön esimerkkien kautta, miten Workspacea voi ja kannattaa käyttää tehokkaasti hyödyksi.
 
 ## TDP kumppanina
 
