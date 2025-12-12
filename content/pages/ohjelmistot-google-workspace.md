@@ -75,7 +75,7 @@ Lopullinen valinta tehdään aina yrityksen koon, käyttäjäprofiilien ja talle
 
 **Google Workspace** on alusta, mutta palvelu yritykselle syntyy siitä, miten se otetaan käyttöön ja hallintaan. Kun hankitte lisenssit TDP:ltä, saatte pelkkien tunnusten lisäksi kumppanin, joka auttaa koko elinkaaren ajan.
 
-Käytännössä voimme tarjota esimerkiksi:
+Käytännössä voimme tarjota:
 
 1. **Tarpeiden kartoituksen** ja oikean paketin valinnan. Käymme läpi yrityksesi koon, toimialan, sovellukset ja tietoturvavaatimukset ja suosittelemme sopivaa Google Workspace -pakettia.
 2. **Hallitun käyttöönoton**. Luomme käyttäjät, kytkemme oman verkkotunnuksen ja huolehdimme, että sähköpostit, kalenterit ja tiedostot toimivat heti alusta lähtien oikein.
