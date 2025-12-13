@@ -22,7 +22,7 @@ contactForm: Ota yhteyttä
 
 **“Halpa” kannettava tuntuu ostotilanteessa loistavalta säästöltä. Kassassa näkyy pienempi miinusmerkki ja budjetti kiittää. Todellisuudessa kyse voi olla kuitenkin kymmenien tuhansien eurojen piilokulusta.**
 
-Mistä hintaero oikein muodostuu? Se syntyy paitsi jatkuvasta hidastelusta, myös kalliista konerikoista ja niistä johtuvista käyttökatkoista. Jos hidas tietokone vähentää työntekijän tehokasta työaikaa keskimäärin 5-10 minuuttia päivässä, oli se sitten käynnistymisen odottelua, tiedostojen hidasta latautumista tai ohjelmien takkuamista, hintalappu kasvaa jo silloin nopeasti
+Mistä hintaero oikein muodostuu? Se syntyy paitsi jatkuvasta hidastelusta, myös kalliista konerikoista ja niistä johtuvista käyttökatkoista. Jos hidas tietokone vähentää työntekijän tehokasta työaikaa keskimäärin 5-10 minuuttia päivässä, oli se sitten käynnistymisen odottelua, tiedostojen hidasta latautumista tai ohjelmien takkuamista, niin hintalappu kasvaa jo silloin nopeasti!
 
 ### Työmotivaatio
 
@@ -70,8 +70,7 @@ Siinä missä kuluttajakoneissa tinkiminen aloitetaan 8 Gt:n muistista, yritysk�
 
 #### Vakiointi
 
-Kun koneita hankitaan "tarpeen tullen" eri merkeiltä, yritykseen syntyy sekasotku. IT-tuki ei voi rakentaa yhtä toimivaa ratkaisua ja jokainen ongelma muuttuu uniikiksi, aikaa vieväksi projektiksi. **Vakioidulla mallistolla IT-tuki toimii nopeasti ja ennustettavasti**.\
-Ei turhaa esiasennettua roskaa (Bloatware): Markettikoneet ovat täynnä kokeiluohjelmia ja mainoksia. Yrityskannettavat toimitetaan puhtaalla, yrityskäyttöön optimoidulla asennuksella, jolloin aikaa ei kulu siivoamiseen.
+Kun koneita hankitaan "tarpeen tullen" eri merkeiltä, yritykseen syntyy sekasotku. IT-tuki ei voi rakentaa yhtä toimivaa ratkaisua ja jokainen ongelma muuttuu uniikiksi, aikaa vieväksi projektiksi. **Vakioidulla mallistolla IT-tuki toimii nopeasti ja ennustettavasti**. Markettikoneet ovat täynnä kokeiluohjelmia ja mainoksia. Yrityskannettavat toimitetaan puhtaalla, yrityskäyttöön optimoidulla asennuksella, jolloin aikaa ei kulu siivoamiseen.
 
 #### Kestävyys
 
