@@ -1,5 +1,7 @@
 ---
 path: /it-laitteet/yrityskannettavat
+thumbnail: /assets/it-laitteet-1280x800.jpg
+date: 2023-09-28T06:34:25.814Z
 head:
   title: Yrityskannettavat ja tehotyöasemat pk-yritykselle – leasing tai suoraosto
   description: Yrityskannettavat pk-yritykselle leasingilla tai suoraostolla -
@@ -14,17 +16,17 @@ breadcrumb:
   - path: /it-laitteet/
     label: IT-laitteet
   - label: Työntekijöiden työvälineet
-thumbnail: /assets/it-laitteet-1280x800.jpg
-date: 2023-09-28T06:34:25.814Z
 contactForm: Ota yhteyttä
 ---
 ![](/assets/it-laitteet-1280x800.jpg)
 
 # Yrityskannettavat | Tehotyöasemat | Työvälineet
 
-**Y﻿rityskannettavat yrityksesi työntekijöille niin perustyöskentelyyn kuin vaativien suunnitteluohjelmistojen käyttöön. Tarjoamme markkinoiden uusimmat kannettavat yrityksille varmasti kilpailukykyiseen hintaan vahvalla palveluotteella.**
+**Tarjoamme markkinoiden uusimmat laitteet niin perustyöskentelyyn, vaativaan suunnittelukäyttöön kuin kenttätyöhönkin. Tietokone on työntekijän tärkein yksittäinen työväline, joten panostamme laatuun**.
 
-Olemme ripeä laitetoimittaja niin yli 50 hengen PK-yrityksille kuin pienemmille 10-20 hengen yrityksille ja yksityisyrittäjille. Yrityksesi tarpeiden pohjalta esitämme vaihtoehdot valita yrityskannettavat, tehotyöasemat, verkkolaitteet ja muut työvälineet hyvällä hinta-laatu -suhteella.
+Meiltä saat kaikkien suurten valmistajien kannettavat, tehotyöasemat ja oheislaitteet kilpailukykyiseen hintaan, joko leasingilla tai suoraostolla. Windows-ympäristöihin suosittelemme ensisijaisesti Dellin luotettavia yritysmalleja, mutta valikoimamme kattaa laajasti myös HP:n, Lenovon ja Applen kannettavat sekä työasemat. Myös puhelimet, kuten Samsung ja Apple, järjestyvät kauttamme joustavasti.
+
+
 
 
 <HeroBlock bgColor="brand" imageAlign="right">
@@ -37,7 +39,7 @@ Olemme ripeä laitetoimittaja niin yli 50 hengen PK-yrityksille kuin pienemmille
 
 <div className="HeroBlockContent">
 
-## Uusimmat koneet yrityksille 
+## Tietokoneet yrityksille
 
 T﻿iedustele myyjiltämme viimeisimpiä konemalleja ja hintoja:
 
@@ -50,18 +52,59 @@ Mika Mäkinen | 040 632 7090 | mika.makinen@tdp.fi
 </HeroBlock>
 
 
-Kauttamme saatte niin Dellin, Applen, Lenovon ja HP:n kannettavat kuin Windows-, Linux- ja Mac-tehotyöasemat sekä vaikka Samsungin ja Applen puhelimet toivotulla hintatasolla. 
+Yrityskannettavat on suunniteltu nimenomaan työkäyttöön. Parempi suorituskyky, kestävyys ja hallittavuus vähentävät tukipyyntöjä, seisokkeja ja turhaa säätöä.
 
-Laitteisiin voidaan esiasentaa myös yrityksesi omia ohjelmistoja ja määrityksiä, jolloin ne toimitetaan käyttövalmiina ja työntekijäsi pääsevät heti omaan ydintyöhönsä käsiksi ilman tarvetta käyttää aikaa asennusten selvittämiseen.
+Oikein mitoitettu yrityskannettava valitaan aina käyttäjäprofiilin mukaan. Peruskäyttäjällä, tehokäyttäjällä ja johdolla on eri vaatimukset, mutta laitekannan kannattaa silti pysyä yhtenäisenä. Näin ylläpito on selkeää ja ennakoitavaa.
 
-## Muista laitteiden tukipalvelut
+**Kun laitteet ja hallinta ovat kunnossa, IT tukee liiketoimintaa eikä jarruta sitä. Käyttöönotot nopeutuvat, muutokset ovat hallittuja ja etähallinta vähentää katkoksia myös silloin, kun työtä tehdään toimiston ulkopuolella.**\
+\
+Lue lisää yrityskannettavien valinnasta julkaisemastamme [oppaasta](https://www.tdp.fi/Yrityskannettavanvalinta/).
 
-Kun työntekijöitä on enemmän, yrityksen tietokoneet ja puhelimet on hyvä liittää osaksi <a href="/it-palvelut/keskitetty-hallinta">keskitettyä hallintaa</a>. Se tekee laitteiden käytöstä tehokkaampaa ja yrityksen tiedot pysyvät paremmin tallessa. Tällöin myös laitteiden tietoturva voidaan varmistaa helpommin. Keskitetyn hallinnan palvelumme tukee myös sekaympäristöjä, joissa työntekijät voivat valita Windows-, Android- tai Applen laitteita.
+### Windows-kannettavat
 
-Mikäli yrityksen työntekijöissä on vaihtuvuutta tai yritys kasvaa, kannattaa työntekijöiden työvälineet hankkia <a href="/it-palvelut/palvelusopimus">palvelusopimuksella</a>. Tällöin TDP huolehtii siitä, että uusi työtekijä saa heti käyttövalmiit työvälineet ja yrityksen kustannukset skaalautuvat joustavasti työntekijämäärän mukaan.
+Windows-ympäristöihin suosittelemme ensisijaisesti **Dellin yritysmalleja**. Ne on suunniteltu jatkuvaan työkäyttöön, ja laitekannan vakiointi tekee niistä helposti hallittavia.
 
-## Olemme kokenut laitetoimittaja
+**Dell Pro:** Kun haluatte luotettavan peruskoneen arkeen
+Sopii yleiseen toimistotyöhön, hallintoon, myyntiin ja liikkuvaan työhön. Oikea valinta, kun tavoitteena on yhtenäinen laitekanta ja sujuva käyttökokemus vuodesta toiseen.
 
-TDP:llä on yli vuosikymmenen kokemus IT-palveluiden ja -laitteiden toimittamisesta. Asiakkaisiimme kuuluu erikokoisia, lukuisten eri toimialojen yrityksiä ja organisaatioita.
+**Dell Pro Max:** Kun käyttäjä tarvitsee työasematason suorituskykyä
+Sopii vaativaan käyttöön, kuten suunnitteluun, analytiikkaan, kehitystyöhön ja tuotantoon. Valitse tämä, kun koneen suorituskyky vaikuttaa suoraan läpimenoaikoihin ja työn sujuvuuteen.
 
-Ota rohkeasti yhteyttä, niin autamme sopivan laitteiston valinnassa!
+### Apple Mac yritykselle
+
+Toimitamme myös Apple-laitteet yrityskäyttöön, esimerkiksi **MacBook Pro-, MacBook Air- ja Mac mini** -mallit. Mac on tyypillisesti hyvä valinta johdolle, liikkuvaan työhön ja luovaan tuotantoon sekä yrityksiin, joissa macOS on jo osa arkea.
+
+
+Macit voi hankkia leasingilla tai suoraostolla, myös usean koneen paketteina. Voit laskea arvioidun kuukausierän helposti [Mac-leasinglaskurillamme](https://www.tdp.fi/leasing-paketit/MacBook-Pro/)
+
+
+### Vakioitu laitekanta
+
+Paras tapa onnistua on vakioida, ei maksimoida vaihtoehtoja.
+
+1. **Määritellään profiilit**: 2–4 käyttäjäprofiilia (esim. peruskäyttäjä, tehokäyttäjä ja johtoryhmä).
+2. **Valitaan laitteet**: Jokaiseen profiiliin 1–2 vakiomallia.
+3. **Sovitaan hankinta:** Elinkaari, hankintatapa (suoraosto/leasing) ja palvelutaso.
+
+### Palvelusopimus
+
+Moni yritys hankkii laitteet osana palvelusopimusta. Se tekee arjesta ennakoitavaa: kun käyttäjiä tulee lisää tai laitteita pitää vaihtaa, kokonaisuus skaalautuu ilman erillisiä projekteja.
+
+Tyypillinen perusta on [Tukipalvelu](https://www.tdp.fi/it-palvelut/tuki-ja-huolto/), jonka osana huolehdimme laitevaihdoista ja tietoturvallisesta kierrätyksestä sovitusti. Kokonaisuutta voidaan laajentaa tarpeen mukaan:
+
+* [Keskitetty hallinta](https://www.tdp.fi/it-palvelut/keskitetty-hallinta/): Keskitetty päätelaitteiden ja käyttäjätilien hallinta.
+* Liiketoimintasovellukset: [Google](https://www.tdp.fi/ohjelmistot/google-workspace/) tai [Microsoft](https://www.tdp.fi/ohjelmistot/microsoft-365/) ja niiden hallinta.
+* [Tietoturvapalvelu](https://www.tdp.fi/it-palvelut/tietoturva-total-ja-lite/): Suojaa laitteet viruksilta ja haittaohjelmilta.
+* [Varmuuskopiointi](https://www.tdp.fi/it-palvelut/varmuuskopiointi/): Kriittisen datan tallennus myös pilvipalveluista (M365/Google).
+
+Laitteisiin asennetaan yrityksesi ohjelmistot ja määritykset sopimusten mukaan valmiiksi. Näin työntekijä pääsee heti omaan työhönsä kiinni, eikä aikaa kulu asennusten selvittämiseen.
+
+### Leasing vai suoraosto?
+
+Leasing sopii, kun haluat selkeän kuukausikustannuksen ja hallitun laitekierron.
+Suoraosto sopii, kun haluat pitää hankinnan yksinkertaisena ja elinkaari on luontevasti pidempi.
+Molemmissa malleissa voidaan toteuttaa sama vakioitu laiteympäristö ja palvelusopimus.
+
+### Ota yhteyttä
+
+Kerro meille lyhyesti käyttäjämäärä, tarpeet, käyttöjärjestelmätoiveet (Windows/Mac) sekä hankintatapa. Saat vastauksena suosituksen vakiomalleista ja näkemyksen siitä, kannattaako kokonaisuus toteuttaa perustoimituksena vai palvelusopimuksella.
