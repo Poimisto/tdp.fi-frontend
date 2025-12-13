@@ -50,7 +50,7 @@ Mika Mäkinen | 040 632 7090 | mika.makinen@tdp.fi
 </HeroBlock>
 
 
-Yrityskannettavat on suunniteltu nimenomaan työkäyttöön. Parempi suorituskyky, kestävyys ja hallittavuus vähentävät tukipyyntöjä, seisokkeja ja turhaa säätöä.
+**Yrityskannettavat on suunniteltu nimenomaan työkäyttöön. Parempi suorituskyky, kestävyys ja hallittavuus vähentävät tukipyyntöjä, seisokkeja ja turhaa säätöä.**
 
 Oikein mitoitettu yrityskannettava valitaan aina käyttäjäprofiilin mukaan. Peruskäyttäjällä, tehokäyttäjällä ja johdolla on eri vaatimukset, mutta laitekannan kannattaa silti pysyä yhtenäisenä. Näin ylläpito on selkeää ja ennakoitavaa.
 
