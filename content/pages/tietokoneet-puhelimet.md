@@ -39,7 +39,7 @@ Meiltä saat kaikkien suurten valmistajien kannettavat, tehotyöasemat ja oheisl
 
 ## Tietokoneet yrityksille
 
-T﻿iedustele myyjiltämme viimeisimpiä konemalleja ja hintoja:
+T﻿iedustele asiantuntijoiltamme viimeisimpiä konemalleja ja hintoja:
 
 Pauli Aalto | 040 748 3818 | pauli.aalto@tdp.fi
 
@@ -60,11 +60,12 @@ Oikein mitoitettu yrityskannettava valitaan aina käyttäjäprofiilin mukaan. Pe
 
 Windows-ympäristöihin suosittelemme ensisijaisesti **[Dellin yritysmalleja](https://www.tdp.fi/dellin-kolme-uutta-sarjaa-mika-sopii-sinulle/)**. Ne on suunniteltu jatkuvaan työkäyttöön, ja laitekannan vakiointi tekee niistä helposti hallittavia.
 
-**Dell Pro:** Kun haluatte luotettavan peruskoneen arkeen
+**Dell Pro:** Kun haluatte luotettavan peruskoneen arkeen.
 Sopii yleiseen toimistotyöhön, hallintoon, myyntiin ja liikkuvaan työhön. Oikea valinta, kun tavoitteena on yhtenäinen laitekanta ja sujuva käyttökokemus vuodesta toiseen.
 
-**Dell Pro Max:** Kun käyttäjä tarvitsee työasematason suorituskykyä
+**Dell Pro Max**: Kun käyttäjä tarvitsee työasematason suorituskykyä.
 Sopii vaativaan käyttöön, kuten suunnitteluun, analytiikkaan, kehitystyöhön ja tuotantoon. Valitse tämä, kun koneen suorituskyky vaikuttaa suoraan läpimenoaikoihin ja työn sujuvuuteen.
+
 
 ### Apple Mac yritykselle
 
