@@ -27,8 +27,6 @@ contactForm: Ota yhteyttä
 Meiltä saat kaikkien suurten valmistajien kannettavat, tehotyöasemat ja oheislaitteet kilpailukykyiseen hintaan, joko leasingilla tai suoraostolla. Windows-ympäristöihin suosittelemme ensisijaisesti Dellin luotettavia yritysmalleja, mutta valikoimamme kattaa laajasti myös HP:n, Lenovon ja Applen kannettavat sekä työasemat. Myös puhelimet, kuten Samsung ja Apple, järjestyvät kauttamme joustavasti.
 
 
-
-
 <HeroBlock bgColor="brand" imageAlign="right">
 
 <div className="HeroBlockImage">
@@ -56,9 +54,7 @@ Yrityskannettavat on suunniteltu nimenomaan työkäyttöön. Parempi suorituskyk
 
 Oikein mitoitettu yrityskannettava valitaan aina käyttäjäprofiilin mukaan. Peruskäyttäjällä, tehokäyttäjällä ja johdolla on eri vaatimukset, mutta laitekannan kannattaa silti pysyä yhtenäisenä. Näin ylläpito on selkeää ja ennakoitavaa.
 
-**Kun laitteet ja hallinta ovat kunnossa, IT tukee liiketoimintaa eikä jarruta sitä. Käyttöönotot nopeutuvat, muutokset ovat hallittuja ja etähallinta vähentää katkoksia myös silloin, kun työtä tehdään toimiston ulkopuolella.**\
-\
-Lue lisää yrityskannettavien valinnasta julkaisemastamme [oppaasta](https://www.tdp.fi/Yrityskannettavanvalinta/).
+**Kun laitteet ja hallinta ovat kunnossa, IT tukee liiketoimintaa eikä jarruta sitä. Käyttöönotot nopeutuvat, muutokset ovat hallittuja ja etähallinta vähentää katkoksia myös silloin, kun työtä tehdään toimiston ulkopuolella.**
 
 ### Windows-kannettavat
 
@@ -74,9 +70,7 @@ Sopii vaativaan käyttöön, kuten suunnitteluun, analytiikkaan, kehitystyöhön
 
 Toimitamme myös Apple-laitteet yrityskäyttöön, esimerkiksi **MacBook Pro-, MacBook Air- ja Mac mini** -mallit. Mac on tyypillisesti hyvä valinta johdolle, liikkuvaan työhön ja luovaan tuotantoon sekä yrityksiin, joissa macOS on jo osa arkea.
 
-
 Macit voi hankkia leasingilla tai suoraostolla, myös usean koneen paketteina. Voit laskea arvioidun kuukausierän helposti [Mac-leasinglaskurillamme](https://www.tdp.fi/leasing-paketit/MacBook-Pro/)
-
 
 ### Vakioitu laitekanta
 
@@ -85,6 +79,8 @@ Paras tapa onnistua on vakioida, ei maksimoida vaihtoehtoja.
 1. **Määritellään profiilit**: 2–4 käyttäjäprofiilia (esim. peruskäyttäjä, tehokäyttäjä ja johtoryhmä).
 2. **Valitaan laitteet**: Jokaiseen profiiliin 1–2 vakiomallia.
 3. **Sovitaan hankinta:** Elinkaari, hankintatapa (suoraosto/leasing) ja palvelutaso.
+
+Lue lisää yrityskannettavien valinnasta julkaisemastamme [oppaasta](<>).
 
 ### Palvelusopimus
 
