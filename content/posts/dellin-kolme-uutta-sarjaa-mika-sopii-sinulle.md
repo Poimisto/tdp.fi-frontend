@@ -13,29 +13,15 @@ contactForm: Ota yhteyttä
 ---
 ![Kuvituskuva. Dellin uusi Pro -sarjan kannettava tietokone.](/assets/dell-pro-laptops-cropped.jpg)
 
-Uudistetut Dell -sarjat ovat saapuneet – teemme parhaamme opastaaksemme myös asiakkaitamme uudistuksen keskellä.
+Uudistetut Dell -sarjat ovat saapuneet. Teemme parhaamme opastaaksemme myös asiakkaitamme uudistuksen keskellä.
 
-Perinteiset nimet kuten XPS, Inspiron, Latitude, Vostro ja Precision ovat väistyneet, ja tilalle on tullut kolme tuoteperhettä: Dell, Dell Pro ja Dell Pro Max. Kussakin sarjassa on kolme tasoa – Premium, Plus ja Base – jotka kertovat ominaisuuksien tasosta.
+Perinteiset nimet kuten XPS, Inspiron, Latitude, Vostro ja Precision ovat väistyneet, ja tilalle on tullut kolme tuoteperhettä: **Dell, Dell Pro ja Dell Pro Max.** Kussakin sarjassa on kolme tasoa: Premium, Plus ja Base, jotka kertovat ominaisuuksien tasosta.
 
 ## Dell - Monipuolinen perusmallisto
 
 **Dell-sarja** on suunnattu kuluttajakäyttöön: opiskeluun, viihteeseen ja kevyeen työkäyttöön. Se korvaa aiemmat kuluttaja- ja perusmallit. Sarja tarjoaa edullisia ja helppokäyttöisiä vaihtoehtoja, jotka kattavat perustarpeet luotettavasti.
 
-### Dell-kannettavat
-
-Dell-sarjan kannettavat ovat yleiskäyttöisiä “AI-PC” -tietokoneita, jotka on suunniteltu jokapäiväiseen tuottavuuteen ja viihteeseen.
-
-Tyypillisiä ominaisuuksia Dell-kannettaville ovat:
-
-**Suorituskyky**: Uusimmat Intel Core - tai AMD Ryzen -suorittimet riittävät sujuvaan arki- ja toimistokäyttöön. 
-
-**Näyttö**: Dell-kannettavissa on yleensä laadukkaat näytöt: perusmalleissa Full HD -resoluutio ja kirkkaus riittävät toimistotyöhön, kun taas Plus/Premium-malleissa on saatavilla teräväpiirtonäyttöjä (esim. 2560×1600).
-
-**Muotoilu**: Premium-tason laitteet ovat ohuita ja kevyitä ultrakannettavia, kun taas Base-mallit panostavat yksinkertaisuuteen ja peruskäyttöä kestävään rakenteeseen.
-
-**Käyttömukavuus**: Useimmista malleista löytyy vakiona taustavalaistut näppäimistöt ja suuret tarkkuuskosketuslevyt. Ääni- ja videopalavereihin saa tukea tekoälyllä parannetulla taustamelun vaimennuksella ja korkearesoluutioisella web-kameralla.
-
-Dell-sarjan kannettavat sopivat esimerkiksi opiskelijoille tai pienyrittäjille, jotka tarvitsevat ***edullisen mutta luotettavan peruskannettavan*** yleistoimintaan. Ne riittävät mainiosti esimerkiksi toimistosovelluksiin, sähköpostiin, videopalavereihin ja kevyisiin yritysohjelmistoihin.
+Dell-sarjan kannettavat sopivat esimerkiksi opiskelijoille, jotka tarvitsevat ***edullisen mutta luotettavan peruskannettavan*** yleistoimintaan. Ne riittävät mainiosti esimerkiksi toimistosovelluksiin, sähköpostiin, videopalavereihin ja kevyisiin ohjelmistoihin.
 
 ## Dell Pro – Yritystason laitteet pk-yrityksille
 
@@ -45,7 +31,7 @@ Dell-sarjan kannettavat sopivat esimerkiksi opiskelijoille tai pienyrittäjille,
 
 ![](/assets/bb2504g0005-gl-bb-site-banner-pa13250-1610x906.jpg "Työpäivä ilman katkoksia: Dell Pro yhdistää kotitoimiston, konttorin ja kahvilan")
 
-Dell Pro -kannettavat ovat yritysläppäreitä, jotka on rakennettu kestämään työpäivän rasitukset ja tarjoamaan erinomainen tuottavuus ja hallinta. Ne sisältävät käytännössä entiset Latitude-malliston laitteet uudessa muodossa, mukaan lukien Rugged-erikoiskannettavat, jotka on tarkoitettu kenttäolosuhteisiin (nämä jatkavat Rugged -nimellä Dell Pro -sarjassa). 
+**Dell Pro** -kannettavat ovat yritysläppäreitä, jotka on rakennettu kestämään työpäivän rasitukset ja tarjoamaan erinomainen tuottavuus ja hallinta. Ne sisältävät käytännössä entiset Latitude-malliston laitteet uudessa muodossa, mukaan lukien Rugged-erikoiskannettavat, jotka on tarkoitettu kenttäolosuhteisiin (nämä jatkavat Rugged -nimellä Dell Pro -sarjassa). 
 
 **Rakenne ja kestävyys**: Pro-sarjan läppärit on suunniteltu erittäin kestäviksi. Laadukkaat materiaalit (monissa malleissa alumiinirunko), roiskesuojatut näppäimistöt ja tiukat testiolosuhteet (usein MIL-STD-810H-standardin mukaiset testit) takaavat, että laite selviytyy työmatkoista ja toimiston arjesta.
 
