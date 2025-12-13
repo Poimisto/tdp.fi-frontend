@@ -58,7 +58,7 @@ Oikein mitoitettu yrityskannettava valitaan aina käyttäjäprofiilin mukaan. Pe
 
 ### Windows-kannettavat
 
-Windows-ympäristöihin suosittelemme ensisijaisesti **Dellin yritysmalleja**. Ne on suunniteltu jatkuvaan työkäyttöön, ja laitekannan vakiointi tekee niistä helposti hallittavia.
+Windows-ympäristöihin suosittelemme ensisijaisesti **[Dellin yritysmalleja](https://www.tdp.fi/dellin-kolme-uutta-sarjaa-mika-sopii-sinulle/)**. Ne on suunniteltu jatkuvaan työkäyttöön, ja laitekannan vakiointi tekee niistä helposti hallittavia.
 
 **Dell Pro:** Kun haluatte luotettavan peruskoneen arkeen
 Sopii yleiseen toimistotyöhön, hallintoon, myyntiin ja liikkuvaan työhön. Oikea valinta, kun tavoitteena on yhtenäinen laitekanta ja sujuva käyttökokemus vuodesta toiseen.
