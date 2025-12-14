@@ -117,7 +117,7 @@ Kun siirrytään vaativampaan asiantuntijatyöhön, tarvitaan järeämpää kalu
 
 **Tehokkaimpia Pro Max** malleja markkinoidaan **AI PC työasemina**. Termillä viitataan tietokoneisiin, joissa on erillinen **NPU yli 40 TOPs suorituskyvyllä** ja tekoälytehtävien tehokkaan paikallisen suorittamisen mahdollistava ohjelmistoekosysteemi. Tämä on tärkeää erityisesti tietoturvan ja tulevien AI työkalujen käytettävyyden kannalta. Data ei aina kulje pilven kautta, vaan osa laskennasta ja sensitiivisen tiedon käsittelystä voidaan tehdä suoraan omalla kannettavalla.
 
-Tämä ei ole pelkkää hifistelyä, vaan suoraa ajansäästöä. Esimerkiksi CAD-piirtäminen, tietomallinnus (BIM), mediaeditointi sekä raskas BI-analytiikka sujuvat ilman nykimistä. Odottelu renderöintien tai raporttien valmistumisen kohdalla vähenee.  Lisäksi tehokkaampi rauta takaa laitteelle pidemmän elinkaaren. Kapasiteetti ei lopu kesken, vaikka työkuorma tai ohjelmistojen vaatimukset kasvaisivatkin lähivuosina.
+Tämä ei ole pelkkää hifistelyä, vaan suoraa ajansäästöä. Esimerkiks**i CAD-piirtäminen, tietomallinnus (BIM), mediaeditointi sekä raskas BI-analytiikka** sujuvat ilman nykimistä. Odottelu renderöintien tai raporttien valmistumisen kohdalla vähenee.  Lisäksi tehokkaampi rauta takaa laitteelle pidemmän elinkaaren. Kapasiteetti ei lopu kesken, vaikka työkuorma tai ohjelmistojen vaatimukset kasvaisivatkin lähivuosina.
 
 ![Kuvituskuva: Dell 2 in 1 AI -pc](/assets/kuva-dell_copilot2in1.jpeg "Dell tarjoaa monipuolisen valikoiman AI kannettavia ja kestäviä yritystietokoneita työkäyttöön.")
 
