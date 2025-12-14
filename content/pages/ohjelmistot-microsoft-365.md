@@ -90,19 +90,19 @@ Usein tärkein yksittäinen parannus tietoturvaan. Voimme rakentaa sääntöjä,
 
 Microsoft 365 Business -paketit on suunniteltu alle 300 käyttäjän organisaatioille.
 
-### Apps for Business
+#### **Apps for Business**
 
-**Erityistarpeisiin:**  Kun sähköposti on muualla, mutta tarvitaan Office-ohjelmat + OneDrive. Ei Teamsia/Sähköpostia.
+**Erityistarpeisiin:** Kun sähköposti on muualla, mutta tarvitaan Office-ohjelmat + OneDrive. Ei Teamsia/Sähköpostia.
 
-### Business Basic
+#### **Business Basic**
 
 **Kevyeen käyttöön:**  Työntekijöille, jotka eivät tarvitse asennettavia ohjelmia. Sähköposti, Teams, selain-Officet.
 
-### Business Standard
+#### **Business Standard**
 
 **Peruskäyttäjälle:** Yleisin valinta. Kaikki Basicin ominaisuudet + asennettavat Word, Excel, PowerPoint, Outlook.
 
-### Business Premium
+#### **Business Premium**
 
 **Suosituksemme:** Kun tietoturva on tärkeää. Kaikki Standardin edut + Entra ID (identiteetti), Intune (laitehallinta), Defender (turva) ja Purview (vaatimustenmukaisuus).
 
