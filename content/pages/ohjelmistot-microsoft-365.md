@@ -108,10 +108,6 @@ Microsoft 365 Business -paketit on suunniteltu alle 300 käyttäjän organisaati
 
 **Erityistarpeisiin:**  Kun sähköposti on muualla, mutta tarvitaan Office-ohjelmat + OneDrive. Ei Teamsia/Sähköpostia.
 
-Kuukausihinta:
-
-<DisplayVariable variableKey="ms-365-apps-for-business-kk" tag="[object Object]" bold={true} />
-
 ### Business Basic
 
 **Kevyeen käyttöön:**  Työntekijöille, jotka eivät tarvitse asennettavia ohjelmia. Sähköposti, Teams, selain-Officet.
