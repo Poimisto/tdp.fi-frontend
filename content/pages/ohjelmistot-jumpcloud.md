@@ -55,7 +55,7 @@ Pelkkä hallintaohjelmisto ei riitä, jos laitehankinta on villi länsi. Saat pa
 
 ## Keskitetty hallinta laittaa IT-kaaoksen kuriin
 
-Kysy lisää asiantuntijoiltamme 
+Kysy lisää asiantuntijoiltamme tai jätä [viesti](https://www.tdp.fi/it-palvelut/keskitetty-hallinta#contact-form)!
 
 Pauli Aalto | 040 748 3818 | pauli.aalto@tdp.fi
 
@@ -70,23 +70,24 @@ TDP Toimisto | 010 292 1640 | myynti@tdp.fi
 
 **Kiinteän kuukausimaksun ansiosta yrityksesi IT-kulujen budjetoinnista tulee entistä läpinäkyvämpää ja hintavat, ylimääräiset tuntityöt jäävät pois.** 
 
-Vertaile vaihtoehtoja:
+**Palveluhintaan kuuluu:**
 
-| Ominaisuus                                     | CORE DIRECTORY PACKAGE | JUMPCLOUD PLATFORM | PLATFORM PLUS |
-| ---------------------------------------------- | ---------------------- | ------------------ | ------------- |
-| Pilvihakemisto                                 | ✔                      | ✔                  | ✔             |
-| Monivaiheinen tunnistus                        | ✔                      | ✔                  | ✔             |
-| Kertakirjautuminen                             | ✔                      | ✔                  | ✔             |
-| Käyttäjän elinkaarihallinta                    | ✔                      | ✔                  | ✔             |
-| LDAP                                           | ✔                      | ✔                  | ✔             |
-| Hakemiston käyttötiedot                        | ✔                      | ✔                  | ✔             |
-| Laitehallinta                                  |                        | ✔                  | ✔             |
-| Mobiililaitehallinta                           |                        | ✔                  | ✔             |
-| Järjestelmän käyttötiedot                      |                        | ✔                  | ✔             |
-| Zero Trust-toiminnot                           |                        |                    | ✔             |
-| JumpCloudin tuki 24/7                          |                        |                    | ✔             |
-| **Hinta (EUR/kk/käyttäjä):**                   | **15,00**              | **22,00**          | **27,00**     |
-| **Hinta, vuosilisenssillä (EUR/kk/käyttäjä):** | **13,00**              | **19,00**          | **24,00**     |
+* Pilvihakemisto
+* Monivaiheinen tunnistus
+* Kertakirjautuminen
+* Käyttäjän elinkaarihallinta
+* LDAP
+* Hakemiston käyttötiedot
+* Laitehallinta
+* Mobiililaitehallinta
+* Järjestelmän käyttötiedot
+* Zero Trust-toiminnot
+* JumpCloudin tuki 24/7
+
+**Kuukausihinnat:**
+
+* 25,00 €/kk/käyttäjä (kuukausilaskutus)
+* 22,00 €/kk/käyttäjä (vuosilisenssillä)
 
 ### Tekniset ominaisuudet
 
@@ -133,6 +134,15 @@ Joustava ylläpito: Jatkossa valinta on teidän. IT-tiimillenne on tarjolla mode
 
 ## Usein kysytyt kysymykset (FAQ / UKK)
 
+**Mikä on keskitetty laitehallinta (MDM) ja miksi yritykseni kaipaisi sitä?**
+
+Keskitetty laitehallinta (MDM) tarkoittaa, että kaikkia yrityksen tietokoneita ja mobiililaitteita hallitaan yhdestä pilvipohjaisesta näkymästä. Ilman sitä tietoturvasi on yksittäisten työntekijöiden muistin varassa. Keskitetyn hallinnan ansiosta voimme tyhjentää kadonneet laitteet etänä ja ajaa tarvittavat ohjelmistoasennukset taustalla automatisoidusti.\
+\
+**Miksi hankkisin keskitetyn hallinnan TDP:ltä enkä suoraan verkosta?**
+
+
+Pelkkä lisenssi ei tuo turvaa, jos asetukset on tehty väärin. Verkosta ostat työkalun, TDP:ltä ostat toimivan kokonaisuuden. Me konfiguroimme tietoturvasäännöt (esim. levyn salaus ja kirjautumiskäytännöt) valmiiksi puolestasi ja tarjoamme suomenkielisen asiantuntijan avuksi käyttöönottoon.
+
 **Mitä jos internetyhteys katkeaa? Pääsenkö kirjautumaan koneelle?**\
 \
 Kyllä. Vaikka hallinta on pilvessä, JumpCloud-agentti toimii paikallisesti laitteessa. Kirjautuminen onnistuu aina välimuistissa olevilla tunnuksilla, olitpa sitten lentokoneessa tai mökillä ilman verkkoa.
@@ -143,7 +153,6 @@ Ei vaadi. Asennamme hallinta-agentin taustajona (Silent Install). Käyttäjä vo
 
 **Tarvitsenko enää omia palvelimia (Active Directory)?** \
 Tämä riippuu lähtötilanteesta, mutta todennäköisesti et. Useimmille PK-yrityksille tämä ratkaisu korvaa kokonaan omat palvelimet. Pääset eroon rautahuolista ja VPN-kikkailusta.
-
 
 **Mitä jos meillä on jo Active Directory, josta emme voi vielä luopua?** 
 
@@ -172,3 +181,8 @@ Ei, vaan helpommaksi. Työntekijä tarvitsee vain yhden turvallisen identiteetin
 **Miten MFA (monivaiheinen todennus) toimii tässä?** \
 \
 Se on sisäänrakennettu. Voimme pakottaa MFA:n päälle kriittisiin kirjautumisiin. Keskitettyyn hallintaan kuuluu ilmainen TOTP-sovellus, joka tekee puhelimesta "avaimen". Käyttäjä hyväksyy kirjautumisen yhdellä painalluksella, helppoa ja äärimmäisen turvallista.
+
+**Mitä tarkoittaa SSO (Single Sign-On) ja miten se liittyy tähän?**
+
+
+SSO tarkoittaa kertakirjautumista. Työntekijäsi käyttää yhtä turvallista identiteettiä kirjautuakseen kaikkeen: tietokoneelle, sähköpostiin (M365/Google), CRM-järjestelmään ja muihin pilvipalveluihin. Tämä tekee myös uusien työntekijöiden sisäänkirjauksesta ja lopettavien työntekijöiden tilien sulkemisesta vaivatonta.
