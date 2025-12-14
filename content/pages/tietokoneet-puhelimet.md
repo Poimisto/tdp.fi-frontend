@@ -24,7 +24,7 @@ contactForm: Ota yhteyttä
 
 **Tarjoamme markkinoiden uusimmat laitteet niin perustyöskentelyyn, vaativaan suunnittelukäyttöön kuin kenttätyöhönkin. Tietokone on työntekijän tärkein yksittäinen työväline, joten panostamme laatuun**.
 
-Meiltä saat kaikkien suurten valmistajien kannettavat, tehotyöasemat ja oheislaitteet kilpailukykyiseen hintaan, joko leasingilla tai suoraostolla. Windows-ympäristöihin suosittelemme ensisijaisesti Dellin luotettavia yritysmalleja, mutta valikoimamme kattaa laajasti myös HP:n, Lenovon ja Applen kannettavat sekä työasemat. Myös puhelimet, kuten Samsung ja Apple, järjestyvät kauttamme joustavasti.
+Meiltä saat kaikkien suurten valmistajien kannettavat, tehotyöasemat ja oheislaitteet kilpailukykyiseen hintaan, joko leasingilla tai suoraostolla. Windows-ympäristöihin suosittelemme ensisijaisesti Dellin luotettavia yritysmalleja, mutta valikoimamme kattaa laajasti myös muiden valmistajien, kuten esimerkiksi HP:n, Lenovon ja Applen, tietokoneet ja oheislaitteet. Myös puhelimet, kuten Samsung ja Apple, järjestyvät kauttamme joustavasti.
 
 
 <HeroBlock bgColor="brand" imageAlign="right">
