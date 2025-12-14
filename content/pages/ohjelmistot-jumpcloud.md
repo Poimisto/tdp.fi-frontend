@@ -68,7 +68,7 @@ TDP Toimisto | 010 292 1640 | myynti@tdp.fi
 
 ## H﻿innoittelu
 
-Kiinteän kuukausimaksun ansiosta yrityksesi IT-kulujen budjetoinnista tulee entistä läpinäkyvämpää ja hintavat, ylimääräiset tuntityöt jäävät pois. 
+**Kiinteän kuukausimaksun ansiosta yrityksesi IT-kulujen budjetoinnista tulee entistä läpinäkyvämpää ja hintavat, ylimääräiset tuntityöt jäävät pois.** 
 
 Vertaile vaihtoehtoja:
 
