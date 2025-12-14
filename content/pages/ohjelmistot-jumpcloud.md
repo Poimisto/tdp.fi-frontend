@@ -53,8 +53,7 @@ Pelkkä hallintaohjelmisto ei riitä, jos laitehankinta on villi länsi. Saat pa
 
 <div className="HeroBlockContent">
 
-## 
-Keskitetty hallinta laittaa IT-kaaoksen kuriin
+## Keskitetty hallinta laittaa IT-kaaoksen kuriin
 
 Kysy lisää asiantuntijoiltamme 
 
