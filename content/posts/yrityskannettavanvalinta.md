@@ -176,7 +176,7 @@ Varastot, tuotantohallit, työmaat ja huoltoautot ovat tietokoneille armottomia 
   * **Yhteydet:** GPS, 4G/5G ja mahdollisuus vaihtaa akku lennosta (hot-swap).  
   * **Laite-esimerkki:** **Dell Pro Rugged 13** tai **14**.  
 * **Mistä ei kannata tinkiä:** Kestävyydestä (IP-luokitus) ja näytön kirkkaudesta.  
-* **Mistä voi tinkiä:** Ohuudesta ja "nätistä" muotoilusta. Tässä haetaan työkalua, ei korua.
+* **Mistä voi tinkiä:** Ohuudesta ja nätistä muotoilusta. Tässä haetaan työkalua, ei korua.
 
 ![Kuvituskuva: Dell Rugged (erityisen kestävä) tabletti.](/assets/kuva_dell_rugged1.jpeg "Rugger kannettavat tarjoavat erityisen kestävän vaihtoehdon kenttätyöntekijöille.")
 
