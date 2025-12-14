@@ -73,6 +73,16 @@ Kokonaisuus koostuu tutuista työkaluista, mutta todellinen hyöty syntyy siitä
 | Vuosilisenssi (EUR/kk/käyttäjä)         | <DisplayVariable variableKey="ms-365-business-basic-vuosi" bold={true} /> | <DisplayVariable variableKey="ms-365-business-standard-vuosi" bold={true} /> | <DisplayVariable variableKey="ms-365-business-premium-vuosi" bold={true} /> |
 
 
+## Tekoäly ja uusi tuottavuus (Copilot ja Loop)
+
+Tekoäly on tullut osaksi arkea, mutta termit menevät helposti sekaisin. Selkeytimme erot, jotta tiedät mistä maksat.
+
+**Microsoft 365 Copilot Chat (Sisältyy useimpiin lisensseihin) :** Tämä on tietoturvallinen tapa käyttää tekoälyä työssä. Toisin kuin julkisissa tekoälypalveluissa, teidän yrityksenne tietoja tai syötteitä ei käytetä tekoälymallien kouluttamiseen. **Keskustelut pysyvät yrityksen sisällä, noudattaen samoja tietoturvastandardeja kuin sähköpostinnekin.**
+
+**Microsoft 365 Copilot (Lisäpalvelu):** Erillinen lisenssi, joka tuo tekoälyn suoraan Wordiin, Exceliin, PowerPointiin ja Teamsiin. Tämä **Copilot lukee yrityksesi työdataa** (käyttäjän oikeuksien puitteissa). Se voi tiivistää Teams-kokouksen, luonnostella tarjouksen aiempien asiakirjojen pohjalta tai analysoida Excel-lukuja. Copilot nojaa siihen dataan, johon käyttäjällä on pääsy. **Siksi ennen käyttöönottoa on kriittistä siivota käyttöoikeudet, jotta tekoäly ei nosta esiin sisältöä, joka ei kuulu käyttäjälle.**
+
+**Loop** tuo yhteismuokkauksen uuteen aikaan. Se koostuu komponenteista, kuten listoista tai taulukoista, jotka elävät samanaikaisesti Teams-chatissa ja sähköpostissa. Kun yksi muokkaa, tieto päivittyy kaikille reaaliajassa.
+
 <HeroBlock bgColor="brand" imageAlign="left">
 
 <div className="HeroBlockImage">
@@ -93,16 +103,6 @@ TDP Toimisto | 010 292 1640 | [myynti@tdp.fi](mailto:myynti@tdp.fi)
 
 </HeroBlock>
 
-
-## Tekoäly ja uusi tuottavuus (Copilot ja Loop)
-
-Tekoäly on tullut osaksi arkea, mutta termit menevät helposti sekaisin. Selkeytimme erot, jotta tiedät mistä maksat.
-
-**Microsoft 365 Copilot Chat (Sisältyy useimpiin lisensseihin) :** Tämä on tietoturvallinen tapa käyttää tekoälyä työssä. Toisin kuin julkisissa tekoälypalveluissa, teidän yrityksenne tietoja tai syötteitä ei käytetä tekoälymallien kouluttamiseen. **Keskustelut pysyvät yrityksen sisällä, noudattaen samoja tietoturvastandardeja kuin sähköpostinnekin.**
-
-**Microsoft 365 Copilot (Lisäpalvelu):** Erillinen lisenssi, joka tuo tekoälyn suoraan Wordiin, Exceliin, PowerPointiin ja Teamsiin. Tämä **Copilot lukee yrityksesi työdataa** (käyttäjän oikeuksien puitteissa). Se voi tiivistää Teams-kokouksen, luonnostella tarjouksen aiempien asiakirjojen pohjalta tai analysoida Excel-lukuja. Copilot nojaa siihen dataan, johon käyttäjällä on pääsy. **Siksi ennen käyttöönottoa on kriittistä siivota käyttöoikeudet, jotta tekoäly ei nosta esiin sisältöä, joka ei kuulu käyttäjälle.**
-
-**Loop** tuo yhteismuokkauksen uuteen aikaan. Se koostuu komponenteista, kuten listoista tai taulukoista, jotka elävät samanaikaisesti Teams-chatissa ja sähköpostissa. Kun yksi muokkaa, tieto päivittyy kaikille reaaliajassa.
 
 ## Business Premium
 
