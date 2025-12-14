@@ -82,7 +82,6 @@ TDP Toimisto | 010 292 1640 | myynti@tdp.fi
 * Mobiililaitehallinta
 * Järjestelmän käyttötiedot
 * Zero Trust-toiminnot
-* JumpCloudin tuki 24/7
 
 **Kuukausihinnat:**
 
