@@ -71,6 +71,7 @@ Kokonaisuus koostuu tutuista työkaluista, mutta todellinen hyöty syntyy siitä
 | **Tekoäly** | | | |
 | Tietoturvallinen Copilot Chat | ✅ | ✅ | ✅ |
 | Kuukausilisenssi (EUR/kk/käyttäjä) |<DisplayVariable variableKey="ms-365-business-basic-kk" bold={true} />| <DisplayVariable variableKey="ms-365-business-standard-kk" bold={true} /> |<DisplayVariable variableKey="ms-365-business-premium-kk" bold={true} />|
+| Vuosilisenssi (EUR/kk/käyttäjä)|<DisplayVariable variableKey="ms-365-business-basic-vuosi" bold={true} />|<DisplayVariable variableKey="ms-365-business-standard-vuosi" bold={true} />| <DisplayVariable variableKey="ms-365-business-premium-vuosi" bold={true} />|
 
 ## Tekoäly ja uusi tuottavuus (Copilot ja Loop)
 
