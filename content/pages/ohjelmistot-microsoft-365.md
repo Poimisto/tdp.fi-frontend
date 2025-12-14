@@ -40,16 +40,11 @@ breadcrumb:
 
 Kokonaisuus koostuu tutuista työkaluista, mutta todellinen hyöty syntyy siitä, miten ne toimivat yhdessä.
 
-### Perustyökalut ja yhteistyö
-
 * **Sähköposti ja kalenteri** (Exchange ja Outlook): Luotettava sähköposti, jaetut postilaatikot (esim. myynti@) ja ryhmäkalenterit.
 * **Palaverit ja tiimityö** (Teams): Chat, videokokoukset, projektikanavat ja tiedostojen yhteismuokkaus reaaliajassa.
 * **Liiketoimintasovellukset**: Word, Excel ja PowerPoint selaimessa tai työpöytäsovelluksina.
-
-### Tiedostot ja tiedonhallinta
-
-* OneDrive: Henkilökohtaiset työtiedostot – käytännössä moderni ja turvallisempi korvaaja "Omat tiedostot" -kansiolle.
-* SharePoint: Yrityksen yhteiset tiedostot, intra ja projektikansiot – moderni korvaaja vanhalle verkkolevylle.
+* **OneDrive:** Henkilökohtaiset työtiedostot, eli käytännössä moderni ja turvallisempi korvaaja "Omat tiedostot" -kansiolle.
+* **SharePoint:** Yrityksen yhteiset tiedostot, intra ja projektikansiot.
 
 - - -
 
@@ -57,17 +52,9 @@ Kokonaisuus koostuu tutuista työkaluista, mutta todellinen hyöty syntyy siitä
 
 Tekoäly on tullut osaksi arkea, mutta termit menevät helposti sekaisin. Selkeytimme erot, jotta tiedät mistä maksat.
 
-### Microsoft 365 Copilot Chat (Sisältyy useimpiin lisensseihin)
+**Microsoft 365 Copilot Chat (Sisältyy useimpiin lisensseihin) :** Tämä on tietoturvallinen tapa käyttää tekoälyä työssä. Toisin kuin julkisissa tekoälypalveluissa, teidän yrityksenne tietoja tai syötteitä ei käytetä tekoälymallien kouluttamiseen. **Keskustelut pysyvät yrityksen sisällä, noudattaen samoja tietoturvastandardeja kuin sähköpostinnekin.**
 
-Tämä on tietoturvallinen tapa käyttää tekoälyä työssä. Toisin kuin julkisissa tekoälypalveluissa, teidän yrityksenne tietoja tai syötteitä ei käytetä tekoälymallien kouluttamiseen. **Keskustelut pysyvät yrityksen sisällä, noudattaen samoja tietoturvastandardeja kuin sähköpostinnekin.**
-
-### Microsoft 365 Copilot (Lisäpalvelu)
-
-Erillinen lisenssi, joka tuo tekoälyn suoraan Wordiin, Exceliin, PowerPointiin ja Teamsiin.
-
-Tämä **Copilot lukee yrityksesi työdataa** (käyttäjän oikeuksien puitteissa). Se voi tiivistää Teams-kokouksen, luonnostella tarjouksen aiempien asiakirjojen pohjalta tai analysoida Excel-lukuja sekunneissa. Copilot nojaa siihen dataan, johon käyttäjällä on pääsy. **Siksi ennen käyttöönottoa on kriittistä siivota käyttöoikeudet, jotta tekoäly ei nosta esiin sisältöä, joka ei kuulu käyttäjälle.**
-
-### Microsoft Loop
+**Microsoft 365 Copilot (Lisäpalvelu):** Erillinen lisenssi, joka tuo tekoälyn suoraan Wordiin, Exceliin, PowerPointiin ja Teamsiin. Tämä **Copilot lukee yrityksesi työdataa** (käyttäjän oikeuksien puitteissa). Se voi tiivistää Teams-kokouksen, luonnostella tarjouksen aiempien asiakirjojen pohjalta tai analysoida Excel-lukuja. Copilot nojaa siihen dataan, johon käyttäjällä on pääsy. **Siksi ennen käyttöönottoa on kriittistä siivota käyttöoikeudet, jotta tekoäly ei nosta esiin sisältöä, joka ei kuulu käyttäjälle.**
 
 **Loop** tuo yhteismuokkauksen uuteen aikaan. Se koostuu komponenteista, kuten listoista tai taulukoista, jotka elävät samanaikaisesti Teams-chatissa ja sähköpostissa. Kun yksi muokkaa, tieto päivittyy kaikille reaaliajassa.
 
@@ -85,8 +72,7 @@ Usein tärkein yksittäinen parannus tietoturvaan. Voimme rakentaa sääntöjä,
 
 ### Laitehallinta (Microsoft Intune)
 
-**Intune** tuo tietokoneet ja mobiililaitteet samaan hallintanäkymään.
-
+* Tuo tietokoneet ja mobiililaitteet samaan hallintanäkymään.
 * Voimme pakottaa laitteille levyn salauksen (Bitlocker), päivitykset ja tietoturva-asetukset.
 * Pystymme erottamaan yritysdatan työntekijän omasta datasta. Jos puhelin katoaa tai työntekijä vaihtaa maisemaa, voimme pyyhkiä vain yrityksen tiedot koskematta lomakuviin.
 
