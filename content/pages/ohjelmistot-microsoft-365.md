@@ -72,7 +72,6 @@ Kokonaisuus koostuu tutuista työkaluista, mutta todellinen hyöty syntyy siitä
 | Kuukausilisenssi (EUR/kk/käyttäjä)      | <DisplayVariable variableKey="ms-365-business-basic-kk" bold={true} />    | <DisplayVariable variableKey="ms-365-business-standard-kk" bold={true} />    | <DisplayVariable variableKey="ms-365-business-premium-kk" bold={true} />    |
 | Vuosilisenssi (EUR/kk/käyttäjä)         | <DisplayVariable variableKey="ms-365-business-basic-vuosi" bold={true} /> | <DisplayVariable variableKey="ms-365-business-standard-vuosi" bold={true} /> | <DisplayVariable variableKey="ms-365-business-premium-vuosi" bold={true} /> |
 
-
 ## Tekoäly ja uusi tuottavuus (Copilot ja Loop)
 
 Tekoäly on tullut osaksi arkea, mutta termit menevät helposti sekaisin. Selkeytimme erot, jotta tiedät mistä maksat.
@@ -83,11 +82,12 @@ Tekoäly on tullut osaksi arkea, mutta termit menevät helposti sekaisin. Selkey
 
 **Loop** tuo yhteismuokkauksen uuteen aikaan. Se koostuu komponenteista, kuten listoista tai taulukoista, jotka elävät samanaikaisesti Teams-chatissa ja sähköpostissa. Kun yksi muokkaa, tieto päivittyy kaikille reaaliajassa.
 
-<HeroBlock bgColor="brand" imageAlign="left">
+
+<HeroBlock bgColor="brand" imageAlign="right">
 
 <div className="HeroBlockImage">
 
-
+![](/assets/microsoft_365-logo_brandlogos.net_7vzle.png)
 
 </div>
 
