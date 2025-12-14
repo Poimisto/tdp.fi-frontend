@@ -129,6 +129,8 @@ Joustava ylläpito: Jatkossa valinta on teidän. IT-tiimillenne on tarjolla mode
 
 - - -
 
+![](/assets/ohjelmistot-ja-lisenssit.jpg)
+
 ## Usein kysytyt kysymykset (FAQ / UKK)
 
 **Mitä jos internetyhteys katkeaa? Pääsenkö kirjautumaan koneelle?**\
