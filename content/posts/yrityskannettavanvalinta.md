@@ -101,7 +101,7 @@ Esimerkiksi Dell Pro 14 ja Dell Pro 16 ovat hyvä esimerkki tämän päivän “
 * **Muisti:** 16 Gt DDR5 on nykypäivän minimi sujuvaan työhön.  
 * **Tallennus:** 512 Gt NVMe SSD. Käytämme laadukkaita TLC-tason levyjä, emme halvimpia variantteja, jotta luotettavuus säilyy.  
 * **Näyttö:** 14" tai 16" FHD+ mattapintainen näyttö, joka ei heijastele toimistovaloja.  
-* **Liitännät:** Wi-Fi 6E tai 7, HDMI 2.1, useampi USB-A, USB-C / Thunderbolt 4 ja kiinteä Ethernet – eli dongleja ei tarvita joka välissä.  
+* **Liitännät:** Wi-Fi 6E tai 7, HDMI 2.1, useampi USB-A, USB-C / Thunderbolt 4 ja kiinteä Ethernet, eli dongleja ei tarvita joka välissä.  
 * **Käyttöjärjestelmä:** Windows 11 Pro ja uusi Copilot AI -näppäin.
 
 **Mitä tämä tarkoittaa käytännössä?** Yrittäjälle tai toimistotyöntekijälle se tarkoittaa konetta, joka käynnistyy nopeasti ja jaksaa pyörittää toiminnanohjausjärjestelmää, selainta (jossa on 50 välilehteä auki) ja raskaita Excel-raportteja yhtä aikaa. Kone ei ole heti "köysissä", kun kytket sen telakkaan ja kahteen ulkoiseen näyttöön. Lisäksi laite istuu luontevasti yrityksen hallintaympäristöön (**vPro**, **Windows 11 Pro**, **TPM 2.0**), mikä helpottaa ylläpitoa.
@@ -119,7 +119,7 @@ Kun siirrytään vaativampaan asiantuntijatyöhön, tarvitaan järeämpää kalu
 
 Tämä ei ole pelkkää hifistelyä, vaan suoraa ajansäästöä. Esimerkiksi CAD-piirtäminen, tietomallinnus (BIM), mediaeditointi sekä raskas BI-analytiikka sujuvat ilman nykimistä. Odottelu renderöintien tai raporttien valmistumisen kohdalla vähenee.  Lisäksi tehokkaampi rauta takaa laitteelle pidemmän elinkaaren. Kapasiteetti ei lopu kesken, vaikka työkuorma tai ohjelmistojen vaatimukset kasvaisivatkin lähivuosina.
 
-![Kuvituskuva: Dell 2 in 1 AI -pc](/assets/kuva-dell_copilot2in1.jpeg "Dell tarjoaa monipuolisen valikoiman AI kannettavia ja kestäviä yritystietokoneita yrityskäyttöön.")
+![Kuvituskuva: Dell 2 in 1 AI -pc](/assets/kuva-dell_copilot2in1.jpeg "Dell tarjoaa monipuolisen valikoiman AI kannettavia ja kestäviä yritystietokoneita työkäyttöön.")
 
 ### Käyttäjätyypit
 
