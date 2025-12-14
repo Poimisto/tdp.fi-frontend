@@ -1,6 +1,6 @@
 ---
-path: /ohjelmistot/jumpcloud
-date: 2022-09-26T09:47:38.826Z
+path: /it-palvelut/keskitetty-hallinta
+date: 2025-12-14T19:01:00.000Z
 head:
   title: JumpCloud | Keskitetty hallinta
   description: Haluatko hallita yrityksesi kaikkia laitteita, työntekijöiden
