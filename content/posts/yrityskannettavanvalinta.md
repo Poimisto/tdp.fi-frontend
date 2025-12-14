@@ -104,7 +104,7 @@ Esimerkiksi **Dell Pro 14** ja **Dell Pro 16** ovat hyviä esimerkkejä tämän 
 * **Liitännät:** Wi-Fi 6E tai 7, HDMI 2.1, useampi USB-A, USB-C / Thunderbolt 4 ja kiinteä Ethernet, eli dongleja ei tarvita joka välissä.  
 * **Käyttöjärjestelmä:** Windows 11 Pro ja uusi Copilot AI -näppäin.
 
-**Mitä tämä tarkoittaa käytännössä?** Yrittäjälle tai toimistotyöntekijälle se tarkoittaa konetta, joka käynnistyy nopeasti ja jaksaa pyörittää toiminnanohjausjärjestelmää, selainta (jossa on 50 välilehteä auki) ja raskaita Excel-raportteja yhtä aikaa. Kone ei ole heti "köysissä", kun kytket sen telakkaan ja kahteen ulkoiseen näyttöön. Lisäksi laite istuu luontevasti yrityksen hallintaympäristöön (**vPro**, **Windows 11 Pro**, **TPM 2.0**), mikä helpottaa ylläpitoa.
+**Mitä tämä tarkoittaa käytännössä?** Yrittäjälle tai toimistotyöntekijälle se tarkoittaa konetta, joka käynnistyy nopeasti ja jaksaa pyörittää toiminnanohjausjärjestelmää, selainta (jossa on 50 välilehteä auki) ja raskaita Excel-raportteja yhtä aikaa. Kone ei ole heti köysissä, kun kytket sen telakkaan ja kahteen ulkoiseen näyttöön. Lisäksi laite istuu luontevasti yrityksen hallintaympäristöön (**vPro**, **Windows 11 Pro**, **TPM 2.0**), mikä helpottaa ylläpitoa.
 
 Core Ultra -prosessorit sisältävät myös erillisen **NPU-yksikön**. Tätä hyödynnetään esimerkiksi Copilotin ja muiden tekoälytoimintojen ajamiseen paikallisesti, mikä vähentää pääprosessorin kuormaa ja parantaa akunkestoa merkittävästi.
 
