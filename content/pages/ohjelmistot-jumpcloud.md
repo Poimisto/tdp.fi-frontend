@@ -99,7 +99,7 @@ TDP Toimisto | 010 292 1640 | myynti@tdp.fi
 
 Lue lisää keskitetystä hallinnasta [artikkelistamme](https://www.tdp.fi/keskitettyhallinta-jumpcloud/)!
 
-### Täydennä tietoturva
+### Täydennä palvelukokonaisuus
 
 **Keskitetty hallinta** on hyvä perusta, mutta kokonaisvaltainen suoja kaipaa myös datan ja ihmisten turvaamista.
 
