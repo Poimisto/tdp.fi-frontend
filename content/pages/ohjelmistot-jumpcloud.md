@@ -26,15 +26,9 @@ breadcrumb:
 
 Palvelu on erinomainen valinta yrityksille, jotka:
 
-* **Toimivat hybridiympäristössä**
-
-  , eli työntekijöitä on sekä toimistolla että etänä
-* **Käyttävät eri käyttöjärjestelmiä**
-
-  , kuten Windowsia, macOS:ää ja Linuxia
-* **Haluavat vähentää IT-kuormaa**
-
-  , ulkoistaa hallinnan ja keskittyä ydintoimintaansa
+* **Toimivat hybridiympäristöissä**, eli työntekijöitä on sekä toimistolla että etänä.
+* **Käyttävät eri käyttöjärjestelmiä**, kuten Windowsia, macOS:ää ja Linuxia.
+* **Haluavat vähentää IT-kuormaa**, ulkoistaa hallinnan ja keskittyä ydintoimintaansa.
 
 ### Liiketoimintahyödyt
 
