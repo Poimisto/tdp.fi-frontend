@@ -4,8 +4,8 @@ thumbnail: /assets/it-laitteet-1280x800.jpg
 date: 2023-09-28T06:34:25.814Z
 head:
   title: Yrityskannettavat ja tehotyöasemat pk-yritykselle – leasing tai suoraosto
-  description: Yrityskannettavat pk-yritykselle leasingilla tai suoraostolla -
-    uusimmat Dell, Apple ja Lenovo mallit edullisesti ja esiasennettuna. Pyydä
+  description: Kannettavat tietokoneet yrityksille leasingilla tai suoraostolla.
+    Uusimmat Dell, Apple ja Lenovo mallit edullisesti ja esiasennettuina. Pyydä
     arvio!
   keywords: yrityskannettavat, työntekijöiden tietokoneet, työntekijöiden
     tehotyöasemat, yrityksen tietokoneet, yrityksen puhelimet, yrityksen
