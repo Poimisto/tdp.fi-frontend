@@ -87,7 +87,7 @@ Tekoäly on tullut osaksi arkea, mutta termit menevät helposti sekaisin. Selkey
 
 <div className="HeroBlockImage">
 
-![](/assets/bb2601g0023-gl-bb-dell-pro-max-family-sit-banner-1208x906.jpg)
+![](/assets/4cq5dam.web.1280.1280.jpeg)
 
 </div>
 
