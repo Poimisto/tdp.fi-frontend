@@ -3,10 +3,12 @@ path: /ohjelmistot/microsoft-365
 date: 2022-09-26T09:47:38.826Z
 head:
   title: Microsoft 365 lisenssit - Microsoft Partner, AAA-luokitus
-  description: Virallinen Microsoft Parter -kumppani toimittaa ja hallinnoi MS 365
-    -lisenssit pk yritykselle. Nopea käyttöönotto ilman yllätyskuluja, pyydä
-    tarjous!
-  keywords: Google Workspace
+  description: MS 365 -lisenssit pk -yritykselle viralliselta Microsoft Partner
+    -kumppanilta. Yrityssähköpostit omalla domainillanne ja kattava valikoima
+    yhteistyö- ja tuottavuustyökaluja yrityskäyttöön.
+  keywords: MS365 lisenssi, Microsoft 365, Microsoft pilvipalvelut, Entra, Intune,
+    Copilot, MS Business, MS365 Business, Microsoft Business Standard, MS
+    Business Premium
 contactForm: Ota yhteyttä
 breadcrumb:
   - path: /
@@ -15,50 +17,135 @@ breadcrumb:
     label: ohjelmistot
   - label: Microsoft 365
 ---
-![Microsoft 365 - yritysten luotettu toimisto-ohjelmapaketti](/assets/365-tinified.jpg "Microsoft 365")
+![Kuvituskuva: IT asentaja työpisteellä](/assets/365-tinified.jpg "Microsoft 365 lisenssit yrityksille luotettavalta toimijalta")
 
 # Liiketoimintasovellukset | MS 365
 
-**Tarjoamme MS 365 -lisenssejä, jotka tarjoavat käyttöönne yritystason sähköpostit omalla domainillanne, sekä kattavan kokoelman yhteistyö- ja tuottavuustyökaluja.**
+**Sähköposti, tiedostot, tiimityö ja tekoäly. Kaikki yhdessä paikassa.**
 
-Kaikkiin MS 365  -paketteihin sisältyvät videoneuvottelut ja verkkolevy, sekä tehokkaat työkalut dokumenttien, taulukoiden ja lomakkeiden käsittelyyn.
+**Microsoft 365** on yrityksen moderni työympäristö. Se yhdistää sähköpostin (Outlook), pikaviestit ja videopalaverit (Teams) sekä tiedostojen hallinnan (OneDrive ja SharePoint) yhdeksi turvalliseksi kokonaisuudeksi.
 
-MS 365 yhdistää kaikki keskeiset toimistotyökalut yhdeksi kokonaisuudeksi mahdollistaen tehokkaan yhteistyön ja tiedonhallinnan. 
+***Meiltä et saa vain lisenssejä. Kauttamme saat käyttöönoton, tietojen turvallisen siirron ja arjen tuen sovitulla mallilla.***
 
-## Palvelusisältö
+## Hyödyt pk-yritykselle
 
-Valittavanasi on useita eritasoisia yrityspaketteja yrityksesi koon ja tarpeiden mukaan. 
+**Miksi siirtää toiminnot Microsoft 365 -ympäristöön?**
 
-IT-palvelukumppanina tuemme yritystäsi kaikissa paketeissa yhtä tarmokkaasti kiinteään kuukausihintaan sisältyen:
+* **Ammattimainen yrityskuva:** Sähköposti omalla verkkotunnuksella ja kalenteri, joka synkronoituu saumattomasti puhelimen ja tietokoneen välillä.
+* **Vähemmän sähköpostirallia:** Teams tekee sisäisestä viestinnästä nopeaa ja etäpalavereista sujuvia.
+* **Tieto yrityksen hallintaan:** Tiedostot eivät jää yksittäisten työntekijöiden kovalevyille, vaan ovat pilvessä (OneDrive ja SharePoint) hallitusti jaettuna.
+* **Tietoturva oikein toteutettuna:** Sopiva lisenssitaso ja huolelliset asetukset parantavat suojaa tietomurroilta ja kalastelulta merkittävästi.
 
-## Hinnasto
+## Mitä Microsoft 365 sisältää käytännössä?
 
-| Palvelupaketit                                                                         | BUSINESS BASIC                                                            | APPS FOR BUSINESS                                                            | BUSINESS STANDARD                                                            | BUSINESS PREMIUM                                                            |
-| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| M﻿ukautettu yrityssähköposti                                                           | ✔                                                                         |                                                                              | ✔                                                                            | ✔                                                                           |
-| Verkosta käytettävät Office-sovellukset 5:lle laitteelle/käyttäjä                      | ✔                                                                         | ✔                                                                            | ✔                                                                            | ✔                                                                           |
-| Microsoft Teamsin videokokoukset 300 osallistujalle                                    | ✔                                                                         |                                                                              | ✔                                                                            | ✔                                                                           |
-| 1 Tt pilvitallennustilaa OneDrivessa/käyttäjä                                          | ✔                                                                         | ✔                                                                            | ✔                                                                            | ✔                                                                           |
-| Verkkoseminaarit, joissa osallistujien rekisteröinti                                   |                                                                           |                                                                              | ✔                                                                            | ✔                                                                           |
-| Edistyneet tietoturvaominaisuudet ja yritystason laitetuki                             |                                                                           |                                                                              |                                                                              | ✔                                                                           |
-| Jatkuva päivityspalvelu ja uusimmat ominaisuudet                                       |                                                                           | ✔                                                                            |                                                                              |                                                                             |
-| Täysin asennettavat Office-sovellukset, mukaan lukien Word, Outlook, Excel, PowerPoint |                                                                           | ✔                                                                            | ✔                                                                            | ✔                                                                           |
-| CoPilot saatavilla lisäominaisuutena                                                   |                                                                           |                                                                              | ✔                                                                            | ✔                                                                           |
-| **Kuukausilisenssi (EUR/kk/käyttäjä):**                                                | <DisplayVariable variableKey="ms-365-business-basic-kk" bold={true} />    | <DisplayVariable variableKey="ms-365-apps-for-business-kk" bold={true} />    | <DisplayVariable variableKey="ms-365-business-standard-kk" bold={true} />    | <DisplayVariable variableKey="ms-365-business-premium-kk" bold={true} />    |
-| **Vuosilisenssi (EUR/kk/käyttäjä):**                                                   | <DisplayVariable variableKey="ms-365-business-basic-vuosi" bold={true} /> | <DisplayVariable variableKey="ms-365-apps-for-business-vuosi" bold={true} /> | <DisplayVariable variableKey="ms-365-business-standard-vuosi" bold={true} /> | <DisplayVariable variableKey="ms-365-business-premium-vuosi" bold={true} /> |
+Kokonaisuus koostuu tutuista työkaluista, mutta todellinen hyöty syntyy siitä, miten ne toimivat yhdessä.
 
-## Suomenkielinen tukipalvelu
+### Perustyökalut ja yhteistyö
 
-Vaihtoehto englanninkieliselle chat-tuelle: kun hankit ohjelmistolisenssit suoraan meiltä, voit samalla hankkia virtaviivaisen TDP-tukipalvelun erillisellä palvelusopimuksella! 
+* **Sähköposti ja kalenteri** (Exchange ja Outlook): Luotettava sähköposti, jaetut postilaatikot (esim. myynti@) ja ryhmäkalenterit.
+* **Palaverit ja tiimityö** (Teams): Chat, videokokoukset, projektikanavat ja tiedostojen yhteismuokkaus reaaliajassa.
+* **Liiketoimintasovellukset**: Word, Excel ja PowerPoint selaimessa tai työpöytäsovelluksina.
 
-Sovellusten käyttöpulmat ratkeavat helposti, kun voit soittaa ja kertoa ongelmasi selvällä suomen kielellä ilman jonotusta. Palvelun vasteaika määritetään sopimuksessa etukäteen haluamaksesi.
+### Tiedostot ja tiedonhallinta
+
+* OneDrive: Henkilökohtaiset työtiedostot – käytännössä moderni ja turvallisempi korvaaja "Omat tiedostot" -kansiolle.
+* SharePoint: Yrityksen yhteiset tiedostot, intra ja projektikansiot – moderni korvaaja vanhalle verkkolevylle.
 
 - - -
 
-**TDP on yritysten ripeä, asiantunteva IT-palvelukumppani.** 
+## Tekoäly ja uusi tuottavuus (Copilot ja Loop)
 
-Olemme Microsoft 365:n suomalainen jälleenmyyjä ja modernien ohjelmistojen edelläkävijä. 
+Tekoäly on tullut osaksi arkea, mutta termit menevät helposti sekaisin. Selkeytimme erot, jotta tiedät mistä maksat.
 
-Autamme yrityksiä asiantuntevasti Microsoft 365:n käyttöönotossa ja kerromme ratkaisumallimme yrityksesi sujuvaan digiviestintään palvelulupausta sekä hintatietoja myöten. 
+### Microsoft 365 Copilot Chat (Sisältyy useimpiin lisensseihin)
 
-*Ota yhteyttä ja viedään yrityksesi pilvihallintaan, jossa jo muutkin ovat!*
+Tämä on tietoturvallinen tapa käyttää tekoälyä työssä. Toisin kuin julkisissa tekoälypalveluissa, teidän yrityksenne tietoja tai syötteitä ei käytetä tekoälymallien kouluttamiseen. **Keskustelut pysyvät yrityksen sisällä, noudattaen samoja tietoturvastandardeja kuin sähköpostinnekin.**
+
+### Microsoft 365 Copilot (Lisäpalvelu)
+
+Erillinen lisenssi, joka tuo tekoälyn suoraan Wordiin, Exceliin, PowerPointiin ja Teamsiin.
+
+Tämä **Copilot lukee yrityksesi työdataa** (käyttäjän oikeuksien puitteissa). Se voi tiivistää Teams-kokouksen, luonnostella tarjouksen aiempien asiakirjojen pohjalta tai analysoida Excel-lukuja sekunneissa. Copilot nojaa siihen dataan, johon käyttäjällä on pääsy. **Siksi ennen käyttöönottoa on kriittistä siivota käyttöoikeudet, jotta tekoäly ei nosta esiin sisältöä, joka ei kuulu käyttäjälle.**
+
+### Microsoft Loop
+
+**Loop** tuo yhteismuokkauksen uuteen aikaan. Se koostuu komponenteista, kuten listoista tai taulukoista, jotka elävät samanaikaisesti Teams-chatissa ja sähköpostissa. Kun yksi muokkaa, tieto päivittyy kaikille reaaliajassa.
+
+## Business Premium
+
+Kasvaville yrityksille Business Premium on usein kustannustehokkain valinta. Se tuo kattavan valikoiman hallinnointia ja vaatimustenmukaisuutta tukevia lisäkomponentteja samaan pakettiin, ilman kalliita erillisostoja.
+
+### Kirjautumisenhallinta (Entra ID & Conditional Access)
+
+Usein tärkein yksittäinen parannus tietoturvaan. Voimme rakentaa sääntöjä, jotka estävät väärinkäytökset:
+
+* Vaaditaanko kirjautumisessa aina monivaiheinen tunnistautuminen (MFA)?
+* Sallitaanko kirjautuminen vain Suomesta?
+* Pääseekö yritysdataan käsiksi vain yhtiön hallitsemalta laitteelta?
+
+### Laitehallinta (Microsoft Intune)
+
+**Intune** tuo tietokoneet ja mobiililaitteet samaan hallintanäkymään.
+
+* Voimme pakottaa laitteille levyn salauksen (Bitlocker), päivitykset ja tietoturva-asetukset.
+* Pystymme erottamaan yritysdatan työntekijän omasta datasta. Jos puhelin katoaa tai työntekijä vaihtaa maisemaa, voimme pyyhkiä vain yrityksen tiedot koskematta lomakuviin.
+
+### Uhkatorjunta (Defender)
+
+* **Defender for Business** tuo yritystason virustorjunnan ja ennakoivan uhkien havainnoinnin (EDR)  päätelaitteille.
+* **Defender for Office 365** suojaa sähköpostia ja Teamsia kalastelulta. Se tarkistaa linkit ja liitteet reaaliajassa, vähentäen inhimillisten virheiden riskiä.
+* **Safe Links & Safe Attachments**: Järjestelmä tarkistaa sähköpostien linkit ja liitteet reaaliajassa. Jos käyttäjä klikkaa haitallista linkkiä, järjestelmä estää sen avaamisen. 
+
+### Tiedon suojaus (Purview)
+
+* Jos käsittelet arkaluontoista dataa (henkilötunnukset, sopimukset), Purview auttaa luokittelemaan ja salaamaan tiedostot niin, etteivät ne aukea väärissä käsissä
+
+## Lisenssitasot tiiviisti
+
+Microsoft 365 Business -paketit on suunniteltu alle 300 käyttäjän organisaatioille.
+
+### Apps for Business
+
+**Erityistarpeisiin:**  Kun sähköposti on muualla, mutta tarvitaan Office-ohjelmat + OneDrive. Ei Teamsia/Sähköpostia.
+
+Kuukausihinta:
+
+<DisplayVariable variableKey="ms-365-apps-for-business-kk" tag="[object Object]" bold={true} />
+
+### Business Basic
+
+**Kevyeen käyttöön:**  Työntekijöille, jotka eivät tarvitse asennettavia ohjelmia. Sähköposti, Teams, selain-Officet.
+
+### Business Standard
+
+**Peruskäyttäjälle:** Yleisin valinta. Kaikki Basicin ominaisuudet + asennettavat Word, Excel, PowerPoint, Outlook.
+
+### Business Premium
+
+**Suosituksemme:** Kun tietoturva on tärkeää. Kaikki Standardin edut + Entra ID (identiteetti), Intune (laitehallinta), Defender (turva) ja Purview (vaatimustenmukaisuus).
+
+## Mitä kannattaa huomioida valinnassa?
+
+Pelkkä lisenssien ostaminen ei riitä. Jotta ympäristö palvelee liiketoimintaa, muutama perusasia kannattaa harkita etukäteen:
+
+1. **Käyttäjäryhmät:** Tarvitseeko johto tai taloushallinto vahvemman tietoturvatason (Premium) kuin muu organisaatio?
+2. **Tiedon sijainti:** Mitä tallennetaan OneDriveen (omat) ja mitä SharePointiin (yhteiset)? Jos tätä ei sovita, tieto pirstaloituu.
+3. **Laiteturva:** Mitä tehdään, jos työntekijän puhelin tai kannettava katoaa.
+4. **Ulkoinen jakaminen:** Miten jaatte tiedostoja turvallisesti asiakkaiden kanssa ilman, että linkit jäävät ikuisesti auki?
+5. **Varmuuskopiointi:** Synkronointi pilveen ei ole varmuuskopiointia. Jos tiedosto poistetaan vahingossa tai se saastuu, se voi kadota lopullisesti ilman erillistä[ pilvivarmistusta.](https://www.tdp.fi/it-palvelut/varmuuskopiointi/)
+6. **Tuki:** Mistä kysytään [apua ongelmatilanteissa](https://www.tdp.fi/it-palvelut/tuki-ja-huolto/)?
+
+Näihin ei tarvitse keksiä vastauksia yksin. Kartoituksessa rakennamme mallin, joka sopii juuri teidän arkeenne.
+
+## Näin käyttöönotto etenee TDP:n kanssa
+
+1. **Kartoitus ja lisenssivalinta:**
+   Käymme läpi nykytilanteen ja valitsemme sopivat lisenssit käyttäjäryhmien mukaan.
+2. **Määrittely ja perusasetukset:**
+   Rakennamme ympäristön valmiiksi, kytkemme verkkotunnukset ja laitamme tietoturvapohjan kuntoon heti alusta alkaen.
+3. **Migraatio sovitussa aikataulussa:**
+   Siirrämme sähköpostit ja tiedostot niin, että yrityksen arki jatkuu mahdollisimman vähin käyttökatkoksin.
+4. **Ylläpito ja arjen tuki:**
+   Käyttöönoton jälkeen emme katoa. Huolehdimme käyttäjähallinnasta ja autamme ongelmatilanteissa sovitun palvelumallin mukaisesti.
+
+*Pyydä tarjous tai kartoitus. Laitetaan Microsoft 365 kerralla kuntoon, niin työt sujuvat ilman turhaa säätöä.*
