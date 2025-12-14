@@ -55,7 +55,7 @@ Pelkkä hallintaohjelmisto ei riitä, jos laitehankinta on villi länsi. Saat pa
 
 ## Keskitetty hallinta laittaa IT-kaaoksen kuriin
 
-Kysy lisää asiantuntijoiltamme tai jätä [viesti](https://www.tdp.fi/it-palvelut/keskitetty-hallinta#contact-form)!
+Kysy lisää asiantuntijoiltamme tai jätä [viesti](https://www.tdp.fi/it-palvelut/keskitetty-hallinta#contact-form).
 
 Pauli Aalto | 040 748 3818 | pauli.aalto@tdp.fi
 
