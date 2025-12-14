@@ -37,11 +37,11 @@ breadcrumb:
 Pelkkä hallintaohjelmisto ei riitä, jos laitehankinta on villi länsi. Saat parhaan tehon, kun yhdistät hallinnan TDP:n laitepalveluihin. Hanki laitteet joustavalla Leasingilla meiltä, niin toimitamme ne käyttäjille valmiiksi työkuntoon Zero Touch -käyttöönotolla.
 
 
-<HeroBlock bgColor="brand" imageAlign="left">
+<HeroBlock bgColor="brand" imageAlign="right">
 
 <div className="HeroBlockImage">
 
-
+![](/assets/tdp-keskitetty-hallinta.png)
 
 </div>
 
