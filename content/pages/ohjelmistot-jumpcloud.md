@@ -47,7 +47,7 @@ Pelkkä hallintaohjelmisto ei riitä, jos laitehankinta on villi länsi. Saat pa
 
 <div className="HeroBlockImage">
 
-![](/assets/tdp-keskitetty-hallinta.png)
+![Kuvituskuva: IT järjestelmäsymboleita yhdistyneenä keskukseen.](/assets/tdp-keskitetty-hallinta.png)
 
 </div>
 
