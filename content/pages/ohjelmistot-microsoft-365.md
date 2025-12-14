@@ -50,27 +50,49 @@ Kokonaisuus koostuu tutuista työkaluista, mutta todellinen hyöty syntyy siitä
 
 ### Ominaisuusvertailu: Valitse yrityksellesi sopiva taso
 
-| Ominaisuus | Business Basic | Business Standard | Business Premium |
-| :--- | :---: | :---: | :---: |
-| **Toimistosovellukset** | | | |
-| Word, Excel, PowerPoint, Outlook | Verkko- ja mobiiliversiot | Työpöytäsovellukset (PC/Mac) + Verkko/Mobiili | Työpöytäsovellukset (PC/Mac) + Verkko/Mobiili |
-| **Viestintä ja tallennus** | | | |
-| Sähköposti omalla verkkotunnuksella | ✅ | ✅ | ✅ |
-| Teams-etäkokoukset ja pikaviestit | ✅ | ✅ | ✅ |
-| 1 Tt pilvitallennustilaa (OneDrive) | ✅ | ✅ | ✅ |
-| **Edistynyt yhteistyö** | | | |
-| Webinaarit ja raportointi | - | ✅ | ✅ |
-| Clipchamp-videoeditointi | - | ✅ | ✅ |
-| Microsoft Loop -työtilat | - | ✅ | ✅ |
-| **Tietoturva ja hallinta** | | | |
-| Perustason roskapostisuodatus | ✅ | ✅ | ✅ |
-| Kehittynyt uhkasuojaus (Defender) | - | - | ✅  |
-| Laitteiden hallinta ja suojaus (Intune) | - | - | ✅ |
-| Tiedon luokittelu ja suojaus (Purview) | - | - | ✅ |
-| **Tekoäly** | | | |
-| Copilot Chat | ✅ | ✅ | ✅ |
-| Kuukausilisenssi (EUR/kk/käyttäjä) |<DisplayVariable variableKey="ms-365-business-basic-kk" bold={true} />| <DisplayVariable variableKey="ms-365-business-standard-kk" bold={true} /> |<DisplayVariable variableKey="ms-365-business-premium-kk" bold={true} />|
-| Vuosilisenssi (EUR/kk/käyttäjä)|<DisplayVariable variableKey="ms-365-business-basic-vuosi" bold={true} />|<DisplayVariable variableKey="ms-365-business-standard-vuosi" bold={true} />| <DisplayVariable variableKey="ms-365-business-premium-vuosi" bold={true} />|
+| Ominaisuus                              | Business Basic                                                            | Business Standard                                                            | Business Premium                                                            |
+| --------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| **Toimistosovellukset**                 |                                                                           |                                                                              |                                                                             |
+| Word, Excel, PowerPoint, Outlook        | Verkko- ja mobiiliversiot                                                 | Työpöytäsovellukset (PC/Mac) + Verkko/Mobiili                                | Työpöytäsovellukset (PC/Mac) + Verkko/Mobiili                               |
+| **Viestintä ja tallennus**              |                                                                           |                                                                              |                                                                             |
+| Sähköposti omalla verkkotunnuksella     | ✅                                                                         | ✅                                                                            | ✅                                                                           |
+| Teams-etäkokoukset ja pikaviestit       | ✅                                                                         | ✅                                                                            | ✅                                                                           |
+| 1 Tt pilvitallennustilaa (OneDrive)     | ✅                                                                         | ✅                                                                            | ✅                                                                           |
+| **Edistynyt yhteistyö**                 |                                                                           |                                                                              |                                                                             |
+| Webinaarit ja raportointi               | \-                                                                        | ✅                                                                            | ✅                                                                           |
+| Clipchamp-videoeditointi                | \-                                                                        | ✅                                                                            | ✅                                                                           |
+| Microsoft Loop -työtilat                | \-                                                                        | ✅                                                                            | ✅                                                                           |
+| **Tietoturva ja hallinta**              |                                                                           |                                                                              |                                                                             |
+| Perustason roskapostisuodatus           | ✅                                                                         | ✅                                                                            | ✅                                                                           |
+| Kehittynyt uhkasuojaus (Defender)       | \-                                                                        | \-                                                                           | ✅                                                                           |
+| Laitteiden hallinta ja suojaus (Intune) | \-                                                                        | \-                                                                           | ✅                                                                           |
+| Tiedon luokittelu ja suojaus (Purview)  | \-                                                                        | \-                                                                           | ✅                                                                           |
+| **Tekoäly**                             |                                                                           |                                                                              |                                                                             |
+| Copilot Chat                            | ✅                                                                         | ✅                                                                            | ✅                                                                           |
+| Kuukausilisenssi (EUR/kk/käyttäjä)      | <DisplayVariable variableKey="ms-365-business-basic-kk" bold={true} />    | <DisplayVariable variableKey="ms-365-business-standard-kk" bold={true} />    | <DisplayVariable variableKey="ms-365-business-premium-kk" bold={true} />    |
+| Vuosilisenssi (EUR/kk/käyttäjä)         | <DisplayVariable variableKey="ms-365-business-basic-vuosi" bold={true} /> | <DisplayVariable variableKey="ms-365-business-standard-vuosi" bold={true} /> | <DisplayVariable variableKey="ms-365-business-premium-vuosi" bold={true} /> |
+
+
+<HeroBlock bgColor="brand" imageAlign="left">
+
+<div className="HeroBlockImage">
+
+
+
+</div>
+
+<div className="HeroBlockContent">
+
+## Kysy lisää asiantuntijoiltamme
+
+Pauli Aalto | 040 748 3818 | [pauli.aalto@tdp.fi](mailto:pauli.aalto@tdp.fi)
+
+TDP Toimisto | 010 292 1640 | [myynti@tdp.fi](mailto:myynti@tdp.fi)
+
+</div>
+
+</HeroBlock>
+
 
 ## Tekoäly ja uusi tuottavuus (Copilot ja Loop)
 
