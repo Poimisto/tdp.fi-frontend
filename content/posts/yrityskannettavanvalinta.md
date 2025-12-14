@@ -95,7 +95,7 @@ Jos työntekijän kone katoaa, **BitLocker** salaa levyn automaattisesti. Varas 
 
 Markkinoilla on paljon hyviä valmistajia. Pitkäaikaisen kokemuksemme perusteella olemme päätyneet suosittelemaan yrityskäyttöön erityisesti  **Dell Pro ja Dell Pro Max sarjoja.** [Linkin artikkelista](https://www.tdp.fi/dellin-kolme-uutta-sarjaa-mika-sopii-sinulle/) löydät lisätietoja näistä. Emme tuijota pelkkiä mallinumeroita, vaan katsomme kokonaisuutta: miten laite palvelee liiketoimintaa, kestää käyttöä ja istuu yrityksen arkeen.
 
-Esimerkiksi Dell Pro 14 ja Dell Pro 16 ovat hyvä esimerkki tämän päivän “oikeasta peruskoneesta” pk-yritykseen. Niissä yhdistyvät tyypillisesti
+Esimerkiksi **Dell Pro 14** ja **Dell Pro 16** ovat hyviä esimerkkejä tämän päivän “oikeasta peruskoneesta” pk-yritykseen. Niissä yhdistyvät tyypillisesti:
 
 * **Prosessori:** Intel Core Ultra 5 tai 7 U -sarja, usein vPro-versiona (tärkeä etähallinnan kannalta).  
 * **Muisti:** 16 Gt DDR5 on nykypäivän minimi sujuvaan työhön.  
