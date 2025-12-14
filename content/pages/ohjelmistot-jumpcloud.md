@@ -24,6 +24,18 @@ breadcrumb:
 
 **Keskitetty hallinta** kokoaa **käyttäjät, tietokoneet ja pääsyoikeudet** yhteen selkeään pilvipohjaiseen näkymään. Se korvaa perinteisen Active Directoryn ja raskaat palvelimet modernilla JumpCloud-alustalla.
 
+Palvelu on erinomainen valinta yrityksille, jotka:
+
+* **Toimivat hybridiympäristössä**
+
+  , eli työntekijöitä on sekä toimistolla että etänä
+* **Käyttävät eri käyttöjärjestelmiä**
+
+  , kuten Windowsia, macOS:ää ja Linuxia
+* **Haluavat vähentää IT-kuormaa**
+
+  , ulkoistaa hallinnan ja keskittyä ydintoimintaansa
+
 ### Liiketoimintahyödyt
 
 **Palvelu maksaa itsensä takaisin vähentyneenä säätämisenä, parantuneena tietoturvana ja suorina lisenssisäästöinä.**
