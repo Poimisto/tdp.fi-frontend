@@ -52,7 +52,6 @@ Kokonaisuus koostuu tutuista työkaluista, mutta todellinen hyöty syntyy siitä
 
 | Ominaisuus | Business Basic | Business Standard | Business Premium |
 | :--- | :---: | :---: | :---: |
-| **Kenelle?** | Kevyeen käyttöön / mobiilille | Perustyöntekijälle | **Kun tietoturva ratkaisee** |
 | **Toimistosovellukset** | | | |
 | Word, Excel, PowerPoint, Outlook | Verkko- ja mobiiliversiot | Työpöytäsovellukset (PC/Mac) + Verkko/Mobiili | Työpöytäsovellukset (PC/Mac) + Verkko/Mobiili |
 | **Viestintä ja tallennus** | | | |
@@ -69,7 +68,7 @@ Kokonaisuus koostuu tutuista työkaluista, mutta todellinen hyöty syntyy siitä
 | Laitteiden hallinta ja suojaus (Intune) | - | - | ✅ |
 | Tiedon luokittelu ja suojaus (Purview) | - | - | ✅ |
 | **Tekoäly** | | | |
-| Tietoturvallinen Copilot Chat | ✅ | ✅ | ✅ |
+| Copilot Chat | ✅ | ✅ | ✅ |
 | Kuukausilisenssi (EUR/kk/käyttäjä) |<DisplayVariable variableKey="ms-365-business-basic-kk" bold={true} />| <DisplayVariable variableKey="ms-365-business-standard-kk" bold={true} /> |<DisplayVariable variableKey="ms-365-business-premium-kk" bold={true} />|
 | Vuosilisenssi (EUR/kk/käyttäjä)|<DisplayVariable variableKey="ms-365-business-basic-vuosi" bold={true} />|<DisplayVariable variableKey="ms-365-business-standard-vuosi" bold={true} />| <DisplayVariable variableKey="ms-365-business-premium-vuosi" bold={true} />|
 
