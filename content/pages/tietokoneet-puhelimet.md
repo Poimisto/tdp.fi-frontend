@@ -81,7 +81,7 @@ Paras tapa onnistua on vakioida, ei maksimoida vaihtoehtoja.
 2. **Valitaan laitteet**: Jokaiseen profiiliin 1–2 vakiomallia.
 3. **Sovitaan hankinta:** Elinkaari, hankintatapa (suoraosto/leasing) ja palvelutaso.
 
-Lue lisää yrityskannettavien valinnasta julkaisemastamme [oppaasta](<>).
+Lue lisää yrityskannettavien valinnasta julkaisemastamme [oppaasta](https://www.tdp.fi/Yrityskannettavanvalinta/).
 
 ### Palvelusopimus
 
