@@ -4,7 +4,7 @@ date: 2022-09-26T09:47:38.826Z
 head:
   title: Microsoft 365 lisenssit - Microsoft Partner, AAA-luokitus
   description: MS 365 -lisenssit pk -yritykselle viralliselta Microsoft Partner
-    -kumppanilta. Yrityssähköpostit omalla domainillanne ja kattava valikoima
+    -kumppanilta. Sähköpostit omalla domainillanne ja kattava valikoima
     yhteistyö- ja tuottavuustyökaluja yrityskäyttöön.
   keywords: MS365 lisenssi, Microsoft 365, Microsoft pilvipalvelut, Entra, Intune,
     Copilot, MS Business, MS365 Business, Microsoft Business Standard, MS
