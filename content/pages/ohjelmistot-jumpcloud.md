@@ -16,7 +16,7 @@ breadcrumb:
     label: ohjelmistot
   - label: JumpCloud
 ---
-![Yrityksesi keskitetty hallinta JumpCloud-ohjelmistolla](/assets/jumpcloud-tinified.jpg "Jumpcloud")
+![Kuvituskuva: JumpCloud hallintaohjelmisto avattuna laajakuvanäytöllä](/assets/jumpcloud-tinified.jpg "Jumpcloud tarjoaa työkalut pk-yrityksen laitteiden ja identiteettien hallintaan.")
 
 # Laite- ja identiteetinhallinta (IAM & MDM) - JumpCloud
 
