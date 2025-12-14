@@ -179,7 +179,7 @@ Ei, vaan helpommaksi. Työntekijä tarvitsee vain yhden turvallisen identiteetin
 
 **Miten MFA (monivaiheinen todennus) toimii tässä?** \
 \
-Se on sisäänrakennettu. Voimme pakottaa MFA:n päälle kriittisiin kirjautumisiin. Keskitettyyn hallintaan kuuluu ilmainen TOTP-sovellus, joka tekee puhelimesta "avaimen". Käyttäjä hyväksyy kirjautumisen yhdellä painalluksella, helppoa ja äärimmäisen turvallista.
+Se on sisäänrakennettu. Voimme pakottaa MFA:n päälle kriittisiin kirjautumisiin. Keskitettyyn hallintaan kuuluu ilmainen TOTP-sovellus, joka tekee puhelimesta avaimen. Käyttäjä hyväksyy kirjautumisen yhdellä painalluksella, helppoa ja äärimmäisen turvallista.
 
 **Mitä tarkoittaa SSO (Single Sign-On) ja miten se liittyy tähän?**
 
