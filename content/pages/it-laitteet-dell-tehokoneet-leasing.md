@@ -32,7 +32,7 @@ contactForm: Ota yhteyttä
 * Sisältää 3v Dell Pro Support OnSite-takuun
 
 
-**Arvioi yrityksellesi sopivan Dell-tehopaketin hinta alla olevalla laskurilla ja [ota yhteyttä](<>).**
+**Arvioi yrityksellesi sopivan Dell-tehopaketin hinta alla olevalla laskurilla ja [ota yhteyttä](https://www.tdp.fi/it-laitteet/dell-tehokoneet-leasing#contact-form).**
 
 </div>
 
