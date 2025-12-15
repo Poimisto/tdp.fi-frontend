@@ -240,4 +240,4 @@ Kyllä. Outlook, Teams ja Office sovellukset toimivat myös macOS ja mobiililait
 
 **Mitä tapahtuu tiedostoille ja sähköposteille, kun työntekijä lähtee?**
 
-Kun yhteiset tiedostot ovat SharePointissa ja tiimeissä, ne säilyvät yrityksen omistuksessa. Poistuvan käyttäjän postin ohjaukset, oikeuksien poisto ja tarvittava datan siirto hoidetaan hallitusti. [Palvelusopimuksella](https://www.tdp.fi/it-palvelut/it-ulkoistus/) nämä tehdään sovitulla prosessilla ja vasteajoilla.
+Kun yhteiset tiedostot ovat SharePointissa ja tiimeissä, ne säilyvät yrityksen omistuksessa. Poistuvan käyttäjän postin ohjaukset, oikeuksien poisto ja tarvittava datan siirto hoidetaan hallitusti. [Palvelusopimuksella](https://www.tdp.fi/it-palvelut/it-ulkoistus/) me huolehdimme näistä sovitusti.
