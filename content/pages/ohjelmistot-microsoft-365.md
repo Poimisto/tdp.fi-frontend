@@ -72,6 +72,18 @@ Kokonaisuus koostuu tutuista työkaluista, mutta todellinen hyöty syntyy siitä
 | Kuukausilisenssi (EUR/kk/käyttäjä)      | <DisplayVariable variableKey="ms-365-business-basic-kk" bold={true} />    | <DisplayVariable variableKey="ms-365-business-standard-kk" bold={true} />    | <DisplayVariable variableKey="ms-365-business-premium-kk" bold={true} />    |
 | Vuosilisenssi (EUR/kk/käyttäjä)         | <DisplayVariable variableKey="ms-365-business-basic-vuosi" bold={true} /> | <DisplayVariable variableKey="ms-365-business-standard-vuosi" bold={true} /> | <DisplayVariable variableKey="ms-365-business-premium-vuosi" bold={true} /> |
 
+***Microsoft 365 Business -paketit on suunniteltu alle 300 käyttäjän organisaatioille. Jos organisaationne kasvaa tätä suuremmaksi, katsotaan lisensointi ja hallintamalli yhdessä.***
+
+## Lisenssitasot tiiviisti
+
+**Apps for Business / Erityistarpeisiin:** Kun sähköposti on muualla, mutta tarvitaan Office-ohjelmat + OneDrive. Ei Teamsia/Sähköpostia.
+
+**Business Basic / Kevyeen käyttöön:**  Työntekijöille, jotka eivät tarvitse asennettavia ohjelmia. Sähköposti, Teams, selain-Officet.
+
+**Business Standard / Peruskäyttäjälle:** Yleisin valinta. Kaikki Basicin ominaisuudet + asennettavat Word, Excel, PowerPoint, Outlook.
+
+**Business Premium / Suosituksemme:** Kun tietoturva on tärkeää. Kaikki Standardin edut + Entra ID (identiteetti), Intune (laitehallinta), Defender (turva) ja Purview (vaatimustenmukaisuus).
+
 ## Tekoäly ja uusi tuottavuus (Copilot ja Loop)
 
 Tekoäly on tullut osaksi arkea, mutta termit menevät helposti sekaisin. Selkeytimme erot, jotta tiedät mistä maksat.
@@ -134,19 +146,7 @@ Usein tärkein yksittäinen parannus tietoturvaan. Voimme rakentaa sääntöjä,
 
 * Jos käsittelet arkaluontoista dataa (henkilötunnukset, sopimukset), Purview auttaa luokittelemaan ja salaamaan tiedostot niin, etteivät ne aukea väärissä käsissä
 
-## Lisenssitasot tiiviisti
-
-Microsoft 365 Business -paketit on suunniteltu alle 300 käyttäjän organisaatioille.
-
-**Apps for Business / Erityistarpeisiin:** Kun sähköposti on muualla, mutta tarvitaan Office-ohjelmat + OneDrive. Ei Teamsia/Sähköpostia.
-
-**Business Basic / Kevyeen käyttöön:**  Työntekijöille, jotka eivät tarvitse asennettavia ohjelmia. Sähköposti, Teams, selain-Officet.
-
-**Business Standard / Peruskäyttäjälle:** Yleisin valinta. Kaikki Basicin ominaisuudet + asennettavat Word, Excel, PowerPoint, Outlook.
-
-**Business Premium / Suosituksemme:** Kun tietoturva on tärkeää. Kaikki Standardin edut + Entra ID (identiteetti), Intune (laitehallinta), Defender (turva) ja Purview (vaatimustenmukaisuus).
-
-## Mitä kannattaa huomioida valinnassa?
+### Mitä kannattaa huomioida valinnassa?
 
 Pelkkä lisenssien ostaminen ei riitä. Jotta ympäristö palvelee liiketoimintaa, muutama perusasia kannattaa harkita etukäteen:
 
@@ -170,4 +170,74 @@ Näihin ei tarvitse keksiä vastauksia yksin. Kartoituksessa rakennamme mallin, 
 4. **Ylläpito ja arjen tuki:**
    Käyttöönoton jälkeen emme katoa. Huolehdimme käyttäjähallinnasta ja autamme ongelmatilanteissa sovitun palvelumallin mukaisesti.
 
-*Pyydä tarjous tai kartoitus. Laitetaan Microsoft 365 kerralla kuntoon, niin työt sujuvat ilman turhaa säätöä.*
+*[Ota yhteyttä](https://www.tdp.fi/ohjelmistot/microsoft-365/#contact-form) ja pyydä tarjous tai kartoitus. Laitetaan Microsoft 365 kerralla kuntoon, niin työt sujuvat ilman turhaa säätöä.*
+
+- - -
+
+![Kuvituskuva: Kannettavia tietokoneita IT-asentajan työpöydällä](/assets/tuki2-1200-x-627.jpg "MS365 lisenssit ja tuki yrityksille luotettavalta palvelukumppanilta. ")
+
+## Usein kysytyt kysymykset (UKK /FAQ)
+
+**Mitä MS365 maksaa meille?**
+
+Microsoft 365 hinnoitellaan käyttäjäkohtaisesti ja kuukausilaskutuksella. Hintaan vaikuttaa lisenssitaso (Business Basic, Business Standard, Business Premium) sekä mahdolliset lisäpalvelut, kuten Microsoft 365 Copilot. Kartoituksessa varmistetaan, että lisenssit ovat oikein mitoitettuja, eikä makseta turhasta.
+
+**Mikä MS365 paketti sopii pk yritykselle?**
+
+Usein hyvä lähtökohta on Business Standard, kun tarvitaan yrityssähköposti ja Office sovellukset myös työasemalle. Business Premium on ajankohtainen, kun halutaan samalla nostaa tietoturvan ja vaatimustenmukaisuuden tasoa, esimerkiksi kirjautumissäännöt ja hallitut laitteet.
+
+**Voiko lisenssejä yhdistellä, vai pitääkö kaikilla olla sama paketti?**
+
+Lisenssejä voi yhdistellä roolien mukaan. Tyypillinen malli on, että johto ja avainkäyttäjät ovat Premium tasolla ja muu organisaatio Standard tasolla. Tämä on usein kustannustehokas tapa rakentaa kokonaisuus.
+
+**Miten Microsoft lisenssien laskutus toimii TDP:ltä hankittaessa?**
+
+Saat lisenssit samalla hinnoittelulla kuin suoraan valmistajalta, mutta laskutus tulee teille sovitun laskutusrytmin mukaisesti yhdessä muiden palveluiden kanssa. Tämä helpottaa taloushallintoa, kun lisenssit, tuki ja mahdolliset lisäpalvelut näkyvät samassa kokonaisuudessa.
+
+**Mitä eroa on Microsoft 365:llä ja Office 365:llä?**
+
+Office 365 viittaa käytännössä Office sovelluksiin ja pilvipalveluihin. Microsoft 365 on laajempi kokonaisuus, jossa mukana on myös laaja valikoima lisäkomponentteja lisenssitasosta riippuen. Ero näkyy erityisesti Business Premium tasolla.
+
+**Mitä eroa on OneDrivella ja SharePointilla?**
+
+OneDrive on käyttäjän henkilökohtainen työtila omille työtiedostoille. SharePoint on yrityksen yhteinen tiedonhallinta, jossa projektit, sopimukset ja yhteiset dokumentit ovat yrityksen omistuksessa ja jaettuna hallitusti. Kun jako on selkeä, tiedostot löytyvät ja henkilövaihdokset eivät riko arkea.
+
+**Miten yrityssähköposti omalla verkkotunnuksella otetaan käyttöön?**
+
+Yrityssähköposti kytketään verkkotunnukseen DNS määrityksillä. Samalla kannattaa laittaa kuntoon sähköpostin toimitettavuus ja suojaus, esimerkiksi SPF, DKIM ja DMARC. Näin viestit menevät perille ja kalastelu vähenee. Hoidamme määritykset ja testaamme toimivuuden ennen vaihtoa.
+
+**Miten Microsoft 365 migraatio tehdään, tuleeko käyttökatkoja?**
+
+Migraatio tehdään suunnitellusti ja vaiheistettuna, jotta työ jatkuu mahdollisimman normaalisti. Sähköpostit ja tiedostot siirretään sovitussa aikataulussa, ja vaihto pyritään tekemään niin, että käyttökatko jää vähäiseksi. Käyttäjille annetaan selkeät ohjeet, jotta ensimmäinen työpäivä uudessa ympäristössä sujuu.
+
+**Säilyvätkö vanhat sähköpostit ja kalenterit siirrossa?**
+
+Kyllä, yleensä siirretään myös historia, kansiorakenne ja kalenterit sovitussa laajuudessa. Kartoituksessa määritetään, mitä siirretään ja mitä ei, esimerkiksi vanhat arkistot ja jaetut postilaatikot.
+
+**Tarvitaanko Microsoft 365:lle erillinen varmuuskopiointi?**
+
+Yleensä kyllä. Synkronointi ei ole varmuuskopiointia. Jos tiedosto poistetaan, ylikirjoitetaan tai saastuu, muutos voi levitä kaikkiin laitteisiin. [Pilvipalveluiden varmuuskopiointi](https://www.tdp.fi/it-palvelut/varmuuskopiointi/) tuo palautuskyvyn vahinkojen, hyökkäysten ja inhimillisten virheiden varalle.
+
+**Mitä Business Premium tuo lisää verrattuna Standardiin?**
+
+Premiumissa korostuvat vaatimustenmukaisuus ja hallinta. Tyypillisiä lisähyötyjä ovat kirjautumisen ehdolliset säännöt, laitehallinta ja päätelaitesuojaus. Käytännössä voidaan esimerkiksi vaatia salaus ja päivitykset kuntoon ennen kuin työdataan pääsee käsiksi. Tämä vähentää riskejä ja usein myös tukipyyntöjä.
+
+**Miten yrityksen Microsoft 365 tietoturva rakennetaan käytännössä?**
+
+Perusrunko on monivaiheinen tunnistautuminen, selkeät käyttöoikeudet ja hallittu ulkoinen jakaminen. Kun vaatimukset kasvavat, mukaan otetaan kirjautumissäännöt, laitehallinta ja uhkien torjunta. Teknisen suojauksen rinnalle kannattaa lisätä [henkilöstön koulutus](https://www.tdp.fi/it-palvelut/tdp-kyberakatemia/), koska iso osa hyökkäyksistä kohdistuu ihmisiin.
+
+**Mitä eroa on Copilot Chatilla ja Microsoft 365 Copilotilla?**
+
+Copilot Chat on yleiskäyttöinen tekoälyavustin työympäristössä. Microsoft 365 Copilot on erillinen lisäpalvelu, joka tuo tekoälyn suoraan sovelluksiin kuten Word, Excel ja Teams, ja voi hyödyntää työdataa käyttäjän oikeuksien puitteissa. Siksi Copilot käyttöönotto kannattaa aloittaa tiedon rakenteen ja käyttöoikeuksien siistimisestä.
+
+**Mitä turvallinen Copilot käyttöönotto vaatii?**
+
+Tarvitaan selkeä tiedonhallinnan malli, eli missä tieto sijaitsee ja kenellä on oikeus nähdä se. Lisäksi kannattaa sopia pelisäännöt, mitä dataa käsitellään ja miten Copilotia hyödynnetään. Kun käyttöä seurataan ja kehitetään, tekoälystä tulee osa arkea, ei pelkkä kokeilu.
+
+**Voiko Microsoft 365:ttä käyttää Macilla ja puhelimella?**
+
+Kyllä. Outlook, Teams ja Office sovellukset toimivat myös macOS ja mobiililaitteissa. Jos mukaan halutaan laitehallinta ja yritysdatan erottelu, se suunnitellaan lisenssitason ja laitekannan mukaan.
+
+**Mitä tapahtuu tiedostoille ja sähköposteille, kun työntekijä lähtee?**
+
+Kun yhteiset tiedostot ovat SharePointissa ja tiimeissä, ne säilyvät yrityksen omistuksessa. Poistuvan käyttäjän postin ohjaukset, oikeuksien poisto ja tarvittava datan siirto hoidetaan hallitusti. [Palvelusopimuksella](https://www.tdp.fi/it-palvelut/it-ulkoistus/) nämä tehdään sovitulla prosessilla ja vasteajoilla.
