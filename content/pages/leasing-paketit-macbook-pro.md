@@ -22,18 +22,18 @@ breadcrumb:
 ---
 # Apple-laitteet – MacBook Pro, MacBook Air ja Mac Mini
 
-Uusimmat Apple M4 -sarjan laitteet nyt leasingillä tai suoraostolla: MacBook Pro, MacBook Air ja Mac mini huippusuorituskyvyllä ja tyylikkäällä designilla
-
-<LeasingCalculator additionalMargin={0} threeYearInterest={1.04663} devices='[{"name":"MacBook Pro 16\" M4 Pro 24 Gt, 1 Tt 2024","price":2594,"warrantyName":"mcare Business Premium 36 kk","warrantyPrice":258},{"name":"MacBook Pro 16\" M4 Max 64 Gt, 1Tt 2024","price":3978,"warrantyName":"mcare Business Premium 36 kk","warrantyPrice":258},{"name":"MacBook Pro 14\" M4 24 Gt, 512 Gt 2024","price":1792,"warrantyName":"mcare Business Premium 36 kk","warrantyPrice":198},{"name":"MacBook Air 15\" M4 16 Gt, 512 Gt 2024","price":1449,"warrantyName":"mcare Business Premium 36 kk","warrantyPrice":178},{"name":"Mac mini M4 Pro 24 Gt, 512 Gt","price":1393,"warrantyName":"mcare Business Premium 36 kk","warrantyPrice":112}]' peripherals='[{"name":"Näppäimistö","price":76},{"name":"Hiiri","price":105},{"name":"Kuulokkeet","price":159},{"name":"Näyttö 27\" QHD USB-C","price":292},{"name":"Mousetrapper Delta","price":205}]' />
-
-Uusimmat MacBook Pro -mallit 14" ja 16" koossa, varustettuna tehokkailla M4 Pro ja M4 Max -suorittimilla sekä koko työpäivän kestävällä akulla – täydellinen valinta vaativaan ammattilaiskäyttöön.
-
-M4-sarjan Macit tarjoavat entistä enemmän tehoa tekoäly- ja grafiikkaprosessointiin, parannetun moninäyttötuen sekä entistäkin energiatehokkaamman arkkitehtuurin – kaikki sujuvassa ja hiljaisessa paketissa.
-
-Kauttamme saat myös kaikki muut Applen laitteet, kuten Mac mini, Mac Studio, iMac ja tarvittaessa täysin kustomoidut kokoonpanot yrityksesi tarpeisiin.
+***Uusimmat Apple M4 -sarjan laitteet nyt leasingillä tai suoraostolla: MacBook Pro, MacBook Air ja Mac mini huippusuorituskyvyllä ja tyylikkäällä designilla.*** 
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
 * Paketti voidaan räätälöidä vastaamaan teidän tarpeitanne
 
+
+
+<LeasingCalculator additionalMargin={0} threeYearInterest={1.04663} devices='[{"name":"MacBook Pro 16\" M4 Pro 24 Gt, 1 Tt 2024","price":2594,"warrantyName":"mcare Business Premium 36 kk","warrantyPrice":258},{"name":"MacBook Pro 16\" M4 Max 64 Gt, 1Tt 2024","price":3978,"warrantyName":"mcare Business Premium 36 kk","warrantyPrice":258},{"name":"MacBook Pro 14\" M4 24 Gt, 512 Gt 2024","price":1792,"warrantyName":"mcare Business Premium 36 kk","warrantyPrice":198},{"name":"MacBook Air 15\" M4 16 Gt, 512 Gt 2024","price":1449,"warrantyName":"mcare Business Premium 36 kk","warrantyPrice":178},{"name":"Mac mini M4 Pro 24 Gt, 512 Gt","price":1393,"warrantyName":"mcare Business Premium 36 kk","warrantyPrice":112}]' peripherals='[{"name":"Näppäimistö","price":76},{"name":"Hiiri","price":105},{"name":"Kuulokkeet","price":159},{"name":"Näyttö 27\" QHD USB-C","price":292},{"name":"Mousetrapper Delta","price":205}]' />
+
+
+
 <Cards cardsPerRow="2" cards='[{"bgColor":"lightest","title":"Apple MacBook Pro 16”","linkBgColor":"darkest","image":"/assets/macbook_16.webp","content":"* Suoritin: M4 Pro 10–14 ydintä tai M4 Max 14–16 ydintä\n* Muisti: 24–128 Gt\n* Tallennustila: 512 Gt – 8 Tt supernopeaa SSD-tilaa\n* Näyttö: 16\" Liquid Retina XDR – laaja väriskaala ja huippukirkkaus\n* Akkukesto: jopa 24 tuntia\n* Liitännät: 3× Thunderbolt 4, HDMI, SDXC, MagSafe-lataus, kuulokeliitäntä\n* Yhteydet: Wi-Fi 6E ja Bluetooth 5.3\n* Värit: Tähtimusta tai Hopea"},{"bgColor":"lightest","title":"Apple MacBook Pro 14”","linkBgColor":"darkest","image":"/assets/macbook_14.webp","content":"* Suoritin: M4 Pro 10–14 ydintä tai M4 Max 14–16 ydintä\n* Muisti: 16–128 Gt\n* Tallennustila: 512 Gt – 8 Tt supernopeaa SSD-tilaa\n* Näyttö: 14\" Liquid Retina XDR – laaja väriskaala ja huippukirkkaus\n* Akkukesto: jopa 24 tuntia\n* Liitännät: 3× Thunderbolt 4, HDMI, SDXC, MagSafe-lataus, kuulokeliitäntä\n* Yhteydet: Wi-Fi 6E ja Bluetooth 5.3\n* Värit: Tähtimusta tai Hopea"}]' />
+
+M4-sarjan Macit tarjoavat entistä enemmän tehoa tekoäly- ja grafiikkaprosessointiin, parannetun moninäyttötuen sekä entistäkin energiatehokkaamman arkkitehtuurin – kaikki sujuvassa ja hiljaisessa paketissa.
