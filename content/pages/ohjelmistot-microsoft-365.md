@@ -152,9 +152,9 @@ Pelkkä lisenssien ostaminen ei riitä. Jotta ympäristö palvelee liiketoiminta
 
 1. **Käyttäjäryhmät:** Tarvitseeko johto tai taloushallinto vahvemman tietoturvatason (Premium) kuin muu organisaatio?
 2. **Tiedon sijainti:** Mitä tallennetaan OneDriveen (omat) ja mitä SharePointiin (yhteiset)? Jos tätä ei sovita, tieto pirstaloituu.
-3. **Laiteturva:** Mitä tehdään, jos työntekijän puhelin tai kannettava katoaa.
+3. **Laitehallinta:** Onko macOS tai Linux -laitteita, jotka halutaan [Keskitetyn hallinnan](https://www.tdp.fi/it-palvelut/keskitetty-hallinta/) piiriin? 
 4. **Ulkoinen jakaminen:** Miten jaatte tiedostoja turvallisesti asiakkaiden kanssa ilman, että linkit jäävät ikuisesti auki?
-5. **Varmuuskopiointi:** Synkronointi pilveen ei ole varmuuskopiointia. Jos tiedosto poistetaan vahingossa tai se saastuu, se voi kadota lopullisesti ilman erillistä[ pilvivarmistusta.](https://www.tdp.fi/it-palvelut/varmuuskopiointi/)
+5. **Varmuuskopiointi:** Synkronointi pilveen ei ole varmuuskopiointia. Jos tiedosto poistetaan vahingossa tai se saastuu, se voi kadota lopullisesti ilman erillistä[ Pilvivarmistus palvelua.](https://www.tdp.fi/it-palvelut/varmuuskopiointi/)
 6. **Tuki:** Mistä kysytään [apua ongelmatilanteissa](https://www.tdp.fi/it-palvelut/tuki-ja-huolto/)?
 
 Näihin ei tarvitse keksiä vastauksia yksin. Kartoituksessa rakennamme mallin, joka sopii juuri teidän arkeenne.
