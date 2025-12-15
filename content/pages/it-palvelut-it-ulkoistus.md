@@ -37,6 +37,7 @@ Olemme IT-ulkoistuksen asiantuntijoita Pirkanmaalla ja pääkaupunkiseudulla. Ta
 * [T﻿ukipalvelut](https://www.tdp.fi/it-palvelut/tuki-ja-huolto): Nopea ja ammattitaitoinen tuki käyttäjäkysymyksiin ja ongelmatilanteisiin.
 * [Liiketoimintasovellukset](https://www.tdp.fi/ohjelmistot/google-workspace) (Google tai Microsoft): Hallinnoimme liiketoimintasovelluksianne tehokkaasti, varmistaen niiden sujuvan toiminnan ja integraation.
 * [Pilvipalveluiden varmuuskopiointi](https://www.tdp.fi/it-palvelut/varmuuskopiointi): Takaamme tietojenne turvallisuuden pilvipalveluissa tehokkaan varmuuskopiointiratkaisun avulla.
+* [Laitehankinnat](https://www.tdp.fi/it-laitteet/): Tietokoneet ja oheislaitteet kilpailukykyiseen hintaan, joko suoraostolla tai joustavasti leasingilla.
 * [Keskitetty hallinta](https://www.tdp.fi/it-palvelut/keskitetty-hallinta): Hallitsemme yrityksesi laitteita ja käyttäjätunnuksia yhdeltä hallintapaneelilta, mikä takaa paremman tietoturvan ja hallinnollisen tehokkuuden.
 * [Tietoturvapalvelut](https://www.tdp.fi/it-palvelut/tietoturva-total-ja-lite): Suojaamme yrityksesi tietoturvauhkilta ja varmistamme, että tietoturvasi on ajan tasalla.
 
