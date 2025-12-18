@@ -3,7 +3,7 @@ path: /it-laitteet/dellpromaxtower_desktop
 thumbnail: /assets/dell-pro-max-tower-t2_3-300x400-.jpg
 date: 2025-12-18T14:33:00.000Z
 head:
-  title: Dell Pro Max Tower -pöytäkoneet
+  title: Dell Pro Max Tower pöytäkoneet
   description: Dell Pro Max Tower T2 (malli FCT2250) on täysikokoinen,
     32-litrainen tehotyöasema, joka on suunniteltu suorituskyvyn äärirajoille.
     Se on ensisijainen valinta insinööreille, data-analyytikoille,
