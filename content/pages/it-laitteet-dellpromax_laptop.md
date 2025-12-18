@@ -61,7 +61,7 @@ Työpisteen keskiössä on vaikuttava 16:10-suhteen näyttö, joka on saatavilla
 
 - - -
 
-### **Tekniset tiedot (Malli MA14250)**
+### **Tekniset tiedot**
 
 |                       |                                          |
 | --------------------- | ---------------------------------------- |
