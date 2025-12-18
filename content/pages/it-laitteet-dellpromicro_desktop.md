@@ -14,7 +14,7 @@ contactForm: Ota yhteyttä
 ---
 # Dell Pro Micro -sarja
 
-![Kuvituskuva: Dell Pro Micro](/assets/kuva-dell-micro-desktop2.jpeg "Dell Pro Micro sarjan pöytätietokoneet yrityksille")
+![Kuvituskuva: Dell Pro Micro](/assets/kuva-dell-micro-desktop2.jpg "Dell Pro Micro sarjan pöytätietokoneet yrityksille")
 
 **Kenelle:** Dell Pro Micro -sarja (mallit QCM1250 ja QBM1250) on suunniteltu moderneihin, tilatehokkaisiin työympäristöihin. Se on täydellinen valinta avokonttoreihin, asiakaspalvelupisteisiin, sairaaloihin tai mihin tahansa, missä työpöytätila on kortilla, mutta suorituskyvystä ei haluta tinkiä.
 
