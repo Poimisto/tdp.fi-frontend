@@ -57,11 +57,12 @@ Laite täyttää tiukat yritystason tietoturvavaatimukset.
 
 - - -
 
-### **Tekniset tiedot (Malli PC14250 / PC16250)**
+### **Keskeiset ominaisuudet**
 
 
 | --------------------- | ----------------------------------------------- |
 | **Näytönohjain**      | Integroitu Intel Graphics                       |
+| **Prosessori**        | Intel® Core™ Ultra tai Intel® Core™ (U-sarja)   |
 | **Muisti**            | Jopa 64 GB DDR5 (kaksi kantaa)                  |
 | **Akku**              | 3-cell 45 Wh tai 55 Wh (Long Life Cycle -optio) |
 | **Paino**             | Alkaen 1.36 kg                                  |
