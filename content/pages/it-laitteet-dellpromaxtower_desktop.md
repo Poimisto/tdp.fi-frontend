@@ -1,5 +1,5 @@
 ---
-path: /it-laitteet/DellProMaxTower_desktop
+path: /it-laitteet/dellpromaxtower_desktop
 thumbnail: /assets/dell-pro-max-tower-t2_3.jpg
 date: 2025-12-18T14:33:00.000Z
 head:
