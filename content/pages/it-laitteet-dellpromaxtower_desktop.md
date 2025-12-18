@@ -11,7 +11,7 @@ head:
     laskentatehosta ja tarvitsevat erityisesti huippuluokan yksisäikeistä
     (single-threaded) suorituskykyä.
   keywords: Dell pöytäkone, pöytäkoneet dell, dell Max sarja, dell pöytäkoneet
-    yrityskäyttöön
+    yrityskäyttöön, tehotietokoneet yritykselle
 contactForm: Ota yhteyttä
 ---
 # Dell Pro Max Tower T2
