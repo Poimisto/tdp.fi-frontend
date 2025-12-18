@@ -18,7 +18,7 @@ contactForm: Ota yhteyttä
 
 ***Dell Pro Max Tower T2 on täysikokoinen, 32-litrainen tehotyöasema, joka on suunniteltu suorituskyvyn äärirajoille. Se on ensisijainen valinta insinööreille, data-analyytikoille, sisällöntuottajille ja 3D-suunnittelijoille, jotka eivät voi tinkiä laskentatehosta ja tarvitsevat huippuluokan suorituskykyä.***
 
-![Kuvituskuva: Dell Pro Max Tower](/assets/dell-pro-max-tower-t2_3-500x400-.jpg "Dell Pro Max Tower sarjan tehotyöasemat sopivat vaativaan yrityskäyttöön.")
+![Kuvituskuva: Dell Pro Max Tower tietokone](/assets/dell-pro-max-tower-t2_3-500x400-.jpg "Dell Pro Max Tower sarjan tehotyöasemat sopivat vaativaan yrityskäyttöön.")
 
 Tämä on tehty raskaaseen ajoon. Ainutlaatuinen **Unlimited Turbo Duration** -ominaisuus mahdollistaa sen, että 125 W:n prosessori voi toimia jopa **250 W:n** teholla pitkäkestoisesti, mikä takaa maksimaalisen nopeuden kriittisissä laskentatehtävissä ilman hidastumista. Yritysjohdolle laite tarjoaa turvaa **ISV-sertifioinneilla**, jotka takaavat ammattisovellusten (kuten CAD- ja mallinnusohjelmistot) vakaan toiminnan.
 
