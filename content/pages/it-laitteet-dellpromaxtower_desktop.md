@@ -14,12 +14,9 @@ head:
     yrityskäyttöön
 contactForm: Ota yhteyttä
 ---
-
-## **Dell Pro Max Tower T2**
+# Dell Pro Max Tower T2
 
 ***Dell Pro Max Tower T2 on täysikokoinen, 32-litrainen tehotyöasema, joka on suunniteltu suorituskyvyn äärirajoille. Se on ensisijainen valinta insinööreille, data-analyytikoille, sisällöntuottajille ja 3D-suunnittelijoille, jotka eivät voi tinkiä laskentatehosta ja tarvitsevat huippuluokan suorituskykyä.***
-
-
 
 ![Kuvituskuva: Dell Pro Max Tower](/assets/dell-pro-max-tower-t2_3-300x400-.jpg "Dell Pro Max Tower sarjan tehotyöasemat sopivat vaativaan yrityskäyttöön.")
 
