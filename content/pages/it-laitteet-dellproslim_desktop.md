@@ -12,7 +12,7 @@ contactForm: Ota yhteyttä
 ---
 ## **Dell Pro Slim -sarja**
 
-![Kuvituskuva: Dell Pro Slim](/assets/kuva-dell-slim-desktop1.jpeg "Dell Pro Slim sarjan pöytäkoneet yrityksille")
+![Kuvituskuva: Dell Pro Slim](/assets/kuva-dell-slim-desktop_2.jpg "Dell Pro Slim sarjan pöytäkoneet yrityksille")
 
 **Kenelle:** Dell Pro Slim -sarja (mallit QCS1250 ja QBS1250) on suunniteltu organisaatioille, jotka tarvitsevat enemmän joustavuutta kuin mitä ultramikrot tarjoavat, mutta eivät halua uhrata työpöytätilaa perinteiselle tornikotelolle. 8,4 litran tilavuudellaan se on täydellinen kompromissi koon ja ominaisuuksien välillä.
 
