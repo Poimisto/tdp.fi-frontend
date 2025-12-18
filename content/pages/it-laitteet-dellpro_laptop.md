@@ -12,9 +12,9 @@ head:
     yrityskäyttöön, laatukoneet yrityksille
 contactForm: Ota yhteyttä
 ---
-![Kuvituskuva: Dell Pro -sarjan kannettavia](/assets/kuva-dell-pro-laptop1.jpeg "Dell Pro sarjan kannettavat tarjoavat hyvän vaihtoehdon pk -yrityksen laitevakiointiin")
+# Dell Pro -sarja
 
-## **Dell Pro**
+![Kuvituskuva: Dell Pro -sarjan kannettavia](/assets/kuva-dell-pro-laptop1.jpeg "Dell Pro sarjan kannettavat tarjoavat hyvän vaihtoehdon pk -yrityksen laitevakiointiin")
 
 **Kenelle:** Dell Pro -sarja (mallit PC14250 ja PC16250) ovat optimaalinen valinta yrityksen yleiskoneiksi. Ne sopivat erinomaisesti niin päivittäiseen toimistotyöhön kuin myös liikkuville asiantuntijoille, jotka arvostavat keveyttä ja kestävyyttä.
 
