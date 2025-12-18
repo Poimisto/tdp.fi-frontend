@@ -15,7 +15,7 @@ head:
 contactForm: Ota yhteyttä
 ---
 
-# **Dell Pro Max Tower T2**
+## **Dell Pro Max Tower T2**
 
 ***Dell Pro Max Tower T2 on täysikokoinen, 32-litrainen tehotyöasema, joka on suunniteltu suorituskyvyn äärirajoille. Se on ensisijainen valinta insinööreille, data-analyytikoille, sisällöntuottajille ja 3D-suunnittelijoille, jotka eivät voi tinkiä laskentatehosta ja tarvitsevat huippuluokan suorituskykyä.***
 
