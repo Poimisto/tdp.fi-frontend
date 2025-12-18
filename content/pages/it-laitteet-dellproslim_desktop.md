@@ -1,6 +1,6 @@
 ---
 path: /it-laitteet/DellProSlim_desktop
-thumbnail: /assets/kuva-dell-slim-desktop1.jpeg
+thumbnail: /assets/kuva-dell-slim-desktop1.jpg
 date: 2025-12-18T14:27:00.000Z
 head:
   description: >+2
