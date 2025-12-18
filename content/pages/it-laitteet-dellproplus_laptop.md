@@ -34,7 +34,7 @@ Laitteet hyödyntävät uusinta Intel® Core™ Ultra -arkkitehtuuria, joka on o
 
 ### **Liitettävyys ja oheislaitteet**
 
-Dell Pro Plus on suunniteltu takaamaan nopeat yhteydet kaikissa ympäristöissä.
+**Dell Pro Plus** on suunniteltu takaamaan nopeat yhteydet kaikissa ympäristöissä.
 
 * **Portit:** 2 x Thunderbolt™ 4 (USB-C), 2 x USB-A 3.2 Gen 1 ja HDMI 2.1.  
 * **Langattomat yhteydet:** Wi-Fi 7 -valmius takaa nopeimmat ja luotettavimmat yhteydet.  
@@ -50,7 +50,7 @@ Kaikissa malleissa on tuottavuutta maksimoiva 16:10-kuvasuhde, joka tarjoaa enem
 
 ### **Tietoturva ja kestävyys**
 
-Laitteet on testattu tiukkojen MIL-STD 810H -standardien mukaisesti kestävyyden varmistamiseksi.
+Laitteet on testattu tiukkojen **MIL-STD 810H** -standardien mukaisesti kestävyyden varmistamiseksi.
 
 * **BIOS-suojaus:** Maailman turvallisimmiksi luokitellut kaupalliset PC:t BIOS-tason suojauksella.  
 * **Tunnistautuminen:** Valinnainen sormenjälkilukija virtapainikkeessa ja IR-kamera Windows Hello -tuella.  
