@@ -3,10 +3,11 @@ path: /it-laitteet/DellProSlim_desktop
 thumbnail: /assets/kuva-dell-slim-desktop1.jpeg
 date: 2025-12-18T14:27:00.000Z
 head:
-  description: >2
-     Dell Pro Micro -sarja (mallit QCM1250 ja QBM1250) on suunniteltu moderneihin, tilatehokkaisiin työympäristöihin. Se on täydellinen valinta avokonttoreihin, asiakaspalvelupisteisiin, sairaaloihin tai mihin tahansa, missä työpöytätila on kortilla, mutta suorituskyvystä ei haluta tinkiä.
-  title: Dell Pro Micro -pöytäkoneet
-  keywords: Dell pöytäkone, pöytäkoneet dell, dell micro sarja, dell pöytäkoneet
+  description: >+2
+     Dell Pro Slim -sarja (mallit QCS1250 ja QBS1250) on suunniteltu organisaatioille, jotka tarvitsevat enemmän joustavuutta kuin mitä ultramikrot tarjoavat, mutta eivät halua uhrata työpöytätilaa perinteiselle tornikotelolle. 8,4 litran tilavuudellaan se on täydellinen kompromissi koon ja ominaisuuksien välillä.
+
+  title: Dell Pro Slim -pöytäkoneet
+  keywords: Dell pöytäkone, pöytäkoneet dell, dell Slim sarja, dell pöytäkoneet
     yrityskäyttöön
 contactForm: Ota yhteyttä
 ---
