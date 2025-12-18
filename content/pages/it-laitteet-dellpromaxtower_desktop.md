@@ -14,7 +14,7 @@ head:
     yrityskäyttöön
 contactForm: Ota yhteyttä
 ---
-## **Dell Pro Max Tower T2**
+# **Dell Pro Max Tower T2**
 
 ![Kuvituskuva: Dell Pro Max Tower](/assets/dell-pro-max-tower-t2_3.jpg "Dell Pro Max Tower sarjan pöytäkoneet yrityksille")
 
