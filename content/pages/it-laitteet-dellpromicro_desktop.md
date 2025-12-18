@@ -18,7 +18,7 @@ contactForm: Ota yhteyttä
 
 ![Kuvituskuva: Dell Pro Micro](/assets/kuva-dell-micro-desktop2.jpg "Dell Pro Micro sarjan pöytätietokoneet yrityksille")
 
-Tämä sarja todistaa, ettei suuri teho vaadi suurta koteloa. Vain **1,18 litran** kokoinen runko kätkee sisäänsä täysiverisen modernin työkoneen. Yritysjohdolle sarja tarjoaa joustavuutta ja siisteyttä: innovatiivinen **yhden kaapelin ratkaisu** mahdollistaa laitteen virransyötön ja kuvan siirron yhdellä USB-C-kaapelilla yhteensopivasta näytöstä, mikä vähentää johtosotkua merkittävästi.
+Tämä sarja todistaa, ettei suuri teho vaadi suurta koteloa. Vain **1,18 litran** kokoinen runko kätkee sisäänsä täysiverisen työkoneen. Yritysjohdolle sarja tarjoaa joustavuutta ja siisteyttä: innovatiivinen **yhden kaapelin ratkaisu** mahdollistaa laitteen virransyötön ja kuvan siirron yhdellä USB-C-kaapelilla yhteensopivasta näytöstä, mikä vähentää johtosotkua merkittävästi.
 
 - - -
 
