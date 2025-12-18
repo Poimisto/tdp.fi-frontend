@@ -12,7 +12,7 @@ head:
     yrityskäyttöön, tietokoneet pk -yritykselle
 contactForm: Ota yhteyttä
 ---
-# Dell Pro Micro -sarja
+# Dell Pro Micro 
 
 ***Dell Pro Micro -sarja on suunniteltu moderneihin, tilatehokkaisiin työympäristöihin. Se on täydellinen valinta avokonttoreihin, asiakaspalvelupisteisiin, sairaaloihin tai mihin tahansa, missä työpöytätila on kortilla, mutta suorituskyvystä ei haluta tinkiä.***
 
