@@ -53,7 +53,7 @@ Työpisteen keskiössä on vaikuttava 16:10-suhteen näyttö, joka on saatavilla
 
 ### **Tietoturva ja hallittavuus**
 
-Dell Pro Max on suunniteltu vastaamaan yritysten tiukimpiin tietoturvastandardeihin BIOS-tasolta alkaen.
+**Dell Pro Max Premium** on suunniteltu vastaamaan yritysten tiukimpiin tietoturvastandardeihin BIOS-tasolta alkaen.
 
 * **Suojaus:** Dell Trusted Workspace tarjoaa useita kerroksia firmware-tason suojaa.  
 * **Hallinta:** Intel vPro Enterprise -tuki ja integroitu hallinta Microsoft Intunen kanssa.  
