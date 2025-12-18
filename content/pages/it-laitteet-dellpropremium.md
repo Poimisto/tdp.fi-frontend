@@ -1,5 +1,5 @@
 ---
-path: /it-laitteet/DellProPremium
+path: /it-laitteet/DellProPremium_laptop
 thumbnail: /assets/kuva-dell-pro-premiun-laptop1.jpeg
 date: 2025-12-18T14:00:00.000Z
 head:
