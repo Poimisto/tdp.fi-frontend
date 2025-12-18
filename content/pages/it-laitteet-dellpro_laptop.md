@@ -22,7 +22,7 @@ Sarja on suunniteltu minimoimaan kalliit huoltokatkot ja maksimoimaan laitteen e
 
 - - -
 
-### **Tekninen suorituskyky ja tekoälyvalmius**
+### **Tekninen suorituskyky**
 
 Laitteet on rakennettu modernin Intel® Core™ Ultra -arkkitehtuurin ympärille.
 
