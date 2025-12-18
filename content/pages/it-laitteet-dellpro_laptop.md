@@ -33,7 +33,7 @@ Laitteet on rakennettu modernin Intel® Core™ Ultra -arkkitehtuurin ympärille
 
 ### **Liitettävyys ja oheislaitteet**
 
-**Dell Pro** toimii hybridityön keskuksena monipuolisten liitäntöjen ansiosta.
+**Dell Pro** -sarjan kannettavissa on monipuoliset liitännät.
 
 * **Portit:** 1 x Thunderbolt 4 (USB-C), 1 x USB-C (DP/PD), 2 x USB-A 3.2 Gen 1, HDMI 2.1 ja natiivi RJ-45 (1 GbE).  
 * **Langattomat yhteydet:** Wi-Fi 7 (BE202), Wi-Fi 6E (AX211) tai Wi-Fi 6. Bluetooth 5.4 -tuki.  
@@ -41,7 +41,7 @@ Laitteet on rakennettu modernin Intel® Core™ Ultra -arkkitehtuurin ympärille
 
 ### **Näyttö ja käytettävyys**
 
-Molemmat mallit hyödyntävät 16:10-kuvasuhdetta, joka tarjoaa enemmän pystysuuntaista tilaa työlle.
+Mallit hyödyntävät 16:10-kuvasuhdetta, joka tarjoaa enemmän pystysuuntaista tilaa työlle.
 
 * **Pro 14 (14"):** FHD+ (1920x1200), IPS, 300 nit tai 400 nit (Low Power), heijastamaton pinta.  
 * **Pro 16 (16"):** FHD+ (1920x1200), IPS, 300 nit, heijastamaton, saatavilla valinnaisella kosketusnäytöllä.  
@@ -49,7 +49,7 @@ Molemmat mallit hyödyntävät 16:10-kuvasuhdetta, joka tarjoaa enemmän pystysu
 
 ### **Tietoturva ja kestävyys**
 
-Laite täyttää tiukat yritystason tietoturvavaatimukset.
+Laitteet täyttävät tiukat yritystason tietoturvavaatimukset.
 
 * **BIOS-suojaus:** Maailman turvallisimmiksi luokitellut kaupalliset PC:t BIOS-tason suojauksella, mukaan lukien Off-host BIOS verification.  
 * **Tunnistautuminen:** Valinnainen sormenjälkilukija virtapainikkeessa, IR-kamera Windows Hello -tuella sekä tulossa oleva Smart Card -lukija.  
