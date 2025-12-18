@@ -14,9 +14,9 @@ contactForm: Ota yhteyttä
 ---
 # Dell Pro -sarja
 
-![Kuvituskuva: Dell Pro -sarjan kannettavia](/assets/kuva-dell-pro-laptop1.jpeg "Dell Pro sarjan kannettavat tarjoavat hyvän vaihtoehdon pk -yrityksen laitevakiointiin")
-
 ***Dell Pro -sarjan kannettavat ovat hyvä valinta yrityksen peruskäyttöön. Ne tarjoavat erinomaisen hinta-laatusuhteen ja laadukkaat komponentit.***
+
+![Kuvituskuva: Dell Pro -sarjan kannettavia](/assets/kuva-dell-pro-laptop1.jpeg "Dell Pro sarjan kannettavat tarjoavat hyvän vaihtoehdon pk -yrityksen laitevakiointiin")
 
 Sarja on suunniteltu minimoimaan kalliit huoltokatkot ja maksimoimaan laitteen elinkaari. Yritysjohdolle se tarjoaa mielenrauhaa **modulaarisen rakenteen** ansiosta. Keskeiset ja kuluvat osat, kuten USB-C-portit ja I/O-kortit, ovat erikseen vaihdettavissa. Tämä vähentää merkittävästi huoltokustannuksia ja e-jätettä.
 
