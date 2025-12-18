@@ -16,9 +16,9 @@ contactForm: Ota yhteyttä
 ---
 # **Dell Pro Max 14 Premium**
 
-![Kuvituskuva: Dell Pro Max Sarjan koneita](/assets/kuva-dell-pro-max-laptop2-1200x900-.jpg "Dell Pro Max sarjan kannettavat sopivat tehokäyttäjille ja raskaiden ohjelmistojen ajamiseen.")
-
 ***Dell Pro Max 14 Premium on 14-tuumainen tehopakkaus, joka on suunniteltu suorituskykyä vaativaan asiantuntijatyöhön. Se on ihanteellinen valinta suunnittelijoille, sisällöntuottajille ja data-analyytikoille, jotka tarvitsevat mobiilin työaseman raskaiden tekoälykuormien ja grafiikkaintensiivisten sovellusten käsittelyyn.***
+
+![Kuvituskuva: Dell Pro Max Sarjan koneita](/assets/kuva-dell-pro-max-laptop2-1200x600-.jpg "Dell Pro Max sarjan kannettavat sopivat tehokäyttäjille ja raskaiden ohjelmistojen ajamiseen.")
 
 Laite tarjoaa poikkeuksellisen tasapainon raakaa voimaa ja kannettavuutta: se painaa vain 1,61 kg, mutta sisältää täysiverisen työaseman suorituskyvyn. Yritysjohdolle se tarjoaa mielenrauhaa **ISV-sertifioinnilla**, joka takaa laitteen saumattoman yhteensopivuuden yli sadan ammattilaissovelluksen, kuten Adobe Creative Cloudin ja MATLABin kanssa. Lisäksi laitteen kestävyys on varmistettu tiukoilla MIL-STD-testeillä.
 
