@@ -1,6 +1,6 @@
 ---
 path: /it-laitteet/dellpromaxpremium_laptop
-thumbnail: /assets/kuva-dell-pro-max-laptop1.jpeg
+thumbnail: /assets/kuva-dell-pro-max-laptop2-1200x600-.jpg
 date: 2025-12-18T14:13:00.000Z
 head:
   title: Dell Pro Max kannettavat
@@ -14,7 +14,7 @@ head:
     yrityskäyttöön, laatukoneet yrityksille, dell leasing
 contactForm: Ota yhteyttä
 ---
-## **Dell Pro Max 14 Premium**
+# **Dell Pro Max 14 Premium**
 
 ![Kuvituskuva: Dell Pro Max Sarjan koneita](/assets/kuva-dell-pro-max-laptop2-1200x900-.jpg "Dell Pro Max sarjan kannettavat sopivat tehokäyttäjille ja raskaiden ohjelmistojen ajamiseen.")
 
