@@ -14,7 +14,7 @@ head:
     yrityskäyttöön, laatukoneet yrityksille, dell leasing
 contactForm: Ota yhteyttä
 ---
-# **Dell Pro Max 14 Premium**
+## **Dell Pro Max 14 Premium**
 
 ***Dell Pro Max 14 Premium on 14-tuumainen tehopakkaus, joka on suunniteltu suorituskykyä vaativaan asiantuntijatyöhön. Se on ihanteellinen valinta suunnittelijoille, sisällöntuottajille ja data-analyytikoille, jotka tarvitsevat mobiilin työaseman raskaiden tekoälykuormien ja grafiikkaintensiivisten sovellusten käsittelyyn.***
 
