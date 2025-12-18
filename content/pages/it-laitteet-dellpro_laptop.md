@@ -60,11 +60,12 @@ Laitteet täyttävät tiukat yritystason tietoturvavaatimukset.
 ### **Keskeiset ominaisuudet**
 
 
-| --------------------- | ----------------------------------------------- |
-| **Näytönohjain**      | Integroitu Intel Graphics                       |
-| **Prosessori**        | Intel® Core™ Ultra tai Intel® Core™ (U-sarja)   |
-| **Muisti**            | Jopa 64 GB DDR5 (kaksi kantaa)                  |
-| **Akku**              | 3-cell 45 Wh tai 55 Wh (Long Life Cycle -optio) |
-| **Paino**             | Alkaen 1.36 kg                                  |
-| **Mitat**             | 313.7 x 225.3 x 18.9 mm                         |
-| **Käyttöjärjestelmä** | Windows 11 Pro                                  |
+|  |  |
+| :--- | :--- |
+| **Näytönohjain** | Integroitu Intel Graphics |
+| **Prosessori** | Intel® Core™ Ultra tai Intel® Core™ (U-sarja) |
+| **Muisti** | Jopa 64 GB DDR5 (kaksi kantaa) |
+| **Akku** | 3-cell 45 Wh tai 55 Wh (Long Life Cycle -optio) |
+| **Paino** | Alkaen 1.36 kg |
+| **Mitat** | 313.7 x 225.3 x 18.9 mm |
+| **Käyttöjärjestelmä** | Windows 11 Pro |
