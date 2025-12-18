@@ -12,11 +12,9 @@ head:
     kannettavat yrityskäyttöön, laatukoneet yrityksille
 contactForm: Ota yhteyttä
 ---
-# **Dell Pro Plus**
-
+# Dell Pro Plus
 
 ***Dell Pro Plus -sarja on suunniteltu modernin hybridityön standardiksi. Se on oikea valinta organisaatioille, jotka etsivät skaalautuvuutta ultrakevyistä 13-tuumaisista malleista aina tehokkaisiin 16-tuumaisiin työkoneisiin.***
-
 
 ![Kuvituskuva: Dell Pro Plus ](/assets/kuva-dell-pro-plus-laptop1-800x600-.jpg "Dell Pro Plus sarjan kannettavat ovat hyvä vaihtoehto pk -yrityksen laitevakiointiin")
 
@@ -60,7 +58,7 @@ Laitteet on testattu tiukkojen MIL-STD 810H -standardien mukaisesti kestävyyden
 
 - - -
 
-### **Tekniset tiedot** 
+### **Tekniset tiedot**
 
 | Ominaisuus            | Spesifikaatio                                      |
 | --------------------- | -------------------------------------------------- |
