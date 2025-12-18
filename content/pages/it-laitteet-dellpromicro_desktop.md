@@ -1,5 +1,5 @@
 ---
-path: /it-laitteet/DellProMicro_desktop
+path: /it-laitteet/dellpromicro_desktop
 thumbnail: /assets/kuva-dell-micro-desktop2-600x450-.jpg
 date: 2025-12-18T14:22:00.000Z
 head:
@@ -9,14 +9,14 @@ head:
     asiakaspalvelupisteisiin, sairaaloihin tai mihin tahansa, missä työpöytätila
     on kortilla, mutta suorituskyvystä ei haluta tinkiä.
   keywords: Dell pöytäkone, pöytäkoneet dell, dell micro sarja, dell pöytäkoneet
-    yrityskäyttöön
+    yrityskäyttöön, tietokoneet pk -yritykselle
 contactForm: Ota yhteyttä
 ---
 # Dell Pro Micro -sarja
 
 ***Dell Pro Micro -sarja on suunniteltu moderneihin, tilatehokkaisiin työympäristöihin. Se on täydellinen valinta avokonttoreihin, asiakaspalvelupisteisiin, sairaaloihin tai mihin tahansa, missä työpöytätila on kortilla, mutta suorituskyvystä ei haluta tinkiä.***
 
-![Kuvituskuva: Dell Pro Micro](/assets/kuva-dell-micro-desktop2.jpg "Dell Pro Micro sarjan pöytätietokoneet yrityksille")
+![Kuvituskuva: Dell Pro Micro](/assets/kuva-dell-micro-desktop2-600x450-.jpg "Dell Pro Micro sarjan pöytätietokoneet yrityksille")
 
 Tämä sarja todistaa, ettei suuri teho vaadi suurta koteloa. Vain **1,18 litran** kokoinen runko kätkee sisäänsä täysiverisen työkoneen. Yritysjohdolle sarja tarjoaa joustavuutta ja siisteyttä: innovatiivinen **yhden kaapelin ratkaisu** mahdollistaa laitteen virransyötön ja kuvan siirron yhdellä USB-C-kaapelilla yhteensopivasta näytöstä, mikä vähentää johtosotkua merkittävästi.
 
@@ -49,16 +49,16 @@ Laite on rakennettu kestävän kehityksen periaatteilla ja se on yksi markkinoid
 
 ### **Tekniset tiedot**
 
-|           | | 
-| ----------------------- | ------------------------------------------------- | 
-| **Suoritin**            | Intel® Core™ Ultra (Series 2) tai Intel® Core™ (14. sukupolvi)|    
-| **Keskusmuisti**        | Jopa 64 GB DDR5                       | 
-| **Tallennustila**       | 2 x M.2 SSD (Maks. 1 TB / levy)             | 
-| **Videolähdöt (vakio)** | 3 x DisplayPort 1.4a              | 
-| **USB-portit**          | 4 kpl (sis. 1 x USB-C edessä)      | 
-| **Valinnainen moduuli** | HDMI, DP, VGA, Serial, USB-C            |
-| **Mitat**               | 182 x 36 x 178 mm (1.18 L)            | 
-| **Virtalähde**          | Ulkoinen AC-adapteri tai USB-C PD (jopa 100W)    | 
+|                         |                                                                |
+| ----------------------- | -------------------------------------------------------------- |
+| **Suoritin**            | Intel® Core™ Ultra (Series 2) tai Intel® Core™ (14. sukupolvi) |
+| **Keskusmuisti**        | Jopa 64 GB DDR5                                                |
+| **Tallennustila**       | 2 x M.2 SSD (Maks. 1 TB / levy)                                |
+| **Videolähdöt (vakio)** | 3 x DisplayPort 1.4a                                           |
+| **USB-portit**          | 4 kpl (sis. 1 x USB-C edessä)                                  |
+| **Valinnainen moduuli** | HDMI, DP, VGA, Serial, USB-C                                   |
+| **Mitat**               | 182 x 36 x 178 mm (1.18 L)                                     |
+| **Virtalähde**          | Ulkoinen AC-adapteri tai USB-C PD (jopa 100W)                  |
 
 - - -
 
