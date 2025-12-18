@@ -1,6 +1,6 @@
 ---
 path: /it-laitteet/dellpromaxpremium_laptop
-thumbnail: /assets/kuva-dell-pro-max-laptop2-1200x600-.jpg
+thumbnail: /assets/bb2601g0023-gl-bb-dell-pro-max-family-sit-banner-1208x906.jpg
 date: 2025-12-18T14:13:00.000Z
 head:
   title: Dell Pro Max kannettavat
