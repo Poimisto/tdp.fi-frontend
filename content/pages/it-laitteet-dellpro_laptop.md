@@ -16,7 +16,7 @@ contactForm: Ota yhteyttä
 
 ![Kuvituskuva: Dell Pro -sarjan kannettavia](/assets/kuva-dell-pro-laptop1.jpeg "Dell Pro sarjan kannettavat tarjoavat hyvän vaihtoehdon pk -yrityksen laitevakiointiin")
 
-**Kenelle:** Dell Pro -sarja (mallit PC14250 ja PC16250) ovat optimaalinen valinta yrityksen yleiskoneiksi. Ne sopivat erinomaisesti niin päivittäiseen toimistotyöhön kuin myös liikkuville asiantuntijoille, jotka arvostavat keveyttä ja kestävyyttä.
+**Kenelle: Dell Pro -sarja** (mallit PC14250 ja PC16250) ovat optimaalinen valinta yrityksen yleiskoneiksi. Ne sopivat erinomaisesti niin päivittäiseen toimistotyöhön kuin myös liikkuville asiantuntijoille, jotka arvostavat keveyttä ja kestävyyttä.
 
 **Miksi valita Dell Pro:** Tämä sarja on suunniteltu minimoimaan kalliit huoltokatkot ja maksimoimaan laitteen elinkaari. Yritysjohdolle se tarjoaa mielenrauhaa **modulaarisen rakenteen** ansiosta. Keskeiset ja kuluvat osat, kuten USB-C-portit ja I/O-kortit, ovat erikseen vaihdettavissa. Tämä vähentää merkittävästi huoltokustannuksia ja e-jätettä, sillä pienen liitinvian vuoksi ei tarvitse vaihtaa koko laitetta.
 
@@ -33,7 +33,7 @@ Laitteet on rakennettu modernin Intel® Core™ Ultra -arkkitehtuurin ympärille
 
 ### **Liitettävyys ja oheislaitteet**
 
-Dell Pro toimii hybridityön keskuksena monipuolisten liitäntöjen ansiosta.
+**Dell Pro** toimii hybridityön keskuksena monipuolisten liitäntöjen ansiosta.
 
 * **Portit:** 1 x Thunderbolt 4 (USB-C), 1 x USB-C (DP/PD), 2 x USB-A 3.2 Gen 1, HDMI 2.1 ja natiivi RJ-45 (1 GbE).  
 * **Langattomat yhteydet:** Wi-Fi 7 (BE202), Wi-Fi 6E (AX211) tai Wi-Fi 6. Bluetooth 5.4 -tuki.  
