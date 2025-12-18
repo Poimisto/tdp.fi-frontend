@@ -16,7 +16,7 @@ contactForm: Ota yhteyttä
 ---
 # **Dell Pro Max Tower T2**
 
-![Kuvituskuva: Dell Pro Max Tower](/assets/dell-pro-max-tower-t2_3.jpg "Dell Pro Max Tower sarjan pöytäkoneet yrityksille")
+![Kuvituskuva: Dell Pro Max Tower](/assets/dell-pro-max-tower-t2_3-300x400-.jpg "Dell Pro Max Tower sarjan tehotyöasemat sopivat vaativaan yrityskäyttöön.")
 
 ***Dell Pro Max Tower T2 on täysikokoinen, 32-litrainen tehotyöasema, joka on suunniteltu suorituskyvyn äärirajoille. Se on ensisijainen valinta insinööreille, data-analyytikoille, sisällöntuottajille ja 3D-suunnittelijoille, jotka eivät voi tinkiä laskentatehosta ja tarvitsevat huippuluokan suorituskykyä.***
 
@@ -52,7 +52,7 @@ Dell luokittelee laitteen yhdeksi maailman turvallisimmista kaupallisista tekoä
 
 ### **Tekniset tiedot**
 
-|||
+|                        |                                                                       |
 | ---------------------- | --------------------------------------------------------------------- |
 | **Suoritin**           | Intel® Core™ Ultra 5 / 7 / 9 (Series 2). Myös K-sarjan mallit (125W). |
 | **Näytönohjain**       | Tuki jopa NVIDIA RTX 6000 Ada tai AMD Radeon Pro W7600.               |
