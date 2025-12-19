@@ -14,13 +14,13 @@ head:
     yrityskäyttöön, tietokoneet pk -yrityksille
 contactForm: Ota yhteyttä
 ---
-## **Dell Pro Slim -sarja**
+# Dell Pro Slim
 
 ***Dell Pro Slim -sarja on suunniteltu organisaatioille, jotka tarvitsevat enemmän joustavuutta kuin mitä ultramikrot tarjoavat, mutta eivät halua uhrata työpöytätilaa perinteiselle tornikotelolle. 8,4 litran tilavuudellaan se on täydellinen kompromissi koon ja ominaisuuksien välillä.***
 
 ![Kuvituskuva: Dell Pro Slim](/assets/dell-pro-max-slim_3-250x400-.jpg "Dell Pro Slim tarjoaa kompaktit tietokoneet yrityskäyttöön.")
 
-**Miksi valita Dell Pro Slim:** Tämä mallisto tuo työpöydälle aidot laajennusmahdollisuudet kompaktissa paketissa. Se tarjoaa tilaa erillisille PCIe-korteille, massiiviselle tallennustilalle ja järeälle keskusmuistille ilman työkaluja avattavassa kotelossa. Dell Pro Slim on älykäs valinta vaativiin toimistotehtäviin, kevyeen sisällöntuotantoon ja ympäristöihin, joissa laitteiston elinkaarta halutaan pidentää komponenttipäivityksillä.
+Tämä mallisto tuo työpöydälle aidot laajennusmahdollisuudet kompaktissa paketissa. Se tarjoaa tilaa erillisille PCIe-korteille, massiiviselle tallennustilalle ja järeälle keskusmuistille ilman työkaluja avattavassa kotelossa. Dell Pro Slim on älykäs valinta vaativiin toimistotehtäviin, kevyeen sisällöntuotantoon ja ympäristöihin, joissa laitteiston elinkaarta halutaan pidentää komponenttipäivityksillä.
 
 - - -
 
@@ -59,17 +59,17 @@ Pro Slim on suunniteltu ympäristöä kunnioittaen ja IT-hallintaa helpottaen.
 
 ### **Tekniset tiedot**
 
-|         |                                     |
-| --------------------- | ---------------------------------------------------------- | ------------------------------------------- |
-| **Suoritin**          | Intel Core Ultra 7  (Series 2) tai Intel Core i7 (14. gen) 
-| **Muisti**            | Max 64 GB DDR5 (2 paikkaa)                   |
-| **Tallennustila**     | 1x M.2 SSD (+ optio 2. SSD) + 3.5" HDD       
-| **Laajennuspaikat**   | 1x puolikorkea PCIe x16 Gen3, 1x PCIe x1        
-| **Grafiikka**         | Integroitu + Optio: AMD Radeon / NVIDIA RTX  
-| **USB-portit**        | 8 kpl (sis. 1x USB-C)            |
-| **Virtalähde**        | 180W / 360W (Platinum)    
-| **Mitat**             | 303.5 x 95 x 293 mm (8.4 L)                   |
-| **Käyttöjärjestelmä** | Windows 11 Pro    
+|                       |                                                            |
+| --------------------- | ---------------------------------------------------------- |
+| **Suoritin**          | Intel Core Ultra 7  (Series 2) tai Intel Core i7 (14. gen) |
+| **Muisti**            | Max 64 GB DDR5 (2 paikkaa)                                 |
+| **Tallennustila**     | 1x M.2 SSD (+ optio 2. SSD) + 3.5" HDD                     |
+| **Laajennuspaikat**   | 1x puolikorkea PCIe x16 Gen3, 1x PCIe x1                   |
+| **Grafiikka**         | Integroitu + Optio: AMD Radeon / NVIDIA RTX                |
+| **USB-portit**        | 8 kpl (sis. 1x USB-C)                                      |
+| **Virtalähde**        | 180W / 360W (Platinum)                                     |
+| **Mitat**             | 303.5 x 95 x 293 mm (8.4 L)                                |
+| **Käyttöjärjestelmä** | Windows 11 Pro                                             |
 
 - - -
 
