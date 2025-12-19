@@ -3,7 +3,7 @@ path: /it-laitteet/dellpromicro_desktop
 thumbnail: /assets/kuva-dell-micro-desktop2-600x450-.jpg
 date: 2025-12-18T14:22:00.000Z
 head:
-  title: Dell Pro Micro Pöytäkoneet
+  title: Dell Pro Micro pöytäkoneet
   description: Dell Pro Micro -sarja on suunniteltu moderneihin, tilatehokkaisiin
     työympäristöihin. Se on täydellinen valinta avokonttoreihin,
     asiakaspalvelupisteisiin, sairaaloihin tai mihin tahansa, missä työpöytätila
