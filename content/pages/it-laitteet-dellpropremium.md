@@ -14,16 +14,11 @@ contactForm: Ota yhteyttä
 ---
 # Dell Pro Premium
 
-
 ***Tämä sarja  on suunnattu yrityksen vaativimmille käyttäjille: johtajille, konsulteille ja paljon matkustaville asiantuntijoille. Se korvaa aiemman Latitude 7000 -sarjan ja edustaa Dellin ohuimpia ja kevyimpiä ammattilaiskannettavia.***
 
-
-
-![Kuvituskuva: Dell Pro Premium - sarjan kannettavia](/assets/kuva-dell-pro-premiun-laptop1-900x600-.jpg "Dell Pro Plus sarjan kannettavat ")
-
+![Kuvituskuva: Dell Pro Premium - sarjan kannettavia](/assets/kuva-dell-pro-premiun-laptop1-750x450-.jpg "Dell Pro Plus sarja tarjoaa laadukkaat kannettavat yrityksille kustannustehokkaasti.")
 
 Runko täyttää MIL-STD-810H-standardin vaatimukset, mikä tekee siitä erinomaisen valinnan paljon liikkuvalle käyttäjälle. Lisäksi Dell Pro 14 Premium on maailman ensimmäinen kaupallinen PC, joka on varustettu modulaarisella USB-C-portilla. Tämä mahdollistaa jopa neljä kertaa paremman vääntölujuuden ja jopa 33 kertaa paremman iskunkestävyyden, mikä parantaa laitteen kestävyyttä ja mahdollistaa helpommat korjaukset. Laitteen modulaarinen emolevy sekä I/O-kortti takaavat helpommat huoltotoimenpiteet ja vähentävät elektroniikkajätettä.
-
 
 - - -
 
@@ -55,14 +50,14 @@ Kompaktista koostaan huolimatta laite ei tingi liitännöistä tai kuvanlaadusta
 
 ### **Tekniset tiedot**
 
-|        |            |                |
-| --------------------- | ---------------------------------- | ---------------------------------- |
-| **Runko**             | Magnesium (Magnetite-väri)               |
-| **Suoritin**          | Intel® Core™ Ultra Series 2 (vPro) 
-| **Näytönohjain**      | Integroitu Intel® Arc™ 130V/140V   130V/140V   |
-| **Muisti**            | Jopa 32 GB LPDDR5x (integroitu)    (integroitu)    |
-| **Tallennustila**     | Jopa 2 TB PCIe Gen4 NVMe SSD              |
-| **Näyttö**            | 13.3" FHD+ tai QHD+                           |
-| **Paino**             | Alkaen 1.07 kg                                      |   |
-| **Akku**              | 40 Wh tai 60 Wh                            |
-| **Käyttöjärjestelmä** | Windows 11 Pro                                       |
+|                       |                                                 |     |
+| --------------------- | ----------------------------------------------- | --- |
+| **Runko**             | Magnesium (Magnetite-väri)                      |     |
+| **Suoritin**          | Intel® Core™ Ultra Series 2 (vPro)              |     |
+| **Näytönohjain**      | Integroitu Intel® Arc™ 130V/140V   130V/140V    |     |
+| **Muisti**            | Jopa 32 GB LPDDR5x (integroitu)    (integroitu) |     |
+| **Tallennustila**     | Jopa 2 TB PCIe Gen4 NVMe SSD                    |     |
+| **Näyttö**            | 13.3" FHD+ tai QHD+                             |     |
+| **Paino**             | Alkaen 1.07 kg                                  |     |
+| **Akku**              | 40 Wh tai 60 Wh                                 |     |
+| **Käyttöjärjestelmä** | Windows 11 Pro                                  |     |
