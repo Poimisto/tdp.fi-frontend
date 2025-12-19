@@ -9,7 +9,7 @@ head:
     uhrata työpöytätilaa perinteiselle tornikotelolle. 8,4 litran tilavuudellaan
     se on täydellinen kompromissi koon ja ominaisuuksien välillä.
 
-  title: Dell Pro Slim -pöytäkoneet
+  title: Dell Pro Slim pöytäkoneet
   keywords: Dell pöytäkone, pöytäkoneet dell, dell Slim sarja, dell pöytäkoneet
     yrityskäyttöön, tietokoneet pk -yrityksille
 contactForm: Ota yhteyttä
