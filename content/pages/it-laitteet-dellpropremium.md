@@ -4,10 +4,10 @@ thumbnail: /assets/kuva-dell-pro-premiun-laptop1.jpeg
 date: 2025-12-18T14:00:00.000Z
 head:
   title: Dell Pro Premium kannettavat
-  description: "Dell Pro Premium -sarja (mallit PA13250 ja PA14250) on suunnattu
-    yrityksen vaativimmille käyttäjille: johtajille, konsulteille ja paljon
-    matkustaville asiantuntijoille. Tämä sarja korvaa aiemman Latitude 7000
-    -sarjan ja edustaa Dellin ohuinta ja kevyintä ammattilaiskannettavaa."
+  description: "Dell Pro Premium -sarja on suunnattu yrityksen vaativimmille
+    käyttäjille: johtajille, konsulteille ja paljon matkustaville
+    asiantuntijoille. Tämä sarja korvaa aiemman Latitude 7000 -sarjan ja edustaa
+    Dellin ohuinta ja kevyintä ammattilaiskannettavaa."
   keywords: Dell kannettava, Kannettavat Dell, Dell pro Premium sarja, dell
     kannettavat yrityskäyttöön, laatukoneet yrityksille
 contactForm: Ota yhteyttä
