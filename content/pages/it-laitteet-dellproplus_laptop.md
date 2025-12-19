@@ -4,10 +4,10 @@ thumbnail: /assets/kuva-dell-pro-plus-laptop1.jpeg
 date: 2025-12-18T13:51:00.000Z
 head:
   title: Dell Pro Plus kannettavat
-  description: Dell Pro Plus -sarja (mallit PB13250, PB14250 ja PB16250) on
-    suunniteltu modernin hybridityön standardiksi. Se on oikea valinta
-    organisaatioille, jotka etsivät skaalautuvuutta ultrakevyistä 13-tuumaisista
-    malleista aina tehokkaisiin 16-tuumaisiin työkoneisiin.
+  description: Dell Pro Plus -sarja on suunniteltu modernin hybridityön
+    standardiksi. Se on oikea valinta organisaatioille, jotka etsivät
+    skaalautuvuutta ultrakevyistä 13-tuumaisista malleista aina tehokkaisiin
+    16-tuumaisiin työkoneisiin.
   keywords: Dell kannettava, Kannettavat Dell, Dell pro Plus sarja, dell
     kannettavat yrityskäyttöön, laatukoneet yrityksille
 contactForm: Ota yhteyttä
