@@ -793,8 +793,7 @@ export default function LeasingCalculatorComponent({
                           color: lighten(0.15, theme.palette.primary.main),
                         }}
                       >
-                        Perushinta:{" "}
-                        {PriceFormat.format(row.price * Number(row.count))}
+                        Perushinta: {PriceFormat.format(row.price)}
                       </Typography>
                     </Box>
                     <Box>
@@ -868,6 +867,7 @@ export default function LeasingCalculatorComponent({
                           height: "fit-content",
                           width: "fit-content",
                           [theme.breakpoints.up("md")]: {
+                            width: "100%",
                             textAlign: "right",
                             alignSelf: "flex-end",
                           },
@@ -877,7 +877,7 @@ export default function LeasingCalculatorComponent({
                           variant="body1"
                           sx={{ fontWeight: 700, fontSize: "1.1rem" }}
                         >
-                          {PriceFormat.format(row.contribution)}
+                          {PriceFormat.format(row.contribution)}/kk
                         </Typography>
                         <Typography
                           variant="subtitle2"
@@ -886,7 +886,16 @@ export default function LeasingCalculatorComponent({
                             color: lighten(0.1, theme.palette.primary.main),
                           }}
                         >
-                          Yhteensä (alv 0%)
+                          Suoraosto
+                        </Typography>
+                        <Typography
+                          variant="subtitle2"
+                          sx={{
+                            fontSize: "0.7rem",
+                            color: lighten(0.1, theme.palette.primary.main),
+                          }}
+                        >
+                          {PriceFormat.format(row.deviceTotal)} (alv 0%)
                         </Typography>
                       </Box>
                       <Box
