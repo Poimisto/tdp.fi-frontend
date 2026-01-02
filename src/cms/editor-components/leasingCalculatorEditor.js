@@ -99,6 +99,30 @@ const LeasingCalculatorEditor = {
           value_type: "float",
           min: 0.0,
         },
+        {
+          label: "Subscription type",
+          name: "type",
+          widget: "select",
+          default: "monthly",
+          options: ["monthly", "fixed"],
+          multiple: false,
+        },
+        {
+          label: "From users",
+          name: "fromUsers",
+          widget: "number",
+          value_type: "int",
+          min: 0,
+          step: 1
+        },
+        {
+          label: "To users",
+          name: "toUsers",
+          widget: "number",
+          value_type: "int",
+          min: 0,
+          step: 1
+        },
       ],
     },
     {
