@@ -97,12 +97,12 @@ export default function Layout({ children, breadcrumb }) {
       <Header>
         <Container>
           <NavGridContainer container>
-            <Grid item>
+            <Grid>
               <Link to="/">
                 <LogoImage src={logo60} alt="TDP Logo" />
               </Link>
             </Grid>
-            <Grid item>
+            <Grid>
               <Navigation />
             </Grid>
           </NavGridContainer>

@@ -49,7 +49,7 @@ const LoadingOverlay = styled.div`
   justify-content:center;
 `;
 
-export default (props) => {
+const ContactForm = (props) => {
   const [formFields, setFormFields] = useState({})
   const [errors, setErrors] = useState({});
   const [isLoading, setIsLoading] = useState(false)
@@ -181,7 +181,7 @@ export default (props) => {
 
         {props.contactName && (
           <div className="contactPerson">
-            <img className="img" src={props.contactImage} />
+            <img className="img" src={props.contactImage} alt="" />
             <span className="name">{props.contactName}</span>
             <span className="title">{props.contactTitle}</span>
             <span className="phone">{props.contactPhone}</span>
@@ -197,3 +197,5 @@ export default (props) => {
 
   );
 }
+
+export default ContactForm;

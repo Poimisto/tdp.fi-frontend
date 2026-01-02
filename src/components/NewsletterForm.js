@@ -1,5 +1,4 @@
 import React, {useState} from "react";
-import HeroBlock from './HeroBlock'
 import TextField from '@mui/material/TextField';
 import FormControl from '@mui/material/FormControl'
 import CallToAction from './CallToAction'
@@ -36,7 +35,8 @@ const SmallText = styled.p`
   font-size: 0.75em;
 
 `;
-export default (props) => {
+
+const NewsletterForm = (props) => {
   const [formFields, setFormFields] = useState({})
   const [errors, setErrors] = useState({});
   const [isLoading, setIsLoading] = useState(false)
@@ -124,7 +124,7 @@ export default (props) => {
                 {props.successMessage ?  props.successMessage:'Kiitos tilauksesta!'} 
               </p>
               {props.redirectTo ? (
-                <p>Selain aukaisee pian uuden ikkunan. Voit myös siirtyä tiedostoon <a target="_blank" href={props.redirectTo}>tästä linkistä</a></p>
+                <p>Selain aukaisee pian uuden ikkunan. Voit myös siirtyä tiedostoon <a target="_blank" rel="noreferrer" href={props.redirectTo}>tästä linkistä</a></p>
                ) : ''}
 
             </div>
@@ -150,3 +150,5 @@ export default (props) => {
 
   );
 }
+
+export default NewsletterForm;

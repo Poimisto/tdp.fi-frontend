@@ -43,11 +43,7 @@ const flattenAndFormatHeadings = (headings = [], level = 1) => {
   ]);
 };
 
-export default ({ headings }) => {
-  if (!headings.items) {
-    return <TableOfContentsContainer />;
-  }
-
+const TableOfContents = ({ headings }) => {
   const tocUpdateRef = useRef(Date.now());
   const listRef = useRef(null);
   const [active, setActive] = useState("");
@@ -106,6 +102,10 @@ export default ({ headings }) => {
     activeHeading.scrollIntoView({ block: "nearest", inline: "nearest", behavior: "smooth" });
   }, [active]);
 
+  if (!headings.items) {
+    return <TableOfContentsContainer />;
+  }
+
   return (
     <TableOfContentsContainer>
       <TableOfContentsList ref={listRef}>
@@ -132,3 +132,5 @@ export default ({ headings }) => {
     </TableOfContentsContainer>
   );
 }
+
+export default TableOfContents

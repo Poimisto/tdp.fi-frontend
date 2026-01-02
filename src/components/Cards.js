@@ -40,7 +40,7 @@ const Card = styled.div`
 
 
 
-export default ({cardsPerRow, cards, children}) => {
+const CardsComponent = ({cardsPerRow, cards, children}) => {
   cards = JSON.parse(cards); // passed from MDX file
   return (
     <Cards cardsPerRow={cardsPerRow}>
@@ -51,7 +51,7 @@ export default ({cardsPerRow, cards, children}) => {
         <Card bgColor={bg}>
           {card.image && (
             <div style={{textAlign:"center"}}>
-              <img src={card.image} style={{margin:"0 auto",maxWidth:"100%"}}/>
+              <img src={card.image} style={{margin:"0 auto",maxWidth:"100%"}} alt="" />
             </div>
           )}
           {card.link && ( 
@@ -74,3 +74,5 @@ export default ({cardsPerRow, cards, children}) => {
     </Cards>
   )
 }
+
+export default CardsComponent;

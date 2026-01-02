@@ -15,7 +15,7 @@ const Package = styled.div`
   }
 `;
 
-export default () => {
+const ListOfLeasingPackages = () => {
   const data = useStaticQuery(graphql`
     query MyQuery {
       allMdx(
@@ -69,3 +69,5 @@ export default () => {
     </PackageGrid>
   )
 }
+
+export default ListOfLeasingPackages;

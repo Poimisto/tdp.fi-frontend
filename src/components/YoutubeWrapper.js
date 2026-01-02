@@ -1,22 +1,22 @@
-import React from 'react';
-import styled from 'styled-components';
+import React from "react"
+import styled from "styled-components"
 
-const YoutubeWrapper = styled.div`
+const VideoWrapper = styled.div`
   width: 100%;
   aspect-ratio: 16 / 9;
 
-  @media(max-width: ${props => props.theme.mobileBreakpoint}px) {
+  @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
     margin-bottom: 16px;
   }
 `
 
-export default ({ videoUrl }) => {
-  if (!videoUrl || typeof videoUrl !== 'string') {
+const YoutubeWrapper = ({ videoUrl }) => {
+  if (!videoUrl || typeof videoUrl !== "string") {
     return <></>
   }
 
   return (
-    <YoutubeWrapper>
+    <VideoWrapper>
       <iframe
         width="100%"
         height="100%"
@@ -25,7 +25,10 @@ export default ({ videoUrl }) => {
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         referrerpolicy="strict-origin-when-cross-origin"
-        allowfullscreen />
-    </YoutubeWrapper>
+        allowfullscreen
+      />
+    </VideoWrapper>
   )
 }
+
+export default YoutubeWrapper
