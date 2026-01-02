@@ -6,10 +6,7 @@ import Background from "./Background";
 import { Container } from "../templates/layout"; // <-- correct source for Container
 
 // Don't forward styling-only props to the DOM
-const StyledBlock = styled.div.withConfig({
-  shouldForwardProp: (prop, defaultValidator) =>
-    defaultValidator(prop) && prop !== "$bgColor",
-})`
+const StyledBlock = styled.div`
   color: ${({ theme, $bgColor }) =>
     getContrast(theme.colors.darkest, $bgColor || "#f3f3f3") > 10
       ? theme.colors.darkest
@@ -71,10 +68,7 @@ const StyledBlock = styled.div.withConfig({
   }
 `;
 
-const HeroGrid = styled.div.withConfig({
-  shouldForwardProp: (prop, defaultValidator) =>
-    defaultValidator(prop) && !["$columns", "$imageAlign"].includes(prop),
-})`
+const HeroGrid = styled.div`
   display: grid;
   grid-template-columns: ${({ $columns }) =>
     "1fr ".repeat($columns || 2).trim()};

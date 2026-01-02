@@ -321,3 +321,13 @@ export const createPages = async ({ actions, graphql, reporter }) => {
     });
   });
 };
+
+export const onCreateWebpackConfig = ({ actions }) => {
+  actions.setWebpackConfig({
+    resolve: {
+      alias: {
+        "@mui/styled-engine": "@mui/styled-engine-sc"
+      }
+    }
+  })
+}

@@ -12,7 +12,6 @@ export default {
   siteMetadata: settings,
   plugins: [
     // Styling / head
-    `gatsby-plugin-emotion`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
 
