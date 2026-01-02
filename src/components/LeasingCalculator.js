@@ -446,10 +446,34 @@ export default function LeasingCalculatorComponent({
   }
 
   const handleUserCountChange = (_, value) => {
-    setLeasingPackage(prev => ({
-      ...prev,
-      userCount: value,
-    }))
+    // If a support package has been selected, make sure to update it to the correct one if necessary.
+    setLeasingPackage(prev => {
+      const support = prev.services.support
+
+      // Check if we need to update the support to match the new user count.
+      const supportNeedsRecalc =
+        support &&
+        support.type === "fixed" &&
+        (value < support.fromUsers || value > support.toUsers)
+
+      // Find the correct support package for the user count.
+      const nextSupport = supportNeedsRecalc
+        ? parsedSupport.find(s =>
+            s.toUsers
+              ? value >= s.fromUsers && value <= s.toUsers
+              : value >= s.fromUsers
+          )
+        : support
+
+      return {
+        ...prev,
+        userCount: value,
+        services: {
+          ...prev.services,
+          support: nextSupport,
+        },
+      }
+    })
   }
 
   const handleSupportChange = e => {
@@ -497,7 +521,6 @@ export default function LeasingCalculatorComponent({
           ? { cloudBackup: relatedCloudBackup }
           : { cloudBackup: "" }),
       },
-      servicesChecked: { ...prev.servicesChecked, cloudBackup: false },
     }))
   }
 
@@ -549,6 +572,17 @@ export default function LeasingCalculatorComponent({
     }
     return objectCount > 1
   }
+
+  const supportOptions = useMemo(() => {
+    return parsedSupport.filter(s =>
+      s.type === "fixed"
+        ? s.toUsers
+          ? leasingPackage.userCount >= s.fromUsers &&
+            leasingPackage.userCount <= s.toUsers
+          : leasingPackage.userCount >= s.fromUsers
+        : true
+    )
+  }, [parsedSupport, leasingPackage])
 
   const { devicesComputed, totals } = useMemo(() => {
     let servicePayment = 0
@@ -1150,7 +1184,7 @@ export default function LeasingCalculatorComponent({
                       Ei valintaa
                     </Typography>
                   </StyledMenuItem>
-                  {parsedSupport.map(s => (
+                  {supportOptions.map(s => (
                     <StyledMenuItem key={formatKey(s.name)} value={s.name}>
                       <Typography variant="body1" noWrap>
                         {s.name} {PriceFormat.format(s.price)}/kk
