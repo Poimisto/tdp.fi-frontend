@@ -1,30 +1,40 @@
-import React, { useState, useEffect } from "react"
+import React, { useState, useMemo } from "react"
 import Helmet from "react-helmet"
-import { getContrast, shade } from "polished"
+import { getContrast, shade, lighten, darken } from "polished"
 import styled from "styled-components"
-import appTheme from "../theme"
 
 import {
   FormControl,
   Autocomplete,
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableRow,
   Input,
   Checkbox,
   TextField,
   Slider,
   ToggleButton,
   ToggleButtonGroup,
-  tableCellClasses,
-  toggleButtonGroupClasses,
+  Typography,
+  IconButton,
+  Box,
+  Stack,
+  Select,
+  MenuItem,
+  Divider,
+  toggleButtonClasses,
 } from "@mui/material"
-import { styled as muiStyled } from "@mui/material/styles"
+import AddIcon from "@mui/icons-material/Add"
+import RemoveIcon from "@mui/icons-material/Remove"
+import PeopleOutlineIcon from "@mui/icons-material/PeopleOutline"
+import CreditCardIcon from "@mui/icons-material/CreditCard"
+import DevicesIcon from "@mui/icons-material/Devices"
+import DnsOutlinedIcon from "@mui/icons-material/DnsOutlined"
+import ShoppingCartOutlinedIcon from "@mui/icons-material/ShoppingCartOutlined"
+import EventRepeatOutlinedIcon from "@mui/icons-material/EventRepeatOutlined"
+import { useTheme } from "@mui/material/styles"
 
 const MIN_DEVICES = 1
 const MAX_DEVICES = 100
+const MIN_USERS = 1
+const MAX_USERS = 100
 
 /* ---------- layout wrappers (styled-components) ---------- */
 const LeasingCalculatorContainer = styled.div`
@@ -37,19 +47,22 @@ const LeasingCalculatorContainer = styled.div`
 
 const LeasingCalculator = styled.div`
   height: fit-content;
-  width: 60%;
+  width: 80%;
   display: flex;
   flex-direction: column;
-  border: 1px solid ${props => shade(0.2, props.theme.colors.lightest)};
+  gap: 2em;
+  border: 1px solid
+    ${({ theme }) => shade(0.2, theme.palette.background.default)};
   border-radius: 4px;
   padding: 1em;
-  background-color: ${props => props.theme.colors.lightest};
-  color: ${props =>
-    getContrast(props.theme.colors.darkest, props.theme.colors.lightest) > 10
-      ? props.theme.colors.darkest
-      : props.theme.colors.lightest};
+  background-color: ${({ theme }) => theme.palette.background.default};
+  color: ${({ theme }) =>
+    getContrast(theme.palette.text.primary, theme.palette.background.default) >
+    10
+      ? theme.palette.text.primary
+      : theme.palette.background.default};
 
-  @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
+  ${({ theme }) => theme.breakpoints.down("sm")} {
     width: 100%;
   }
 `
@@ -62,7 +75,7 @@ const FormContainer = styled.div`
 const FormInputContainer = styled.div`
   height: fit-content;
   // Width: parent - margins
-  width: calc(100% - 2 * 0.5em);
+  width: calc(100% - 2 * 0.75em);
   margin: 0.75em;
   display: flex;
   flex-direction: row;
@@ -78,249 +91,562 @@ const TableContainer = styled.div`
   justify-content: left;
 `
 
-const InputText = styled.p`
-  width: fit-content;
+/* ---------- MUI components styled with styled-components ---------- */
+const CalculatorSectionContainer = styled(Box)`
   height: fit-content;
-  margin: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 1rem;
 `
 
-const CheckboxLabel = styled.p`
+const HeaderCard = styled(Box)`
+  display: grid;
+  grid-template-columns: 1fr;
+  padding: 0.5em 1em;
+  gap: 1rem;
+  ${({ theme }) => theme.breakpoints.up("md")} {
+    grid-template-columns: minmax(11em, 14em) 1fr minmax(7em, 8em);
+  }
+`
+
+const DeviceCard = styled(Box)`
+  display: grid;
+  grid-template-columns: 1fr;
+  padding: 1em;
+  gap: 1rem;
+  ${({ theme }) => theme.breakpoints.up("md")} {
+    grid-template-columns: minmax(11em, 14em) 1fr minmax(7em, 8em);
+  }
+  align-items: start;
+  border: 1px solid ${({ theme }) => lighten(0.5, theme.palette.primary.main)};
+  border-radius: 10px;
+`
+
+const StyledToggleButtonGroup = styled(ToggleButtonGroup)`
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  && .${toggleButtonClasses.root} {
+    border-radius: ${({ theme }) => theme.shape.borderRadius}px;
+  }
+
+  && .${toggleButtonClasses.root} + .${toggleButtonClasses.root} {
+    margin-left: 0; /* MUI sometimes uses negative margin / overlap */
+  }
+
+  && .${toggleButtonClasses.root}:not(:first-of-type) {
+    border-left: 1px solid ${({ theme }) => theme.palette.divider};
+  }
+
+  &&
+    .${toggleButtonClasses.root}.${toggleButtonClasses.disabled}:not(:first-of-type) {
+    border-left: 1px solid
+      ${({ theme }) => theme.palette.action.disabledBackground};
+  }
+`
+
+const QuantityButton = styled(IconButton)`
+  &.MuiIconButton-root {
+    padding: 0.2rem;
+    border: 1px solid ${({ theme }) => lighten(0.5, theme.palette.primary.main)};
+    border-radius: 10px;
+  }
+`
+
+const UserCountSliderContainer = styled(Box)`
   height: fit-content;
-  margin: 0;
-  padding: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 1em;
+  border: 1px solid ${({ theme }) => lighten(0.5, theme.palette.primary.main)};
+  border-radius: 10px;
+  gap: 1em;
 `
 
-const ButtonTextContainer = styled.p`
+const ServiceInputsContainer = styled(Box)`
   height: fit-content;
-  text-wrap: ${props => (props.noWrap ? "nowrap" : "wrap")};
-  margin: 0;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: stretch;
+  gap: 1rem;
+  ${({ theme }) => theme.breakpoints.up("md")} {
+    grid-template-columns: 1fr 1fr;
+  }
 `
 
-const VatNotice = styled.p`
-  width: fit-content;
-  padding: 0;
-  margin: 0;
-  font-size: smaller;
-  color: ${props => props.theme.colors.dark};
+const StyledSelectContainer = styled(Box)`
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 0.5rem;
 `
 
-/* ---------- MUI-styled replacements for withStyles ---------- */
-const CheckboxInput = muiStyled(Checkbox)({
-  color: appTheme.colors.dark,
-  "&.Mui-checked": {
-    color: appTheme.colors.brand,
-  },
+const StyledSelect = styled(Select)`
+  height: 56px;
+  width: 100%;
+  border-radius: 10px;
+  & .MuiSelect-select {
+    height: 56px !important;
+    display: flex;
+    align-items: center;
+    min-width: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    box-sizing: border-box;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  & .MuiOutlinedInput-notchedOutline {
+    top: 0;
+    border-radius: 12px;
+    & legend {
+      display: none;
+    }
+  }
+`
+
+const StyledMenuItem = styled(MenuItem)`
+  &.MuiMenuItem-root {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    display: block;
+    overflow: hidden;
+    padding: 6px 16px;
+  }
+`
+
+const CostBreakdownContainer = styled(Box)`
+  height: fit-content;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: stretch;
+  gap: 1rem;
+  padding: 1rem;
+  ${({ theme }) => theme.breakpoints.up("md")} {
+    grid-template-columns: repeat(14, 1fr);
+  }
+`
+
+const CostBreakdownBox = styled(Box)`
+  min-width: 0;
+  width: 100%;
+  grid-column: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  border: 1px solid ${({ theme }) => lighten(0.6, theme.palette.primary.main)};
+  border-radius: 10px;
+  background-color: ${({ $backgroundColor }) => $backgroundColor};
+  padding: 0.5rem;
+  ${({ theme }) => theme.breakpoints.up("md")} {
+    grid-column: span ${({ $span }) => $span || 1};
+  }
+`
+
+const PriceFormat = new Intl.NumberFormat("fi-FI", {
+  style: "currency",
+  currency: "EUR",
 })
 
-const StyledToggleButtonGroup = muiStyled(ToggleButtonGroup)(({ theme }) => ({
-  gap: "1rem",
-  flexWrap: "wrap",
-  [`& .${toggleButtonGroupClasses.firstButton}, & .${toggleButtonGroupClasses.middleButton}`]:
-    {
-      borderTopRightRadius: (theme.vars || theme).shape.borderRadius,
-      borderBottomRightRadius: (theme.vars || theme).shape.borderRadius,
-    },
-  [`& .${toggleButtonGroupClasses.lastButton}, & .${toggleButtonGroupClasses.middleButton}`]:
-    {
-      borderTopLeftRadius: (theme.vars || theme).shape.borderRadius,
-      borderBottomLeftRadius: (theme.vars || theme).shape.borderRadius,
-      borderLeft: `1px solid ${(theme.vars || theme).palette.divider}`,
-    },
-  [`& .${toggleButtonGroupClasses.lastButton}.${toggleButtonGroupClasses.disabled}, & .${toggleButtonGroupClasses.middleButton}.${toggleButtonGroupClasses.disabled}`]:
-    {
-      borderLeft: `1pc solid ${
-        (theme.vars || theme).palette.action.disabledBackground
-      }`,
-    },
-}))
+/**
+ * Safely parses JSON strings provided as props to the component.
+ * @param {string} str
+ * @param {any} fallback
+ * @returns {any}
+ */
+const safeParse = (str, fallback) => {
+  try {
+    return JSON.parse(str)
+  } catch {
+    return fallback
+  }
+}
 
-const CountSlider = muiStyled(Slider)(({ theme }) => ({
-  color: theme.palette.secondary.main,
-  width: `calc(100% - 20px)`,
-  alignSelf: "center",
-}))
-
-const StyledTableCell = muiStyled(TableCell)(() => ({
-  [`&.${tableCellClasses.head}`]: {
-    fontWeight: "bold",
-    fontSize: 16,
-  },
-  "&:nth-child(1)": {
-    width: "55%",
-  },
-  "&:nth-child(2)": {
-    width: "22.5%",
-  },
-  "&:nth-child(3)": {
-    width: "22.5%",
-  },
-}))
-
-const StyledTableRow = muiStyled(TableRow)(() => ({
-  "&:last-child td, &:last-child th": {
-    fontWeight: "bold",
-  },
-}))
+/**
+ * Formats strings to be used as keys for list items in JSX.
+ *
+ * Makes all characters lower-case, replaces whitespace with dashes (-) and
+ * removes non-alphanumeric characters.
+ * @param {string} str
+ * @returns {string} Formatted string
+ */
+const formatKey = str =>
+  str
+    .toLowerCase()
+    .replaceAll(/\s/g, "-")
+    .replaceAll(/[^a-z0-9\s]/g, "")
 
 export default function LeasingCalculatorComponent({
   additionalMargin,
   threeYearInterest,
   devices,
-  peripherals,
+  support,
+  security,
+  businessApps,
+  cloudBackup,
+  centralizedManagement,
 }) {
+  // Load the Material UI theme
+  const theme = useTheme()
+
   // Parse the serialized JSON strings from the MDX.
-  devices = JSON.parse(devices)
-  peripherals = JSON.parse(peripherals)
+  const parsedDevices = useMemo(() => safeParse(devices, []), [devices])
+  const parsedSupport = useMemo(() => safeParse(support, []), [support])
+  const parsedSecurity = useMemo(() => safeParse(security, []), [security])
+  const parsedBusinessApps = useMemo(
+    () => safeParse(businessApps, []),
+    [businessApps]
+  )
+  const parsedCloudBackup = useMemo(
+    () => safeParse(cloudBackup, []),
+    [cloudBackup]
+  )
+  const parsedCentralizedManagement = useMemo(
+    () => safeParse(centralizedManagement, {}),
+    [centralizedManagement]
+  )
 
   const [leasingPackage, setLeasingPackage] = useState({
-    device: devices[0].name,
-    peripherals: [],
-    extendedWarrantySelected: false,
-    warrantyName: devices[0].warrantyName,
-    warrantyPrice: devices[0].warrantyPrice,
-    count: 1,
+    devices:
+      parsedDevices.length > 0
+        ? [
+            {
+              name: parsedDevices[0].name,
+              price: parsedDevices[0].price,
+              peripherals: [],
+              count: 1,
+            },
+          ]
+        : [],
+    services: {
+      support: "",
+      security: "",
+      businessApps: "",
+      cloudBackup: "",
+      centralizedManagement: parsedCentralizedManagement,
+    },
+    userCount: 1,
+    servicesChecked: {
+      centralizedManagement: false,
+      cloudBackup: false,
+    },
   })
 
-  const [leasingPrices, setLeasingPrices] = useState({
-    itemContributions: [],
-    name: "Leasing hinnat",
-    price36: "--",
-    directPurchase: "--",
+  const [open, setOpen] = useState({
+    support: false,
+    security: false,
+    businessApps: false,
   })
 
-  const handleInputChange = (e, key, newValue = false) => {
-    let { value, checked } = e.target
-    if (newValue) {
-      value = newValue
-    }
+  const handleDevicesChange = (_, newValue) => {
+    let newDevices = newValue.reduce((packageDevices, current) => {
+      if (!packageDevices.some(d => d.name === current)) {
+        const catalogueDevice = parsedDevices.find(d => d.name === current)
+        if (!catalogueDevice) {
+          return packageDevices
+        }
+        packageDevices.push({
+          name: catalogueDevice.name,
+          price: catalogueDevice.price,
+          peripherals: [],
+          count: 1,
+        })
+      }
+      return packageDevices
+    }, leasingPackage.devices)
 
-    switch (key) {
-      case "extendedWarrantySelected":
-        setLeasingPackage(prev => ({ ...prev, [key]: checked }))
-        break
-      case "peripherals":
-        setLeasingPackage(prev => ({
-          ...prev,
-          [key]: value.filter(v => !!v),
-        }))
+    newDevices = newDevices.filter(d => newValue.includes(d.name))
 
-        break
-      case "device":
-        const selectedDevice = devices.find(d => d.name === value)
+    setLeasingPackage(prev => ({
+      ...prev,
+      devices: newDevices,
+    }))
+  }
 
-        setLeasingPackage(prev => ({
-          ...prev,
-          [key]: value,
-          warrantyName: selectedDevice ? selectedDevice.warrantyName : "",
-          warrantyPrice: selectedDevice ? selectedDevice.warrantyPrice : 0,
-          extendedWarrantySelected: selectedDevice
-            ? prev.extendedWarrantySelected
-            : false,
-        }))
+  const clamp = (n, min, max) => Math.min(max, Math.max(min, n))
 
-        break
-      case "count":
-        if (value > MAX_DEVICES) {
-          value = MAX_DEVICES
-        } else if (value < MIN_DEVICES) {
-          value = MIN_DEVICES
+  const handleBlur = (deviceName, rawCount) => {
+    const parsed = Number(rawCount)
+
+    const normalized = Number.isNaN(parsed)
+      ? MIN_DEVICES
+      : clamp(parsed, MIN_DEVICES, MAX_DEVICES)
+
+    setLeasingPackage(prev => ({
+      ...prev,
+      devices: prev.devices.map(d =>
+        d.name === deviceName ? { ...d, count: normalized } : d
+      ),
+    }))
+  }
+
+  const handleQuantityUpdate = (deviceName, change = 0) => {
+    setLeasingPackage(prev => ({
+      ...prev,
+      devices: prev.devices.map(d => {
+        const current = Number(d.count)
+        if (Number.isNaN(current)) {
+          return d
         }
 
-        setLeasingPackage(prev => ({ ...prev, count: Number.parseInt(value) }))
-
-        break
-      default:
-        setLeasingPackage(prev => ({
-          ...prev,
-          [key]: value,
-        }))
-    }
+        return d.name === deviceName &&
+          d.count + change >= MIN_DEVICES &&
+          d.count + change <= MAX_DEVICES
+          ? { ...d, count: current + change }
+          : d
+      }),
+    }))
   }
 
-  const handleBlur = () => {
-    if (leasingPackage.count < MIN_DEVICES) {
-      setLeasingPackage(prev => ({ ...prev, count: MIN_DEVICES }))
-    } else if (leasingPackage.count > MAX_DEVICES) {
-      setLeasingPackage(prev => ({ ...prev, count: MAX_DEVICES }))
-    }
+  const handleQuantitySet = (e, deviceName) => {
+    const { value } = e.target
+
+    setLeasingPackage(prev => ({
+      ...prev,
+      devices: prev.devices.map(d =>
+        d.name === deviceName ? { ...d, count: value } : d
+      ),
+    }))
   }
 
-  useEffect(() => {
-    const selectedDevice = devices.find(d => d.name === leasingPackage.device)
-    const selectedPeripherals = peripherals.filter(p =>
-      leasingPackage.peripherals.includes(p.name)
+  const handlePeripheralsChange = (deviceName, newValue) => {
+    const catalogueDevicePeripherals =
+      parsedDevices.find(d => d.name === deviceName)?.peripherals || []
+
+    setLeasingPackage(prev => ({
+      ...prev,
+      devices: prev.devices.map(d => {
+        if (d.name === deviceName) {
+          return {
+            ...d,
+            peripherals: newValue
+              .map(
+                v =>
+                  catalogueDevicePeripherals.find(p => p.name === v) ||
+                  undefined
+              )
+              .filter(v => !!v),
+          }
+        }
+        return d
+      }),
+    }))
+  }
+
+  const handleUserCountChange = (_, value) => {
+    setLeasingPackage(prev => ({
+      ...prev,
+      userCount: value,
+    }))
+  }
+
+  const handleSupportChange = e => {
+    const { value } = e.target
+
+    setLeasingPackage(prev => ({
+      ...prev,
+      services: {
+        ...prev.services,
+        support: parsedSupport.find(s => s.name === value) || "",
+      },
+    }))
+  }
+
+  const handleSecurityChange = e => {
+    const { value } = e.target
+
+    setLeasingPackage(prev => ({
+      ...prev,
+      services: {
+        ...prev.services,
+        security: parsedSecurity.find(s => s.name === value) || "",
+      },
+    }))
+  }
+
+  const handleBusinessAppsChange = e => {
+    const { value } = e.target
+
+    // Choose the correct cloud backup option if available
+    let relatedCloudBackup = undefined
+    if (parsedCloudBackup && parsedCloudBackup.length > 0) {
+      relatedCloudBackup =
+        parsedCloudBackup.find(cb =>
+          value.toLowerCase().includes(cb.for.toLowerCase())
+        ) || ""
+    }
+
+    setLeasingPackage(prev => ({
+      ...prev,
+      services: {
+        ...prev.services,
+        businessApps: parsedBusinessApps.find(a => a.name === value) || "",
+        ...(relatedCloudBackup
+          ? { cloudBackup: relatedCloudBackup }
+          : { cloudBackup: "" }),
+      },
+      servicesChecked: { ...prev.servicesChecked, cloudBackup: false },
+    }))
+  }
+
+  const handleCloudBackupChange = e => {
+    const { checked } = e.target
+    setLeasingPackage(prev => ({
+      ...prev,
+      servicesChecked: { ...prev.servicesChecked, cloudBackup: checked },
+    }))
+  }
+
+  const handleCentalizedManagementCheckedChange = e => {
+    const { checked } = e.target
+    setLeasingPackage(prev => ({
+      ...prev,
+      servicesChecked: {
+        ...prev.servicesChecked,
+        centralizedManagement: checked,
+      },
+    }))
+  }
+
+  const handleSelectOpen = stateKey => {
+    setOpen(prev => ({
+      ...prev,
+      [stateKey]: true,
+    }))
+  }
+
+  const handleSelectClose = stateKey => {
+    setOpen(prev => ({ ...prev, [stateKey]: false }))
+  }
+
+  /**
+   * This is used to check if any services have been selected as part of the
+   * leasing package.
+   */
+  const packageIncludesServices = () => {
+    let objectCount = 0
+    for (const value of Object.values(leasingPackage.services)) {
+      if (typeof value === "object") {
+        objectCount += 1
+      }
+    }
+    for (const value of Object.values(leasingPackage.servicesChecked)) {
+      if (value) {
+        objectCount += 1
+      }
+    }
+    return objectCount > 1
+  }
+
+  const { devicesComputed, totals } = useMemo(() => {
+    let servicePayment = 0
+
+    // Calculate the direct purchase price for devices + peripherals. These are
+    // added to the total as well.
+    const devicesComputedLocal = leasingPackage.devices.map(device => {
+      let pricePerUnit = device.peripherals.reduce(
+        (total, current) => (total += current.price),
+        0
+      )
+
+      if (device.name) {
+        const devicePrice =
+          parsedDevices.find(d => d.name === device.name).price || 0
+        pricePerUnit += devicePrice
+      }
+
+      const deviceTotal = pricePerUnit * Number(device.count)
+
+      return {
+        ...device,
+        deviceTotal,
+        contribution: 0, // Calculated below
+      }
+    })
+
+    const directPurchase = devicesComputedLocal.reduce(
+      (total, current) => total + current.deviceTotal,
+      0
     )
 
-    // Calculate the montly leasing cost for the selected package.
-    let pricePerUnit = selectedPeripherals.reduce((total, current) => {
-      if (current.price) {
-        total += current.price
-      }
-      return total
-    }, 0)
-
-    if (selectedDevice) {
-      pricePerUnit += selectedDevice.price
+    // Calculate the monthly payment for services and add them to the total.
+    if (
+      typeof leasingPackage.services.support === "object" &&
+      Object.keys(leasingPackage.services.support).length > 0
+    ) {
+      servicePayment +=
+        leasingPackage.services.support.price * leasingPackage.userCount
     }
 
-    if (leasingPackage.extendedWarrantySelected) {
-      pricePerUnit += selectedDevice.warrantyPrice
+    if (
+      typeof leasingPackage.services.security === "object" &&
+      Object.keys(leasingPackage.services.security).length > 0
+    ) {
+      servicePayment +=
+        leasingPackage.services.security.price * leasingPackage.userCount
     }
 
-    const threeYearPayment =
-      ((pricePerUnit * leasingPackage.count + additionalMargin) / 36) *
-      threeYearInterest
-    const directPurchase = pricePerUnit * leasingPackage.count
+    if (
+      typeof leasingPackage.services.businessApps === "object" &&
+      Object.keys(leasingPackage.services.businessApps).length > 0
+    ) {
+      servicePayment +=
+        leasingPackage.services.businessApps.price * leasingPackage.userCount
+    }
 
-    // Calculate each item's contribution to the final monthly payment based on the products portion of the direct purchase price.
+    if (leasingPackage.servicesChecked.cloudBackup) {
+      servicePayment +=
+        leasingPackage.services.cloudBackup.price * leasingPackage.userCount
+    }
+
+    if (leasingPackage.servicesChecked.centralizedManagement) {
+      servicePayment +=
+        leasingPackage.services.centralizedManagement.price *
+        leasingPackage.userCount
+    }
+
+    // Calculate each item's contribution to the final monthly payment based on
+    // the products portion of the direct purchase price.
     // KPMG: https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/ifrg/2024/lease-payments.pdf
-    const allProducts = [...selectedPeripherals]
 
-    if (selectedDevice) {
-      allProducts.unshift({
-        name: selectedDevice.name,
-        price: selectedDevice.price,
-      })
+    // Calculate the monthly payment on devices + peripherals.
+    let devicePayment =
+      ((directPurchase + additionalMargin) / 36) * threeYearInterest
+
+    // Calculate contributions for device
+    const devicesWithContribution =
+      directPurchase > 0
+        ? devicesComputedLocal.map(device => {
+            const weight = device.deviceTotal / directPurchase
+
+            // Contributions are calculated as a percentage of the monthly device
+            // payment.
+            return { ...device, contribution: devicePayment * weight }
+          })
+        : devicesComputedLocal
+
+    return {
+      devicesComputed: devicesWithContribution,
+      totals: {
+        directPurchase,
+        devicePayment,
+        servicePayment,
+        totalPayment: devicePayment + servicePayment,
+      },
     }
-
-    if (leasingPackage.extendedWarrantySelected) {
-      allProducts.push({
-        name: selectedDevice.warrantyName,
-        price: selectedDevice.warrantyPrice,
-      })
-    }
-
-    const itemContributions = allProducts.map(p => {
-      const weight = p.price / directPurchase
-
-      const contribution =
-        ((directPurchase * weight * leasingPackage.count + additionalMargin) /
-          36) *
-        threeYearInterest
-
-      const itemDirectPurchase = p.price * leasingPackage.count
-
-      if (devices.some(d => d.name === p.name)) {
-        return {
-          ...p,
-          price: `${itemDirectPurchase.toFixed(2)} €`,
-          contribution: `${contribution.toFixed(2)} €/kk`,
-        }
-      } else {
-        return {
-          ...p,
-          price: `${itemDirectPurchase.toFixed(2)} €`,
-          contribution: `+ ${contribution.toFixed(2)} €/kk`,
-        }
-      }
-    })
-
-    setLeasingPrices({
-      itemContributions,
-      price36: `${threeYearPayment.toFixed(2)} €/kk`,
-      directPurchase: `${directPurchase.toFixed(2)} €`,
-    })
-  }, [leasingPackage])
+  }, [leasingPackage, parsedDevices, additionalMargin, threeYearInterest])
 
   return (
     <LeasingCalculatorContainer>
@@ -328,128 +654,1222 @@ export default function LeasingCalculatorComponent({
         meta={[
           {
             name: "calculator-keywords",
-            content: devices.map(d => d.name.replaceAll(",", "")).join(", "),
+            content: parsedDevices
+              .map(d => d.name.replaceAll(",", ""))
+              .join(", "),
           },
         ]}
       />
       <LeasingCalculator>
-        <FormContainer>
-          <FormInputContainer>
-            <FormControl fullWidth>
-              <Autocomplete
-                id="device"
-                options={devices.map(d => d.name)}
-                renderInput={params => <TextField {...params} label="Laite" />}
-                value={leasingPackage.device}
-                onChange={(e, newValue) =>
-                  handleInputChange(e, "device", newValue)
-                }
-                disablePortal
-              />
-            </FormControl>
-          </FormInputContainer>
-
-          {!!leasingPackage.device && (
+        <CalculatorSectionContainer>
+          <Box
+            sx={{
+              height: "fit-content",
+              width: "fit-content",
+              display: "flex",
+              flexDirection: "row",
+              justifyContent: "space-between",
+              alignItems: "center",
+              gap: 1,
+            }}
+          >
+            <Box
+              sx={{
+                height: "2.2rem",
+                padding: "0.3rem",
+                aspectRatio: 1,
+                backgroundColor: darken(0.1, theme.palette.background.default),
+                borderRadius: "10px",
+                display: "flex",
+                justifyContent: "center",
+                alignItems: "center",
+              }}
+            >
+              <Typography
+                variant="body1"
+                sx={{
+                  height: "fit-content",
+                  width: "fit-content",
+                  fontSize: "1.2rem",
+                  fontWeight: 500,
+                }}
+              >
+                1
+              </Typography>
+            </Box>
+            <Typography
+              variant="h2"
+              sx={{ fontSize: "1.3rem", fontWeight: 500 }}
+            >
+              Laitteet
+            </Typography>
+          </Box>
+          <FormContainer>
             <FormInputContainer>
-              <FormControl margin="dense">
-                <CheckboxInput
-                  checked={leasingPackage.extendedWarrantySelected}
-                  onChange={e =>
-                    handleInputChange(e, "extendedWarrantySelected")
-                  }
+              <FormControl fullWidth>
+                <Autocomplete
+                  id="devices"
+                  options={parsedDevices.map(d => d.name)}
+                  renderInput={params => (
+                    <TextField {...params} label="Laite" />
+                  )}
+                  value={leasingPackage.devices.map(d => d.name)}
+                  onChange={(e, newValue) => handleDevicesChange(e, newValue)}
+                  multiple={true}
+                  disablePortal
+                  disableClearable
                 />
               </FormControl>
-              <CheckboxLabel>{leasingPackage.warrantyName}</CheckboxLabel>
             </FormInputContainer>
-          )}
+          </FormContainer>
+          <TableContainer>
+            <HeaderCard>
+              <Typography
+                variant="body1"
+                sx={{
+                  fontSize: "0.8em",
+                  fontWeight: 400,
+                  textTransform: "uppercase",
+                  color: lighten(0.1, theme.palette.primary.main),
+                }}
+              >
+                Laite
+              </Typography>
+              <Typography
+                variant="body1"
+                sx={{
+                  fontSize: "0.8em",
+                  fontWeight: 400,
+                  textTransform: "uppercase",
+                  color: lighten(0.1, theme.palette.primary.main),
+                }}
+              >
+                Oheislaitteet + takuulaajennukset
+              </Typography>
+              <Typography
+                sx={{
+                  fontSize: "0.8em",
+                  fontWeight: 400,
+                  textTransform: "uppercase",
+                  color: lighten(0.1, theme.palette.primary.main),
+                  [theme.breakpoints.up("md")]: {
+                    textAlign: "right",
+                  },
+                }}
+              >
+                Hinta & kpl
+              </Typography>
+            </HeaderCard>
+            <Stack direction="column" spacing={1}>
+              {devicesComputed.map(row => {
+                const catalogueDevice = parsedDevices.find(
+                  d => d.name === row.name
+                )
 
-          <FormInputContainer>
-            <StyledToggleButtonGroup
-              value={leasingPackage.peripherals}
-              onChange={(e, newValue) =>
-                handleInputChange(e, "peripherals", newValue)
-              }
-              aria-label="Button group for selecting peripherals"
+                if (!catalogueDevice) {
+                  return <></>
+                }
+
+                return (
+                  <DeviceCard key={formatKey(row.name)}>
+                    <Box
+                      sx={{
+                        height: "100%",
+                        width: "100%",
+                      }}
+                    >
+                      <Typography
+                        variant="h3"
+                        sx={{ fontWeight: 600, fontSize: "1rem" }}
+                        gutterBottom
+                      >
+                        {row.name}
+                      </Typography>
+                      <Typography
+                        variant="body1"
+                        sx={{
+                          fontWeight: 500,
+                          fontSize: "0.9rem",
+                          color: lighten(0.15, theme.palette.primary.main),
+                        }}
+                      >
+                        Perushinta:{" "}
+                        {PriceFormat.format(row.price * Number(row.count))}
+                      </Typography>
+                    </Box>
+                    <Box>
+                      <Typography
+                        variant="body1"
+                        sx={{
+                          fontWeight: 400,
+                          fontSize: "0.8rem",
+                          textTransform: "uppercase",
+                          color: lighten(0.1, theme.palette.primary.main),
+                        }}
+                        gutterBottom
+                      >
+                        Valitse oheislaitteet
+                      </Typography>
+                      {!!catalogueDevice.peripherals && (
+                        <StyledToggleButtonGroup
+                          value={row.peripherals.map(p => p.name)}
+                          onChange={(_, newValue) =>
+                            handlePeripheralsChange(row.name, newValue)
+                          }
+                          aria-label="Button group for selecting peripherals"
+                        >
+                          {catalogueDevice.peripherals.map(p => (
+                            <ToggleButton
+                              key={formatKey(p.name)}
+                              value={p.name}
+                              aria-label={p.name}
+                              sx={{
+                                display: "flex",
+                                flexDirection: "column",
+                                padding: "0.3rem",
+                              }}
+                              size="small"
+                            >
+                              <Typography
+                                variant="body1"
+                                sx={{
+                                  fontSize: "x-small",
+                                  fontWeight: 700,
+                                  color: lighten(
+                                    0.1,
+                                    theme.palette.primary.main
+                                  ),
+                                }}
+                              >
+                                {p.name}: {PriceFormat.format(p.price)}
+                              </Typography>
+                            </ToggleButton>
+                          ))}
+                        </StyledToggleButtonGroup>
+                      )}
+                    </Box>
+                    <Box
+                      sx={{
+                        height: "100%",
+                        width: "100%",
+                        display: "flex",
+                        flexDirection: "row-reverse",
+                        justifyContent: "space-between",
+                        alignItems: "center",
+                        gap: "1em",
+                        [theme.breakpoints.up("md")]: {
+                          flexDirection: "column",
+                          justifyContent: "flex-start",
+                        },
+                      }}
+                    >
+                      <Box
+                        sx={{
+                          height: "fit-content",
+                          width: "fit-content",
+                          [theme.breakpoints.up("md")]: {
+                            textAlign: "right",
+                            alignSelf: "flex-end",
+                          },
+                        }}
+                      >
+                        <Typography
+                          variant="body1"
+                          sx={{ fontWeight: 700, fontSize: "1.1rem" }}
+                        >
+                          {PriceFormat.format(row.contribution)}
+                        </Typography>
+                        <Typography
+                          variant="subtitle2"
+                          sx={{
+                            fontSize: "0.7rem",
+                            color: lighten(0.1, theme.palette.primary.main),
+                          }}
+                        >
+                          Yhteensä (alv 0%)
+                        </Typography>
+                      </Box>
+                      <Box
+                        sx={{
+                          height: "fit-content",
+                          width: "fit-content",
+                          display: "flex",
+                          flexDirection: "row",
+                          justifyContent: "space-evenly",
+                          alignItems: "center",
+                          gap: "0.3em",
+                          padding: "0.3em",
+                          marginTop: "auto",
+                          border: `1px solid ${lighten(
+                            0.5,
+                            theme.palette.primary.main
+                          )}`,
+                          borderRadius: "10px",
+                          backgroundColor: darken(
+                            0.02,
+                            theme.palette.background.default
+                          ),
+                        }}
+                      >
+                        <QuantityButton
+                          size="medium"
+                          onClick={() => handleQuantityUpdate(row.name, -1)}
+                        >
+                          <RemoveIcon />
+                        </QuantityButton>
+                        <Input
+                          id="count"
+                          type="number"
+                          value={row.count}
+                          onChange={e => handleQuantitySet(e, row.name)}
+                          onBlur={e => handleBlur(row.name, e.target.value)}
+                          inputProps={{
+                            type: "number",
+                            step: 1,
+                            min: MIN_DEVICES,
+                            max: MAX_DEVICES,
+                            sx: {
+                              "&::-webkit-outer-spin-button, &::-webkit-inner-spin-button":
+                                {
+                                  WebkitAppearance: "none",
+                                  margin: 0,
+                                },
+                              "&": {
+                                MozAppearance: "textfield",
+                              },
+                              textAlign: "center",
+                            },
+                          }}
+                          aria-label={`Device count input for ${row.name}`}
+                          disableUnderline
+                        />
+                        <QuantityButton
+                          size="medium"
+                          onClick={() => handleQuantityUpdate(row.name, 1)}
+                        >
+                          <AddIcon />
+                        </QuantityButton>
+                      </Box>
+                    </Box>
+                  </DeviceCard>
+                )
+              })}
+            </Stack>
+          </TableContainer>
+        </CalculatorSectionContainer>
+
+        <CalculatorSectionContainer>
+          <Box
+            sx={{
+              height: "fit-content",
+              width: "fit-content",
+              display: "flex",
+              flexDirection: "row",
+              justifyContent: "space-between",
+              alignItems: "center",
+              gap: 1,
+            }}
+          >
+            <Box
+              sx={{
+                height: "2.2rem",
+                padding: "0.3rem",
+                aspectRatio: 1,
+                backgroundColor: darken(0.1, theme.palette.background.default),
+                borderRadius: "10px",
+                display: "flex",
+                justifyContent: "center",
+                alignItems: "center",
+              }}
             >
-              {peripherals.map(p => (
-                <ToggleButton
-                  value={p.name}
-                  aria-label={p.name}
-                  sx={{ display: "flex", flexDirection: "column" }}
+              <Typography
+                variant="body1"
+                sx={{
+                  height: "fit-content",
+                  width: "fit-content",
+                  fontSize: "1.2rem",
+                  fontWeight: 500,
+                }}
+              >
+                2
+              </Typography>
+            </Box>
+            <Typography
+              variant="h2"
+              sx={{ fontSize: "1.3rem", fontWeight: 500 }}
+            >
+              Palvelut
+            </Typography>
+          </Box>
+          <UserCountSliderContainer>
+            <Box
+              sx={{
+                height: "fit-content",
+                width: "100%",
+                display: "flex",
+                flexDirection: "row",
+                justifyContent: "flex-start",
+                alignItems: "center",
+                gap: 1,
+              }}
+            >
+              <Box
+                sx={{
+                  height: "fit-content",
+                  width: "fit-content",
+                  display: "inline-flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                  padding: "0.5em",
+                  backgroundColor: `${lighten(
+                    0.25,
+                    theme.palette.secondary.main
+                  )}`,
+                  borderRadius: "10px",
+                  lineHeight: 0,
+                }}
+              >
+                <PeopleOutlineIcon fontSize="large" />
+              </Box>
+              <Box>
+                <Typography
+                  variant="h4"
+                  sx={{
+                    fontSize: "1.1rem",
+                    fontWeight: 700,
+                    color: `${theme.palette.primary.main}`,
+                  }}
                 >
-                  <ButtonTextContainer>{p.name}</ButtonTextContainer>
-                  <ButtonTextContainer noWrap>{p.price} €</ButtonTextContainer>
-                </ToggleButton>
-              ))}
-            </StyledToggleButtonGroup>
-          </FormInputContainer>
-
-          <FormInputContainer>
-            <FormControl fullWidth>
-              <InputText>Määrä</InputText>
-              <CountSlider
+                  Palvelut ja käyttäjät
+                </Typography>
+                <Typography
+                  variant="body1"
+                  sx={{ color: `${lighten(0.2, theme.palette.primary.main)}` }}
+                >
+                  Valitse käyttäjämäärä ja tarvittavat pilvipalvelut
+                </Typography>
+              </Box>
+              <Box
+                sx={{
+                  height: "fit-content",
+                  width: "fit-content",
+                  display: "flex",
+                  flexDirection: "column",
+                  justifyContent: "space-between",
+                  alignItems: "flex-end",
+                  marginLeft: "auto",
+                }}
+              >
+                <Typography
+                  variant="body1"
+                  sx={{
+                    fontSize: "1.2rem",
+                    fontWeight: 700,
+                    textAlign: "right",
+                    color: `${darken(0.1, theme.palette.secondary.main)}`,
+                  }}
+                >
+                  {leasingPackage.userCount}
+                </Typography>
+                <Typography
+                  variant="body1"
+                  sx={{
+                    fontSize: "0.7rem",
+                    fontWeight: 400,
+                    color: `${lighten(0.2, theme.palette.primary.main)}`,
+                    textTransform: "uppercase",
+                  }}
+                >
+                  {leasingPackage.userCount === 1 ? "Käyttäjä" : "Käyttäjää"}
+                </Typography>
+              </Box>
+            </Box>
+            <Box
+              sx={{
+                width: "100%",
+                height: "fit-content",
+                display: "flex",
+                flexDirection: "column",
+                justifyContent: "flex-start",
+                alignItems: "center",
+              }}
+            >
+              <Slider
                 id="count-slider"
                 value={
-                  typeof leasingPackage.count === "number"
-                    ? leasingPackage.count
-                    : MIN_DEVICES
+                  typeof leasingPackage.userCount === "number"
+                    ? leasingPackage.userCount
+                    : MIN_USERS
                 }
-                onChange={e => handleInputChange(e, "count")}
-                min={MIN_DEVICES}
-                max={MAX_DEVICES}
-                aria-label="Device count slider"
-              />
-              <Input
-                id="count"
-                value={leasingPackage.count}
-                onChange={e => handleInputChange(e, "count")}
-                onBlur={handleBlur}
-                type="number"
-                inputProps={{
-                  step: 1,
-                  min: MIN_DEVICES,
-                  max: MAX_DEVICES,
+                onChange={handleUserCountChange}
+                min={MIN_USERS}
+                max={MAX_USERS}
+                aria-label="User count slider"
+                sx={{
+                  color: theme.palette.secondary.main,
+                  width: `calc(100% - 20px)`,
+                  alignSelf: "center",
                 }}
-                sx={{ width: "fit-content", alignSelf: "center" }}
-                arial-label="Device count input"
               />
-            </FormControl>
-          </FormInputContainer>
-        </FormContainer>
+            </Box>
+          </UserCountSliderContainer>
+          <ServiceInputsContainer>
+            <StyledSelectContainer>
+              <Typography
+                variant="body1"
+                sx={{
+                  fontSize: "0.8rem",
+                  fontWeight: 600,
+                  color: `${lighten(0.2, theme.palette.primary.main)}`,
+                  textTransform: "uppercase",
+                }}
+              >
+                TDP IT-tuki
+              </Typography>
+              <FormControl fullWidth>
+                <StyledSelect
+                  id="support-input"
+                  variant="outlined"
+                  open={open.support}
+                  onOpen={() => handleSelectOpen("support")}
+                  onClose={() => handleSelectClose("support")}
+                  value={leasingPackage.services.support?.name || ""}
+                  onChange={e => handleSupportChange(e)}
+                >
+                  <StyledMenuItem key="no-support" value={""}>
+                    <Typography variant="body1" noWrap>
+                      Ei valintaa
+                    </Typography>
+                  </StyledMenuItem>
+                  {parsedSupport.map(s => (
+                    <StyledMenuItem key={formatKey(s.name)} value={s.name}>
+                      <Typography variant="body1" noWrap>
+                        {s.name} {PriceFormat.format(s.price)}/kk
+                      </Typography>
+                    </StyledMenuItem>
+                  ))}
+                </StyledSelect>
+              </FormControl>
+            </StyledSelectContainer>
+            <StyledSelectContainer>
+              <Typography
+                variant="body1"
+                sx={{
+                  fontSize: "0.8rem",
+                  fontWeight: 600,
+                  color: `${lighten(0.2, theme.palette.primary.main)}`,
+                  textTransform: "uppercase",
+                }}
+              >
+                Tietoturva
+              </Typography>
+              <FormControl fullWidth>
+                <StyledSelect
+                  id="security-input"
+                  variant="outlined"
+                  open={open.security}
+                  onOpen={() => handleSelectOpen("security")}
+                  onClose={() => handleSelectClose("security")}
+                  value={leasingPackage.services.security?.name || ""}
+                  onChange={e => handleSecurityChange(e)}
+                >
+                  <StyledMenuItem key="no-support" value={""}>
+                    <Typography variant="body1" noWrap>
+                      Ei valintaa
+                    </Typography>
+                  </StyledMenuItem>
+                  {parsedSecurity.map(s => (
+                    <StyledMenuItem key={formatKey(s.name)} value={s.name}>
+                      <Typography variant="body1" noWrap>
+                        {s.name} {PriceFormat.format(s.price)}/kk
+                      </Typography>
+                    </StyledMenuItem>
+                  ))}
+                </StyledSelect>
+              </FormControl>
+            </StyledSelectContainer>
+            <StyledSelectContainer>
+              <Typography
+                variant="body1"
+                sx={{
+                  fontSize: "0.8rem",
+                  fontWeight: 600,
+                  color: `${lighten(0.2, theme.palette.primary.main)}`,
+                  textTransform: "uppercase",
+                }}
+              >
+                Liiketoimintasovellukset
+              </Typography>
+              <FormControl fullWidth>
+                <StyledSelect
+                  id="business-apps-input"
+                  variant="outlined"
+                  open={open.businessApps}
+                  onOpen={() => handleSelectOpen("businessApps")}
+                  onClose={() => handleSelectClose("businessApps")}
+                  value={leasingPackage.services.businessApps?.name || ""}
+                  onChange={e => handleBusinessAppsChange(e)}
+                >
+                  <StyledMenuItem key="no-support" value={""}>
+                    <Typography variant="body1" noWrap>
+                      Ei valintaa
+                    </Typography>
+                  </StyledMenuItem>
+                  {parsedBusinessApps.map(a => (
+                    <StyledMenuItem key={formatKey(a.name)} value={a.name}>
+                      <Typography variant="body1" noWrap>
+                        {a.name} {PriceFormat.format(a.price)}/kk
+                      </Typography>
+                    </StyledMenuItem>
+                  ))}
+                </StyledSelect>
+              </FormControl>
+            </StyledSelectContainer>
+            <StyledSelectContainer>
+              <Typography
+                variant="body1"
+                sx={{
+                  fontSize: "0.8rem",
+                  fontWeight: 600,
+                  color: `${lighten(0.2, theme.palette.primary.main)}`,
+                  textTransform: "uppercase",
+                }}
+              >
+                Hallinta
+              </Typography>
+              <Box
+                sx={{
+                  height: 56,
+                  width: "100%",
+                  display: "flex",
+                  flexDirection: "row",
+                  justifyContent: "flex-start",
+                  alignItems: "center",
+                  marginTop: "auto",
+                  border: `1px solid ${lighten(
+                    0.5,
+                    theme.palette.primary.main
+                  )}`,
+                  borderRadius: "10px",
+                  px: 1,
+                }}
+              >
+                <FormControl>
+                  <Checkbox
+                    checked={
+                      leasingPackage.servicesChecked.centralizedManagement
+                    }
+                    onChange={e => handleCentalizedManagementCheckedChange(e)}
+                    sx={{
+                      color: theme.palette.primary.main,
+                      "&.Mui-checked": {
+                        color: theme.palette.secondary.main,
+                      },
+                    }}
+                  />
+                </FormControl>
+                <Box
+                  sx={{
+                    height: "fit-content",
+                    width: "fit-content",
+                    display: "flex",
+                    flexDirection: "column",
+                    justifyContent: "space-between",
+                    alignItems: "flex-start",
+                  }}
+                >
+                  <Typography
+                    variant="body1"
+                    sx={{ fontSize: "0.9rem", fontWeight: 400 }}
+                  >
+                    {leasingPackage.services.centralizedManagement?.name ||
+                      "Ei määritelty"}
+                  </Typography>
+                  <Typography
+                    variant="body1"
+                    sx={{
+                      fontSize: "0.8rem",
+                      fontWeight: 400,
+                      color: `${lighten(0.2, theme.palette.primary.main)}`,
+                    }}
+                  >
+                    {PriceFormat.format(
+                      leasingPackage.services.centralizedManagement?.price
+                        ? leasingPackage.services.centralizedManagement?.price
+                        : 0
+                    )}
+                    /kk
+                  </Typography>
+                </Box>
+              </Box>
+            </StyledSelectContainer>
+            {!!leasingPackage.services.cloudBackup && (
+              <StyledSelectContainer
+                sx={{ gridColumn: "1", gridRow: { xs: 4, md: 3 } }}
+              >
+                <Box
+                  sx={{
+                    height: 56,
+                    width: "100%",
+                    display: "flex",
+                    flexDirection: "row",
+                    justifyContent: "flex-start",
+                    alignItems: "center",
+                    marginTop: "auto",
+                    border: `1px solid ${lighten(
+                      0.5,
+                      theme.palette.primary.main
+                    )}`,
+                    borderRadius: "10px",
+                    px: 1,
+                  }}
+                >
+                  <FormControl>
+                    <Checkbox
+                      checked={leasingPackage.servicesChecked.cloudBackup}
+                      onChange={e => handleCloudBackupChange(e)}
+                      sx={{
+                        color: theme.palette.primary.main,
+                        "&.Mui-checked": {
+                          color: theme.palette.secondary.main,
+                        },
+                      }}
+                    />
+                  </FormControl>
+                  <Box
+                    sx={{
+                      height: "fit-content",
+                      width: "fit-content",
+                      display: "flex",
+                      flexDirection: "column",
+                      justifyContent: "space-between",
+                      alignItems: "flex-start",
+                    }}
+                  >
+                    <Typography
+                      variant="body1"
+                      sx={{ fontSize: "0.9rem", fontWeight: 400 }}
+                    >
+                      {leasingPackage.services.cloudBackup?.name ||
+                        "Pilvipalveluiden varmuuskopiointi"}
+                    </Typography>
 
-        <TableContainer>
-          <Table style={{ margin: 0 }}>
-            <TableHead>
-              <StyledTableRow key="heading">
-                <StyledTableCell align="left">Tuote</StyledTableCell>
-                <StyledTableCell align="left">Suoraosto</StyledTableCell>
-                <StyledTableCell align="left">Hinta 36kk</StyledTableCell>
-              </StyledTableRow>
-            </TableHead>
-            <TableBody>
-              {leasingPrices.itemContributions.length > 0 &&
-                leasingPrices.itemContributions.map(row => (
-                  <StyledTableRow key={row.name}>
-                    <StyledTableCell align="left">{row.name}</StyledTableCell>
-                    <StyledTableCell align="left">{row.price}</StyledTableCell>
-                    <StyledTableCell align="left">
-                      {row.contribution}
-                    </StyledTableCell>
-                  </StyledTableRow>
-                ))}
-              <StyledTableRow key="total">
-                <StyledTableCell align="left">Yhteensä</StyledTableCell>
-                <StyledTableCell align="left">
-                  {leasingPrices.directPurchase}
-                </StyledTableCell>
-                <StyledTableCell align="left">
-                  {leasingPrices.price36}
-                </StyledTableCell>
-              </StyledTableRow>
-            </TableBody>
-          </Table>
-          <VatNotice>Hinnat ALV 0%</VatNotice>
-        </TableContainer>
+                    <Typography
+                      variant="body1"
+                      sx={{
+                        fontSize: "0.8rem",
+                        fontWeight: 400,
+                        color: `${lighten(0.2, theme.palette.primary.main)}`,
+                      }}
+                    >
+                      {PriceFormat.format(
+                        leasingPackage.services.cloudBackup.price
+                      )}
+                      /kk
+                    </Typography>
+                  </Box>
+                </Box>
+              </StyledSelectContainer>
+            )}
+          </ServiceInputsContainer>
+        </CalculatorSectionContainer>
+
+        <CalculatorSectionContainer>
+          <Box
+            sx={{
+              height: "fit-content",
+              width: "100%",
+              display: "flex",
+              flexDirection: "column",
+              border: `1px solid ${lighten(0.5, theme.palette.primary.main)}`,
+              borderRadius: "10px",
+              overflow: "hidden",
+            }}
+          >
+            <Box
+              sx={{
+                height: "fit-content",
+                width: "100%",
+                display: "flex",
+                flexDirection: "row",
+                alignItems: "center",
+                gap: "0.5rem",
+                backgroundColor: `${theme.palette.primary.main}`,
+                padding: "0.7rem",
+              }}
+            >
+              <CreditCardIcon
+                sx={{
+                  color: `${theme.palette.background.default}`,
+                }}
+              />
+              <Typography
+                variant="h4"
+                sx={{
+                  fontSize: "1.3rem",
+                  fontWeight: 500,
+                  color: `${theme.palette.background.default}`,
+                }}
+              >
+                Kustannusyhteenveto
+              </Typography>
+            </Box>
+            <CostBreakdownContainer>
+              <CostBreakdownBox
+                $span={7}
+                $backgroundColor={darken(
+                  0.02,
+                  theme.palette.background.default
+                )}
+              >
+                <Box
+                  sx={{
+                    height: "fit-content",
+                    width: "100%",
+                    minWidth: 0,
+                    display: "inline-flex",
+                    justifyContent: "flex-start",
+                    alignItems: "center",
+                    gap: "0.5rem",
+                    paddingBottom: "0.5rem",
+                  }}
+                >
+                  <DevicesIcon
+                    sx={{ color: lighten(0.2, theme.palette.primary.main) }}
+                  />
+                  <Typography
+                    variant="body1"
+                    sx={{
+                      fontSize: "0.8rem",
+                      fontWeight: 600,
+                      color: `${lighten(0.2, theme.palette.primary.main)}`,
+                      textTransform: "uppercase",
+                    }}
+                  >
+                    Laitteet (36kk leasing)
+                  </Typography>
+                </Box>
+                {devicesComputed.length > 0 ? (
+                  devicesComputed.map(d => (
+                    <Box
+                      key={formatKey(d.name)}
+                      sx={{
+                        height: "fit-content",
+                        width: "100%",
+                        display: "flex",
+                        flexDirection: "row",
+                        justifyContent: "flex-start",
+                        alignItems: "flex-start",
+                        gap: "1rem",
+                      }}
+                    >
+                      <Box
+                        sx={{
+                          height: "fit-content",
+                          py: "0.2rem",
+                          textOverflow: "ellipsis",
+                          overflow: "hidden",
+                        }}
+                      >
+                        <Typography
+                          variant="body1"
+                          sx={{ fontSize: "0.9rem", textOverflow: "ellipsis" }}
+                          noWrap
+                        >
+                          {d.count}x {d.name}
+                        </Typography>
+                        {d.peripherals && d.peripherals.length > 0 && (
+                          <>
+                            <Typography
+                              variant="body2"
+                              sx={{
+                                fontSize: "0.7rem",
+                                color: lighten(0.2, theme.palette.primary.main),
+                              }}
+                            >
+                              {Number(d.count) === 1 ? "Laite" : "Laitteet"}:{" "}
+                              {PriceFormat.format(d.price * Number(d.count))}
+                            </Typography>
+                            <Typography
+                              variant="body2"
+                              sx={{
+                                fontSize: "0.7rem",
+                                color: lighten(0.2, theme.palette.primary.main),
+                              }}
+                            >
+                              Oheislaitteet:{" "}
+                              {PriceFormat.format(
+                                d.peripherals.reduce(
+                                  (pTotal, current) => pTotal + current.price,
+                                  0
+                                )
+                              )}
+                            </Typography>
+                          </>
+                        )}
+                        <Typography
+                          variant="body2"
+                          sx={{
+                            fontSize: "0.7rem",
+                            color: lighten(0.2, theme.palette.primary.main),
+                          }}
+                        >
+                          Suoraosto: {PriceFormat.format(d.deviceTotal)}
+                        </Typography>
+                      </Box>
+                      <Typography
+                        variant="body1"
+                        sx={{
+                          width: "fit-content",
+                          fontSize: "0.9rem",
+                          fontWeight: 600,
+                          textWrap: "nowrap",
+                          marginLeft: "auto",
+                          py: "0.2rem",
+                        }}
+                      >
+                        {PriceFormat.format(d.contribution)}/kk
+                      </Typography>
+                    </Box>
+                  ))
+                ) : (
+                  <Typography
+                    variant="body2"
+                    fontStyle="italic"
+                    sx={{
+                      fontSize: "0.7rem",
+                      color: lighten(0.2, theme.palette.primary.main),
+                    }}
+                  >
+                    Ei valittuja laitteita
+                  </Typography>
+                )}
+                <Box
+                  sx={{
+                    width: "100%",
+                    marginTop: "auto",
+                  }}
+                >
+                  <Divider
+                    variant="fullWidth"
+                    sx={{ paddingTop: "0.5rem" }}
+                    flexItem
+                  />
+                  <Box
+                    sx={{
+                      height: "fit-content",
+                      width: "100%",
+                      display: "inline-flex",
+                      justifyContent: "flex-start",
+                      alignItems: "center",
+                      gap: "1rem",
+                      py: "0.5rem",
+                    }}
+                  >
+                    <Typography
+                      variant="body1"
+                      sx={{ fontSize: "0.9rem", fontWeight: 700 }}
+                    >
+                      Laitteet yhteensä
+                    </Typography>
+                    <Typography
+                      variant="body1"
+                      sx={{
+                        fontSize: "0.9rem",
+                        fontWeight: 600,
+                        marginLeft: "auto",
+                      }}
+                    >
+                      {PriceFormat.format(totals.devicePayment)}/kk
+                    </Typography>
+                  </Box>
+                </Box>
+              </CostBreakdownBox>
+              <CostBreakdownBox
+                $span={7}
+                $backgroundColor={lighten(0.75, theme.palette.primary.main)}
+              >
+                <Box
+                  sx={{
+                    height: "fit-content",
+                    width: "100%",
+                    minWidth: 0,
+                    display: "inline-flex",
+                    justifyContent: "flex-start",
+                    alignItems: "center",
+                    gap: "0.5rem",
+                    paddingBottom: "0.5rem",
+                  }}
+                >
+                  <DnsOutlinedIcon
+                    sx={{ color: lighten(0.2, theme.palette.primary.main) }}
+                  />
+                  <Typography
+                    variant="body1"
+                    sx={{
+                      fontSize: "0.8rem",
+                      fontWeight: 600,
+                      color: `${lighten(0.2, theme.palette.primary.main)}`,
+                      textTransform: "uppercase",
+                    }}
+                  >
+                    Palvelut ({leasingPackage.userCount}{" "}
+                    {leasingPackage.userCount === 1 ? "Käyttäjä" : "Käyttäjää"})
+                  </Typography>
+                </Box>
+                {packageIncludesServices() ? (
+                  Object.entries(leasingPackage.services)
+                    .reduce((selectedServices, [key, value]) => {
+                      const checkboxSelectedService = Object.keys(
+                        leasingPackage.servicesChecked
+                      ).some(k => k === key)
+
+                      if (value === "") {
+                        return selectedServices
+                      } else if (
+                        checkboxSelectedService &&
+                        leasingPackage.servicesChecked[key]
+                      ) {
+                        selectedServices.push(value)
+                      } else if (!checkboxSelectedService) {
+                        selectedServices.push(value)
+                      }
+                      return selectedServices
+                    }, [])
+                    .map(s => (
+                      <Box
+                        key={formatKey(s.name)}
+                        sx={{
+                          height: "fit-content",
+                          width: "100%",
+                          display: "flex",
+                          flexDirection: "row",
+                          justifyContent: "flex-start",
+                          alignItems: "center",
+                          gap: "1rem",
+                        }}
+                      >
+                        <Box
+                          sx={{
+                            height: "fit-content",
+                            py: "0.2rem",
+                            textOverflow: "ellipsis",
+                            overflow: "hidden",
+                          }}
+                        >
+                          <Typography
+                            variant="body1"
+                            sx={{
+                              fontSize: "0.9rem",
+                              textOverflow: "ellipsis",
+                            }}
+                            noWrap
+                          >
+                            {s.name}
+                          </Typography>
+                        </Box>
+                        <Typography
+                          variant="body1"
+                          sx={{
+                            width: "fit-content",
+                            fontSize: "0.9rem",
+                            fontWeight: 600,
+                            textWrap: "nowrap",
+                            marginLeft: "auto",
+                          }}
+                        >
+                          {PriceFormat.format(
+                            s.price * leasingPackage.userCount
+                          )}
+                          /kk
+                        </Typography>
+                      </Box>
+                    ))
+                ) : (
+                  <Typography
+                    variant="body2"
+                    fontStyle="italic"
+                    sx={{
+                      fontSize: "0.7rem",
+                      color: lighten(0.2, theme.palette.primary.main),
+                    }}
+                  >
+                    Ei valittuja palveluita
+                  </Typography>
+                )}
+                <Box
+                  sx={{
+                    width: "100%",
+                    marginTop: "auto",
+                  }}
+                >
+                  <Divider
+                    variant="fullWidth"
+                    sx={{ paddingTop: "0.5rem" }}
+                    flexItem
+                  />
+                  <Box
+                    sx={{
+                      height: "fit-content",
+                      width: "100%",
+                      display: "inline-flex",
+                      justifyContent: "flex-start",
+                      alignItems: "center",
+                      gap: "1rem",
+                      py: "0.5rem",
+                    }}
+                  >
+                    <Typography
+                      variant="body1"
+                      sx={{ fontSize: "0.9rem", fontWeight: 700 }}
+                    >
+                      Palvelut yhteensä
+                    </Typography>
+                    <Typography
+                      variant="body1"
+                      sx={{
+                        fontSize: "0.9rem",
+                        fontWeight: 600,
+                        marginLeft: "auto",
+                      }}
+                    >
+                      {PriceFormat.format(totals.servicePayment)}/kk
+                    </Typography>
+                  </Box>
+                </Box>
+              </CostBreakdownBox>
+              <CostBreakdownBox $span={6}>
+                <Box
+                  sx={{
+                    height: "fit-content",
+                    width: "fit-content",
+                    minWidth: 0,
+                    display: "inline-flex",
+                    justifyContent: "flex-start",
+                    alignItems: "center",
+                    gap: "0.5rem",
+                  }}
+                >
+                  <ShoppingCartOutlinedIcon
+                    sx={{ color: lighten(0.2, theme.palette.primary.main) }}
+                  />
+                  <Typography
+                    variant="body1"
+                    sx={{
+                      fontSize: "0.8rem",
+                      fontWeight: 600,
+                      color: `${lighten(0.2, theme.palette.primary.main)}`,
+                      textTransform: "uppercase",
+                    }}
+                  >
+                    Suoraosto
+                  </Typography>
+                </Box>
+                <Typography
+                  variant="body1"
+                  sx={{
+                    fontSize: "0.7rem",
+                    fontWeight: 400,
+                    color: lighten(0.2, theme.palette.primary.main),
+                  }}
+                >
+                  Laitteiden ja lisätarvikkeiden hinta kerralla ostettuna.
+                </Typography>
+                <Typography
+                  variant="body1"
+                  sx={{
+                    fontSize: "1.1rem",
+                    fontWeight: 700,
+                    marginTop: "0.5rem",
+                  }}
+                >
+                  {PriceFormat.format(totals.directPurchase)}
+                </Typography>
+                <Typography
+                  variant="body1"
+                  sx={{
+                    fontSize: "0.7rem",
+                    fontWeight: 500,
+                    color: lighten(0.2, theme.palette.primary.main),
+                    textTransform: "uppercase",
+                  }}
+                >
+                  Kerralla maksettava (Alv 0%)
+                </Typography>
+              </CostBreakdownBox>
+              <CostBreakdownBox
+                $span={8}
+                $backgroundColor={theme.palette.secondary.main}
+              >
+                <Box
+                  sx={{
+                    height: "fit-content",
+                    width: "100%",
+                    minWidth: 0,
+                    display: "inline-flex",
+                    justifyContent: "flex-start",
+                    alignItems: "center",
+                    gap: "0.5rem",
+                  }}
+                >
+                  <EventRepeatOutlinedIcon />
+                  <Typography
+                    variant="body1"
+                    sx={{
+                      fontSize: "0.8rem",
+                      fontWeight: 600,
+                      textTransform: "uppercase",
+                    }}
+                  >
+                    Kuukausierä
+                  </Typography>
+                </Box>
+                <Typography
+                  variant="body1"
+                  sx={{
+                    fontSize: "1.7rem",
+                    fontWeight: 700,
+                    marginTop: "0.5rem",
+                  }}
+                >
+                  {PriceFormat.format(totals.totalPayment)}/kk
+                </Typography>
+                <Typography
+                  sx={{
+                    fontSize: "0.7rem",
+                    fontWeight: 500,
+                    textTransform: "uppercase",
+                  }}
+                >
+                  Sisältää laitteet ja kaikki valitut palvelut.
+                </Typography>
+              </CostBreakdownBox>
+            </CostBreakdownContainer>
+            <Box
+              sx={{
+                height: "fit-content",
+                width: "100%",
+                display: "flex",
+                flexDirection: "row",
+                justifyContent: "center",
+                alignItems: "center",
+                paddingBottom: "0.7rem",
+                px: "0.7rem",
+              }}
+            >
+              <Typography
+                variant="body2"
+                sx={{
+                  color: `${lighten(0.2, theme.palette.primary.main)}`,
+                  textTransform: "uppercase",
+                }}
+              >
+                Hinnat alv 0 % ▪ Leasing edellyttää hyväksyttyä luottopäätöstä ▪
+                Sopimuskausi 36kk
+              </Typography>
+            </Box>
+          </Box>
+        </CalculatorSectionContainer>
       </LeasingCalculator>
     </LeasingCalculatorContainer>
   )
