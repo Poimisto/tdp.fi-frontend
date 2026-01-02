@@ -22,7 +22,7 @@ breadcrumb:
 ---
 # Apple-laitteet – MacBook Pro, MacBook Air ja Mac Mini
 
-***Uusimmat Apple M4 -sarjan laitteet nyt leasingillä tai suoraostolla: MacBook Pro, MacBook Air ja Mac mini huippusuorituskyvyllä ja tyylikkäällä designilla.***
+**Uusimmat Apple M4 -sarjan laitteet nyt leasingillä tai suoraostolla: MacBook Pro, MacBook Air ja Mac mini huippusuorituskyvyllä ja tyylikkäällä designilla.**
 
 * Leasing-sopimuksen pituus 3 vuotta (vaihtoehtoina 1-5 vuotta)
 * Kysy tarjous usean koneen paketista
