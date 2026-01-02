@@ -1187,7 +1187,7 @@ export default function LeasingCalculatorComponent({
                   {supportOptions.map(s => (
                     <StyledMenuItem key={formatKey(s.name)} value={s.name}>
                       <Typography variant="body1" noWrap>
-                        {s.name} {PriceFormat.format(s.price)}/kk
+                        {s.name} {PriceFormat.format(s.price)}/käyttäjä/kk
                       </Typography>
                     </StyledMenuItem>
                   ))}
@@ -1224,7 +1224,7 @@ export default function LeasingCalculatorComponent({
                   {parsedSecurity.map(s => (
                     <StyledMenuItem key={formatKey(s.name)} value={s.name}>
                       <Typography variant="body1" noWrap>
-                        {s.name} {PriceFormat.format(s.price)}/kk
+                        {s.name} {PriceFormat.format(s.price)}/käyttäjä/kk
                       </Typography>
                     </StyledMenuItem>
                   ))}
@@ -1261,7 +1261,7 @@ export default function LeasingCalculatorComponent({
                   {parsedBusinessApps.map(a => (
                     <StyledMenuItem key={formatKey(a.name)} value={a.name}>
                       <Typography variant="body1" noWrap>
-                        {a.name} {PriceFormat.format(a.price)}/kk
+                        {a.name} {PriceFormat.format(a.price)}/käyttäjä/kk
                       </Typography>
                     </StyledMenuItem>
                   ))}
@@ -1341,7 +1341,7 @@ export default function LeasingCalculatorComponent({
                         ? leasingPackage.services.centralizedManagement?.price
                         : 0
                     )}
-                    /kk
+                    /käyttäjä/kk
                   </Typography>
                 </Box>
               </Box>
@@ -1408,7 +1408,7 @@ export default function LeasingCalculatorComponent({
                       {PriceFormat.format(
                         leasingPackage.services.cloudBackup.price
                       )}
-                      /kk
+                      /käyttäjä/kk
                     </Typography>
                   </Box>
                 </Box>
