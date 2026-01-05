@@ -9,7 +9,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 
-function SEO({ description, lang, meta, title, author, image, keywords }) {
+function SEO({ description = ``, lang = `en`, meta = [], title, author, image, keywords }) {
   const settings = require("../../content/settings.json")
 
   const metaDescription = description || settings.description
@@ -72,13 +72,6 @@ function SEO({ description, lang, meta, title, author, image, keywords }) {
     />
   )
 }
-
-SEO.defaultProps = {
-  lang: `en`,
-  meta: [],
-  description: ``,
-}
-
 SEO.propTypes = {
   description: PropTypes.string,
   lang: PropTypes.string,

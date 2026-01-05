@@ -1,42 +1,36 @@
-import React from 'react'
+import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
-import { GatsbyImage } from 'gatsby-plugin-image'
-import styled from 'styled-components'
+import { GatsbyImage } from "gatsby-plugin-image"
+import styled from "styled-components"
 
-const PackageGrid = styled.div`
+import formatKey from "../utils/formatListKey"
 
-`;
+const PackageGrid = styled.div``
 const Package = styled.div`
-  display:grid;
+  display: grid;
   grid-template-columns: 0.2fr 1fr;
   grid-gap: 16px;
   @media (max-width: ${props => props.theme.mobileBreakpoint}px) {
     grid-template-columns: 0.2fr 1fr;
   }
-`;
+`
 
 const ListOfLeasingPackages = () => {
   const data = useStaticQuery(graphql`
     query MyQuery {
-      allMdx(
-        filter: {
-          fields: {
-            slug: {
-              regex: "/^\/leasing-paketit.*/"
-            }
-          }
-        }
-      ) {
+      allMdx(filter: { fields: { slug: { regex: "/^/leasing-paketit.*/" } } }) {
         edges {
           node {
-            fields {slug}
+            fields {
+              slug
+            }
             frontmatter {
               thumbnail {
                 childImageSharp {
                   gatsbyImageData(
-                    width: 175,
-                    height: 240,
-                    layout: FIXED,
+                    width: 175
+                    height: 240
+                    layout: FIXED
                     placeholder: BLURRED
                   )
                 }
@@ -45,21 +39,28 @@ const ListOfLeasingPackages = () => {
                 description
                 title
               }
-
             }
           }
         }
       }
-    }  
+    }
   `)
   return (
     <PackageGrid>
-      {data.allMdx.edges.map((node) => {
+      {data.allMdx.edges.map(node => {
         return (
-          <Package>
-            <GatsbyImage className="img" image={node.node.frontmatter.thumbnail.childImageSharp.gatsbyImageData} />
+          <Package key={formatKey(node.node.frontmatter.head.title)}>
+            <GatsbyImage
+              className="img"
+              image={
+                node.node.frontmatter.thumbnail.childImageSharp.gatsbyImageData
+              }
+              alt=""
+            />
             <div className="content">
-              <a href={node.node.fields.slug}><h2 className="title">{node.node.frontmatter.head.title}</h2></a>
+              <a href={node.node.fields.slug}>
+                <h2 className="title">{node.node.frontmatter.head.title}</h2>
+              </a>
               <p>{node.node.frontmatter.head.description}</p>
               <a href={node.node.fields.slug}>Tutustu tarkemmin</a>
             </div>
@@ -70,4 +71,4 @@ const ListOfLeasingPackages = () => {
   )
 }
 
-export default ListOfLeasingPackages;
+export default ListOfLeasingPackages
