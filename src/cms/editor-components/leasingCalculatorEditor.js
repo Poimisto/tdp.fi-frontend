@@ -93,6 +93,11 @@ const LeasingCalculatorEditor = {
           widget: "string",
         },
         {
+          label: "Description",
+          name: "description",
+          widget: "text",
+        },
+        {
           label: "Price",
           name: "price",
           widget: "number",
@@ -113,7 +118,7 @@ const LeasingCalculatorEditor = {
           widget: "number",
           value_type: "int",
           min: 0,
-          step: 1
+          step: 1,
         },
         {
           label: "To users",
@@ -121,7 +126,7 @@ const LeasingCalculatorEditor = {
           widget: "number",
           value_type: "int",
           min: 0,
-          step: 1
+          step: 1,
         },
       ],
     },
@@ -135,6 +140,11 @@ const LeasingCalculatorEditor = {
           label: "Name",
           name: "name",
           widget: "string",
+        },
+        {
+          label: "Description",
+          name: "description",
+          widget: "text",
         },
         {
           label: "Price",
@@ -157,6 +167,11 @@ const LeasingCalculatorEditor = {
           widget: "string",
         },
         {
+          label: "Description",
+          name: "description",
+          widget: "text",
+        },
+        {
           label: "Price",
           name: "price",
           widget: "number",
@@ -175,6 +190,11 @@ const LeasingCalculatorEditor = {
           label: "Name",
           name: "name",
           widget: "string",
+        },
+        {
+          label: "Description",
+          name: "description",
+          widget: "text",
         },
         {
           label: "Price",
@@ -202,6 +222,11 @@ const LeasingCalculatorEditor = {
           label: "Name",
           name: "name",
           widget: "string",
+        },
+        {
+          label: "Description",
+          name: "description",
+          widget: "text",
         },
         {
           label: "Price",

@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from "react"
+import React, { useState, useMemo, useEffect, useRef } from "react"
 import Helmet from "react-helmet"
 import { getContrast, shade, lighten, darken } from "polished"
 import styled from "styled-components"
@@ -31,6 +31,9 @@ import ShoppingCartOutlinedIcon from "@mui/icons-material/ShoppingCartOutlined"
 import EventRepeatOutlinedIcon from "@mui/icons-material/EventRepeatOutlined"
 import { useTheme } from "@mui/material/styles"
 
+import Cards from "./Cards"
+import formatKey from "../utils/formatListKey"
+
 const MIN_DEVICES = 1
 const MAX_DEVICES = 100
 const MIN_USERS = 1
@@ -41,13 +44,100 @@ const LeasingCalculatorContainer = styled.div`
   height: fit-content;
   width: 100%;
   margin: 16px 0;
-  display: flex;
-  justify-content: center;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr;
+  align-items: start;
+
+  & > * {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  ${({ theme }) => theme.breakpoints.up("md")} {
+    grid-template-columns: repeat(10, 1fr);
+
+    & > :only-child {
+      grid-column: span 10;
+      margin: 0 auto;
+    }
+
+    & > :not(:only-child) {
+      &:first-of-type {
+        grid-column: span 7;
+      }
+      &:last-of-type {
+        grid-column: span 3;
+      }
+    }
+  }
+`
+
+const VerticalScrollWrapper = styled.div`
+  position: relative;
+  min-width: 0;
+  max-width: 100%;
+
+  /* Overlay shadows */
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: var(--scrollbar-inset, 0px);
+    height: 16px;
+    pointer-events: none;
+    z-index: 10;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+  }
+
+  /* Top shadow */
+  &::before {
+    top: 0;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.15), transparent);
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+  }
+
+  /* Bottom shadow */
+  &::after {
+    bottom: 0;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.15), transparent);
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+  }
+
+  /* show shadows via data attributes */
+  &[data-shadow-top="true"]::before {
+    opacity: 1;
+  }
+  &[data-shadow-bottom="true"]::after {
+    opacity: 1;
+  }
+`
+
+const VerticalScrollArea = styled.div`
+  min-width: 0;
+  max-width: 100%;
+
+  ${({ theme }) => theme.breakpoints.up("md")} {
+    max-height: ${({ $maxHeight }) =>
+      $maxHeight ? `${$maxHeight}px` : "none"};
+    overflow-y: auto;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+  }
 `
 
 const LeasingCalculator = styled.div`
   height: fit-content;
-  width: 80%;
+  max-width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
   gap: 2em;
@@ -274,20 +364,6 @@ const safeParse = (str, fallback) => {
   }
 }
 
-/**
- * Formats strings to be used as keys for list items in JSX.
- *
- * Makes all characters lower-case, replaces whitespace with dashes (-) and
- * removes non-alphanumeric characters.
- * @param {string} str
- * @returns {string} Formatted string
- */
-const formatKey = str =>
-  str
-    .toLowerCase()
-    .replaceAll(/\s/g, "-")
-    .replaceAll(/[^a-z0-9\s]/g, "")
-
 export default function LeasingCalculatorComponent({
   additionalMargin,
   threeYearInterest,
@@ -343,6 +419,11 @@ export default function LeasingCalculatorComponent({
       cloudBackup: false,
     },
   })
+  const calculatorRef = useRef(null)
+  const [calculatorHeight, setCalculatorHeight] = useState(0)
+
+  const scrollWrapperRef = useRef(null)
+  const scrollAreaRef = useRef(null)
 
   const [open, setOpen] = useState({
     support: false,
@@ -351,28 +432,27 @@ export default function LeasingCalculatorComponent({
   })
 
   const handleDevicesChange = (_, newValue) => {
-    let newDevices = newValue.reduce((packageDevices, current) => {
-      if (!packageDevices.some(d => d.name === current)) {
-        const catalogueDevice = parsedDevices.find(d => d.name === current)
-        if (!catalogueDevice) {
-          return packageDevices
-        }
-        packageDevices.push({
-          name: catalogueDevice.name,
-          price: catalogueDevice.price,
-          peripherals: [],
-          count: 1,
-        })
-      }
-      return packageDevices
-    }, leasingPackage.devices)
+    setLeasingPackage(prev => {
+      let nextDevices = newValue.reduce((acc, name) => {
+        const existing = prev.devices.find(d => d.name === name)
+        if (existing) return [...acc, existing]
 
-    newDevices = newDevices.filter(d => newValue.includes(d.name))
+        const catalogueDevice = parsedDevices.find(d => d.name === name)
+        if (!catalogueDevice) return acc
 
-    setLeasingPackage(prev => ({
-      ...prev,
-      devices: newDevices,
-    }))
+        return [
+          ...acc,
+          {
+            name: catalogueDevice.name,
+            price: catalogueDevice.price,
+            peripherals: [],
+            count: 1,
+          },
+        ]
+      }, [])
+
+      return { ...prev, devices: nextDevices }
+    })
   }
 
   const clamp = (n, min, max) => Math.min(max, Math.max(min, n))
@@ -454,7 +534,8 @@ export default function LeasingCalculatorComponent({
       const supportNeedsRecalc =
         support &&
         support.type === "fixed" &&
-        (value < support.fromUsers || value > support.toUsers)
+        (value < support.fromUsers ||
+          (support.toUsers != null && value > support.toUsers))
 
       // Find the correct support package for the user count.
       const nextSupport = supportNeedsRecalc
@@ -532,7 +613,7 @@ export default function LeasingCalculatorComponent({
     }))
   }
 
-  const handleCentalizedManagementCheckedChange = e => {
+  const handleCentralizedManagementCheckedChange = e => {
     const { checked } = e.target
     setLeasingPackage(prev => ({
       ...prev,
@@ -558,7 +639,7 @@ export default function LeasingCalculatorComponent({
    * This is used to check if any services have been selected as part of the
    * leasing package.
    */
-  const packageIncludesServices = () => {
+  const packageIncludesServices = useMemo(() => {
     let objectCount = 0
     for (const value of Object.values(leasingPackage.services)) {
       if (typeof value === "object") {
@@ -571,7 +652,7 @@ export default function LeasingCalculatorComponent({
       }
     }
     return objectCount > 1
-  }
+  }, [leasingPackage.services, leasingPackage.servicesChecked])
 
   const supportOptions = useMemo(() => {
     return parsedSupport.filter(s =>
@@ -582,7 +663,7 @@ export default function LeasingCalculatorComponent({
           : leasingPackage.userCount >= s.fromUsers
         : true
     )
-  }, [parsedSupport, leasingPackage])
+  }, [parsedSupport, leasingPackage.userCount])
 
   const { devicesComputed, totals } = useMemo(() => {
     let servicePayment = 0
@@ -597,7 +678,7 @@ export default function LeasingCalculatorComponent({
 
       if (device.name) {
         const devicePrice =
-          parsedDevices.find(d => d.name === device.name).price || 0
+          parsedDevices.find(d => d.name === device.name)?.price || 0
         pricePerUnit += devicePrice
       }
 
@@ -682,6 +763,116 @@ export default function LeasingCalculatorComponent({
     }
   }, [leasingPackage, parsedDevices, additionalMargin, threeYearInterest])
 
+  const serviceCards = useMemo(() => {
+    const services = []
+    const checkboxServices = Object.keys(leasingPackage.servicesChecked)
+
+    if (!packageIncludesServices) {
+      return []
+    }
+
+    for (const [key, value] of Object.entries(leasingPackage.services)) {
+      // checkboxServices.includes(key) = A service that is selected using a
+      // checkbox
+      if (
+        checkboxServices.includes(key) &&
+        leasingPackage.servicesChecked[key] &&
+        value.description
+      ) {
+        services.push(value)
+      } else if (
+        !checkboxServices.includes(key) &&
+        typeof value === "object" &&
+        Object.keys(value).length > 0 &&
+        value.description
+      ) {
+        services.push(value)
+      }
+    }
+
+    return services.map(s => ({
+      bgColor: "lightest",
+      title: s.name,
+      linkBgColor: "darkest",
+      content: s.description,
+    }))
+  }, [
+    leasingPackage.services,
+    leasingPackage.servicesChecked,
+    packageIncludesServices,
+  ])
+
+  useEffect(() => {
+    const el = calculatorRef.current
+
+    if (!el) {
+      return
+    }
+
+    const update = () => {
+      setCalculatorHeight(el.getBoundingClientRect().height)
+    }
+
+    update()
+
+    const ro = new ResizeObserver(update)
+    ro.observe(el)
+
+    return () => ro.disconnect()
+  }, [])
+
+  useEffect(() => {
+    const wrapperEl = scrollWrapperRef.current
+    const scrollerEl = scrollAreaRef.current
+
+    if (!wrapperEl || !scrollerEl) {
+      return
+    }
+
+    const set = (top, bottom) => {
+      wrapperEl.dataset.shadowTop = top ? "true" : "false"
+      wrapperEl.dataset.shadowBottom = bottom ? "true" : "false"
+    }
+
+    const update = () => {
+      const scrollbarInset = scrollerEl.offsetWidth - scrollerEl.clientWidth
+      wrapperEl.style.setProperty(
+        "--scrollbar-inset",
+        `${Math.max(0, scrollbarInset)}px`
+      )
+
+      const canScroll = scrollerEl.scrollHeight > scrollerEl.clientHeight + 1
+
+      if (!canScroll) {
+        set(false, false)
+        return
+      }
+
+      const atTop = scrollerEl.scrollTop <= 1
+      const atBottom =
+        scrollerEl.scrollTop + scrollerEl.clientHeight >=
+        scrollerEl.scrollHeight - 1
+
+      // Display top and bottom shadows only when not at either end
+      // respectively.
+      set(!atTop, !atBottom)
+    }
+
+    update()
+
+    scrollerEl.addEventListener("scroll", update, { passive: true })
+    window.addEventListener("resize", update)
+
+    const ro = new ResizeObserver(update)
+    ro.observe(scrollerEl)
+
+    return () => {
+      scrollerEl.removeEventListener("scroll", update)
+      window.removeEventListener("resize", update)
+      ro.disconnect()
+    }
+  }, [serviceCards.length, calculatorHeight])
+
   return (
     <LeasingCalculatorContainer>
       <Helmet
@@ -694,7 +885,7 @@ export default function LeasingCalculatorComponent({
           },
         ]}
       />
-      <LeasingCalculator>
+      <LeasingCalculator ref={calculatorRef}>
         <CalculatorSectionContainer>
           <Box
             sx={{
@@ -801,7 +992,7 @@ export default function LeasingCalculatorComponent({
                 )
 
                 if (!catalogueDevice) {
-                  return <></>
+                  return null
                 }
 
                 return (
@@ -1302,7 +1493,7 @@ export default function LeasingCalculatorComponent({
                     checked={
                       leasingPackage.servicesChecked.centralizedManagement
                     }
-                    onChange={e => handleCentalizedManagementCheckedChange(e)}
+                    onChange={e => handleCentralizedManagementCheckedChange(e)}
                     sx={{
                       color: theme.palette.primary.main,
                       "&.Mui-checked": {
@@ -1660,7 +1851,7 @@ export default function LeasingCalculatorComponent({
                     {leasingPackage.userCount === 1 ? "Käyttäjä" : "Käyttäjää"})
                   </Typography>
                 </Box>
-                {packageIncludesServices() ? (
+                {packageIncludesServices ? (
                   Object.entries(leasingPackage.services)
                     .reduce((selectedServices, [key, value]) => {
                       const checkboxSelectedService = Object.keys(
@@ -1914,6 +2105,17 @@ export default function LeasingCalculatorComponent({
           </Box>
         </CalculatorSectionContainer>
       </LeasingCalculator>
+      {serviceCards.length > 0 && (
+        <VerticalScrollWrapper ref={scrollWrapperRef}>
+          <VerticalScrollArea ref={scrollAreaRef} $maxHeight={calculatorHeight}>
+            <Cards
+              cardsPerRow={1}
+              cards={JSON.stringify(serviceCards)}
+              $noMargin={true}
+            />
+          </VerticalScrollArea>
+        </VerticalScrollWrapper>
+      )}
     </LeasingCalculatorContainer>
   )
 }
