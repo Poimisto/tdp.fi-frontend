@@ -24,12 +24,12 @@ contactForm: Ota yhteyttä
 
 ## Dell Pro Max-sarjan pöytäkoneet joustavasti leasingilla
 
-**_Maksimoi tuottavuus Dellin lippulaivamalleilla. Nämä on suunniteltu kestämään kovaa käyttöä ja pyörittämään raskaitakin ohjelmistoja ilman hidastelua._**
+**Maksimoi tuottavuus Dellin lippulaivamalleilla. Nämä on suunniteltu kestämään kovaa käyttöä ja pyörittämään raskaitakin ohjelmistoja ilman hidastelua.**
 
-- Leasing-sopimuksen pituus tyypillisesti 3 vuotta (valittavissa 1–5 vuotta)
-- Et sido pääomaa tietotekniikkaan ja voit vähentää kulut täysimääräisesti
-- Paketti voidaan räätälöidä vastaamaan tarpeitanne (RAM, SSD, näytönohjain)
-- Sisältää 3v Dell Pro Support OnSite-takuun
+* Leasing-sopimuksen pituus tyypillisesti 3 vuotta (valittavissa 1–5 vuotta)
+* Et sido pääomaa tietotekniikkaan ja voit vähentää kulut täysimääräisesti
+* Paketti voidaan räätälöidä vastaamaan tarpeitanne (RAM, SSD, näytönohjain)
+* Sisältää 3v Dell Pro Support OnSite-takuun
 
 **Arvioi yrityksellesi sopivan Dell-tehopaketin hinta alla olevalla laskurilla ja [ota yhteyttä](https://www.tdp.fi/it-laitteet/dell-tehokoneet-leasing#contact-form).**
 
