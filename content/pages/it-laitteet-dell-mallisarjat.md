@@ -94,6 +94,8 @@ Lue lisää **Dell Pro Premium -kannettavista** [täältä](https://www.tdp.fi/i
 
 ### Dell Pro Max Premium – vaativiin asiantuntijatöihin
 
+![Kuvituskuva: Dell Pro Max Premium kannettava](/assets/kuva-dell-pro-max-laptop1-500x400.jpg "Dell Pro Max Premium sarja tarjoaa tehokkaat kannettavat raskaaseen käyttöön")
+
 Suunnitteluun, analytiikkaan ja muihin vaativiin tehtäviin, joissa tarvitaan työasemaluokan suorituskykyä myös liikkeellä.
 
 * Soveltuu data-analyysiin, suunnitteluun ja vaativiin sovelluksiin.
