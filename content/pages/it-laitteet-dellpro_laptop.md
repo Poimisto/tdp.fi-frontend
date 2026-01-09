@@ -11,6 +11,30 @@ head:
     yrityskäyttöön, laadukkaat tietokoneet yrityksille
 contactForm: Ota yhteyttä
 ---
+
+<HeroBlock bgColor="brand" imageAlign="right">
+
+<div className="HeroBlockImage">
+
+![Kuvituskuva: TDP Työntekjä työpisteellä](/assets/uusi-yrittaja-tinified-1280x800.png)
+
+</div>
+
+<div className="HeroBlockContent">
+
+## IT-laitteet ja ratkaisut yrityskäyttöön
+
+* Kannettavat, työasemat ja oheislaitteet kilpailukykyiseen hintaan
+* Verkkolaitteet, infonäytöt ja neuvottelutilojen laitteet käyttökuntoon asennettuina
+* Leasing tai suoraosto yrityksellesi sopivalla mallilla
+* Paikallinen asiantuntija tukena koko laitteiden elinkaaren ajan
+* Kaikki yleisimmät laitemerkit - kilpailuta meidät
+
+</div>
+
+</HeroBlock>
+
+
 # Dell Pro -sarja
 
 **Dell Pro -sarjan kannettavat ovat hyvä valinta yrityksen peruskäyttöön. Ne tarjoavat erinomaisen hinta-laatusuhteen ja laadukkaat komponentit.**
