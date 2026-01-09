@@ -38,12 +38,11 @@ contactForm: Ota yhteyttä
 
 # Dell Pro Plus
 
+**Dell Pro Plus -sarja on suunniteltu modernin hybridityön standardiksi. Se on oikea valinta organisaatioille, jotka etsivät skaalautuvuutta ultrakevyistä 13-tuumaisista malleista aina tehokkaisiin 16-tuumaisiin työkoneisiin**.
+
 
 
 ![Kuvituskuva: Dell Pro Plus ](/assets/kuva-dell-pro-plus-laptop1-800x600-.jpg "Dell Pro Plus sarjan kannettavat ovat hyvä vaihtoehto pk -yrityksen laitevakiointiin")
-
-
-**Dell Pro Plus -sarja on suunniteltu modernin hybridityön standardiksi. Se on oikea valinta organisaatioille, jotka etsivät skaalautuvuutta ultrakevyistä 13-tuumaisista malleista aina tehokkaisiin 16-tuumaisiin työkoneisiin**.
 
 Sarja on edelläkävijä huollettavuudessa ja ympäristövastuullisuudessa. Se tarjoaa mielenrauhaa **maailman ensimmäisellä modulaarisella USB-C-portilla**, joka on helposti vaihdettavissa ja kestää kulutusta perinteisiä ratkaisuja paremmin. Erilliset emolevy- ja I/O-kortit minimoivat e-jätteen määrän korjaustilanteissa, mikä pidentää laitteen elinkaarta ja parantaa investoinnin tuottoa. Laitteet on valmistettu 50 % kierrätetystä alumiinista.
 
