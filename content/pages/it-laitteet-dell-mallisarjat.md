@@ -37,10 +37,7 @@ contactForm: Ota yhteyttä
 
 # Laadukkaat tietokoneet ovat investointi työn sujuvuuteen
 
-
-
 ![Kuvituskuva: Dell kannettavia ja pöytäkoneita](/assets/kuva-dell_desktop-laptop-1200x600.jpg "Dell mallisarjat tarjoavat hyvän vaihtoehdon pk-yritysten IT-ympäristön vakiointiin.")
-
 
 **Oikein valittu ja vakioitu laiteympäristö vähentää häiriöitä, helpottaa IT-hallintaa ja pitää kustannukset ennakoitavina. Dellin yrityskoneet on suunniteltu nimenomaan yritysten arkeen ja pitkäjänteiseen käyttöön.**
 
@@ -114,7 +111,7 @@ Toimistoihin ja työpisteisiin, joissa tila on rajallinen mutta tarvitaan silti 
 * Sopii toimistoon ja moninäyttöiseen käyttöön.
 * Helppo vakioida ja ylläpitää.
 
-Lue lisää **Dell Pro Micro -pöytäkoneista** [täältä.](https://www.tdp.fi/it-laitteet/DellProMicro_desktop)
+Lue lisää **Dell Pro Micro -pöytäkoneista** [täältä.](https://www.tdp.fi/it-laitteet/dellpromicro_desktop/)
 [](https://www.tdp.fi/it-laitteet/dellpromicro_desktop/)
 
 ### Dell Pro Slim – kompaktit mallit toimistokäyttöön
@@ -126,7 +123,7 @@ Käyttäjille, jotka tarvitsevat pöytäkoneelta enemmän suorituskykyä tai laa
 * Soveltuu vaativampaan toimistotyöhön ja erikoissovelluksiin.
 * Hyvä vaihtoehto perinteiselle tornikoneelle.
 
-Lue lisää **Dell Pro Slim -pöytäkoneista** [täältä.](https://www.tdp.fi/it-laitteet/DellProSlim_desktop)
+Lue lisää **Dell Pro Slim -pöytäkoneista** [täältä.](https://www.tdp.fi/it-laitteet/dellproslim_desktop/)
 [](https://www.tdp.fi/it-laitteet/dellproslim_desktop/)
 
 ### Dell Pro Tower T2 – laajennettavat tehotyöasemat
@@ -138,7 +135,7 @@ Nämä on suunniteltu raskaaseen ajoon. Tower T2 on tarkoitettu käyttäjille, j
 * Pitkä elinkaari ja hyvä investointisuoja.
 * Sopii keskitettyihin työpisteisiin, joissa vaaditaan maksimaalista suorituskykyä.
 
-Lue lisää **Dell Pro Tower T2 -tehotyöasemista** [täältä.](https://www.tdp.fi/it-laitteet/dellpromaxtower_desktop)
+Lue lisää **Dell Pro Tower T2 -tehotyöasemista** [täältä.](https://www.tdp.fi/it-laitteet/dellpromaxtower_desktop/)
 [](https://www.tdp.fi/it-laitteet/dellpromaxtower_desktop)
 
 **Yrityskoneiden valinta on kokonaisuus, jossa yhteensopivuus, hallittavuus ja pitkä elinkaari ovat yksittäisiä ominaisuuksia tärkeämpiä. Kun laitteet on valittu yrityksen todellisten tarpeiden mukaan, IT tukee liiketoimintaa eikä hidasta sitä. Asiantuntijamme auttavat mielellään löytämään yrityksellesi sopivan ratkaisun. Ota yhteyttä ja kysy lisää.**
