@@ -39,11 +39,11 @@ contactForm: Ota yhteyttä
 # Dell Pro Micro
 
 
+**Dell Pro Micro -sarja on suunniteltu moderneihin, tilatehokkaisiin työympäristöihin. Se on täydellinen valinta avokonttoreihin, asiakaspalvelupisteisiin, sairaaloihin tai mihin tahansa, missä työpöytätila on kortilla, mutta suorituskyvystä ei haluta tinkiä.**
+
+
 
 ![Kuvituskuva: Dell Pro Micro](/assets/kuva-dell-micro-desktop2-600x450-.jpg "Dell Pro Micro sarjan pöytätietokoneet yrityksille")
-
-
-**Dell Pro Micro -sarja on suunniteltu moderneihin, tilatehokkaisiin työympäristöihin. Se on täydellinen valinta avokonttoreihin, asiakaspalvelupisteisiin, sairaaloihin tai mihin tahansa, missä työpöytätila on kortilla, mutta suorituskyvystä ei haluta tinkiä.**
 
 Tämä sarja todistaa, ettei suuri teho vaadi suurta koteloa. Vain **1,18 litran** kokoinen runko kätkee sisäänsä täysiverisen työkoneen. Yritysjohdolle sarja tarjoaa joustavuutta ja siisteyttä: innovatiivinen **yhden kaapelin ratkaisu** mahdollistaa laitteen virransyötön ja kuvan siirron yhdellä USB-C-kaapelilla yhteensopivasta näytöstä, mikä vähentää johtosotkua merkittävästi.
 
