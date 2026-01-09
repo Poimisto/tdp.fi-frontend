@@ -11,6 +11,29 @@ head:
     Yritystietokoneet, Työkannettava, Kevyt yrityskannettava
 contactForm: Ota yhteyttä
 ---
+
+<HeroBlock bgColor="brand" imageAlign="right">
+
+<div className="HeroBlockImage">
+
+![Kuvituskuva: TDP Työntekijä työpisteellä.](/assets/uusi-yrittaja-tinified-1280x800.png)
+
+</div>
+
+<div className="HeroBlockContent">
+
+## Yritysten IT-laitteet
+
+* Vakioidut ja yhteensopivat laitemallit kaikilta suurilta toimittajilta
+* Työasemat, verkkolaitteet, infonäytöt ja neuvottelutilojen laitteet käyttökuntoon asennettuina
+* Leasing tai suoraosto yrityksellesi sopivalla mallilla
+* Paikallinen asiantuntija tukena koko laitteiden elinkaaren ajan
+
+</div>
+
+</HeroBlock>
+
+
 # Laadukkaat tietokoneet ovat investointi työn sujuvuuteen
 
 ![Kuvituskuva: Dell kannettavia ja pöytäkoneita](/assets/kuva-dell_desktop-laptop-1200x900.jpg "Dell mallisarjat tarjoavat hyvän vaihtoehdon pk-yritysten IT-ympäristön vakiointiin.")
@@ -77,9 +100,6 @@ Lue lisää **Dell Pro Max Premium -kannettavista** [täältä.](https://www.tdp
 ## Dell -pöytäkoneet
 
 ![Kuvituskuva: Dell pöytätietokoneita](/assets/kuva-dell-desktops-1200x900.jpeg "Dell -mallisarjat tarjoavat laadukkaat tietokoneet toimistotöihin ja tehokäyttöön.")
-
-
-
 
 ### Dell Pro Micro – erittäin pienet tietokoneet
 
