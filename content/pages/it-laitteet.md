@@ -65,7 +65,7 @@ Windows-ympäristöihin suosittelemme ensisijaisesti [Dellin yritysmalleja](http
 **Dell Pro Max Premium**: Kun suorituskyky vaikuttaa suoraan työn sujuvuuteen. [Dell Pro Max Premium -sarja](https://www.tdp.fi/it-laitteet/dellpromaxpremium_laptop/) tarjoaa työasemaluokan tehon kannettavassa muodossa vaativiin asiantuntijatehtäviin.
 
 
-Lue lisää yrityskannettavien valinnasta julkaisemastamme [oppaasta](<>).
+Lue lisää yrityskannettavien valinnasta julkaisemastamme [oppaasta](<https://www.tdp.fi/Yrityskannettavanvalinta/>).
 
 
 ## Apple Mac yritykselle
