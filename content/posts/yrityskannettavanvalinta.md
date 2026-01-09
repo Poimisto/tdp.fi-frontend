@@ -48,7 +48,7 @@ Käymme läpi:
 
 * Halpa kuluttajakannettava näyttää säästöltä ostotilanteessa, mutta hidastaa päivittäistä työntekoa.   
 * Yrityskannettavat on suunniteltu työkäyttöön. parempi suorituskyky, kestävyys ja hallittavuus vähentävät tukipyyntöjä, seisokkeja ja hermojen kiristymistä.  
-* Oikein mitoitettu yrityskannettava valitaan käyttäjäprofiilin mukaan. Peruskäyttäjälle, tehokäyttäjälle ja, johdolle on eri vaatimukset, mutta laitekannan kannattaa silti olla yhtenäinen.  
+* Oikein mitoitettu yrityskannettava valitaan käyttäjäprofiilin mukaan. Peruskäyttäjälle, tehokäyttäjälle ja johdolle on eri vaatimukset, mutta laitekannan kannattaa silti olla yhtenäinen.  
 * Asiantuntijan kuratoima, Dell Pro ja Dell Pro Max malleihin pohjautuva vakioitu laiteympäristö ja valmiit asennusmediat helpottavat käyttöönottoa ja tekevät kustannuksista ennustettavia.  
 * Kun laitteet, hallinta ja elinkaari ovat kunnossa, IT tukee liiketoimintaa sen sijaan että se jarruttaa sitä. Tämä artikkeli antaa konkreettiset kriteerit, joilla vältät murheet.
 
