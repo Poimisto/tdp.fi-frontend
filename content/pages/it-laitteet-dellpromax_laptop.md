@@ -14,6 +14,30 @@ head:
     yrityskäyttöön, laatukoneet yrityksille, dell leasing
 contactForm: Ota yhteyttä
 ---
+
+<HeroBlock bgColor="brand" imageAlign="left">
+
+<div className="HeroBlockImage">
+
+![Kuvituskuva: TDP Työntekijä työpisteellä](/assets/uusi-yrittaja-tinified-1280x800.png)
+
+</div>
+
+<div className="HeroBlockContent">
+
+\## IT-laitteet ja ratkaisut yrityskäyttöön
+
+\* Kannettavat, työasemat ja oheislaitteet kilpailukykyiseen hintaan\
+* Verkkolaitteet, infonäytöt ja neuvottelutilojen laitteet käyttökuntoon asennettuina\
+* Leasing tai suoraosto yrityksellesi sopivalla mallilla\
+* Paikallinen asiantuntija tukena koko laitteiden elinkaaren ajan\
+* Kaikki yleisimmät laitemerkit - kilpailuta meidät
+
+</div>
+
+</HeroBlock>
+
+
 # Dell Pro Max 14 Premium
 
 **Dell Pro Max 14 Premium on 14-tuumainen tehopakkaus, joka on suunniteltu suorituskykyä vaativaan asiantuntijatyöhön. Se on ihanteellinen valinta suunnittelijoille, sisällöntuottajille ja data-analyytikoille, jotka tarvitsevat mobiilin työaseman raskaiden tekoälykuormien ja grafiikkaintensiivisten sovellusten käsittelyyn.**
