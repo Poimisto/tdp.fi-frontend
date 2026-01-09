@@ -40,9 +40,9 @@ contactForm: Ota yhteyttä
 
 <Cards cardsPerRow="3" cards='[{"bgColor":"lightest","title":"Suositellut mallisarjat","linkBgColor":"brand","content":"Laitevakiointiin suosittelemme Dellin yritysmalleja. Valikoimasta löytyvät peruskannettavat, edustavat ultrabookit sekä työasemaluokan ratkaisut vaativaan käyttöön.\n","linkText":"Tutustu","link":"/it-laitteet/dell-mallisarjat/"},{"bgColor":"lightest","title":"Yrityksen verkkoyhteydet","linkBgColor":"brand","content":"Yrityksen verkkoyhteydet toimivina ja turvallisina toimistoon ja etätyöhön. Kauttamme myös verkkojen valvonta ja ylläpito.","linkText":"Lue lisää","link":"/it-laitteet/yrityksen-verkkoyhteydet"},{"bgColor":"lightest","title":"Toimiston IT-laitteet","linkBgColor":"brand","content":"Toimiston monitoimilaitteet, neuvotteluhuoneiden etäpalaverilaitteet sekä info- ja mainosnäytöt liiketiloihin.\n\n","linkText":"Tutustu","link":"/it-laitteet/toimistot-ja-liiketilat"}]' />
 
-![](/assets/dell_promax_family_1280x410.jpeg)
-
 # Yrityskannettavat | Tehotyöasemat | Työvälineet
+
+![](/assets/dell_promax_family_1280x410.jpeg)
 
 **Tarjoamme markkinoiden uusimmat laitteet niin perustyöskentelyyn, vaativaan suunnittelukäyttöön kuin kenttätyöhönkin. Tietokone on työntekijän tärkein yksittäinen työväline, joten panostamme laatuun**. 
 
