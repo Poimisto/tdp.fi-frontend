@@ -59,9 +59,9 @@ teknisistä yksityiskohdista.
 Tietoturva on pk-yrityksille kriittinen tekijä. TDP:n ratkaisut koostuvat seuraavista osista:
 
 * ﻿Edistyneet palomuuriratkaisut (Cisco, Sophos, Fortinet)
-  *Turvalliset VPN-yhteydet etätyöhön*
-  Segmentoidut vierasverkot
-  *Automatisoidut tietoturvapäivitykset
+* Turvalliset VPN-yhteydet etätyöhön
+* Segmentoidut vierasverkot
+* Automatisoidut tietoturvapäivitykset
 
 Käytämme edistyneitä hälytys- ja suojausominaisuuksia, jotka suojaavat yrityksesi tietoja
  tehokkaasti ja luotettavasti.
