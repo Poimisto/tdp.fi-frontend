@@ -22,7 +22,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-## IT-laitteet ja ratkaisut yrityskäyttöön
+# IT-laitteet ja ratkaisut yrityskäyttöön
 
 * Yrityskannettavat, työasemat ja oheislaitteet kaikilta suurilta toimittajilta
 * Verkkolaitteet, infonäytöt ja neuvottelutilojen laitteet käyttökuntoon asennettuina
