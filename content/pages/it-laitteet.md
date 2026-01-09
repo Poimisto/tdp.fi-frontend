@@ -72,7 +72,7 @@ Lue lisää yrityskannettavien valinnasta julkaisemastamme [oppaasta](https://ww
 
 Toimitamme myös **Apple-laitteet** yrityskäyttöön, esimerkiksi **MacBook Pro-, MacBook Air- ja Mac mini -mallit**. Mac on tyypillisesti hyvä valinta johdolle, liikkuvaan työhön ja luovaan tuotantoon sekä yrityksiin, joissa macOS on jo osa arkea.
 
-Macit voi hankkia leasingilla tai suoraostolla, myös usean koneen paketteina. Voit laskea arvioidun kuukausierän helposti Mac-leasinglaskurillamme
+Macit voi hankkia leasingilla tai suoraostolla, myös usean koneen paketteina. Voit laskea arvioidun kuukausierän helposti [Mac-leasinglaskurillamme.](https://www.tdp.fi/it-laitteet/mac-leasing)
 
 ## Vakioitu laitekanta
 
