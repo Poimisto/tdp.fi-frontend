@@ -80,6 +80,8 @@ Lue lisää **Dell Pro Plus -kannettavista** [täältä.](https://www.tdp.fi/it-
 
 ### Dell Pro Premium – edustuskäyttöön
 
+![Kuvituskuva: Dell Pro Premium](/assets/kuva-dell-pro-premim-600x400.jpg "Dell Pro Premium kannettavat tarjoavat laadukkaat tietokoneet yritysjohdolle")
+
 Johdolle, asiantuntijoille ja asiakastyötä tekeville, joille liikkuvuus, laatu ja edustavuus ovat tärkeitä.
 
 * Ohut ja kevyt rakenne ilman kompromisseja yrityskäytössä.
