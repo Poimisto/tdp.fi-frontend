@@ -14,7 +14,7 @@ contactForm: Ota yhteyttä
 ---
 # Dell Pro Premium
 
-***Tämä sarja  on suunnattu yrityksen vaativimmille käyttäjille: johtajille, konsulteille ja paljon matkustaville asiantuntijoille. Se korvaa aiemman Latitude 7000 -sarjan ja edustaa Dellin ohuimpia ja kevyimpiä ammattilaiskannettavia.***
+**Tämä sarja  on suunnattu yrityksen vaativimmille käyttäjille: johtajille, konsulteille ja paljon matkustaville asiantuntijoille. Se korvaa aiemman Latitude 7000 -sarjan ja edustaa Dellin ohuimpia ja kevyimpiä ammattilaiskannettavia.**
 
 ![Kuvituskuva: Dell Pro Premium - sarjan kannettavia](/assets/kuva-dell-pro-premiun-laptop1-750x450-.jpg "Dell Pro Plus sarja tarjoaa laadukkaat kannettavat yrityksille kustannustehokkaasti.")
 
