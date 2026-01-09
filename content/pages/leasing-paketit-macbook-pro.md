@@ -1,5 +1,5 @@
 ---
-path: /leasing-paketit/MacBook-Pro
+path: /it-laitteet/mac-leasing
 thumbnail: /assets/macbook_16.webp
 date: 2023-07-26T08:41:17.622Z
 head:
