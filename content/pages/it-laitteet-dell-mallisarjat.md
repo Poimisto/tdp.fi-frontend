@@ -123,7 +123,7 @@ Käyttäjille, jotka tarvitsevat pöytäkoneelta enemmän suorituskykyä tai laa
 * Soveltuu vaativampaan toimistotyöhön ja erikoissovelluksiin.
 * Hyvä vaihtoehto perinteiselle tornikoneelle.
 
-Lue lisää **Dell Pro Slim -pöytäkoneista** [täältä.](https://www.tdp.fi/it-laitteet/dellproslim_desktop/)
+Lue lisää **Dell Pro Slim -pöytäkoneista** [täältä.](https://www.tdp.fi/it-laitteet/dellproslim_desktop)
 [](https://www.tdp.fi/it-laitteet/dellproslim_desktop/)
 
 ### Dell Pro Tower T2 – laajennettavat tehotyöasemat
