@@ -8,7 +8,7 @@ head:
   description: Monitoimilaite, infonäyttö ja videoneuvottelu-laitteisto toimistoon
     yhdeltä kumppanilta – asennus, tuki ja leasing yrityksille. Pyydä arvio!
   keywords: infonäytöt, tulostimet, tulostus, toimisto, toimiston laitteet,
-    neuvotteluhuoneet
+    neuvotteluhuoneet, monitoimilaitteet
 breadcrumb:
   - path: /
     label: TDP
@@ -17,16 +17,65 @@ breadcrumb:
   - label: Toimisto ja liiketila
 contactForm: Ota yhteyttä
 ---
-![IT-laitteilla hyvin varusteltu toimisto TDP:ltä.](/assets/toimiston-it-laitteet-1280-x-800.jpg)
+
+<HeroBlock bgColor="brand" imageAlign="right">
+
+<div className="HeroBlockImage">
+
+![Kuvituskuva: TDP Työntekijä työpisteellä](/assets/uusi-yrittaja-tinified-1280x800.png)
+
+</div>
+
+<div className="HeroBlockContent">
+
+## IT-laitteet ja ratkaisut yrityskäyttöön
+
+* Kannettavat, työasemat ja oheislaitteet kilpailukykyiseen hintaan
+* Verkkolaitteet, infonäytöt ja neuvottelutilojen laitteet käyttökuntoon asennettuina
+* Leasing tai suoraosto yrityksellesi sopivalla mallilla
+* Paikallinen asiantuntija tukena koko laitteiden elinkaaren ajan
+* Kaikki yleisimmät laitemerkit - kilpailuta meidät
+
+</div>
+
+</HeroBlock>
+
 
 # Toimiston ja liiketilan IT-laitteet
 
-**TDP toimittaa kaikkien suurimpien valmistajien IT-laitteita käyttökuntoon asennettuina  ja käytön opastuksella tuettuna.**
+**Olemme toimittaneet IT-ratkaisuja pk-yrityksille jo yli 15 vuoden ajan, ja tiedämme, miten tärkeää on saada käyttötarpeeseen sopivat laitteet valmiiksi asennettuina ja käyttövalmiina ilman yllätyksiä.** 
 
-Kauttamme yrityksesi saa esimerkiksi toimiston tulostus- ja monitoimilaitteet, neuvotteluhuoneiden etäpalaverilaitteet sekä info- ja mainosnäytöt liiketiloihin. 
 
-Toimiston ja liiketilojen IT-laitteet voidaan liittää osaksi <a href="/it-palvelut/palvelusopimus">palvelusopimusta</a>, jolloin laitteisto on osa TDP:n tarjoamaa palvelua.
+Toimistot ja liiketilat tarvitsevat toimivat ja yrityskäyttöön suunnitellut IT-laitteet, jotta työnteko sujuu ilman turhia katkoksia ja ylimääräistä ylläpitotyötä. Toimitamme kaikkien suurten valmistajien laitteet käyttökuntoon asennettuina ja opastettuna, olipa kyse toimiston peruslaitteista, neuvotteluhuoneiden etäpalveluratkaisuista tai infonäytöistä liiketilojen käyttöön.
 
-TDP:llä on yli 15 vuoden kokemus IT-palveluiden ja -laitteiden toimittamisesta. Asiakkaisiimme kuuluu lukuisten eri toimialojen yrityksiä ja organisaatioita.  
+## Mitä toimitamme
+
+Tarjoamme yrityksellesi toimivat ja yhteensopivat ratkaisut koko toimiston ja liiketilan tarpeisiin:
+
+**Toimiston monitoimilaitteet ja tulostimet:** Luotettavat, yrityskäyttöön suunnitellut monitoimilaitteet ja tulostimet, jotka kestävät päivittäistä käyttöä ja integroituvat sujuvasti työympäristöön.
+
+**Neuvotteluhuoneiden etätyöratkaisut:** Videoneuvottelulaitteet ja AV-kokonaisuudet, jotka tekevät palavereista sujuvia sekä paikan päällä että etänä.
+
+**Info- ja mainosnäytöt liiketiloihin:** Infonäytöt ja digitaaliset näyttöratkaisut asiakasviestintään, opastukseen ja markkinointiin.
+
+**Verkkolaitteet ja liitettävyysratkaisut:** Luotettavat ja turvalliset verkkoratkaisut toimistoihin ja liiketiloihin.
+
+### Asennus, käyttöönotto ja tuki
+
+Laitteet voidaan toimittaa käyttökuntoon valmiiksi asennettuina, tarvittavat ohjelmistot esiasennettuina ja testattuina. Tarvittaessa tarjoamme myös käyttöönotto-opastuksen, jotta henkilöstö pääsee heti tehokkaaseen työskentelyyn ilman ylimääräistä säätöä.
+
+### Palvelut ja sopimusmallit
+
+Toimiston ja liiketilan IT-laitteet voidaan toteuttaa selkeänä kokonaisuutena, jossa laitteet, asennus ja tuki muodostavat yhtenäisen kokonaisuuden. Palvelumalli mukautuu yrityksesi tarpeisiin ja tukee kasvua.
+
+Kun IT on suunniteltu ja toteutettu kokonaisuutena, hyödyt näkyvät arjen työssä:
+
+* Vähemmän häiriöitä ja keskeytyksiä
+* Nopeampi käyttöönotto ja sujuvampi käyttökokemus
+* Selkeä kokonaisuus ilman turhaa teknistä monimutkaisuutta
+* Ennakoitavat kustannukset ja hallittava elinkaari
+* Yksi kumppani, joka tuntee yrityksesi ympäristön
+
+Tämä luo pohjan toimivalle ja huolettomalle IT-ympäristölle, jossa tekniikka tukee liiketoimintaa
 
 *Ota rohkeasti yhteyttä, niin autamme sopivan laitteiston valinnassa!*
