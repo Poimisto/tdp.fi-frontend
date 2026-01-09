@@ -22,9 +22,9 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-# IT-laitteet ja ratkaisut yrityskäyttöön
+## IT-laitteet ja ratkaisut yrityskäyttöön
 
-* Yrityskannettavat, työasemat ja oheislaitteet kilpailukykyiseen hintaan
+* Kannettavat, työasemat ja oheislaitteet kilpailukykyiseen hintaan
 * Verkkolaitteet, infonäytöt ja neuvottelutilojen laitteet käyttökuntoon asennettuina
 * Leasing tai suoraosto yrityksellesi sopivalla mallilla
 * Paikallinen asiantuntija tukena koko laitteiden elinkaaren ajan
