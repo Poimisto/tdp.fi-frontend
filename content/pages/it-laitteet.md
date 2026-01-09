@@ -46,7 +46,7 @@ contactForm: Ota yhteyttä
 
 **Tarjoamme markkinoiden uusimmat laitteet niin perustyöskentelyyn, vaativaan suunnittelukäyttöön kuin kenttätyöhönkin. Tietokone on työntekijän tärkein yksittäinen työväline, joten panostamme laatuun**. 
 
-Meiltä saat kaikkien suurten valmistajien kannettavat, tehotyöasemat ja oheislaitteet kilpailukykyiseen hintaan, joko leasingilla tai suoraostolla. Windows-ympäristöihin suosittelemme ensisijaisesti Dellin luotettavia yritysmalleja, mutta valikoimamme kattaa laajasti myös muiden valmistajien, kuten esimerkiksi HP:n, Lenovon ja Applen, tietokoneet ja oheislaitteet. Myös puhelimet, kuten Samsung ja Apple, järjestyvät kauttamme joustavasti.
+Meiltä saat kaikkien suurten valmistajien kannettavat, tehotyöasemat ja oheislaitteet kilpailukykyiseen hintaan, joko leasingilla tai suoraostolla. Ensisijaisesti suosittelemme työkäyttöön Dellin luotettavia yritystietokoneita, mutta valikoimamme kattaa laajasti myös muiden valmistajien, kuten esimerkiksi HP:n, Lenovon ja Applen, tietokoneet ja oheislaitteet. Myös puhelimet, kuten Samsung ja Apple, järjestyvät kauttamme joustavasti.
 
 Oikein mitoitettu yrityskannettava valitaan aina käyttäjäprofiilin mukaan. Peruskäyttäjällä, tehokäyttäjällä ja johdolla on eri vaatimukset, mutta laitekannan kannattaa silti pysyä yhtenäisenä. Näin ylläpito on selkeää ja ennakoitavaa.
 
@@ -64,9 +64,7 @@ Windows-ympäristöihin suosittelemme ensisijaisesti [Dellin yritysmalleja](http
 
 **Dell Pro Max Premium**: Kun suorituskyky vaikuttaa suoraan työn sujuvuuteen. [Dell Pro Max Premium -sarja](https://www.tdp.fi/it-laitteet/dellpromaxpremium_laptop/) tarjoaa työasemaluokan tehon kannettavassa muodossa vaativiin asiantuntijatehtäviin.
 
-
-Lue lisää yrityskannettavien valinnasta julkaisemastamme [oppaasta](<https://www.tdp.fi/Yrityskannettavanvalinta/>).
-
+Lue lisää yrityskannettavien valinnasta julkaisemastamme [oppaasta](https://www.tdp.fi/Yrityskannettavanvalinta/).
 
 ## Apple Mac yritykselle
 
