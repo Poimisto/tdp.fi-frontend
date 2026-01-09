@@ -71,7 +71,7 @@ Työntekijöille, jotka tekevät töitä sekä toimistolla että etänä ja tarv
 * Hyvät liitännät ja langattomat yhteydet sujuvaan työskentelyyn.
 * Tasapaino liikkuvuuden ja suorituskyvyn välillä.
 
-Lue lisää **Dell Pro Plus -kannettavista** [täältä.](https://www.tdp.fi/it-laitteet/DellProPlus_laptop)
+Lue lisää **Dell Pro Plus -kannettavista** [täältä.](https://www.tdp.fi/it-laitteet/dellproplus_laptop/)
 [](https://www.tdp.fi/it-laitteet/dellproplus_laptop/)
 
 ### Dell Pro Premium – edustuskäyttöön
