@@ -14,11 +14,38 @@ head:
     yrityskäyttöön, tietokoneet pk -yrityksille
 contactForm: Ota yhteyttä
 ---
+
+<HeroBlock bgColor="brand" imageAlign="right">
+
+<div className="HeroBlockImage">
+
+![Kuvituskuva: TDP Työntekijä työpisteellä](/assets/uusi-yrittaja-tinified-1280x800.png)
+
+</div>
+
+<div className="HeroBlockContent">
+
+## IT-laitteet ja ratkaisut yrityskäyttöön
+
+* Kannettavat, työasemat ja oheislaitteet kilpailukykyiseen hintaan
+* Verkkolaitteet, infonäytöt ja neuvottelutilojen laitteet käyttökuntoon asennettuina
+* Leasing tai suoraosto yrityksellesi sopivalla mallilla
+* Paikallinen asiantuntija tukena koko laitteiden elinkaaren ajan
+* Kaikki yleisimmät laitemerkit - kilpailuta meidät
+
+</div>
+
+</HeroBlock>
+
+
 # Dell Pro Slim
 
-**Dell Pro Slim -sarja on suunniteltu organisaatioille, jotka tarvitsevat enemmän joustavuutta kuin mitä ultramikrot tarjoavat, mutta eivät halua uhrata työpöytätilaa perinteiselle tornikotelolle. 8,4 litran tilavuudellaan se on täydellinen kompromissi koon ja ominaisuuksien välillä.**
+
 
 ![Kuvituskuva: Dell Pro Slim](/assets/dell-pro-max-slim_3-250x400-.jpg "Dell Pro Slim tarjoaa kompaktit tietokoneet yrityskäyttöön.")
+
+
+**Dell Pro Slim -sarja on suunniteltu organisaatioille, jotka tarvitsevat enemmän joustavuutta kuin mitä ultramikrot tarjoavat, mutta eivät halua uhrata työpöytätilaa perinteiselle tornikotelolle. 8,4 litran tilavuudellaan se on täydellinen kompromissi koon ja ominaisuuksien välillä.**
 
 Tämä mallisto tuo työpöydälle aidot laajennusmahdollisuudet kompaktissa paketissa. Se tarjoaa tilaa erillisille PCIe-korteille, massiiviselle tallennustilalle ja järeälle keskusmuistille ilman työkaluja avattavassa kotelossa. Dell Pro Slim on älykäs valinta vaativiin toimistotehtäviin, kevyeen sisällöntuotantoon ja ympäristöihin, joissa laitteiston elinkaarta halutaan pidentää komponenttipäivityksillä.
 
