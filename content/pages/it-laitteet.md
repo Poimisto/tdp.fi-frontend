@@ -64,7 +64,7 @@ Windows-ympäristöihin suosittelemme ensisijaisesti [Dellin yritysmalleja](http
 
 ## Apple Mac yritykselle
 
-![Kuvituskuva: Macbook kannettava](/assets/it-laitteet-1280x800.jpg "Apple Mac tietokoneet tarjoavat hyvän vaihtoehdon pk -yrityksen it-laitevakiointiin.")
+![Kuvituskuva: Macbook kannettava](/assets/it-laitteet-1280x600.jpg "Apple Mac tietokoneet tarjoavat hyvän vaihtoehdon pk -yrityksen it-laitevakiointiin.")
 
 Toimitamme myös **Apple-laitteet** yrityskäyttöön, esimerkiksi **MacBook Pro-, MacBook Air- ja Mac mini -mallit**. Mac on tyypillisesti hyvä valinta johdolle, liikkuvaan työhön ja luovaan tuotantoon sekä yrityksiin, joissa macOS on jo osa arkea.
 
