@@ -66,6 +66,8 @@ Lue lisää **Dell Pro -kannettavista** [täältä.](https://www.tdp.fi/it-laitt
 
 ### Dell Pro Plus – hybriditöihin
 
+![Kuvituskuva: Dell Pro Plus kannettava](/assets/kuva-dell-pro-plus-laptop1-600x400-.jpg "Dell Pro Plus mallit tarjoavat laadukkaat kannettavat etätöihin.")
+
 Työntekijöille, jotka tekevät töitä sekä toimistolla että etänä ja tarvitsevat kevyen mutta luotettavan työvälineen.
 
 * Sopii liikkuvaan työhön, etätyöhön ja hybridityöhön.
