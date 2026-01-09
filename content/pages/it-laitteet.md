@@ -64,6 +64,10 @@ Windows-ympäristöihin suosittelemme ensisijaisesti [Dellin yritysmalleja](http
 
 **Dell Pro Max Premium**: Kun suorituskyky vaikuttaa suoraan työn sujuvuuteen. [Dell Pro Max Premium -sarja](https://www.tdp.fi/it-laitteet/dellpromaxpremium_laptop/) tarjoaa työasemaluokan tehon kannettavassa muodossa vaativiin asiantuntijatehtäviin.
 
+
+Lue lisää yrityskannettavien valinnasta julkaisemastamme [oppaasta](<>).
+
+
 ## Apple Mac yritykselle
 
 ![Kuvituskuva: Macbook kannettava](/assets/it-laitteet-1280x600.jpg "Apple Mac tietokoneet tarjoavat hyvän vaihtoehdon pk -yrityksen it-laitevakiointiin.")
@@ -79,8 +83,6 @@ Paras tapa onnistua on vakioida, ei maksimoida vaihtoehtoja.
 * **Määritellään profiilit:** 2–4 käyttäjäprofiilia (esim. peruskäyttäjä, tehokäyttäjä ja johtoryhmä).
 * **Valitaan laitteet:** Jokaiseen profiiliin 1–2 vakiomallia.
 * **Sovitaan hankinta:** Elinkaari, hankintatapa (suoraosto/leasing) ja palvelutaso.
-
-Lue lisää yrityskannettavien valinnasta julkaisemastamme [oppaasta](<>).
 
 ## Palvelusopimus
 
