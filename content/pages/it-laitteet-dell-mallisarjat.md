@@ -6,7 +6,7 @@ head:
   title: "Dell-tietokoneet: Näin valitset oikeat laitteet yrityskäyttöön."
   description: Tutustu Dell-mallisarjoihin ja valitse oikeat yrityskoneet.
     Esittelyssä Dell -kannettavat ja pöytäkoneet. Tehosta työtä, paranna
-    tietoturvaa ja optimoi IT-kulut
+    tietoturvaa ja optimoi IT-kulut.
   keywords: Dell kannettavat, Tietokoneet yritykselle, Dell pöytäkoneet,
     Yritystietokoneet, Työkannettava, Kevyt yrityskannettava
 contactForm: Ota yhteyttä
