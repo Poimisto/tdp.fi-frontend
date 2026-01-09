@@ -16,7 +16,7 @@ contactForm: Ota yhteyttä
 ---
 # Dell Pro Slim
 
-***Dell Pro Slim -sarja on suunniteltu organisaatioille, jotka tarvitsevat enemmän joustavuutta kuin mitä ultramikrot tarjoavat, mutta eivät halua uhrata työpöytätilaa perinteiselle tornikotelolle. 8,4 litran tilavuudellaan se on täydellinen kompromissi koon ja ominaisuuksien välillä.***
+**Dell Pro Slim -sarja on suunniteltu organisaatioille, jotka tarvitsevat enemmän joustavuutta kuin mitä ultramikrot tarjoavat, mutta eivät halua uhrata työpöytätilaa perinteiselle tornikotelolle. 8,4 litran tilavuudellaan se on täydellinen kompromissi koon ja ominaisuuksien välillä.**
 
 ![Kuvituskuva: Dell Pro Slim](/assets/dell-pro-max-slim_3-250x400-.jpg "Dell Pro Slim tarjoaa kompaktit tietokoneet yrityskäyttöön.")
 
