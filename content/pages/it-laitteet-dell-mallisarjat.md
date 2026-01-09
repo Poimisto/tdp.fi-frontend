@@ -36,9 +36,9 @@ contactForm: Ota yhteyttä
 
 # Laadukkaat tietokoneet ovat investointi työn sujuvuuteen
 
-![Kuvituskuva: Dell kannettavia ja pöytäkoneita](/assets/kuva-dell_desktop-laptop-1200x600.jpg "Dell mallisarjat tarjoavat hyvän vaihtoehdon pk-yritysten IT-ympäristön vakiointiin.")
-
 **Oikein valittu ja vakioitu laiteympäristö vähentää häiriöitä, helpottaa IT-hallintaa ja pitää kustannukset ennakoitavina. Dellin yrityskoneet on suunniteltu nimenomaan yritysten arkeen ja pitkäjänteiseen käyttöön.**
+
+![Kuvituskuva: Dell kannettavia ja pöytäkoneita](/assets/kuva-dell_desktop-laptop-1200x600.jpg "Dell mallisarjat tarjoavat hyvän vaihtoehdon pk-yritysten IT-ympäristön vakiointiin.")
 
 Yrityskäyttöön suunnitellut tietokoneet ovat kestävämpiä ja hallittavampia kuin kuluttajalaitteet. Niissä on parempi tietoturva, keskitetyt hallintatyökalut ja pidempi elinkaari. Kun koko yritys käyttää harkittua ja yhtenäistä laitekokonaisuutta, kokonaiskustannukset pienenevät. Vähemmän häiriöitä, vähemmän tukipyyntöjä ja sujuvampi liiketoiminta.
 
