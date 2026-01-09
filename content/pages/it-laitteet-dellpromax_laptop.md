@@ -15,7 +15,7 @@ head:
 contactForm: Ota yhteyttä
 ---
 
-<HeroBlock bgColor="brand" imageAlign="left">
+<HeroBlock bgColor="brand" imageAlign="right">
 
 <div className="HeroBlockImage">
 
@@ -25,12 +25,12 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-\## IT-laitteet ja ratkaisut yrityskäyttöön
+## IT-laitteet ja ratkaisut yrityskäyttöön
 
-\* Kannettavat, työasemat ja oheislaitteet kilpailukykyiseen hintaan\
-* Verkkolaitteet, infonäytöt ja neuvottelutilojen laitteet käyttökuntoon asennettuina\
-* Leasing tai suoraosto yrityksellesi sopivalla mallilla\
-* Paikallinen asiantuntija tukena koko laitteiden elinkaaren ajan\
+* Kannettavat, työasemat ja oheislaitteet kilpailukykyiseen hintaan
+* Verkkolaitteet, infonäytöt ja neuvottelutilojen laitteet käyttökuntoon asennettuina
+* Leasing tai suoraosto yrityksellesi sopivalla mallilla
+* Paikallinen asiantuntija tukena koko laitteiden elinkaaren ajan
 * Kaikki yleisimmät laitemerkit - kilpailuta meidät
 
 </div>
