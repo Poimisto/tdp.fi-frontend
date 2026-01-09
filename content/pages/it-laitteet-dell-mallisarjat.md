@@ -99,7 +99,7 @@ Lue lisää **Dell Pro Max Premium -kannettavista** [täältä.](https://www.tdp
 
 ## Dell -pöytäkoneet
 
-![Kuvituskuva: Dell pöytätietokoneita](/assets/dell-dektops-1200x400.jpg "Dell -mallisarjat tarjoavat laadukkaat tietokoneet toimistotöihin ja tehokäyttöön.")
+![Kuvituskuva: Dell pöytätietokoneita](/assets/dell-dektops-1200x600.jpg "Dell -mallisarjat tarjoavat laadukkaat tietokoneet toimistotöihin ja tehokäyttöön.")
 
 ### Dell Pro Micro – erittäin pienet tietokoneet
 
