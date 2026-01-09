@@ -63,11 +63,7 @@ Tarjoamme yrityksellesi toimivat ja yhteensopivat ratkaisut koko toimiston ja li
 
 Laitteet voidaan toimittaa käyttökuntoon valmiiksi asennettuina, tarvittavat ohjelmistot esiasennettuina ja testattuina. Tarvittaessa tarjoamme myös käyttöönotto-opastuksen, jotta henkilöstö pääsee heti tehokkaaseen työskentelyyn ilman ylimääräistä säätöä.
 
-### Palvelut ja sopimusmallit
-
-Toimiston ja liiketilan IT-laitteet voidaan toteuttaa selkeänä kokonaisuutena, jossa laitteet, asennus ja [tuki](https://www.tdp.fi/it-palvelut/tuki-ja-huolto/) muodostavat yhtenäisen kokonaisuuden. Palvelumalli mukautuu yrityksesi tarpeisiin ja tukee kasvua.
-
-Kun IT on suunniteltu ja toteutettu kokonaisuutena, hyödyt näkyvät arjen työssä:
+Toimiston ja liiketilan IT-laitteet voidaan toteuttaa selkeänä kokonaisuutena, jossa laitteet, asennus ja [tuki](https://www.tdp.fi/it-palvelut/tuki-ja-huolto/) muodostavat yhtenäisen kokonaisuuden. Palvelumalli mukautuu yrityksesi tarpeisiin ja tukee kasvua. Kun IT on suunniteltu ja toteutettu kokonaisuutena, hyödyt näkyvät arjen työssä:
 
 * Vähemmän häiriöitä ja keskeytyksiä
 * Nopeampi käyttöönotto ja sujuvampi käyttökokemus
