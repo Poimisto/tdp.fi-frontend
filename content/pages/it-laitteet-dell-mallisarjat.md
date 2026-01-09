@@ -22,10 +22,10 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-## Yritysten IT-laitteet
+## IT-laitteet ja ratkaisut yrityskäyttöön
 
-* Vakioidut ja yhteensopivat laitemallit kaikilta suurilta toimittajilta
-* Työasemat, verkkolaitteet, infonäytöt ja neuvottelutilojen laitteet käyttökuntoon asennettuina
+* Yrityskannettavat, työasemat ja oheislaitteet kaikilta suurilta toimittajilta
+* Verkkolaitteet, infonäytöt ja neuvottelutilojen laitteet käyttökuntoon asennettuina
 * Leasing tai suoraosto yrityksellesi sopivalla mallilla
 * Paikallinen asiantuntija tukena koko laitteiden elinkaaren ajan
 
