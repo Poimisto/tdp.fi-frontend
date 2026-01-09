@@ -53,7 +53,7 @@ Jos yrityskannettavien valinta on ajankohtaista ja kaipaat syvempää taustaa p�
 
 ### Dell Pro – peruskäyttöön
 
-![Kuvituskuva: Dell Pro kannettava](/assets/kuva-dell-pro-laptop-400x200.jpg "Dell Pro sarja tarjoaa edulliset kannettavat yrityskäyttöön.")
+![Kuvituskuva: Dell Pro kannettava](/assets/kuva-dell-pro-laptop-800x400.jpg "Dell Pro sarja tarjoaa edulliset kannettavat yrityskäyttöön.")
 
 Yrityksille ja työntekijöille, joiden työ koostuu pääosin toimistosovelluksista, sähköpostista ja selainpohjaisista järjestelmistä.
 
