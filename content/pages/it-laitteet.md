@@ -62,9 +62,9 @@ Windows-ympäristöihin suosittelemme ensisijaisesti [Dellin yritysmalleja](http
 
 **Dell Pro Max Premium**: Kun suorituskyky vaikuttaa suoraan työn sujuvuuteen. [Dell Pro Max Premium -sarja](https://www.tdp.fi/it-laitteet/dellpromaxpremium_laptop/) tarjoaa työasemaluokan tehon kannettavassa muodossa vaativiin asiantuntijatehtäviin.
 
-![Kuvituskuva: Macbook kannettava](/assets/it-laitteet-1280x800.jpg "Apple Mac tietokoneet tarjoavat hyvän vaihtoehdon pk -yrityksen it-laitevakiointiin.")
-
 ## Apple Mac yritykselle
+
+![Kuvituskuva: Macbook kannettava](/assets/it-laitteet-1280x800.jpg "Apple Mac tietokoneet tarjoavat hyvän vaihtoehdon pk -yrityksen it-laitevakiointiin.")
 
 Toimitamme myös **Apple-laitteet** yrityskäyttöön, esimerkiksi **MacBook Pro-, MacBook Air- ja Mac mini -mallit**. Mac on tyypillisesti hyvä valinta johdolle, liikkuvaan työhön ja luovaan tuotantoon sekä yrityksiin, joissa macOS on jo osa arkea.
 
