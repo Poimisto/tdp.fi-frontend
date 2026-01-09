@@ -24,10 +24,11 @@ contactForm: Ota yhteyttä
 
 # IT-laitteet ja ratkaisut yrityskäyttöön
 
-* Yrityskannettavat, työasemat ja oheislaitteet kaikilta suurilta toimittajilta
+* Yrityskannettavat, työasemat ja oheislaitteet kilpailukykyiseen hintaan
 * Verkkolaitteet, infonäytöt ja neuvottelutilojen laitteet käyttökuntoon asennettuina
 * Leasing tai suoraosto yrityksellesi sopivalla mallilla
 * Paikallinen asiantuntija tukena koko laitteiden elinkaaren ajan
+* Kaikki yleisimmät laitemerkit - kilpailuta meidät
 
 </div>
 
