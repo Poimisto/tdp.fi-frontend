@@ -45,7 +45,6 @@ contactForm: Ota yhteyttä
 
 **Olemme toimittaneet IT-ratkaisuja pk-yrityksille jo yli 15 vuoden ajan, ja tiedämme, miten tärkeää on saada käyttötarpeeseen sopivat laitteet valmiiksi asennettuina ja käyttövalmiina ilman yllätyksiä.** 
 
-
 Toimistot ja liiketilat tarvitsevat toimivat ja yrityskäyttöön suunnitellut IT-laitteet, jotta työnteko sujuu ilman turhia katkoksia ja ylimääräistä ylläpitotyötä. Toimitamme kaikkien suurten valmistajien laitteet käyttökuntoon asennettuina ja opastettuna, olipa kyse toimiston peruslaitteista, neuvotteluhuoneiden etäpalveluratkaisuista tai infonäytöistä liiketilojen käyttöön.
 
 ## Mitä toimitamme
@@ -58,7 +57,7 @@ Tarjoamme yrityksellesi toimivat ja yhteensopivat ratkaisut koko toimiston ja li
 
 **Info- ja mainosnäytöt liiketiloihin:** Infonäytöt ja digitaaliset näyttöratkaisut asiakasviestintään, opastukseen ja markkinointiin.
 
-**Verkkolaitteet ja liitettävyysratkaisut:** Luotettavat ja turvalliset verkkoratkaisut toimistoihin ja liiketiloihin.
+**Verkkolaitteet ja liitettävyysratkaisut:** Luotettavat ja turvalliset[ verkkoratkaisut](https://www.tdp.fi/it-laitteet/yrityksen-verkkoyhteydet/) toimistoihin ja liiketiloihin.
 
 ### Asennus, käyttöönotto ja tuki
 
@@ -66,7 +65,7 @@ Laitteet voidaan toimittaa käyttökuntoon valmiiksi asennettuina, tarvittavat o
 
 ### Palvelut ja sopimusmallit
 
-Toimiston ja liiketilan IT-laitteet voidaan toteuttaa selkeänä kokonaisuutena, jossa laitteet, asennus ja tuki muodostavat yhtenäisen kokonaisuuden. Palvelumalli mukautuu yrityksesi tarpeisiin ja tukee kasvua.
+Toimiston ja liiketilan IT-laitteet voidaan toteuttaa selkeänä kokonaisuutena, jossa laitteet, asennus ja [tuki](https://www.tdp.fi/it-palvelut/tuki-ja-huolto/) muodostavat yhtenäisen kokonaisuuden. Palvelumalli mukautuu yrityksesi tarpeisiin ja tukee kasvua.
 
 Kun IT on suunniteltu ja toteutettu kokonaisuutena, hyödyt näkyvät arjen työssä:
 
