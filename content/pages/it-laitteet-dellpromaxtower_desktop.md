@@ -13,13 +13,37 @@ head:
     yrityskäyttöön, tehotietokoneet yritykselle
 contactForm: Ota yhteyttä
 ---
-# Dell Pro Max Tower T2
 
-**Dell Pro Max Tower T2 on täysikokoinen, 32-litrainen tehotyöasema, joka on suunniteltu suorituskyvyn äärirajoille. Se on ensisijainen valinta insinööreille, data-analyytikoille, sisällöntuottajille ja 3D-suunnittelijoille, jotka eivät voi tinkiä laskentatehosta ja tarvitsevat huippuluokan suorituskykyä.**
+<HeroBlock bgColor="brand" imageAlign="right">
+
+<div className="HeroBlockImage">
+
+![Kuvituskuva: TDP Työntekijä työpisteellä](/assets/uusi-yrittaja-tinified-1280x800.png)
+
+</div>
+
+<div className="HeroBlockContent">
+
+## IT-laitteet ja ratkaisut yrityskäyttöön
+
+* Kannettavat, työasemat ja oheislaitteet kilpailukykyiseen hintaan
+* Verkkolaitteet, infonäytöt ja neuvottelutilojen laitteet käyttökuntoon asennettuina
+* Leasing tai suoraosto yrityksellesi sopivalla mallilla
+* Paikallinen asiantuntija tukena koko laitteiden elinkaaren ajan
+* Kaikki yleisimmät laitemerkit - kilpailuta meidät
+
+</div>
+
+</HeroBlock>
+
+
+# Dell Pro Max Tower T2
 
 ![Kuvituskuva: Dell Pro Max Tower tietokone](/assets/dell-pro-max-tower-t2_3-500x400-.jpg "Dell Pro Max Tower sarjan tehotyöasemat sopivat vaativaan yrityskäyttöön.")
 
-Tämä on tehty raskaaseen ajoon. Ainutlaatuinen **Unlimited Turbo Duration** -ominaisuus mahdollistaa sen, että 125 W:n prosessori voi toimia jopa **250 W:n** teholla pitkäkestoisesti, mikä takaa maksimaalisen nopeuden kriittisissä laskentatehtävissä ilman hidastumista. Yritysjohdolle laite tarjoaa turvaa **ISV-sertifioinneilla**, jotka takaavat ammattisovellusten (kuten CAD- ja mallinnusohjelmistot) vakaan toiminnan.
+**Dell Pro Max Tower T2 on täysikokoinen, 32-litrainen tehotyöasema, joka on suunniteltu suorituskyvyn äärirajoille. Se on ensisijainen valinta insinööreille, data-analyytikoille, sisällöntuottajille ja 3D-suunnittelijoille, jotka eivät voi tinkiä laskentatehosta ja tarvitsevat huippuluokan suorituskykyä**.
+
+Ainutlaatuinen **Unlimited Turbo Duration** -ominaisuus mahdollistaa sen, että 125 W:n prosessori voi toimia jopa **250 W:n** teholla pitkäkestoisesti, mikä takaa maksimaalisen nopeuden kriittisissä laskentatehtävissä ilman hidastumista. Yritysjohdolle laite tarjoaa turvaa **ISV-sertifioinneilla**, jotka takaavat ammattisovellusten (kuten CAD- ja mallinnusohjelmistot) vakaan toiminnan.
 
 - - -
 
