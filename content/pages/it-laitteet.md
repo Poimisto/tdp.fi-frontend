@@ -99,4 +99,4 @@ Laitteisiin asennetaan yrityksesi ohjelmistot ja määritykset sopimusten mukaan
 
 ## Leasing vai suoraosto?
 
-Leasing sopii, kun haluat selkeän kuukausikustannuksen ja hallitun laitekierron. Suoraosto sopii, kun haluat pitää hankinnan yksinkertaisena ja elinkaari on luontevasti pidempi. Molemmissa malleissa voidaan toteuttaa sama vakioitu laiteympäristö ja palvelusopimus. Kysy lisää asiantuntijoiltamme.
+Leasing sopii, kun haluat selkeän kuukausikustannuksen ja hallitun laitekierron. Suoraosto sopii, kun haluat pitää hankinnan yksinkertaisena ja elinkaari on luontevasti pidempi. Molemmissa malleissa voidaan toteuttaa sama vakioitu laiteympäristö ja palvelusopimus. Ota yhteyttä ja kysy lisää asiantuntijoiltamme.
