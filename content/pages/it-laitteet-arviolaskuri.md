@@ -27,12 +27,10 @@ contactForm: Ota yhteyttä
 
 Laskurimme avulla voit arvioida yrityksesi IT-laitteiden ja palveluiden kuukausikustannuksia ennen päätöksentekoa. Valitse yrityksesi tarvitsemat laitteet, palvelut, sekä käyttäjämäärä ja saat välittömän arvion kustannuksista yhdellä silmäyksellä. 
 
-**Käyttöohje:**
-
 * Määritä yrityksesi tarvitsemat laitteet ja niiden määrät
 * Valitse käyttäjämäärä ja tarvittavat palvelut
 
-Laskurin avulla saat nopeasti yleiskuvan kustannuksista. [Ota yhteyttä](<>), niin autamme rakentamaan yrityksellesi sopivan ja hallittavan IT-kokonaisuuden.
+**Laskurin avulla saat nopeasti yleiskuvan kustannuksista. [Ota yhteyttä](<>), niin autamme rakentamaan yrityksellesi sopivan ja hallittavan IT-kokonaisuuden.**
 
 </div>
 
