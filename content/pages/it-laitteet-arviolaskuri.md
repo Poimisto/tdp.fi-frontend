@@ -23,7 +23,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockContent">
 
-## IT-kustannuslaskuri yrityksille | Arvioi laitteet ja palvelut
+## IT-kustannuslaskuri yrityksille
 
 Laskurimme avulla voit arvioida yrityksesi IT-laitteiden ja palveluiden kuukausikustannuksia ennen päätöksentekoa. Valitse yrityksesi tarvitsemat laitteet, palvelut, sekä käyttäjämäärä ja saat välittömän arvion kustannuksista yhdellä silmäyksellä. 
 
