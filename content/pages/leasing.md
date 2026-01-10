@@ -55,8 +55,6 @@ Koko yrityksen tarvitsema tietotekniikka voidaan hankkia kuukausihinnalla. Työn
 
 Mahdolliset laiteviat ja niiden korjaukset kuuluvat takuun piiriin. Leasing-sopimukseen voidaan lisätä laitteita tai palveluita tarpeenne mukaan. Teillä on mahdollisuus lunastaa laitteisto itsellenne sopimusajan päätyttyä.
 
-<a href="/tietokone-leasing-esimerkkipaketit">» Tutustu esimerkkipaketteihin.</a>
-
 ## Kenelle tietokone-leasing sopii?
 
 Tietokone-leasing sopii kaikille vakavaraisille yrityksille. Saatte rahoituspäätöksen muutamassa tunnissa ja otamme teihin yhteyttä päätöksen saatuamme. Rahoituspäätös tulee rahoitusyhtiöstä, joka tarkistaa yrityksen taloudellisen tilan.
