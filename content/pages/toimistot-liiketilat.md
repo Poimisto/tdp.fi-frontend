@@ -43,7 +43,7 @@ contactForm: Ota yhteyttä
 
 # Toimiston ja liiketilan IT-laitteet
 
-**Olemme toimittaneet IT-ratkaisuja pk-yrityksille jo yli 15 vuoden ajan, ja tiedämme, miten tärkeää on saada käyttötarpeeseen sopivat laitteet valmiiksi asennettuina ja käyttövalmiina ilman yllätyksiä.** 
+**Olemme toimittaneet IT-ratkaisuja pk-yrityksille jo yli 15 vuoden ajan ja tiedämme, miten tärkeää on saada käyttötarpeeseen sopivat laitteet valmiiksi asennettuina ja käyttövalmiina ilman yllätyksiä.** 
 
 Toimistot ja liiketilat tarvitsevat toimivat ja yrityskäyttöön suunnitellut IT-laitteet, jotta työnteko sujuu ilman turhia katkoksia ja ylimääräistä ylläpitotyötä. Toimitamme kaikkien suurten valmistajien laitteet käyttökuntoon asennettuina ja opastettuna, olipa kyse toimiston peruslaitteista, neuvotteluhuoneiden etäpalveluratkaisuista tai infonäytöistä liiketilojen käyttöön.
 
