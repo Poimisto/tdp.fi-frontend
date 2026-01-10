@@ -10,6 +10,32 @@ head:
     kumppanilta. Turvatut yhteydet ja huoleton käyttö. Pyydä arvio!
 contactForm: Ota yhteyttä
 ---
+
+<HeroBlock bgColor="brand" imageAlign="right">
+
+<div className="HeroBlockImage">
+
+![Kuvituskuva: TDP Työntekijä työpisteellä](/assets/uusi-yrittaja-tinified-1280x800.png)
+
+</div>
+
+<div className="HeroBlockContent">
+
+## IT-laitteet ja ratkaisut yrityskäyttöön
+
+* Kannettavat, työasemat ja oheislaitteet kilpailukykyiseen hintaan
+* Verkkolaitteet, infonäytöt ja neuvottelutilojen laitteet käyttökuntoon asennettuina
+* Leasing tai suoraosto yrityksellesi sopivalla mallilla
+* Paikallinen asiantuntija tukena koko laitteiden elinkaaren ajan
+* Kaikki yleisimmät laitemerkit - kilpailuta meidät
+
+</div>
+
+</HeroBlock>
+
+
+
+
 ![Yrityksen verkkoyhteydet.](/assets/verkkoyhteydet.jpg)
 
 # Yrityksen verkkoyhteydet – luotettavat verkkoratkaisut yrityksille
