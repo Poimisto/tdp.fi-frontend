@@ -85,7 +85,7 @@ Keskitetty hallinta kokoaa yrityksen käyttäjät, laitteet ja käyttöoikeudet 
 
 IT-laitteet ja palvelut voidaan toteuttaa myös leasing-mallilla, jolloin kustannukset jakautuvat tasaisiksi kuukausieriksi ja investoinnit pysyvät ennakoitavina. Leasing helpottaa budjetointia ja mahdollistaa laitteiden päivittämisen hallitusti yrityksen tarpeiden muuttuessa.
 
-Lue lisää IT-leasingista
+[Lue lisää IT-leasingista](https://www.tdp.fi/it-laitteet/tietokone-leasing/)
 
 **Kun IT-ympäristö on suunniteltu kokonaisuutena, kustannukset pysyvät hallinnassa ja arki sujuu ilman turhaa säätöä. Laskuri antaa hyvän lähtökohdan, jonka pohjalta kokonaisuus voidaan viimeistellä yrityksellesi sopivaksi.**
 
