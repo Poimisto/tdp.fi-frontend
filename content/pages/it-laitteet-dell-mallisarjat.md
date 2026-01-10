@@ -35,7 +35,7 @@ contactForm: Ota yhteyttä
 </HeroBlock>
 
 
-# Laadukkaat tietokoneet ovat investointi työn sujuvuuteen
+# Laadukkaat tietokoneet ovat investointi työn sujuvuuteen - TDP Suositukset
 
 ![Kuvituskuva: Dell kannettavia ja pöytäkoneita](/assets/kuva-dell_desktop-laptop-1200x600.jpg "Dell mallisarjat tarjoavat hyvän vaihtoehdon pk-yritysten IT-ympäristön vakiointiin.")
 
