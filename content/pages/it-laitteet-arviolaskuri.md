@@ -87,6 +87,4 @@ IT-laitteet ja palvelut voidaan toteuttaa myös leasing-mallilla, jolloin kustan
 
 [Lue lisää IT-leasingista](https://www.tdp.fi/it-laitteet/tietokone-leasing/)
 
-**Kun IT-ympäristö on suunniteltu kokonaisuutena, kustannukset pysyvät hallinnassa ja arki sujuu ilman turhaa säätöä. Laskuri antaa hyvän lähtökohdan, jonka pohjalta kokonaisuus voidaan viimeistellä yrityksellesi sopivaksi.**
-
-**Ota yhteyttä ja pyydä tarkennettu arvio.**
+**Kun IT-ympäristö on suunniteltu kokonaisuutena, kustannukset pysyvät hallinnassa ja arki sujuu ilman turhaa säätöä. Laskuri antaa hyvän lähtökohdan, jonka pohjalta kokonaisuus voidaan viimeistellä yrityksellesi sopivaksi. Ota yhteyttä ja pyydä tarkennettu arvio.**
