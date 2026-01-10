@@ -34,7 +34,7 @@ contactForm: Ota yhteyttä
 </HeroBlock>
 
 
-# Yrityksen verkkoyhteydet – luotettavat verkkoratkaisut yrityksille
+# Luotettavat verkkoratkaisut yrityksille
 
 **Tampereen Datapiste (TDP) tarjoaa kokonaisvaltaiset ja hallitut verkkoratkaisut pk‑yrityksille, jotka arvostavat tarpeiden mukaan suunniteltuja sujuvia ratkaisuja.**
 
