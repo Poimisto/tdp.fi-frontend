@@ -36,7 +36,7 @@ contactForm: Ota yhteyttä
 
 # Yrityksen verkkoyhteydet – luotettavat verkkoratkaisut yrityksille
 
-
+**Tampereen Datapiste (TDP) tarjoaa kokonaisvaltaiset ja hallitut verkkoratkaisut pk‑yrityksille, jotka arvostavat tarpeiden mukaan suunniteltuja sujuvia ratkaisuja.**
 
 ![Yrityksen verkkoyhteydet.](/assets/verkkoyhteydet.jpg)
 
@@ -46,9 +46,6 @@ Yritysten arjessa, erityisesti kasvavissa organisaatioissa, laadukkaat ja tietot
 verkkoyhteydet ovat liiketoiminnan elinehto. Modernissa työympäristössä verkkoyhteyksien
 merkitys korostuu yhä suuremmin: etätyö, mobiililaitteiden määrä, toimistojen väliset
 yhteydet ja vierasverkot asettavat erityisvaatimuksia yrityksen verkkoinfrastruktuurille.
-
-Tampereen Datapiste (TDP) tarjoaa kokonaisvaltaiset ja hallitut verkkoratkaisut pk‑yrityksille,
-jotka arvostavat tarpeiden mukaan suunniteltuja sujuvia ratkaisuja.
 
 ### Haasteet, joita pk-yritykset kohtaavat
 
