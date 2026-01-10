@@ -108,9 +108,9 @@ Lue lisää **Dell Pro Max Premium -kannettavista** [täältä.](https://www.tdp
 
 ## Dell -pöytäkoneet
 
-![Kuvituskuva: Dell pöytätietokoneita](/assets/dell-dektops-1200x600.jpg "Dell -mallisarjat tarjoavat laadukkaat tietokoneet toimistotöihin ja tehokäyttöön.")
-
 ### Dell Pro Micro – erittäin pienet tietokoneet
+
+![Kuvituskuva: Dell Micro työasema näyttöön kytkettynä](/assets/kuva-dellpro_micro-300x400.jpg "Dell Micro työasemat tarjoavat erittäin pienikokoiset tietokoneet toimistokäyttöön.")
 
 Toimistoihin ja työpisteisiin, joissa tila on rajallinen mutta tarvitaan silti luotettava yritystietokone.
 
@@ -124,6 +124,8 @@ Lue lisää **Dell Pro Micro -pöytäkoneista** [täältä.](https://www.tdp.fi/
 
 ### Dell Pro Slim – kompaktit mallit toimistokäyttöön
 
+![Kuvituskuva: Dell Pro Slim pöytäkone](/assets/kuva-dell-slim-300x400_v1.jpg "Dell Pro Slim koneet tarjoavat tyylikkäät ja edulliset tietokoneet pk-yrityksille")
+
 Käyttäjille, jotka tarvitsevat pöytäkoneelta enemmän suorituskykyä tai laajennettavuutta mutta eivät kuitenkaan täysikokoista tornia.
 
 * Kompakti kotelo, sopii toimistoympäristöön.
@@ -135,6 +137,8 @@ Lue lisää **Dell Pro Slim -pöytäkoneista** [täältä.](https://www.tdp.fi/i
 [](https://www.tdp.fi/it-laitteet/dellproslim_desktop/)
 
 ### Dell Pro Tower T2 – laajennettavat tehotyöasemat
+
+![Kuvituskuva: Dell Tower T2 tehotyöasema](/assets/kuva-dell-t2_tower-300x400.jpg "Dell Tower T2 tehotyöasemat tarjoavat laadukkaat tietokoneet vaativaan käyttöön pk-yrityksille")
 
 Nämä on suunniteltu raskaaseen ajoon. Tower T2 on tarkoitettu käyttäjille, jotka kaipaavat maksimaalista suorituskykyä. Yrityksille ja tiimeille, joilla on raskaita ja kriittisiä työkuormia, sekä tarve pitkäikäiselle, laajennettavalle ratkaisulle.
 
