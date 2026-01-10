@@ -36,7 +36,7 @@ contactForm: Ota yhteyttä
 </HeroBlock>
 
 
-# IT-kustannuslaskuri yrityksille | Arvioi laitteet ja palvelut | TDP
+## IT-kustannuslaskuri yrityksille | Arvioi laitteet ja palvelut | TDP
 
 Laskurimme avulla voit arvioida yrityksesi IT-laitteiden ja palveluiden kuukausikustannuksia ennen päätöksentekoa. Valitse yrityksesi tarvitsemat laitteet, palvelut, sekä käyttäjämäärä ja saat välittömän arvion kustannuksista yhdellä silmäyksellä. 
 
