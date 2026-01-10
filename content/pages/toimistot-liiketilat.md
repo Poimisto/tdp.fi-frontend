@@ -53,7 +53,7 @@ Tarjoamme yrityksellesi toimivat ja yhteensopivat ratkaisut koko toimiston ja li
 
 **Toimiston monitoimilaitteet ja tulostimet:** Luotettavat, yrityskäyttöön suunnitellut monitoimilaitteet ja tulostimet, jotka kestävät päivittäistä käyttöä ja integroituvat sujuvasti työympäristöön.
 
-**Neuvotteluhuoneiden etätyöratkaisut:** Videoneuvottelulaitteet ja AV-kokonaisuudet, jotka tekevät palavereista sujuvia sekä paikan päällä että etänä.
+**Neuvotteluhuoneiden etätyöratkaisut:** Videoneuvottelulaitteet ja AV-kokonaisuudet, jotka tekevät palavereista sujuvia, sekä paikan päällä, että etänä.
 
 **Info- ja mainosnäytöt liiketiloihin:** Infonäytöt ja digitaaliset näyttöratkaisut asiakasviestintään, opastukseen ja markkinointiin.
 
