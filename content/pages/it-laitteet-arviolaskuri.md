@@ -81,7 +81,7 @@ Keskitetty hallinta kokoaa yrityksen käyttäjät, laitteet ja käyttöoikeudet 
 
 [Lue lisää keskitetystä hallinnasta](https://www.tdp.fi/it-palvelut/keskitetty-hallinta/)
 
-### Leasing osana kokonaisuutta
+#### Leasing osana kokonaisuutta
 
 IT-laitteet ja palvelut voidaan toteuttaa myös leasing-mallilla, jolloin kustannukset jakautuvat tasaisiksi kuukausieriksi ja investoinnit pysyvät ennakoitavina. Leasing helpottaa budjetointia ja mahdollistaa laitteiden päivittämisen hallitusti yrityksen tarpeiden muuttuessa.
 
