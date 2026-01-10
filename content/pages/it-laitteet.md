@@ -31,8 +31,6 @@ contactForm: Ota yhteyttä
 
 <CallToAction bgColor="dark" url="#contact-form" align="left">Jätä tarjouspyyntö</CallToAction>
 
-<CallToAction bgColor="lightest" url="/tietokone-leasing" align="left">Tietokone-leasing</CallToAction>
-
 </div>
 
 </HeroBlock>
