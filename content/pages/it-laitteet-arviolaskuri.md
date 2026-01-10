@@ -45,5 +45,3 @@ Laskurimme avulla voit arvioida yrityksesi IT-laitteiden ja palveluiden kuukausi
 * Määritä yrityksesi tarvitsemat laitteet ja niiden määrät
 * Valitse käyttäjämäärä ja tarvittavat palvelut
 * [Ota yhteyttä](https://www.tdp.fi/it-laitteet/arviolaskuri/#contact-form) ja pyydä tarkennettu arvio
-
-  <LeasingCalculator additionalMargin={0} threeYearInterest={1.04663} devices='[{"name":"Peruskannettava","price":800,"warrantyName":"3v paikanpäällä","warrantyPrice":105,"peripherals":[{"name":"Lisänäyttö","price":200}]},{"name":"Toimistokone","price":550}]' support='undefined' security='undefined' businessApps='undefined' cloudBackup='undefined' centralizedManagement='undefined' />
