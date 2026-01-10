@@ -34,11 +34,11 @@ contactForm: Ota yhteyttä
 </HeroBlock>
 
 
+# Yrityksen verkkoyhteydet – luotettavat verkkoratkaisut yrityksille
+
 
 
 ![Yrityksen verkkoyhteydet.](/assets/verkkoyhteydet.jpg)
-
-# Yrityksen verkkoyhteydet – luotettavat verkkoratkaisut yrityksille
 
 ## Verkkoyhteydet ovat kriittinen osa modernia liiketoimintaa
 
