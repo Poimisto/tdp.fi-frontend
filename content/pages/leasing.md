@@ -1,6 +1,6 @@
 ---
 template: page-nocontainer
-path: /tietokone-leasing
+path: /it-laitteet/tietokone-leasing
 date: 2021-02-24T10:32:42.758Z
 head:
   title: Tietokone-leasing pk-yritykselle - Kustannustehokas IT-leasing ja vuokraus
