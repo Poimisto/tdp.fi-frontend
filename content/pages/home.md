@@ -27,13 +27,7 @@ TDP on **Pirkanmaalla ja pääkaupunkiseudulla vaikuttava yritysten IT-palveluk
 
 Toimitamme työntekijöiden koneet ja puhelimet, toimiston laitteet ja yritysverkot käyttökuntoon asennettuina. Saatte meiltä myös muut **IT-osaston palvelut palvelusopimuksella** tai mikäli tarpeenne on täydellinen IT-ulkoistus, kysykää palvelumalliamme.
 
-Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [asiakkainamme](/referenssit) on paljon eri toimialoilla toimivia yrityksiä. 
-
-### Ota yhteyttä myyntiin:
-
-Pauli Aalto | 040 748 3818 | pauli.aalto@tdp.fi
-
-Mika Mäkinen | 040 632 7090 | mika.makinen@tdp.fi
+Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [asiakkainamme](/referenssit) on paljon eri toimialoilla toimivia yrityksiä.
 
 </div>
 
