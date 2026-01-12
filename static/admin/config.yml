@@ -54,6 +54,23 @@ collections:
               name: keywords,
               widget: string,
             }
+      - label: Breadcrumb
+        name: breadcrumb
+        widget: list
+        default: []
+        allow_add: true
+        allow_remove: true
+        allow_reorder: true
+        collapsed: true
+        label_singular: "Add"
+        summary: "{{label}} ({{path}})"
+        fields:
+          - label: Path
+            name: path
+            widget: string
+          - label: Label
+            name: label
+            widget: string
       - { label: Body, name: body, widget: markdown }
       - name: contactForm
         label: Yhteydenottolomake
