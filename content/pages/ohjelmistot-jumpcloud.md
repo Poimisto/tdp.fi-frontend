@@ -139,7 +139,6 @@ Keskitetty laitehallinta (MDM) tarkoittaa, että kaikkia yrityksen tietokoneita 
 \
 **Miksi hankkisin keskitetyn hallinnan TDP:ltä enkä suoraan verkosta?**
 
-
 Pelkkä lisenssi ei tuo turvaa, jos asetukset on tehty väärin. Verkosta ostat työkalun, TDP:ltä ostat toimivan kokonaisuuden. Me konfiguroimme tietoturvasäännöt (esim. levyn salaus ja kirjautumiskäytännöt) valmiiksi puolestasi ja tarjoamme suomenkielisen asiantuntijan avuksi käyttöönottoon.
 
 **Mitä jos internetyhteys katkeaa? Pääsenkö kirjautumaan koneelle?**\
@@ -150,7 +149,8 @@ Kyllä. Vaikka hallinta on pilvessä, JumpCloud-agentti toimii paikallisesti lai
 \
 Ei vaadi. Asennamme hallinta-agentin taustajona (Silent Install). Käyttäjä voi jatkaa työskentelyä normaalisti, eikä tiedostoja tai asetuksia menetetä. Uudet käytännöt astuvat voimaan huomaamattomasti.
 
-**Tarvitsenko enää omia palvelimia (Active Directory)?** \
+**Tarvitsenko enää omia palvelimia (Active Directory)?** 
+
 Tämä riippuu lähtötilanteesta, mutta todennäköisesti et. Useimmille PK-yrityksille tämä ratkaisu korvaa kokonaan omat palvelimet. Pääset eroon rautahuolista ja VPN-kikkailusta.
 
 **Mitä jos meillä on jo Active Directory, josta emme voi vielä luopua?** 
@@ -182,6 +182,5 @@ Ei, vaan helpommaksi. Työntekijä tarvitsee vain yhden turvallisen identiteetin
 Se on sisäänrakennettu. Voimme pakottaa MFA:n päälle kriittisiin kirjautumisiin. Keskitettyyn hallintaan kuuluu ilmainen TOTP-sovellus, joka tekee puhelimesta avaimen. Käyttäjä hyväksyy kirjautumisen yhdellä painalluksella, helppoa ja äärimmäisen turvallista.
 
 **Mitä tarkoittaa SSO (Single Sign-On) ja miten se liittyy tähän?**
-
 
 SSO tarkoittaa kertakirjautumista. Työntekijäsi käyttää yhtä turvallista identiteettiä kirjautuakseen kaikkeen: tietokoneelle, sähköpostiin (M365/Google), CRM-järjestelmään ja muihin pilvipalveluihin. Tämä tekee myös uusien työntekijöiden sisäänkirjauksesta ja lopettavien työntekijöiden tilien sulkemisesta vaivatonta.
