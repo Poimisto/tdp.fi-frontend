@@ -30,9 +30,9 @@ contactForm: Ota yhteyttä
 
 *Tarvitsetko arvion IT-kokonaisuuden kustannuksista?*
 
-<CallToAction bgColor="dark" url="https://www.tdp.fi/it-laitteet/arviolaskuri/" align="left">Kokeile laskuria</CallToAction>
+<CallToAction bgColor="dark" url="https://www.tdp.fi/it-laitteet/arviolaskuri/" align="center">Kokeile laskuria</CallToAction>
 
-<CallToAction bgColor="dark" url="#contact-form" align="left">Pyydä tarjous</CallToAction>
+<CallToAction bgColor="dark" url="#contact-form" align="center">Pyydä tarjous</CallToAction>
 
 </div>
 
