@@ -32,6 +32,8 @@ contactForm: Ota yhteyttä
 
 <CallToAction bgColor="dark" url="https://www.tdp.fi/it-laitteet/arviolaskuri/" align="left">Kokeile kustannuslaskuria</CallToAction>
 
+<CallToAction bgColor="dark" url="#contact-form" align="center">Pyydä tarjous</CallToAction>
+
 </div>
 
 </HeroBlock>
