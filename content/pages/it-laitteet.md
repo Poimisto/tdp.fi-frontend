@@ -23,13 +23,14 @@ contactForm: Ota yhteyttä
 
 # Yritysten IT-laitteet
 
-* U﻿usimmat yrityskannettavat kilpailukykyiseen hintaan Pirkanmaalla ja pääkaupunkiseudulla
-* Työntekijöiden tehotyöasemat, verkkolaitteet, liiketilojen infonäytöt, neuvotteluhuoneiden laitteet – kaikki
-* Kaikki yleisimmät laitemerkit – kilpailuta meidät
-* Tietokoneet asennettuna tai yrityksesi ohjelmistoilla esiasennettuna
-  yli 50 hengen, 10-50 hengen ja aina pienimmillekin PK-yrityksille 
+* Yrityskäyttöön suunnitellut IT-laitteet ja kokonaisratkaisut
+* Kannettavat, työasemat, verkkolaitteet ja toimistotekniikka
+* Vakioidut ja yhteensopivat laitemallit
+* Laitteet valmiiksi asennettuina ja käyttöönotettuna eri kokoisille yrityksille
 
-<CallToAction bgColor="dark" url="#contact-form" align="left">Jätä tarjouspyyntö</CallToAction>
+*Tarvitsetko arvion IT-kokonaisuuden kustannuksista?*
+
+<CallToAction bgColor="dark" url="https://www.tdp.fi/it-laitteet/arviolaskuri/" align="left">Kokeile kustannuslaskuria</CallToAction>
 
 </div>
 
