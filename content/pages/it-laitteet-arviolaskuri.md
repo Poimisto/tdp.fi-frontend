@@ -39,7 +39,7 @@ Laskurimme avulla voit arvioida yrityksesi IT-laitteiden ja palveluiden kuukausi
 
 ## Kustannuslaskuri
 
-**Kaikki laitevaihtoehdot perustuvat laadukkaisiin ja keskenään yhteensopiviin Dell yritystietokoneisiin suosittelemistamme mallisarjoista.**
+**Kaikki tietokone vaihtoehdot perustuvat laadukkaisiin ja keskenään yhteensopiviin Dell yritystietokoneisiin suosittelemistamme mallisarjoista.**
 
 *Lue lisää Dellin yritysmallisarjoista [täältä](https://www.tdp.fi/it-laitteet/dell-mallisarjat/).*
 
