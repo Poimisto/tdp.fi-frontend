@@ -5,6 +5,7 @@
 import path from "node:path";
 import { createFilePath } from "gatsby-source-filesystem";
 import config from "./content/settings.json" with { type: "json"};
+import { getImage } from "gatsby-plugin-image";
 
 /**
  * Strongly type MDX/Markdown frontmatter so image-like fields are File nodes,
@@ -138,6 +139,54 @@ export const createResolvers = ({ createResolvers }) => {
     },
   });
 
+  const cardImageLookup = () => ({
+    type: "[File]",
+    async resolve(source, _, context) {
+      const rawBody = source.rawBody || source.body;
+      if (!rawBody) {
+        return []
+      }
+
+      const match = rawBody.match(/cards\s*=\s*(['"])([\s\S]*?)\1/);
+      if (!match) {
+        return []
+      }
+
+      try {
+        const cardsData = JSON.parse(match[2]);
+
+        const images = [];
+        const rels = [];
+
+        for (const card of cardsData) {
+          if (!card.image) {
+            continue;
+          };
+
+          const rel = card.image.split('/').pop();
+
+          rels.push(rel);
+
+          const fileNode = await context.nodeModel.findOne({
+            type: "File",
+            query: {
+              filter: {
+                relativePath: { regex: `/(^|/)${escapeRegExp(rel)}$/` },
+              },
+            },
+          });
+
+          images.push(fileNode);
+        }
+
+        return images;
+      } catch (error) {
+        console.error("Error parsing cards JSON for cardImages resolver:", error);
+        return [];
+      }
+    }
+  })
+
   createResolvers({
     // JSON people (your ListOfEmployees query depends on this)
     PeopleJson: {
@@ -167,6 +216,10 @@ export const createResolvers = ({ createResolvers }) => {
       image: fileLookup("image"),
       thumbnail: fileLookup("thumbnail"),
     },
+
+    Mdx: {
+      cardImages: cardImageLookup()
+    }
   });
 };
 

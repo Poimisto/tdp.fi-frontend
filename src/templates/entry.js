@@ -2,6 +2,7 @@ import React from "react";
 import { graphql } from "gatsby";
 import Layout from "./layout";
 import { MDXProvider } from "@mdx-js/react";
+import { getSrc } from "gatsby-plugin-image";
 
 import CallToAction from "./../components/CallToAction";
 import Link from "../components/Link";
@@ -194,6 +195,9 @@ const shortcodes = {
 /* ---------------- page component ---------------- */
 const EntryTemplate = ({ data, pageContext, children }) => {
   const mdx = data.mdx;
+  const cardImages = mdx.cardImages;
+
+  const componentsWithData = { ...shortcodes, Cards: (props) => <Cards {...props} cardImages={cardImages} /> }
 
   return (
     <Layout
@@ -232,7 +236,7 @@ const EntryTemplate = ({ data, pageContext, children }) => {
                 <ArticleDate>{mdx.frontmatter.date}</ArticleDate>
               </p>
 
-              <MDXProvider components={shortcodes}>{children}</MDXProvider>
+              <MDXProvider components={componentsWithData}>{children}</MDXProvider>
             </ArticleContent>
           </ArticleContentContainer>
         </ArticleContainer>
@@ -240,7 +244,7 @@ const EntryTemplate = ({ data, pageContext, children }) => {
 
       {mdx.fields.collection === "pages" && (
         <PageWrapper>
-          <MDXProvider components={shortcodes}>{children}</MDXProvider>
+          <MDXProvider components={componentsWithData}>{children}</MDXProvider>
         </PageWrapper>
       )}
 
@@ -276,6 +280,12 @@ export const pageQuery = graphql`
         }
       }
       tableOfContents
+      cardImages {
+        relativePath
+        childImageSharp {
+          gatsbyImageData(width: 500, placeholder: BLURRED)
+        }
+      }
     }
   }
 `;

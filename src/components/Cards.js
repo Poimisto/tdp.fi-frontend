@@ -3,6 +3,7 @@ import React from "react"
 import styled from "styled-components"
 import CallToAction from "./CallToAction"
 import { getContrast, shade } from "polished"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import theme from "./../theme"
 import Link from "./Link"
 import marked from "marked"
@@ -46,24 +47,33 @@ const Card = styled.div`
 const CardsComponent = ({
   cardsPerRow,
   cards,
+  cardImages,
   children,
   $noMargin = false,
 }) => {
-  cards = JSON.parse(cards) // passed from MDX file
+  cards = JSON.parse(cards)
+  
   return (
     <Cards cardsPerRow={cardsPerRow} $noMargin={$noMargin}>
       {cards.map(card => {
         let bg = theme.colors[card.bgColor] || theme.colors.lightest
 
+        const cleanPath = card.image?.replace(/^\/*(assets\/)?/, "")
+        const imageNode =
+          Array.isArray(cardImages) && cardImages.length > 0
+            ? cardImages.find(i => i?.relativePath?.endsWith(cleanPath))
+            : undefined
+        const imageData = getImage(imageNode)
+
         return (
           <Card bgColor={bg} key={formatKey(card.title)}>
             {card.image && (
               <div style={{ textAlign: "center" }}>
-                <img
-                  src={card.image}
-                  style={{ margin: "0 auto", maxWidth: "100%" }}
-                  alt=""
-                />
+                {imageData ? (
+                  <GatsbyImage image={imageData} alt="" />
+                ) : (
+                  card.image && <img src={card.image} alt="" />
+                )}
               </div>
             )}
             {card.link && (
