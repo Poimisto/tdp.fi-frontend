@@ -25,7 +25,7 @@ V﻿oimassa 1.1.2024 alkaen
 | ------------------------------------------ | ---------- |
 | Hallittu yritystietoturva                  | 7,00 €/kk  |
 | Varalaitepalvelu                           | 9,00 €/kk  |
-| Koneiden ja käyttäjien keskitetty hallinta | 11,00 €/kk |
+| Koneiden ja käyttäjien keskitetty hallinta | 22,00 €/kk |
 
 ## Tuki
 
@@ -50,20 +50,20 @@ V﻿oimassa 1.1.2024 alkaen
 
 **K﻿aikki ohjelmistot meiltä samoilla hinnoilla kuin valmistajiltakin.**
 
-|                       |                                                                 |
-| --------------------- | --------------------------------------------------------------- |
-| Google Workspace      | [Katso täältä](https://www.tdp.fi/ohjelmistot/google-workspace) |
-| Microsoft 365         | [Katso täältä](https://www.tdp.fi/ohjelmistot/microsoft-365)    |
-| Nira                  | [Katso täältä](https://www.tdp.fi/ohjelmistot/nira)             |
-| JumpCloud             | [Katso täältä](https://www.tdp.fi/ohjelmistot/jumpcloud)        |
-| Dropbox               | [Katso täältä](https://www.tdp.fi/ohjelmistot/dropbox)          |
-| ﻿Virtru               | [Katso täältä](https://www.tdp.fi/ohjelmistot/virtru)           |
-| ﻿Assently             | [Katso täältä](https://www.tdp.fi/ohjelmistot/assently)         |
-| ﻿WithSecure           | [Katso täältä](https://www.tdp.fi/ohjelmistot/withsecure)       |
-| ﻿Bitwarden            | 5,00 €/kk                                                       |
-| ﻿Adobe Creative Cloud | 73,49 €/kk                                                      |
-| ﻿Nexetic Full         | 10,00 €/kk                                                      |
-| ﻿Muut ohjelmistot     | Kysy tarjousta                                                  |
+|                       |                                                                     |
+| --------------------- | ------------------------------------------------------------------- |
+| Google Workspace      | [Katso täältä](https://www.tdp.fi/ohjelmistot/google-workspace)     |
+| Microsoft 365         | [Katso täältä](https://www.tdp.fi/ohjelmistot/microsoft-365)        |
+| Nira                  | [Katso täältä](https://www.tdp.fi/ohjelmistot/nira)                 |
+| JumpCloud             | [Katso täältä](https://www.tdp.fi/it-palvelut/keskitetty-hallinta/) |
+| Dropbox               | [Katso täältä](https://www.tdp.fi/ohjelmistot/dropbox)              |
+| ﻿Virtru               | [Katso täältä](https://www.tdp.fi/ohjelmistot/virtru)               |
+| ﻿Assently             | [Katso täältä](https://www.tdp.fi/ohjelmistot/assently)             |
+| ﻿WithSecure           | [Katso täältä](https://www.tdp.fi/ohjelmistot/withsecure)           |
+| ﻿Bitwarden            | 5,00 €/kk                                                           |
+| ﻿Adobe Creative Cloud | 73,49 €/kk                                                          |
+| ﻿Nexetic Full         | 10,00 €/kk                                                          |
+| ﻿Muut ohjelmistot     | Kysy tarjousta                                                      |
 
 ## Muut
 
