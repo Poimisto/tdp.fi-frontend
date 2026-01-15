@@ -208,7 +208,7 @@ const EntryTemplate = ({ data, pageContext, children }) => {
         title={mdx.frontmatter.head ? mdx.frontmatter.head.title : null}
         image={
           mdx.frontmatter.thumbnail
-            ? mdx.frontmatter.thumbnail.childImageSharp?.fixed?.src
+            ? getSrc(mdx.frontmatter.thumbnail)
             : null
         }
         keywords={mdx.frontmatter.head?.keywords || null}
@@ -271,8 +271,7 @@ export const pageQuery = graphql`
         breadcrumb { label path }
         thumbnail {
           childImageSharp {
-            fluid(maxWidth: 900) { ...GatsbyImageSharpFluid }
-            fixed(width: 600, height: 600) { src }
+            gatsbyImageData(width: 900, placeholder: BLURRED)
           }
         }
       }
