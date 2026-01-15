@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 import HeroBlock from './HeroBlock'
 import TextField from '@mui/material/TextField';
 import Checkbox from '@mui/material/Checkbox'
@@ -7,6 +7,7 @@ import FormControl from '@mui/material/FormControl'
 import CallToAction from './CallToAction'
 import styled from 'styled-components'
 import CircularProgress from '@mui/material/CircularProgress';
+import { GatsbyImage } from "gatsby-plugin-image";
 
 
 const FormWrapper = styled.div`
@@ -56,22 +57,21 @@ const ContactForm = (props) => {
   const [isSubmitSuccess, setIsSubmitSuccess] = useState(false)
   const [isSubmitError, setIsSubmitError] = useState(false)
 
-
   const setFormValue = (name, value) => {
     let newFormFields = Object.assign({}, formFields);
     newFormFields[name] = value;
     setFormFields(newFormFields)
-  } 
+  }
   const validateErrors = () => {
     let submitErrors = {}, hasErrors;
     if (!formFields['name']) {
-       hasErrors = true; 
-       submitErrors['name'] = 'Nimi on pakollinen tieto';
-    } 
+      hasErrors = true;
+      submitErrors['name'] = 'Nimi on pakollinen tieto';
+    }
     if (!formFields['email']) {
-      hasErrors = true; 
+      hasErrors = true;
       submitErrors['email'] = 'Sähköposti on pakollinen tieto';
-    } 
+    }
 
     if (hasErrors) {
       console.log(submitErrors)
@@ -81,10 +81,10 @@ const ContactForm = (props) => {
     else return 0;
   }
   const submitForm = () => {
-    if ( !validateErrors() ) {
+    if (!validateErrors()) {
       setIsLoading(true)
       let data = new URLSearchParams();
-      Object.keys(formFields).forEach( (key) => {
+      Object.keys(formFields).forEach((key) => {
         data.append(key, formFields[key])
       })
       data.append('source', window.location.href)
@@ -93,42 +93,42 @@ const ContactForm = (props) => {
       window.dataLayer = window.dataLayer || [];
 
       fetch(process.env.GATSBY_ContactApiEndpoint, {
-          method: "POST",
-          mode: "cors",
-          body : data,
-          headers : {
-            'content-type': 'application/x-www-form-urlencoded; charset=UTF-8'
-          }
+        method: "POST",
+        mode: "cors",
+        body: data,
+        headers: {
+          'content-type': 'application/x-www-form-urlencoded; charset=UTF-8'
+        }
       })
-      .then(res => res.json())
-      .then((result) => {
-        setIsLoading(false)
-        setIsSubmitSuccess(true)
-        window.dataLayer.push({event:"form submit", form: "tarjouspyynto"});
-      })
-      .catch( (e)  => {
+        .then(res => res.json())
+        .then((result) => {
+          setIsLoading(false)
+          setIsSubmitSuccess(true)
+          window.dataLayer.push({ event: "form submit", form: "tarjouspyynto" });
+        })
+        .catch((e) => {
 
-        setIsLoading(false)
-        setIsSubmitError(true);
-        window.dataLayer.push({event:"error", error : "form error", detail : e.message});
-      }) 
+          setIsLoading(false)
+          setIsSubmitError(true);
+          window.dataLayer.push({ event: "error", error: "form error", detail: e.message });
+        })
     }
   }
 
   return (
-    <HeroBlock bgColor="dark" columns={1}  id="contact-form">
+    <HeroBlock bgColor="dark" columns={1} id="contact-form">
 
       <h2>{props.title || 'Pyydä tarjous'}</h2>
 
       <FormWrapper>
         {isLoading && (
           <LoadingOverlay>
-            <CircularProgress/>
+            <CircularProgress />
           </LoadingOverlay>
         )}
 
         <div>
-        
+          
           {props.checkboxes && (
             <>
               <FormControlLabel
@@ -149,7 +149,7 @@ const ContactForm = (props) => {
             </>
           )}
           <FormControl fullWidth>
-            <TextField multiline={true} rows={3} name="message" onChange={(e) => setFormValue('message', e.target.value)} label="Viesti" variant="filled" 
+            <TextField multiline={true} rows={3} name="message" onChange={(e) => setFormValue('message', e.target.value)} label="Viesti" variant="filled"
               placeholder="Mistä haluatte tarjouksen? Voitte myös jättää tämän kentän tyhjäksi, niin otamme teihin yhteyttä." />
 
             <TextField error={!!errors.name} helperText={!!errors.name ? errors.name : ''} onChange={(e) => setFormValue('name', e.target.value)} variant="filled" label="Yhteyshenkilön nimi" />
@@ -158,7 +158,7 @@ const ContactForm = (props) => {
 
             <TextField variant="filled" onChange={(e) => setFormValue('phone', e.target.value)} label="Puhelinnumero" />
 
-            <input type="text" style={{display:'none'}} onChange={(e) => setFormValue('phone', e.target.value)} name="__zipcode" />
+            <input type="text" style={{ display: 'none' }} onChange={(e) => setFormValue('phone', e.target.value)} name="__zipcode" />
           </FormControl>
 
           {isSubmitSuccess && (
@@ -170,7 +170,7 @@ const ContactForm = (props) => {
             </p>
           )}
           {isSubmitError && (
-            
+
             <div className="error">
               Hmm... Lomakkeen lähetyksessä tapahtui virhe. Yritä ottaa yhteyttä sähköpostilla tai puhelimella.
             </div>
@@ -181,7 +181,7 @@ const ContactForm = (props) => {
 
         {props.contactName && (
           <div className="contactPerson">
-            <img className="img" src={props.contactImage} alt="" />
+            <GatsbyImage className="img" image={props.contactImage} alt="" />
             <span className="name">{props.contactName}</span>
             <span className="title">{props.contactTitle}</span>
             <span className="phone">{props.contactPhone}</span>
@@ -191,9 +191,9 @@ const ContactForm = (props) => {
         )}
 
 
-    </FormWrapper>
+      </FormWrapper>
 
-  </HeroBlock>
+    </HeroBlock>
 
   );
 }

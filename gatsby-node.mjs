@@ -262,14 +262,7 @@ export const createPages = async ({ actions, graphql, reporter }) => {
         const person =
           people.find(p => p.name === contactForm.contactPerson) || null;
         if (person) {
-          const imgData = person.image?.childImageSharp?.gatsbyImageData;
-          const imageUrl =
-            (imgData &&
-              imgData.images &&
-              imgData.images.fallback &&
-              imgData.images.fallback.src) ||
-            person.image?.publicURL ||
-            null;
+          const imageData = getImage(person.image?.childImageSharp?.gatsbyImageData)
 
           contactForm = {
             ...contactForm,
@@ -278,7 +271,7 @@ export const createPages = async ({ actions, graphql, reporter }) => {
               name: person.name || null,
               email: person.email || null,
               phone: person.phone || null,
-              imageUrl, // <— pass a plain URL for runtime
+              imageData,
             },
           };
         }

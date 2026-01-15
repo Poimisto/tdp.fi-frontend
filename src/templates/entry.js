@@ -251,7 +251,7 @@ const EntryTemplate = ({ data, pageContext, children }) => {
           contactTitle={pageContext.contactForm.contactPerson?.title}
           contactEmail={pageContext.contactForm.contactPerson?.email}
           contactPhone={pageContext.contactForm.contactPerson?.phone}
-          contactImage={pageContext.contactForm.contactPerson?.imageUrl || null}
+          contactImage={pageContext.contactForm.contactPerson?.imageData || null}
         />
       )}
     </Layout>
