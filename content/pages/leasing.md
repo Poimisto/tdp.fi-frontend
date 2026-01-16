@@ -37,7 +37,7 @@ Toimitamme ja asennamme koneet käyttökuntoon koko Suomen alueella.
 
 <CallToAction bgColor="dark" url="#contact-form" align="left">Jätä tarjouspyyntö</CallToAction>
 
-<CallToAction bgColor="lightest" url="/tietokone-leasing-esimerkkipaketit" align="left">Esimerkkipaketit</CallToAction>
+<CallToAction bgColor="lightest" url="/it-laitteet/arviolaskuri/" align="left">Arviolaskuri</CallToAction>
 
 </div>
 

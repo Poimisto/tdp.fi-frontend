@@ -20,7 +20,7 @@ Yrityksen alkuvaiheessa päätöksiä riittää, eikä vähiten IT:n osalta. Ohj
 
 Tarjoamme tarvittavat ohjelmistot, laitetoimitukset ja kattavan valikoiman IT -palveluja, jotka voidaan mitoittaa juuri tarpeiden mukaan:
 
-* **[Laitetoimitukset](/it-laitteet/) ja [leasing](/tietokone-leasing)**: Tietokoneet, puhelimet ja lisälaitteet. 
+* **[Laitetoimitukset](/it-laitteet/) ja [leasing](/it-laitteet/tietokone-leasing/)**: Tietokoneet, puhelimet ja lisälaitteet. 
 * **Sähköpostit ja kotisivut**: Sivut ja sähköpostit yrityksen omalla domainilla.
 * **[IT-tuki ja ylläpito](/it-palvelut/tuki-ja-huolto)**: Etätuki, puhelintuki ja tarvittaessa apu paikan päälle.
 * **Liiketoimintasovellukset**: [Microsoft 365](/ohjelmistot/microsoft-365), [Google Workspace](/ohjelmistot/google-workspace) tarjoavat kattavan valikoiman tuottavuustyökaluja
@@ -42,7 +42,7 @@ Yrityksen toiminta rakentuu laitteiden, yhteyksien ja ohjelmistojen varaan. Kun 
 
 Käytännössä jokainen yritys tarvitsee vähintään yhden tietokoneen ja älypuhelimen. Usein tarvitaan myös lisälaitteita, kuten tulostimia, neuvottelulaitteita tai infonäyttöjä. Tärkeää on arvioida käyttöympäristö ja kuormitus: esimerkiksi graafinen suunnittelu, CAD-suunnittelu tai videoeditointi vaativat tehoa eri tavalla kuin kevyt toimistotyö.
 
-Laitehankinnoissa vaihtoehtoina on joko ostaminen tai [leasing](/tietokone-leasing). Leasing-sopimus on erityisesti uusille yrityksille houkutteleva, koska se jakaa kustannuksia ja mahdollistaa laitteiden säännöllisen uusimisen.Tarjoamme molemmat vaihtoehdot sekä tarvittavat huolto-, päivitys- ja tukipalvelut.
+Laitehankinnoissa vaihtoehtoina on joko ostaminen tai [leasing](/it-laitteet/tietokone-leasing/). Leasing-sopimus on erityisesti uusille yrityksille houkutteleva, koska se jakaa kustannuksia ja mahdollistaa laitteiden säännöllisen uusimisen.Tarjoamme molemmat vaihtoehdot sekä tarvittavat huolto-, päivitys- ja tukipalvelut.
 
 ### Internet ja puhelinyhteydet
 
