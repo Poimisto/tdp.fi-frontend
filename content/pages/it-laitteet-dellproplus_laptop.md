@@ -17,7 +17,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Kuvituskuva: TDP työntekijä työpisteellä](/assets/uusi-yrittaja-tinified-1280x800.png)
+![Kuvituskuva: TDP työntekijä työpisteellä](../../static/assets/uusi-yrittaja-tinified-1280x800.png)
 
 </div>
 
@@ -42,7 +42,7 @@ contactForm: Ota yhteyttä
 
 
 
-![Kuvituskuva: Dell Pro Plus ](/assets/kuva-dell-pro-plus-laptop1-800x600-.jpg "Dell Pro Plus sarjan kannettavat ovat hyvä vaihtoehto pk -yrityksen laitevakiointiin")
+![Kuvituskuva: Dell Pro Plus ](../../static/assets/kuva-dell-pro-plus-laptop1-800x600-.jpg "Dell Pro Plus sarjan kannettavat ovat hyvä vaihtoehto pk -yrityksen laitevakiointiin")
 
 Sarja on edelläkävijä huollettavuudessa ja ympäristövastuullisuudessa. Se tarjoaa mielenrauhaa **maailman ensimmäisellä modulaarisella USB-C-portilla**, joka on helposti vaihdettavissa ja kestää kulutusta perinteisiä ratkaisuja paremmin. Erilliset emolevy- ja I/O-kortit minimoivat e-jätteen määrän korjaustilanteissa, mikä pidentää laitteen elinkaarta ja parantaa investoinnin tuottoa. Laitteet on valmistettu 50 % kierrätetystä alumiinista.
 

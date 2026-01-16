@@ -21,7 +21,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Tietokone leasing](/assets/tietokone-leasing.png)
+![Tietokone leasing](../../static/assets/tietokone-leasing.png)
 
 </div>
 

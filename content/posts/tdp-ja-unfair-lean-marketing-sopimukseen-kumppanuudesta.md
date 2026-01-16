@@ -13,7 +13,7 @@ head:
 thumbnail: /assets/netlify-1280-x-800-min.png
 contactForm: Ota yhteyttä
 ---
-![](/assets/netlify-1280-x-800-min.png "Sopimus IT-palveluiden ulkoistuksesta")
+![](../../static/assets/netlify-1280-x-800-min.png "Sopimus IT-palveluiden ulkoistuksesta")
 
 **Unfair Lean Marketing Oy, Lean Startup -menetelmiä soveltava strateginen markkinointi- ja bränditoimisto, on valinnut IT-palveluidensa kokonaistoimittajaksi Tampereen Datapisteen. Unfair on tunnettu tamperelainen markkinointitoimisto, joka 27 henkilön voimin vastaa yritysten moninaisiin markkinointihaasteisiin. Nyt alkuvuodesta solmitun kumppanuuden myötä TDP on ottanut kokonaisvastuun kaikkien Unfairin laite-, ohjelmisto- ja tukitarpeiden täyttämisestä.**
 

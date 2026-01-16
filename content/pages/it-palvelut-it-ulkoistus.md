@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![IT-ulkoistus onnistuu henkilökunnan tietotaidolla.](/assets/yhteydenottolomake-1280x800.jpg)
+![IT-ulkoistus onnistuu henkilökunnan tietotaidolla.](../../static/assets/yhteydenottolomake-1280x800.jpg)
 
 </div>
 

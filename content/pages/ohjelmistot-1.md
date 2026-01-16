@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Ohjelmistot ja digitaaliset työympäristöt yrityksille ](/assets/ohjelmistot-tinified.jpg)
+![Ohjelmistot ja digitaaliset työympäristöt yrityksille ](../../static/assets/ohjelmistot-tinified.jpg)
 
 </div>
 

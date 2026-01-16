@@ -12,7 +12,7 @@ head:
 
 <div className="HeroBlockImage">
 
-![Arctic Safety asiakastarina](/assets/as.png)
+![Arctic Safety asiakastarina](../../static/assets/as.png)
 
 </div>
 

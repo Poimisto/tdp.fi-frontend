@@ -10,7 +10,7 @@ head:
 thumbnail: /assets/zero-trust-tietoturvamalli.jpg
 contactForm: Ota yhteyttä
 ---
-![Zero Trust -malli saatavilla TDP:n konsultoimana.](/assets/zero-trust-tietoturvamalli.jpg)
+![Zero Trust -malli saatavilla TDP:n konsultoimana.](../../static/assets/zero-trust-tietoturvamalli.jpg)
 
 **Yritysten verkkojärjestelmien turvallisuudesta puhuttaessa yksi termi on noussut viime aikoina ylitse muiden: Zero Trust.** 
 

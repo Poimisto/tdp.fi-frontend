@@ -17,7 +17,7 @@ breadcrumb:
   - label: Palvelusopimus
 date: 2023-11-11T10:51:12.451Z
 ---
-![TDP:n kaiken kattava palvelusopimus.](/assets/palvelusopimus-tdp-1280x800.png)
+![TDP:n kaiken kattava palvelusopimus.](../../static/assets/palvelusopimus-tdp-1280x800.png)
 
 # Palvelusopimuksella tarvitsemasi IT-ympäristö joustavasti
 

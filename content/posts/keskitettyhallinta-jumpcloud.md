@@ -12,7 +12,7 @@ head:
 thumbnail: /assets/kuva-artikkeli-keskitetty-hallinta4.jpg
 contactForm: Ota yhteyttä
 ---
-![Kuvituskuva: JumpCloud keskitetty hallinta](/assets/kuva-artikkeli-keskitetty-hallinta4.jpg "JumpCloud – keskitetty identiteetin ja pääsyn hallinta (IAM)")
+![Kuvituskuva: JumpCloud keskitetty hallinta](../../static/assets/kuva-artikkeli-keskitetty-hallinta4.jpg "JumpCloud – keskitetty identiteetin ja pääsyn hallinta (IAM)")
 
 ## Keskitetty hallinta
 
@@ -41,7 +41,7 @@ Ratkaisu pirstaleisuuteen on **[Keskitetty hallinta (JumpCloud)](https://www.tdp
 
 **JumpCloud** on moderni pilvipohjainen hakemistopalvelu, joka kokoaa nämä kolme pilaria:  **identiteetin, pääsyn ja laitteiden hallinnan**, saumattomaksi kokonaisuudeksi. Yhtenäinen hallintakonsoli tekee monimutkaisesta IT ympäristöstä **selkeän, turvallisen ja kustannustehokkaan.**
 
-![Kuvituskuva: JumpCloud ja piirilevyjä](/assets/kuva-artikkeli-keskitetty-hallinta5.jpg "JumpCloud – IT-hallinnan automatisointi ja kustannussäästöt")
+![Kuvituskuva: JumpCloud ja piirilevyjä](../../static/assets/kuva-artikkeli-keskitetty-hallinta5.jpg "JumpCloud – IT-hallinnan automatisointi ja kustannussäästöt")
 
 ## Keskeiset hyödyt
 
@@ -167,7 +167,7 @@ Jos laite katoaa voimme:
 
 **Tämä suojaa yrityksen tietoja fyysisistä riskeistä huolimatta.**
 
-![Kuvituskuva: IT järjestelmä ja symboleita](/assets/kuva-artikkeli-kerkitetty-hallinta3.jpg "Parempi turvallisuus: MFA, laitehallinta ja sijainti kirjautumisen perustana")
+![Kuvituskuva: IT järjestelmä ja symboleita](../../static/assets/kuva-artikkeli-kerkitetty-hallinta3.jpg "Parempi turvallisuus: MFA, laitehallinta ja sijainti kirjautumisen perustana")
 
 ## Zero Trust
 
@@ -274,7 +274,7 @@ Palvelu mahdollistaa myös kirjautumisen työasemille (Windows, macOS, Linux) il
 
 Palvelu vie yrityksen askeleen pidemmälle: pois salasanojen ongelmista ja kohti modernia, turvallista ja automatisoitua pilvi IT:tä.
 
-![Kuvituskuva: Ohjelmienhallinta](/assets/kuva-artikkeli-keskitetty-hallinta2.jpg "Tietomurtojen riski pienenee: Hallittu sovellusympäristö ilman salasanoja")
+![Kuvituskuva: Ohjelmienhallinta](../../static/assets/kuva-artikkeli-keskitetty-hallinta2.jpg "Tietomurtojen riski pienenee: Hallittu sovellusympäristö ilman salasanoja")
 
 
 ## **Yhteenveto**
@@ -302,7 +302,7 @@ Autamme suunnittelemaan, käyttöönoton ja kokonaisuuden, joka vastaa juuri yri
 
 **Älä jää jälkeen, [ota yhteyttä](https://www.tdp.fi/keskitettyhallinta-jumpcloud/#contact-form) ja tee IT:stä yrityksesi uusi kilpailuetu!**
 
-![Kuvituskuva: IT laitteet ja hallinta](/assets/kuva-artikkeli-keskitetty-hallinta1.jpg "Etsitkö vastauksia? Kaikki tieto JumpCloudista yhdessä paikassa")
+![Kuvituskuva: IT laitteet ja hallinta](../../static/assets/kuva-artikkeli-keskitetty-hallinta1.jpg "Etsitkö vastauksia? Kaikki tieto JumpCloudista yhdessä paikassa")
 
 # **FAQ   Usein kysytyt kysymykset**
 

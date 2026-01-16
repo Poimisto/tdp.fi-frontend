@@ -16,7 +16,7 @@ breadcrumb:
   - label: Dropbox
 thumbnail: /assets/dropbox-netlify-1280-x-800.jpg
 ---
-![Dropbox tallennustila jälleenmyyjältä | TDP.](/assets/dropbox-netlify-1280-x-800.jpg)
+![Dropbox tallennustila jälleenmyyjältä | TDP.](../../static/assets/dropbox-netlify-1280-x-800.jpg)
 
 # Dropbox – tallennuspalvelu yrityksille
 

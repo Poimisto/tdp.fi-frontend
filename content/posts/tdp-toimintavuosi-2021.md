@@ -11,7 +11,7 @@ head:
 thumbnail: /assets/toimintavuosi-sloganitta3.jpg
 contactForm: Ota yhteyttä
 ---
-![TDP:n toimintavuosi 2021](/assets/toimintavuosi-sloganitta3.jpg)
+![TDP:n toimintavuosi 2021](../../static/assets/toimintavuosi-sloganitta3.jpg)
 
 **TDP:n toimintavuosi 2021 oli erittäin onnistunut. Tarkempia lukuja odotellessa voimme juhlia liikevaihdon osalta miljoonan euron lasikaton rikkomista, mutta mikä tärkeintä, kasvoimme ja kehityimme organisaationa koko yrityksen leveydellä.**
 

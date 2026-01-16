@@ -17,7 +17,7 @@ breadcrumb:
     label: ohjelmistot
   - label: Microsoft 365
 ---
-![Kuvituskuva: IT asentaja työpisteellä](/assets/365-tinified.jpg "Microsoft 365 lisenssit yrityksille luotettavalta toimijalta")
+![Kuvituskuva: IT asentaja työpisteellä](../../static/assets/365-tinified.jpg "Microsoft 365 lisenssit yrityksille luotettavalta toimijalta")
 
 # Liiketoimintasovellukset | MS 365
 
@@ -99,7 +99,7 @@ Tekoäly on tullut osaksi arkea, mutta termit menevät helposti sekaisin. Selkey
 
 <div className="HeroBlockImage">
 
-![](/assets/gl-bb-site-banner-dell-pro-max-laptop-720x400.jpg)
+![](../../static/assets/gl-bb-site-banner-dell-pro-max-laptop-720x400.jpg)
 
 </div>
 
@@ -174,7 +174,7 @@ Näihin ei tarvitse keksiä vastauksia yksin. Kartoituksessa rakennamme mallin, 
 
 - - -
 
-![Kuvituskuva: Kannettavia tietokoneita IT-asentajan työpöydällä](/assets/tuki2-1200-x-627.jpg "MS365 lisenssit ja tuki yrityksille luotettavalta palvelukumppanilta. ")
+![Kuvituskuva: Kannettavia tietokoneita IT-asentajan työpöydällä](../../static/assets/tuki2-1200-x-627.jpg "MS365 lisenssit ja tuki yrityksille luotettavalta palvelukumppanilta. ")
 
 ## Usein kysytyt kysymykset (UKK /FAQ)
 

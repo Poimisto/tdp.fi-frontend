@@ -11,7 +11,7 @@ head:
 thumbnail: /assets/uusi-onsite.jpg
 contactForm: Ota yhteyttä
 ---
-![Onsite-takuu](/assets/uusi-onsite.jpg)
+![Onsite-takuu](../../static/assets/uusi-onsite.jpg)
 
 **Onsite-takuu tarkoittaa laitteelle myönnettävää lisätakuuta, jonka aikana kaikki laitteeseen tulevat viat korjataan nopeasti paikan päällä. Käytännössä maksat siitä, että saat 3 vuoden ajaksi mielenrauhan laitteiden toimivuudesta etkä menetä arvokasta aikaasi vikojen selvittelyyn.** 
 

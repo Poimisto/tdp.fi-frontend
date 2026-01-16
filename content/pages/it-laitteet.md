@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Työntekijöille yrityskannettavat leasing-sopimuksella](/assets/tdp-palvelukumppani.png)
+![Työntekijöille yrityskannettavat leasing-sopimuksella](../../static/assets/tdp-palvelukumppani.png)
 
 </div>
 
@@ -43,7 +43,7 @@ contactForm: Ota yhteyttä
 
 # Yrityskannettavat | Tehotyöasemat | Työvälineet
 
-![](/assets/dell_promax_family_1280x410.jpeg)
+![](../../static/assets/dell_promax_family_1280x410.jpeg)
 
 **Tarjoamme markkinoiden uusimmat laitteet niin perustyöskentelyyn, vaativaan suunnittelukäyttöön kuin kenttätyöhönkin. Tietokone on työntekijän tärkein yksittäinen työväline, joten panostamme laatuun**. 
 
@@ -69,7 +69,7 @@ Lue lisää yrityskannettavien valinnasta julkaisemastamme [oppaasta](https://ww
 
 ## Apple Mac yritykselle
 
-![Kuvituskuva: Macbook kannettava](/assets/it-laitteet-1280x600.jpg "Apple Mac tietokoneet tarjoavat hyvän vaihtoehdon pk -yrityksen it-laitevakiointiin.")
+![Kuvituskuva: Macbook kannettava](../../static/assets/it-laitteet-1280x600.jpg "Apple Mac tietokoneet tarjoavat hyvän vaihtoehdon pk -yrityksen it-laitevakiointiin.")
 
 Toimitamme myös **Apple-laitteet** yrityskäyttöön, esimerkiksi **MacBook Pro-, MacBook Air- ja Mac mini -mallit**. Mac on tyypillisesti hyvä valinta johdolle, liikkuvaan työhön ja luovaan tuotantoon sekä yrityksiin, joissa macOS on jo osa arkea.
 

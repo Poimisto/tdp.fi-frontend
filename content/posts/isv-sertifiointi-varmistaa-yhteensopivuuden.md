@@ -12,7 +12,7 @@ head:
 thumbnail: /assets/isv-sertifiointi-1280-x-800.jpg
 contactForm: Ota yhteyttä
 ---
-![](/assets/isv-sertifiointi-1280-x-800.jpg)
+![](../../static/assets/isv-sertifiointi-1280-x-800.jpg)
 
 **Olet kiireinen tietotyöläinen, jolle deadline hengittää niskaan. Aamusi alkaa lupaavasti, mutta huomaat pian, että käyttämäsi korkeatasoinen ohjelmisto tökkii jälleen. Järjestelmäsi yhteensopivuusongelmat saavat sinut juoksemaan ympäriinsä etsimässä apua, ja projekti, joka piti hoitaa päivässä, paisuu viikon mittaiseksi painajaiseksi. Eikö kuulostakin liian tutulta?**
 

@@ -12,7 +12,7 @@ head:
 
 <div className="HeroBlockImage">
 
-![Datko asiakastarina](/assets/datko_logo.jpg)
+![Datko asiakastarina](../../static/assets/datko_logo.jpg)
 
 </div>
 

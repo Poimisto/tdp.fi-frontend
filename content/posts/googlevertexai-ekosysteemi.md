@@ -13,7 +13,7 @@ head:
 thumbnail: /assets/vertexai_1_1.jpg
 contactForm: Ota yhteyttä
 ---
-![Kuvituskuva. Tietokoneen näyttö, jonka yläpuolella aivoja kuvaava yhteysverkosto.](/assets/vertexai_1_1.jpg "Google Vertex AI - Tekoälyn hyödyntäminen yrityksissä")
+![Kuvituskuva. Tietokoneen näyttö, jonka yläpuolella aivoja kuvaava yhteysverkosto.](../../static/assets/vertexai_1_1.jpg "Google Vertex AI - Tekoälyn hyödyntäminen yrityksissä")
 
 ## Vertex AI
 
@@ -81,7 +81,7 @@ Yhteenvetona voidaan todeta, että **Vertex AI** -ekosysteemi on joustava ja mod
 
 ### Konkreettisia mahdollisuuksia arjen tehostamiseksi
 
-![Kuvituskuva. Rajapintoja ja liitännäisiä kuvaavia yhteysviivoja ja symboleita.](/assets/vertexai_2_1.jpg "Vertex AI ja Gemini tehostavat yrityksen arkea")
+![Kuvituskuva. Rajapintoja ja liitännäisiä kuvaavia yhteysviivoja ja symboleita.](../../static/assets/vertexai_2_1.jpg "Vertex AI ja Gemini tehostavat yrityksen arkea")
 
 Generatiivinen tekoäly saattaa kuulostaa kaukaiselta tai monimutkaiselta, mutta sen tuomat hyödyt ovat hyvin käytännönläheisiä. Kyse ei ole tieteisfiktiosta, vaan uusista työkaluista, jotka säästävät aikaa, vähentävät manuaalista työtä ja parantavat asiakaspalvelua.
 
@@ -135,7 +135,7 @@ Me voimme kumppanina auttaa tunnistamaan parhaat ideat ja toteuttamaan ensimmäi
 
 ### Mitä hyötyä Vertex AI:sta on PK-yritykselle?
 
-![Kuvituskuva. Abstrakti Vertex AI hakuikkuna yhdistettynä puhelimen näyttöön](/assets/vertexai_9.jpg "Vertex AI ja BigQuery tuovat pk-yritykselle selkeää arvoa")
+![Kuvituskuva. Abstrakti Vertex AI hakuikkuna yhdistettynä puhelimen näyttöön](../../static/assets/vertexai_9.jpg "Vertex AI ja BigQuery tuovat pk-yritykselle selkeää arvoa")
 
 #### Helppo käyttöönotto ilman raskaita palvelinprojekteja
 
@@ -215,7 +215,7 @@ Tärkein viestimme on aina tämä: Tekoäly on työkalu, joka auttaa ihmisiä te
 
 ### Miten päästä alkuun?
 
-![Kuvituskuva. Ylöspäin nousevat portaat ja symboleja.](/assets/vertexai_8.jpg "Miten yritys pääsee alkuun Vertex AI:n käytössä")
+![Kuvituskuva. Ylöspäin nousevat portaat ja symboleja.](../../static/assets/vertexai_8.jpg "Miten yritys pääsee alkuun Vertex AI:n käytössä")
 
 Generatiivisen tekoälyn kanssa liikkeelle pääsemisen ei tarvitse olla valtava, kuukausien IT-projekti. Usein suurin kynnys on juuri aloittaminen.
 

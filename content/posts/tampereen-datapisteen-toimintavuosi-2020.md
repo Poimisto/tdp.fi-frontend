@@ -11,7 +11,7 @@ head:
 thumbnail: /assets/uusi-toimintavuosi.jpg
 contactForm: Ota yhteyttä
 ---
-![TDP:n toimintavuosi 2020](/assets/uusi-toimintavuosi.jpg)
+![TDP:n toimintavuosi 2020](../../static/assets/uusi-toimintavuosi.jpg)
 
 **Kokonaisuutena Tampereen Datapisteen toimintavuotta 2020 voidaan luonnehtia onnistuneeksi. Liikevaihto kasvoi aiempaan vuoteen nähden, yrityksen toimintaprosesseja ja asiakaspalvelua saatiin kehitettyä ja asiakaspalaute oli poikkeuksetta myönteistä.**
 

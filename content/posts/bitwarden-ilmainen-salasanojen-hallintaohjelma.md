@@ -11,7 +11,7 @@ head:
 thumbnail: /assets/bitwarden-netlify-1280-x-800-tinified.png
 contactForm: Ota yhteyttä
 ---
-![](/assets/bitwarden-netlify-1280-x-800-tinified.png)
+![](../../static/assets/bitwarden-netlify-1280-x-800-tinified.png)
 
 **Hyvä salasanan hallintaohjelma tekee työntekijän salasanojen hallinnasta miellyttävää ja turvallista. Vielä parempi, jos ohjelma on ilmainen ja helppokäyttöinen kuten Bitwarden.**
 

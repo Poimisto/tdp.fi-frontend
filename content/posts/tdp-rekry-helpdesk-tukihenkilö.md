@@ -10,7 +10,7 @@ head:
 thumbnail: /assets/uusi-rekry.jpg
 contactForm: Ota yhteyttä
 ---
-![TDP hakee HELPDESK-tukihenkilöä!](/assets/uusi-rekry.jpg)
+![TDP hakee HELPDESK-tukihenkilöä!](../../static/assets/uusi-rekry.jpg)
 
 *Huom! Tämä rekrytointi on jo päättynyt. Voit kuitenkin jättää avoimen hakemuksen.*
 

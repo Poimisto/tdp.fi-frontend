@@ -18,7 +18,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Kuvituskuva: TDP Työntekijä työpisteellä](/assets/uusi-yrittaja-tinified-1280x800.png)
+![Kuvituskuva: TDP Työntekijä työpisteellä](../../static/assets/uusi-yrittaja-tinified-1280x800.png)
 
 </div>
 
@@ -43,7 +43,7 @@ contactForm: Ota yhteyttä
 
 
 
-![Kuvituskuva: Dell Pro Max Tower tietokone](/assets/dell-pro-max-tower-t2_3-500x400-.jpg "Dell Pro Max Tower sarjan tehotyöasemat sopivat vaativaan yrityskäyttöön.")
+![Kuvituskuva: Dell Pro Max Tower tietokone](../../static/assets/dell-pro-max-tower-t2_3-500x400-.jpg "Dell Pro Max Tower sarjan tehotyöasemat sopivat vaativaan yrityskäyttöön.")
 
 Tämä on suunniteltu raskaaseen ajoon. Ainutlaatuinen **Unlimited Turbo Duration** -ominaisuus mahdollistaa sen, että 125 W:n prosessori voi toimia jopa **250 W:n** teholla pitkäkestoisesti, mikä takaa maksimaalisen nopeuden kriittisissä laskentatehtävissä ilman hidastumista. Yritysjohdolle laite tarjoaa turvaa **ISV-sertifioinneilla**, jotka takaavat ammattisovellusten (kuten CAD- ja mallinnusohjelmistot) vakaan toiminnan.
 

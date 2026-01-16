@@ -16,7 +16,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Kuvituskuva: TDP Työntekijä työpisteellä.](/assets/uusi-yrittaja-tinified-1280x800.png)
+![Kuvituskuva: TDP Työntekijä työpisteellä.](../../static/assets/uusi-yrittaja-tinified-1280x800.png)
 
 </div>
 
@@ -37,7 +37,7 @@ contactForm: Ota yhteyttä
 
 # Laadukkaat tietokoneet ovat investointi työn sujuvuuteen - TDP Suositukset
 
-![Kuvituskuva: Dell kannettavia ja pöytäkoneita](/assets/kuva-dell_desktop-laptop-1200x600.jpg "Dell mallisarjat tarjoavat hyvän vaihtoehdon pk-yritysten IT-ympäristön vakiointiin.")
+![Kuvituskuva: Dell kannettavia ja pöytäkoneita](../../static/assets/kuva-dell_desktop-laptop-1200x600.jpg "Dell mallisarjat tarjoavat hyvän vaihtoehdon pk-yritysten IT-ympäristön vakiointiin.")
 
 **Oikein valittu ja vakioitu laiteympäristö vähentää häiriöitä, helpottaa IT-hallintaa ja pitää kustannukset ennakoitavina. Dellin yrityskoneet on suunniteltu nimenomaan yritysten arkeen ja pitkäjänteiseen käyttöön.**
 
@@ -53,7 +53,7 @@ Jos yrityskannettavien valinta on ajankohtaista ja kaipaat syvempää taustaa p�
 
 ### Dell Pro – peruskäyttöön
 
-![Kuvituskuva: Dell Pro kannettava](/assets/kuva-dell-pro-laptop-800x400.jpg "Dell Pro sarja tarjoaa edulliset kannettavat yrityskäyttöön.")
+![Kuvituskuva: Dell Pro kannettava](../../static/assets/kuva-dell-pro-laptop-800x400.jpg "Dell Pro sarja tarjoaa edulliset kannettavat yrityskäyttöön.")
 
 Yrityksille ja työntekijöille, joiden työ koostuu pääosin toimistosovelluksista, sähköpostista ja selainpohjaisista järjestelmistä.
 
@@ -66,7 +66,7 @@ Lue lisää **Dell Pro -kannettavista** [täältä.](https://www.tdp.fi/it-laitt
 
 ### Dell Pro Plus – hybriditöihin
 
-![Kuvituskuva: Dell Pro Plus kannettava](/assets/kuva-dell-pro-plus-laptop1-600x400-.jpg "Dell Pro Plus mallit tarjoavat laadukkaat kannettavat etätöihin.")
+![Kuvituskuva: Dell Pro Plus kannettava](../../static/assets/kuva-dell-pro-plus-laptop1-600x400-.jpg "Dell Pro Plus mallit tarjoavat laadukkaat kannettavat etätöihin.")
 
 Työntekijöille, jotka tekevät töitä sekä toimistolla että etänä ja tarvitsevat kevyen mutta luotettavan työvälineen.
 
@@ -80,7 +80,7 @@ Lue lisää **Dell Pro Plus -kannettavista** [täältä.](https://www.tdp.fi/it-
 
 ### Dell Pro Premium – edustuskäyttöön
 
-![Kuvituskuva: Dell Pro Premium](/assets/kuva-dell-pro-premim-600x400.jpg "Dell Pro Premium kannettavat tarjoavat laadukkaat tietokoneet yritysjohdolle")
+![Kuvituskuva: Dell Pro Premium](../../static/assets/kuva-dell-pro-premim-600x400.jpg "Dell Pro Premium kannettavat tarjoavat laadukkaat tietokoneet yritysjohdolle")
 
 Johdolle, asiantuntijoille ja asiakastyötä tekeville, joille liikkuvuus, laatu ja edustavuus ovat tärkeitä.
 
@@ -94,7 +94,7 @@ Lue lisää **Dell Pro Premium -kannettavista** [täältä](https://www.tdp.fi/i
 
 ### Dell Pro Max Premium – vaativiin asiantuntijatöihin
 
-![Kuvituskuva: Dell Pro Max Premium kannettava](/assets/kuva-dell-pro-max-laptop1-500x400.jpg "Dell Pro Max Premium sarja tarjoaa tehokkaat kannettavat vaativaan käyttöön")
+![Kuvituskuva: Dell Pro Max Premium kannettava](../../static/assets/kuva-dell-pro-max-laptop1-500x400.jpg "Dell Pro Max Premium sarja tarjoaa tehokkaat kannettavat vaativaan käyttöön")
 
 Suunnitteluun, analytiikkaan ja muihin vaativiin tehtäviin, joissa tarvitaan työasemaluokan suorituskykyä myös liikkeellä.
 
@@ -110,7 +110,7 @@ Lue lisää **Dell Pro Max Premium -kannettavista** [täältä.](https://www.tdp
 
 ### Dell Pro Micro – erittäin pienet tietokoneet
 
-![Kuvituskuva: Dell Micro työasema näyttöön kytkettynä](/assets/kuva-dellpro_micro-300x400.jpg "Dell Micro työasemat tarjoavat erittäin pienikokoiset tietokoneet toimistokäyttöön.")
+![Kuvituskuva: Dell Micro työasema näyttöön kytkettynä](../../static/assets/kuva-dellpro_micro-300x400.jpg "Dell Micro työasemat tarjoavat erittäin pienikokoiset tietokoneet toimistokäyttöön.")
 
 Toimistoihin ja työpisteisiin, joissa tila on rajallinen mutta tarvitaan silti luotettava yritystietokone.
 
@@ -124,7 +124,7 @@ Lue lisää **Dell Pro Micro -pöytäkoneista** [täältä.](https://www.tdp.fi/
 
 ### Dell Pro Slim – kompaktit mallit toimistokäyttöön
 
-![Kuvituskuva: Dell Pro Slim pöytäkone](/assets/kuva-dell-slim-300x400_v1.jpg "Dell Pro Slim koneet tarjoavat tyylikkäät ja edulliset tietokoneet pk-yrityksille")
+![Kuvituskuva: Dell Pro Slim pöytäkone](../../static/assets/kuva-dell-slim-300x400_v1.jpg "Dell Pro Slim koneet tarjoavat tyylikkäät ja edulliset tietokoneet pk-yrityksille")
 
 Käyttäjille, jotka tarvitsevat pöytäkoneelta enemmän suorituskykyä tai laajennettavuutta mutta eivät kuitenkaan täysikokoista tornia.
 
@@ -138,7 +138,7 @@ Lue lisää **Dell Pro Slim -pöytäkoneista** [täältä.](https://www.tdp.fi/i
 
 ### Dell Pro Tower T2 – laajennettavat tehotyöasemat
 
-![Kuvituskuva: Dell Tower T2 tehotyöasema](/assets/kuva-dell-t2_tower-300x400.jpg "Dell Tower T2 tehotyöasemat tarjoavat laadukkaat tietokoneet vaativaan käyttöön pk-yrityksille")
+![Kuvituskuva: Dell Tower T2 tehotyöasema](../../static/assets/kuva-dell-t2_tower-300x400.jpg "Dell Tower T2 tehotyöasemat tarjoavat laadukkaat tietokoneet vaativaan käyttöön pk-yrityksille")
 
 Nämä on suunniteltu raskaaseen ajoon. Tower T2 on tarkoitettu käyttäjille, jotka kaipaavat maksimaalista suorituskykyä. Yrityksille ja tiimeille, joilla on raskaita ja kriittisiä työkuormia, sekä tarve pitkäikäiselle, laajennettavalle ratkaisulle.
 

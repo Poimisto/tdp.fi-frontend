@@ -17,7 +17,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Kuvituskuva: TDP Työntekijä työpisteellä](/assets/uusi-yrittaja-tinified-1280x800.png)
+![Kuvituskuva: TDP Työntekijä työpisteellä](../../static/assets/uusi-yrittaja-tinified-1280x800.png)
 
 </div>
 
@@ -42,7 +42,7 @@ contactForm: Ota yhteyttä
 
 
 
-![Kuvituskuva: Dell Pro Premium - sarjan kannettavia](/assets/kuva-dell-pro-premiun-laptop1-750x450-.jpg "Dell Pro Plus sarja tarjoaa laadukkaat kannettavat yrityksille kustannustehokkaasti.")
+![Kuvituskuva: Dell Pro Premium - sarjan kannettavia](../../static/assets/kuva-dell-pro-premiun-laptop1-750x450-.jpg "Dell Pro Plus sarja tarjoaa laadukkaat kannettavat yrityksille kustannustehokkaasti.")
 
 Runko täyttää MIL-STD-810H-standardin vaatimukset, mikä tekee siitä erinomaisen valinnan paljon liikkuvalle käyttäjälle. Lisäksi Dell Pro 14 Premium on maailman ensimmäinen kaupallinen PC, joka on varustettu modulaarisella USB-C-portilla. Tämä mahdollistaa jopa neljä kertaa paremman vääntölujuuden ja jopa 33 kertaa paremman iskunkestävyyden, mikä parantaa laitteen kestävyyttä ja mahdollistaa helpommat korjaukset. Laitteen modulaarinen emolevy sekä I/O-kortti takaavat helpommat huoltotoimenpiteet ja vähentävät elektroniikkajätettä.
 

@@ -14,7 +14,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![logo](/assets/asianajotoimisto-mp.png)
+![logo](../../static/assets/asianajotoimisto-mp.png)
 
 </div>
 

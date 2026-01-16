@@ -12,7 +12,7 @@ head:
 thumbnail: /assets/selling-points-netlify-1280-x-800.jpg
 contactForm: Ota yhteyttä
 ---
-![TDP:n henkilökunta palveluksessasi](/assets/selling-points-netlify-1280-x-800.jpg)
+![TDP:n henkilökunta palveluksessasi](../../static/assets/selling-points-netlify-1280-x-800.jpg)
 
 # Kolme syytä, miksi TDP on yrityksellesi paras kumppani IT-asioissa
 
@@ -43,7 +43,7 @@ Hyvä käyttäjätuki tukee yrityksesi monien tavoitteiden toteutumista:
 
 [Lue lisää TDP:n asiakaspalvelusta](https://www.tdp.fi/referenssit)
 
-![](/assets/image5.jpg)
+![](../../static/assets/image5.jpg)
 
 ## 2) Keskitetty hallinta tuo mielenrauhaa
 
@@ -60,7 +60,7 @@ Hajanaiset Excel-tiedostot salasanoista ja muut erillisratkaisut korvataan ohjel
 Keskitetty hallinta tarjoaa yrityksellesi useita etuja, joista voit lukea lisää täältä:
 [JumpCloud | Keskitetty hallinta | TDP](https://www.tdp.fi/ohjelmistot/jumpcloud)
 
-![](/assets/google-asiantuntija-tinified.jpg)
+![](../../static/assets/google-asiantuntija-tinified.jpg)
 
 ## 3) Suomalainen Google-asiantuntija
 

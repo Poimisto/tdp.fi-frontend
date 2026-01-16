@@ -19,7 +19,7 @@ contactForm: Ota yhteyttä
 ---
 ## Google Workspace
 
-![Kuvituskuva: 3D-kuvitus kullanvärisestä, hehkuvasta pallosta, joka on suljettu läpinäkyvään keltaiseen kuoreen. Kuoren alaosasta nousee kirkkaita, keltaisia valokuitumaisia säikeitä.](/assets/kuva-artikkeli-googleworkspace-sphere.jpg "Googlw Workspace tarjoaa hyvän perustan yrityksen kasvun haasteisiin.")
+![Kuvituskuva: 3D-kuvitus kullanvärisestä, hehkuvasta pallosta, joka on suljettu läpinäkyvään keltaiseen kuoreen. Kuoren alaosasta nousee kirkkaita, keltaisia valokuitumaisia säikeitä.](../../static/assets/kuva-artikkeli-googleworkspace-sphere.jpg "Googlw Workspace tarjoaa hyvän perustan yrityksen kasvun haasteisiin.")
 
 **Tiedätkö varmasti, missä yrityksesi tärkeät sopimukset tällä hetkellä sijaitsevat? Ovatko ne turvallisesti tallessa vai kenties sähköpostin Saapuneet-kansiossa?**
 
@@ -38,7 +38,7 @@ Tässä tilanteessa teidän kannattaa tarkastella työkalualustaanne kokonaisuut
 
 Tämä artikkeli esittelee seitsemän konkreettista tapaa, joilla Google Workspace vastaa arjen haasteisiin. Käymme läpi, miten se **tehostaa yhteistyötä, turvaa yrityksen dataa ja tuo tekoälyn osaksi jokapäiväistä tekemistä**. Nämä osa-alueet muodostavat perustan tehokkaammalle, turvallisemmalle ja älykkäämmälle liiketoiminnalle, joka skaalautuu yrityksen kasvun mukana.
 
-![Kuvituskuva: 3D-renderöity kuva toisiinsa liitetyistä mustista, neliönmuotoisista solmupisteistä ja kirkkaasti hehkuvia, sinisiä putkia tai valonsäteitä.](/assets/kuva-artikkeli-googleworkspace-connectednodes.jpg "Google Drive, Gmail ja jaetut tiedot tarjoavat hyvän pohjan yhteistyölle.")
+![Kuvituskuva: 3D-renderöity kuva toisiinsa liitetyistä mustista, neliönmuotoisista solmupisteistä ja kirkkaasti hehkuvia, sinisiä putkia tai valonsäteitä.](../../static/assets/kuva-artikkeli-googleworkspace-connectednodes.jpg "Google Drive, Gmail ja jaetut tiedot tarjoavat hyvän pohjan yhteistyölle.")
 
 ### Yhteistyö
 
@@ -60,7 +60,7 @@ Sisäänrakennettu tekoäly, kuten Gemini, vahvistaa tätä yhteistyötä. Esime
 
 Tekoäly helpottaa rutiinityötä, mutta päätökset ja vastuu pysyvät ihmisillä. Käytännössä se vapauttaa asiantuntijoiden aikaa vaativaan tekemiseen ja suunnitteluun. Isoa osaa päivästä ei enää tarvitse käyttää kopiointiin, muotoiluun ja siistimiseen, vaan on mahdollista keskittyä varsinaiseen arvon tuottamiseen.
 
-![Kuvituskuva: 3D-renderöity kuva, joka esittää virtaavaa keltaista ja sinistä nestettä tai energiaa mutkittelevassa, tummassa putkessa](/assets/kuva-artikkeli-googleworkspace-flow.jpg "Tiedon jatkuvuus. Tiedostojen hallinta kuuluu yritykselle")
+![Kuvituskuva: 3D-renderöity kuva, joka esittää virtaavaa keltaista ja sinistä nestettä tai energiaa mutkittelevassa, tummassa putkessa](../../static/assets/kuva-artikkeli-googleworkspace-flow.jpg "Tiedon jatkuvuus. Tiedostojen hallinta kuuluu yritykselle")
 
 ### Jatkuvuus
 
@@ -87,7 +87,7 @@ Jaetun Driven tärkeimpiä hyötyjä yritykselle ovat
 * **Helppo pääsy:** oikeuksien mukaan rajattu pääsy ajantasaisiin tiedostoihin mistä tahansa.  
 * **Parempi pohja analytiikalle:** kun tieto on yhdessä paikassa ja järjestyksessä, sen päälle on helpompi rakentaa raportointia ja automaatiota.
 
-![Kuvituskuva: 3D-renderöity kuva kirkkaankeltaisesta, säteilevästä pallosta, josta lähtee neljään suuntaan kierrettyjä, kultaisia ja läpikuultavia valonsäikeitä](/assets/kuva-artikkeli-googleworkspace-3d_motion.jpg "Kaikki työkalut yhdessä näkymässä tehostavat pk-yrityksen arkea.")
+![Kuvituskuva: 3D-renderöity kuva kirkkaankeltaisesta, säteilevästä pallosta, josta lähtee neljään suuntaan kierrettyjä, kultaisia ja läpikuultavia valonsäikeitä](../../static/assets/kuva-artikkeli-googleworkspace-3d_motion.jpg "Kaikki työkalut yhdessä näkymässä tehostavat pk-yrityksen arkea.")
 
 ### Keskittäminen
 
@@ -111,7 +111,7 @@ Yrityksen näkökulmasta yhtenäisen alustan hyödyt ovat
 * **Nopeampi päätöksenteko:** tieto löytyy yhdestä paikasta sen sijaan, että se olisi hajallaan eri järjestelmissä  
 * **Yksinkertaisempi IT-hallinta:** vähemmän päällekkäisiä työkaluja ja integraatioita ylläpidettävänä
 
-![Kuvituskuva: 3D-renderöity kuva kuusikulmaisesta, hiotusta prismasta, jonka sisällä on pilvenmuotoinen, hehkuva alue](/assets/kuva-artikkeli-googleworkspace-prism.jpg "Google Workspace tarjoaa tehokkaat työkalut yrityksen tietoturvan hallinnointiin")
+![Kuvituskuva: 3D-renderöity kuva kuusikulmaisesta, hiotusta prismasta, jonka sisällä on pilvenmuotoinen, hehkuva alue](../../static/assets/kuva-artikkeli-googleworkspace-prism.jpg "Google Workspace tarjoaa tehokkaat työkalut yrityksen tietoturvan hallinnointiin")
 
 ### Tietoturva
 
@@ -135,7 +135,7 @@ Keskeisiä hyötyjä yrityksille ovat
 * **Liiketoiminnan jatkuvuus,** kun tieto on varmistettu ja suojattu  
 * **Hallittavuus,** kun asetuksia ei tarvitse tehdä kymmenessä eri järjestelmässä
 
-![Kuvituskuva: 3D-renderöity kuva tummalla, teknologisella alustalla olevasta metallisesta kuutiosta, jonka keskellä on kirkkaankeltainen, hehkuva aukko](/assets/kuva-artikkeli-googleworkspace-vault.jpg "Gemini ja Google Vertex AI mahdollistavat tekoälyn turvallisen käytön yrityksessä.")
+![Kuvituskuva: 3D-renderöity kuva tummalla, teknologisella alustalla olevasta metallisesta kuutiosta, jonka keskellä on kirkkaankeltainen, hehkuva aukko](../../static/assets/kuva-artikkeli-googleworkspace-vault.jpg "Gemini ja Google Vertex AI mahdollistavat tekoälyn turvallisen käytön yrityksessä.")
 
 ### Tekoäly
 
@@ -200,7 +200,7 @@ Pk-yrityksen näkökulmasta tämä tarkoittaa, että
 
 Voitte siis aloittaa kevyesti sähköpostista ja yhteiskäyttöisistä dokumenteista, mutta tiedätte samalla, että sama alusta kantaa myös seuraavat kasvuvaiheet.
 
-![Kuvituskuva: Lähikuva optisesta penkistä laboratoriossa, jossa useat kirkkaat, telineisiin asennetut linssit taittavat ja keskittävät voimakasta keltaista valonsädettä](/assets/kuva-artikkeli-googleworkspace-lenses.jpg "Yhtenäinen, turvallinen ja älykäs alusta tulevaisuuteen")
+![Kuvituskuva: Lähikuva optisesta penkistä laboratoriossa, jossa useat kirkkaat, telineisiin asennetut linssit taittavat ja keskittävät voimakasta keltaista valonsädettä](../../static/assets/kuva-artikkeli-googleworkspace-lenses.jpg "Yhtenäinen, turvallinen ja älykäs alusta tulevaisuuteen")
 
 ## Yhteenveto
 
@@ -231,7 +231,7 @@ Näiden askeleiden tarkoitus ei ole käynnistää raskasta IT-projektia, vaan ot
 \
 Älä jää pohtimaan yksin, [ota yhteyttä,](https://www.tdp.fi/googleworkspace/#contact-form) niin laitetaan perusta kerralla kuntoon!
 
-![Kuvituskuva: 3D-renderöity kuva kirkkaasta, geometrisesti leikatusta kuutiosta, jonka sisällä on hehkuva, kullanvärinen pallo](/assets/kuva-artikkeli-googleworkspace-lock_cube.jpg "Tietoturvan ydin kuinka suojattu tieto luo perustan älykkäälle kasvulle")
+![Kuvituskuva: 3D-renderöity kuva kirkkaasta, geometrisesti leikatusta kuutiosta, jonka sisällä on hehkuva, kullanvärinen pallo](../../static/assets/kuva-artikkeli-googleworkspace-lock_cube.jpg "Tietoturvan ydin kuinka suojattu tieto luo perustan älykkäälle kasvulle")
 
 ## Usein kysytyt kysymykset (FAQ)
 

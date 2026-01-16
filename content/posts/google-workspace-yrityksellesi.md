@@ -11,7 +11,7 @@ head:
 thumbnail: /assets/google-workspace-netlify3.png
 contactForm: Ota yhteyttä
 ---
-![Google Workspace vie yritysten tietoliikenteen uudelle tasolle.](/assets/google-workspace-netlify3.png)
+![Google Workspace vie yritysten tietoliikenteen uudelle tasolle.](../../static/assets/google-workspace-netlify3.png)
 
 **Google Workspace** tarjoaa työntekijöidesi käyttöön päivittäisessä käytössä olevat sovellukset kuukausihinnalla:
 

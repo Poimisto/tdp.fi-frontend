@@ -14,7 +14,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![logo](/assets/elainklinikka-livet.png)
+![logo](../../static/assets/elainklinikka-livet.png)
 
 </div>
 

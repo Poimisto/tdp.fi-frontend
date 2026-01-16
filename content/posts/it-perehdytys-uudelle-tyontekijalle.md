@@ -14,7 +14,7 @@ head:
 thumbnail: /assets/it-perehdytys.jpg
 contactForm: Ota yhteyttä
 ---
-![Huono IT-perehdytys voi johtaa huonoon työntekijäkokemukseen.](/assets/it-perehdytys.jpg)
+![Huono IT-perehdytys voi johtaa huonoon työntekijäkokemukseen.](../../static/assets/it-perehdytys.jpg)
 
 **Kävikö teillekin näin köpösti uuden henkilön rekrytoinnissa? Ensin laaditte timanttisen ilmoituksen vakanssista ja markkinoitte voimallisesti eri kanavissa. Saitte paljon kyselyitä ja hakemuksia, jotka kävitte tarkasti läpi. Järjestitte sopivan aikataulun ja haastattelitte muutaman hakijan. Teitte huolellisen valinnan ja olitte tyytyväisiä.** 
 

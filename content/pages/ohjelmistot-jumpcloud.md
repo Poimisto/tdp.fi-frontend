@@ -16,7 +16,7 @@ breadcrumb:
     label: ohjelmistot
   - label: JumpCloud
 ---
-![Kuvituskuva: JumpCloud hallintaohjelmisto avattuna laajakuvanäytöllä](/assets/jumpcloud-tinified.jpg "Jumpcloud tarjoaa työkalut pk-yrityksen laitteiden ja identiteettien hallintaan.")
+![Kuvituskuva: JumpCloud hallintaohjelmisto avattuna laajakuvanäytöllä](../../static/assets/jumpcloud-tinified.jpg "Jumpcloud tarjoaa työkalut pk-yrityksen laitteiden ja identiteettien hallintaan.")
 
 # Laite- ja identiteetinhallinta (IAM & MDM) - JumpCloud
 
@@ -47,7 +47,7 @@ Pelkkä hallintaohjelmisto ei riitä, jos laitehankinta on villi länsi. Saat pa
 
 <div className="HeroBlockImage">
 
-![Kuvituskuva: IT järjestelmäsymboleita yhdistyneenä keskukseen.](/assets/tdp-keskitetty-hallinta.png)
+![Kuvituskuva: IT järjestelmäsymboleita yhdistyneenä keskukseen.](../../static/assets/tdp-keskitetty-hallinta.png)
 
 </div>
 
@@ -129,7 +129,7 @@ Joustava ylläpito: Jatkossa valinta on teidän. IT-tiimillenne on tarjolla mode
 
 - - -
 
-![](/assets/ohjelmistot-ja-lisenssit.jpg)
+![](../../static/assets/ohjelmistot-ja-lisenssit.jpg)
 
 ## Usein kysytyt kysymykset (FAQ / UKK)
 

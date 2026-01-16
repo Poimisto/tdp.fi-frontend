@@ -10,7 +10,8 @@ head:
   keywords: yritys, yhteystiedot, Tampereen Datapiste, TDP
 contactForm: Ota yhteyttä
 ---
-![TDP:n päätoimipiste.](/assets/tdp-päätoimipiste-tinified.jpg)
+
+![TDP:n päätoimipiste.](../../static/assets/tdp-päätoimipiste-tinified.jpg)
 
 # Pienten ja keskisuurten yritysten IT-kumppani
 
@@ -20,7 +21,7 @@ contactForm: Ota yhteyttä
 
 **Tampereen Datapiste Oy on vuonna 2007 perustettu IT-alan asiantuntijayritys ja yritysten IT-ympäristöstä kokonaisvastuun kantava palvelukumppani.**
 
-Palvelemme yrityksiä toimittamalla, asentamalla ja edelleen kehittämällä niiden todellisia tarpeita vastaavia IT-järjestelmiä. 
+Palvelemme yrityksiä toimittamalla, asentamalla ja edelleen kehittämällä niiden todellisia tarpeita vastaavia IT-järjestelmiä.
 
 Toteutamme kaikki tarvitsemanne IT-palvelut ja räätälöimme ne toiveidenne mukaan. Laitteistojen lisäksi palveluihimme kuuluvat ohjelmistot, huollot, tuki- ja palvelusopimukset sekä tietoturvapalvelut.
 
@@ -28,9 +29,9 @@ Toteutamme kaikki tarvitsemanne IT-palvelut ja räätälöimme ne toiveidenne mu
 
 ### Myynti
 
-P﻿auli Aalto   | 040 748 3818 | pauli.aalto@tdp.fi                        
+P﻿auli Aalto | 040 748 3818 | pauli.aalto@tdp.fi
 
-M﻿ika Mäkinen  | 040 632 7090 | mika.makinen@tdp.fi
+M﻿ika Mäkinen | 040 632 7090 | mika.makinen@tdp.fi
 
 ### Tuki
 
@@ -38,23 +39,23 @@ tuki@tdp.fi | 010 292 1640
 
 ## T﻿avoite
 
-Tähtäämme edullisuuden lisäksi aina asiakaslähtöiseen palveluun. 
+Tähtäämme edullisuuden lisäksi aina asiakaslähtöiseen palveluun.
 
 Toivomme ensimmäisen laitehankinnan johtavan kumppanuuteen, jossa me vastaamme yrityksenne IT-ympäristöstä ja sen kehityksestä pitkälle tulevaisuuteen.
 
 ## P﻿alvelualueet
 
-Päätoimialueemme ovat Pirkanmaalla, Etelä-Suomessa ja Keski-Suomessa. 
+Päätoimialueemme ovat Pirkanmaalla, Etelä-Suomessa ja Keski-Suomessa.
 
-Päätoimipisteemme löydät Nokialta Tampereen kupeesta. Meillä on asiakkaita  lukuisilta eri toimialoilta, joten tunnistamme kokemukseemme perustuen yritysten yksilölliset tarpeet.
+Päätoimipisteemme löydät Nokialta Tampereen kupeesta. Meillä on asiakkaita lukuisilta eri toimialoilta, joten tunnistamme kokemukseemme perustuen yritysten yksilölliset tarpeet.
 
 ## Kasvuhalu
 
 Olemme dynaaminen ja vakavaraisesti kasvava yritys.
 
-Siitä osoituksena saavutimme vuonna 2021 ensimmäistä kertaa yli miljoonan euron liikevaihdon ja kasvu jatkuu edelleen. 
+Siitä osoituksena saavutimme vuonna 2021 ensimmäistä kertaa yli miljoonan euron liikevaihdon ja kasvu jatkuu edelleen.
 
-Tavoitteenamme on kehittää palvelukokonaisuuttamme entisestään ja olla siten kiinnostava vaihtoehto suurtenkin PK-yritysten vastuulliseksi kumppaniksi.  
+Tavoitteenamme on kehittää palvelukokonaisuuttamme entisestään ja olla siten kiinnostava vaihtoehto suurtenkin PK-yritysten vastuulliseksi kumppaniksi.
 
 ## S﻿euraa meitä
 
@@ -84,26 +85,30 @@ Seuraa meitä sosiaalisen median kanavissamme:
 
 #### Tutustu
 
-* <a href="/uutiset">Ajankohtaista</a>
-* <a href="/yritys/hinnasto">Palveluhinnasto</a>
-* <a href="/assets/TDP-Laskutustiedot-2023.pdf" target="_blank">Laskutustiedot (PDF)</a>
-* <a href="/assets/tietosuojaseloste.pdf" target="_blank">Tietosuojaseloste (PDF)</a> 
-* <a href="/assets/YSE_IT2022_Suomi.pdf" target="_blank">Yleiset sopimusehdot (PDF)</a> 
+- <a href="/uutiset">Ajankohtaista</a>
+- <a href="/yritys/hinnasto">Palveluhinnasto</a>
+- <a href="/assets/TDP-Laskutustiedot-2023.pdf" target="_blank">Laskutustiedot (PDF)</a>
+- <a href="/assets/tietosuojaseloste.pdf" target="_blank">Tietosuojaseloste (PDF)</a>
+- <a href="/assets/YSE_IT2022_Suomi.pdf" target="_blank">Yleiset sopimusehdot (PDF)</a>
 
 #### Toimiston yhteystiedot
 
-* Avoinna arkisin klo 9.00 - 16.00
-* Myynti: myynti@tdp.fi
-* Tukipyynnöt: tuki@tdp.fi
-* 010 292 1640
-* Pirkkalaistie 1
-* 37100 Nokia
+- Avoinna arkisin klo 9.00 - 16.00
+- Myynti: myynti@tdp.fi
+- Tukipyynnöt: tuki@tdp.fi
+- 010 292 1640
+- Pirkkalaistie 1
+- 37100 Nokia
 
 <a href="https://goo.gl/maps/jTq2U2bC1NSFPXEh9">Katso osoite kartalla</a>
 
 <br/><br/>
 
-<img src="/assets/standing_black_1080x952.png" width="210px" />
+<div style={{ width: "210px" }}>
+
+![Suomen vahvimmat platina 2019-2024](../../static/assets/standing_black_1080x952.png)
+
+</div>
 
 </Grid>
 

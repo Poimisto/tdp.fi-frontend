@@ -11,7 +11,7 @@ head:
     tietojenkalastelu, simuloidut hyökkäykset, phishing, huijausviestit
 contactForm: Ota yhteyttä
 ---
-![](/assets/kyberakatemia.png)
+![](../../static/assets/kyberakatemia.png)
 
 # Tietoturvatietoisuus korkeammaksi simuloitujen hyökkäysten ja koulutusalustan kautta
 
@@ -36,7 +36,7 @@ Mikä parasta, KyberAkatemia on maltillisesti hinnoiteltu avaimet käteen -palve
 
 <div className="HeroBlockImage">
 
-![](/assets/tdp-hinnasto.jpg)
+![](../../static/assets/tdp-hinnasto.jpg)
 
 </div>
 

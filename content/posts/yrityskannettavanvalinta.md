@@ -18,7 +18,7 @@ contactForm: Ota yhteyttä
 ---
 ### Yrityskannettavan valinta opas
 
-![Kuvituskuva: Studiokuva avatusta valkoisesta Dell XPS -kannettavasta tietokoneesta](/assets/3cq5dam.web.1280.1280.jpeg "Dell kannettavat ovat hyvä vaihtoehto pk -yrityksen it -laitevakiointiin")
+![Kuvituskuva: Studiokuva avatusta valkoisesta Dell XPS -kannettavasta tietokoneesta](../../static/assets/3cq5dam.web.1280.1280.jpeg "Dell kannettavat ovat hyvä vaihtoehto pk -yrityksen it -laitevakiointiin")
 
 **“Halpa” kannettava tuntuu ostotilanteessa loistavalta säästöltä. Kassassa näkyy pienempi miinusmerkki ja budjetti kiittää. Todellisuudessa kyse voi olla kuitenkin kymmenien tuhansien eurojen piilokulusta.**
 
@@ -52,7 +52,7 @@ Käymme läpi:
 * Asiantuntijan kuratoima, Dell Pro ja Dell Pro Max malleihin pohjautuva vakioitu laiteympäristö ja valmiit asennusmediat helpottavat käyttöönottoa ja tekevät kustannuksista ennustettavia.  
 * Kun laitteet, hallinta ja elinkaari ovat kunnossa, IT tukee liiketoimintaa sen sijaan että se jarruttaa sitä. Tämä artikkeli antaa konkreettiset kriteerit, joilla vältät murheet.
 
-![Kuvituskuva: Studiokuva Dell tietokoneista valkoisella taustalla. ](/assets/kuva-dell_promax1.jpeg "Dell tarjoaa laadukkaat yrityskannettavat pk yrityksen tarpeisiin")
+![Kuvituskuva: Studiokuva Dell tietokoneista valkoisella taustalla. ](../../static/assets/kuva-dell_promax1.jpeg "Dell tarjoaa laadukkaat yrityskannettavat pk yrityksen tarpeisiin")
 
 ### Yrityskannettava vs. kuluttajakannettava
 
@@ -89,7 +89,7 @@ Tietoturva on alue, jossa kuluttajakoneen "säästö" voi kääntyä kalleimmaks
 
 Jos työntekijän kone katoaa, **BitLocker** salaa levyn automaattisesti. Varas saa raudan, mutta ei yrityksesi arkaluontoisia tietoja. Kuluttajakoneessa riski tietomurtoon on suuri, mikä voi johtaa mainevahinkoon ja GDPR-sakkoihin. Yritysmalleissa vakiona oleva **TPM 2.0 -turvasiru ja vPro/PRO-hallintaominaisuudet** mahdollistavat tietoturvakäytäntöjen (kuten salasanapolitiikan ja päivitysten) pakottamisen keskitetysti. Näin laitteet eivät jää "oman onnensa nojaan"  ja tietosuoja on helpompi toteuttaa.
 
-![Kuvituskuva: Dell Pro Max tehotyökone ja graafinen suunnitteluohjelmisto](/assets/kuva-dell_promax2.jpeg "Dell Pro Max tehotyöasemat tarjoavat laadukkaan vaihtoehdon tehokäyttäjien laitevakiointiin pk -yrityksissä.")
+![Kuvituskuva: Dell Pro Max tehotyökone ja graafinen suunnitteluohjelmisto](../../static/assets/kuva-dell_promax2.jpeg "Dell Pro Max tehotyöasemat tarjoavat laadukkaan vaihtoehdon tehokäyttäjien laitevakiointiin pk -yrityksissä.")
 
 #### TDP Suositus
 
@@ -119,7 +119,7 @@ Kun siirrytään vaativampaan asiantuntijatyöhön, tarvitaan järeämpää kalu
 
 Tämä ei ole pelkkää hifistelyä, vaan suoraa ajansäästöä. Esimerkiksi **CAD-piirtäminen, tietomallinnus (BIM), mediaeditointi sekä raskas BI-analytiikka** sujuvat ilman nykimistä. Odottelu renderöintien tai raporttien valmistumisen kohdalla vähenee.  Lisäksi tehokkaampi rauta takaa laitteelle pidemmän elinkaaren. **Kapasiteetti ei lopu kesken, vaikka työkuorma tai ohjelmistojen vaatimukset kasvaisivatkin lähivuosina.**
 
-![Kuvituskuva: Dell 2 in 1 AI -pc](/assets/kuva-dell_copilot2in1.jpeg "Dell tarjoaa monipuolisen valikoiman AI kannettavia ja kestäviä yritystietokoneita työkäyttöön.")
+![Kuvituskuva: Dell 2 in 1 AI -pc](../../static/assets/kuva-dell_copilot2in1.jpeg "Dell tarjoaa monipuolisen valikoiman AI kannettavia ja kestäviä yritystietokoneita työkäyttöön.")
 
 ### Käyttäjätyypit
 
@@ -178,7 +178,7 @@ Varastot, tuotantohallit, työmaat ja huoltoautot ovat tietokoneille armottomia 
 * **Mistä ei kannata tinkiä:** Kestävyydestä (IP-luokitus) ja näytön kirkkaudesta.  
 * **Mistä voi tinkiä:** Ohuudesta ja nätistä muotoilusta. Tässä haetaan työkalua, ei korua.
 
-![Kuvituskuva: Dell Rugged (erityisen kestävä) tabletti.](/assets/kuva_dell_rugged1.jpeg "Rugger kannettavat tarjoavat erityisen kestävän vaihtoehdon kenttätyöntekijöille.")
+![Kuvituskuva: Dell Rugged (erityisen kestävä) tabletti.](../../static/assets/kuva_dell_rugged1.jpeg "Rugger kannettavat tarjoavat erityisen kestävän vaihtoehdon kenttätyöntekijöille.")
 
 ### Hallittu ympäristö
 
@@ -230,7 +230,7 @@ Kun huomioidaan kaikki piilokulut: hukattu työaika, huolto- ja IT-kulut sekä k
 
 Toimiva tietotekniikka on yritystoiminnan perusta. Älä anna huonojen työvälineiden syödä katettasi. [Ota yhteyttä](https://www.tdp.fi/Yrityskannettavanvalinta#contact-form) ja laitetaan IT yhdessä kuntoon!
 
-![Kuvituskuva: Dell Pro AI PC etupaneeli](/assets/kuva-dell_14_copilot.jpeg "Dell AI Copilot PC on hyvä vaihtoehto laatua arvostavan pk -yrityksen työntekijöille")
+![Kuvituskuva: Dell Pro AI PC etupaneeli](../../static/assets/kuva-dell_14_copilot.jpeg "Dell AI Copilot PC on hyvä vaihtoehto laatua arvostavan pk -yrityksen työntekijöille")
 
 ### Usein kysytyt kysymykset (FAQ)
 

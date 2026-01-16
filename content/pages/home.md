@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![TDP palvelut](/assets/verkkoyhteydet-1280x800.png)
+![TDP palvelut](../../static/assets/verkkoyhteydet-1280x800.png)
 
 </div>
 
@@ -39,7 +39,7 @@ Meillä on **yli vuosikymmenen kokemus IT-palveluiden toimittamisesta** ja [as
 
 <div className="HeroBlockImage">
 
-![TDP SLIM](/assets/tdp-slim-promo-light.jpg)
+![TDP SLIM](../../static/assets/tdp-slim-promo-light.jpg)
 
 </div>
 
@@ -65,7 +65,7 @@ Yrityksesi IT-tarpeiden hintaa et saa vaivattomammin selville!
 
 <div className="HeroBlockImage">
 
-![TDP referenssit](/assets/tdp-asiakasreferenssit.png)
+![TDP referenssit](../../static/assets/tdp-asiakasreferenssit.png)
 
 </div>
 
@@ -89,7 +89,7 @@ Lue tyytyväisten asiakkaidemme kokemuksista ja liity heidän joukkoonsa!
 
 <div className="HeroBlockImage">
 
-![Ohjelmistot yrityksille TDP:ltä.](/assets/ota-yhteytta-myynti-tinified.png)
+![Ohjelmistot yrityksille TDP:ltä.](../../static/assets/ota-yhteytta-myynti-tinified.png)
 
 </div>
 
@@ -115,7 +115,7 @@ Luota ripeään, suomenkieliseen palvelukumppaniin!
 
 <div className="HeroBlockImage">
 
-![Tampereen Datapiste toimisto](/assets/tdp-henkilöstö-2024-tinified.jpg)
+![Tampereen Datapiste toimisto](../../static/assets/tdp-henkilöstö-2024-tinified.jpg)
 
 </div>
 

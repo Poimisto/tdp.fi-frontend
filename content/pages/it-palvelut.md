@@ -14,7 +14,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![TDP IT-palvelut](/assets/palvelut-tinified.jpg)
+![TDP IT-palvelut](../../static/assets/palvelut-tinified.jpg)
 
 </div>
 

@@ -12,7 +12,7 @@ head:
   title: IT Palvelut uudelle yrittäjälle kustannustehokkaasti
 contactForm: Ota yhteyttä
 ---
-![Yrityksen IT-osasto.](/assets/uusi-yrittaja-tinified-1280x800.png)
+![Yrityksen IT-osasto.](../../static/assets/uusi-yrittaja-tinified-1280x800.png)
 
 # TDP tarjoaa yrityksellesi oman IT-osaston
 
@@ -34,7 +34,7 @@ Erityisesti yrityksen kasvaessa hyödyt myös seuraavista:
 
 ## Tärkeimmät IT -perustukset kuntoon heti alussa
 
-![Kuvituskuva. Keskellä ruutu symboloimassa pilvipalveluita. Vasemmalla pöytätietokone ja oikealla all-in-one tietokone. Alapuolella on kannettava tietokone, jonka ruudulla on keskustelukupla.](/assets/uusi-yrittaja-perustukset-kuntoon.png "Alkavan 1–50 hengen yrityksen IT-perusta kuntoon kerralla: laiteleasing, nopea netti, domain-sähköposti, Microsoft 365 / Google Workspace, pilvivarmuuskopiointi ja IT-tuki. TDP varmistaa sujuvan startin ja skaalautuvan kasvun.")
+![Kuvituskuva. Keskellä ruutu symboloimassa pilvipalveluita. Vasemmalla pöytätietokone ja oikealla all-in-one tietokone. Alapuolella on kannettava tietokone, jonka ruudulla on keskustelukupla.](../../static/assets/uusi-yrittaja-perustukset-kuntoon.png "Alkavan 1–50 hengen yrityksen IT-perusta kuntoon kerralla: laiteleasing, nopea netti, domain-sähköposti, Microsoft 365 / Google Workspace, pilvivarmuuskopiointi ja IT-tuki. TDP varmistaa sujuvan startin ja skaalautuvan kasvun.")
 
 Yrityksen toiminta rakentuu laitteiden, yhteyksien ja ohjelmistojen varaan. Kun nämä asiat suunnitellaan kunnolla jo alkumetreillä, vältytään turhilta harmeilta myöhemmin ja liiketoiminnan kehittämiseen jää enemmän aikaa.
 
@@ -78,7 +78,7 @@ TDP:n palvelusopimuksella saat käyttöösi etä- ja puhelintuen sekä tarvittae
 
 ## Kun yritys kasvaa IT skaalautuu mukana
 
-![Kuvituskuva. Keskellä keltainen kilpi, jossa on lukon kuva. Kilven oikealla tietokone, joka on yhteydessä internetiin. Vasemmalla henkilökortti. Taustalla on vihreä piirakkakaavio, josta lähtee vihreä nuoli ylöspäin kuvastaen kasvua.](/assets/uusi-yrittaja-skaalaus.png "PK-yrityksen kasvu 5 → 50 hengessä onnistuu, kun verkko-infra, SSO-käyttäjähallinta, pilvipalvelut ja EDR-kyberturva skaalautuvat saumattomasti – TDP pitää kasvavan tiimin tekniikan iskussa ja vapauttaa aikaa liiketoiminnan kehittämiseen.")
+![Kuvituskuva. Keskellä keltainen kilpi, jossa on lukon kuva. Kilven oikealla tietokone, joka on yhteydessä internetiin. Vasemmalla henkilökortti. Taustalla on vihreä piirakkakaavio, josta lähtee vihreä nuoli ylöspäin kuvastaen kasvua.](../../static/assets/uusi-yrittaja-skaalaus.png "PK-yrityksen kasvu 5 → 50 hengessä onnistuu, kun verkko-infra, SSO-käyttäjähallinta, pilvipalvelut ja EDR-kyberturva skaalautuvat saumattomasti – TDP pitää kasvavan tiimin tekniikan iskussa ja vapauttaa aikaa liiketoiminnan kehittämiseen.")
 
 Yrityksen kasvaessa muutamasta hengestä kymmenien työntekijöiden organisaatioksi myös IT:n rooli muuttuu. Siinä missä alussa riittivät perusvälineet ja sähköposti, suurempi tiimi vaatii järeämpiä ratkaisuja. Verkkoinfra, [käyttäjähallinta](/it-palvelut/keskitetty-hallinta), [tietoturva](/it-palvelut/tietoturva-total-ja-lite) ja henkilöstön osaaminen korostuvat. IT-ratkaisuja kannattaa skaalata kasvun myötä ja uusia tarpeita nousee aina esiin.
 
@@ -110,7 +110,7 @@ Yrityksen kannattaa lisäksi laatia valmiiksi toimintamalli mahdollisen tietomur
 
 ## Tietosuoja kuntoon jo yritystoiminnan alussa
 
-![Kuvituskuva. Kuvan keskellä kansio, jossa lukee GDPR. Kansion edustalla on dokumentti sekä lukko.](/assets/uusi-yrittaja-gdpr.png "GDPR- ja NIS2-vaatimukset selkokielellä – TDP turvaa pk-yrityksesi asiakasdatan ilman byrokratiakuormaa. Rakenna luottamus hallitulla pääsynhallinnalla ja pilvipohjaisilla varmuuskopioilla.")
+![Kuvituskuva. Kuvan keskellä kansio, jossa lukee GDPR. Kansion edustalla on dokumentti sekä lukko.](../../static/assets/uusi-yrittaja-gdpr.png "GDPR- ja NIS2-vaatimukset selkokielellä – TDP turvaa pk-yrityksesi asiakasdatan ilman byrokratiakuormaa. Rakenna luottamus hallitulla pääsynhallinnalla ja pilvipohjaisilla varmuuskopioilla.")
 
 Tietosuoja ei ole pelkkää byrokratiaa. Se on olennainen osa luottamusta, asiakastietojen hallintaa ja yrityksen mainetta. Suomessa ja EU:ssa yrityksiä velvoittavat erityisesti **EU:n tietosuoja-asetus (GDPR)** sekä tuoreempi **kyberturvallisuuslaki**, joka pohjautuu NIS 2 -direktiiviin. Näistä GDPR koskee lähes kaikkia aloittavia yrityksiä.
 
@@ -141,7 +141,7 @@ Hoida tietosuoja-asioiden perusasiat kuntoon heti alkuvaiheessa. Dokumentoi, mit
 
 ## Oma IT-tiimi vai ulkoistettu kumppani?
 
-![Kuvituskuva. Vasemmalla kaksi henkilöä edustamassa asiakasta. Oikealla henkilö tietokoneen kanssa edustamassa IT-palveluntarjoajaa. Henkilöt sopivat yhteistyön aloittamisesta.](/assets/uusi-yrittaja-it-kumppani.png "Oma IT-tiimi vai ulkoistettu kumppani – miten valita suomalaiselle kasvuyritykselle paras ratkaisu?")
+![Kuvituskuva. Vasemmalla kaksi henkilöä edustamassa asiakasta. Oikealla henkilö tietokoneen kanssa edustamassa IT-palveluntarjoajaa. Henkilöt sopivat yhteistyön aloittamisesta.](../../static/assets/uusi-yrittaja-it-kumppani.png "Oma IT-tiimi vai ulkoistettu kumppani – miten valita suomalaiselle kasvuyritykselle paras ratkaisu?")
 
 Kun yrityksen IT-tarpeet kasvavat tulee vastaan kysymys: rakennetaanko oma IT-tiimi vai turvaudutaanko ulkoistettuun kumppaniin? Pienille ja kasvaville yrityksille oikea ratkaisu riippuu resursseista, tarpeista ja tulevaisuuden suunnitelmista.
 

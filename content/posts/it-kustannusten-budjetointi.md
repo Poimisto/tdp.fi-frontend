@@ -11,7 +11,7 @@ head:
 thumbnail: /assets/yritysten-it-kustannukset.jpg
 contactForm: Ota yhteyttä
 ---
-![Yritysten IT-kustannusten budjetointi | TDP –  IT on meillä helppoa](/assets/yritysten-it-kustannukset.jpg)
+![Yritysten IT-kustannusten budjetointi | TDP –  IT on meillä helppoa](../../static/assets/yritysten-it-kustannukset.jpg)
 
 ## Miksi kannattaa budjetoida?
 

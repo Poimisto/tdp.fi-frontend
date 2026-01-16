@@ -12,7 +12,7 @@ head:
 thumbnail: /assets/google-asiantuntija-tinified.jpg
 contactForm: Ota yhteyttä
 ---
-![](/assets/google-asiantuntija-tinified.jpg)
+![](../../static/assets/google-asiantuntija-tinified.jpg)
 
 T﻿iivistämme kilpailukeinomme kolmeen elementtiin:
 * **TDP:n käyttäjätuesta saat Google-pulmiin ratkaisut suomen kielellä heti**

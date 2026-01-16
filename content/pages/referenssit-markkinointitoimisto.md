@@ -15,7 +15,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![logo](/assets/unfair-lean-marketing-logo.webp)
+![logo](../../static/assets/unfair-lean-marketing-logo.webp)
 
 </div>
 

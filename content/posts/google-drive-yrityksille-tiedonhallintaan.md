@@ -10,7 +10,7 @@ head:
 thumbnail: /assets/google-asiantuntija-tinified.jpg
 contactForm: Ota yhteyttä
 ---
-![](/assets/google-asiantuntija-tinified.jpg)
+![](../../static/assets/google-asiantuntija-tinified.jpg)
 
 **Google Drive on pilvialusta, joka tarjoaa vakuuttavasti yhdestä paikasta monet ominaisuudet henkilökohtaisen ja tiimin keskinäisen työn tehostamiseen.**
 

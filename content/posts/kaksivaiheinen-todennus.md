@@ -13,7 +13,7 @@ head:
 thumbnail: /assets/2fa-netlify.jpg
 contactForm: Ota yhteyttä
 ---
-![Kaksivaiheinen todennus suojaa paremmin käyttäjätilisi ](/assets/2fa-netlify.jpg)
+![Kaksivaiheinen todennus suojaa paremmin käyttäjätilisi ](../../static/assets/2fa-netlify.jpg)
 
 Kaksivaiheinen todennus, tunnistautuminen tai vahvistus. Tietoturvan uudella mustalla on monta nimeä. Lyhenne 2FA, two-factor authentication, on kuitenkin asia, joka jokaisen yrityksen ja sen työntekijöiden pitäisi tuntea. Tunnistautumisen pitäisi myös olla jatkuva, päivittäinen rutiini. **Se on tapa varmistua siitä, että kukaan muu kuin tilin oikea käyttäjä ei pääse tiliisi käsiksi.**
 

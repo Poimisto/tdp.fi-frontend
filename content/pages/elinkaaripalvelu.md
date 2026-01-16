@@ -18,7 +18,7 @@ breadcrumb:
   - label: Elinkaaripalvelu
 date: 2023-02-05T08:25:26.680Z
 ---
-![Elinkaaripalvelu kehittää yrityksen IT-laitteiston kunnossapitoa - TDP.](/assets/elinkaaripalvelu-tdp.jpg)
+![Elinkaaripalvelu kehittää yrityksen IT-laitteiston kunnossapitoa - TDP.](../../static/assets/elinkaaripalvelu-tdp.jpg)
 
 # Elinkaaripalvelu parantaa organisaation IT-laitteiston käytön tehokkuutta
 

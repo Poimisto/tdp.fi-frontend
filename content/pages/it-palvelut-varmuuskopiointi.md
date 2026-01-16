@@ -11,7 +11,7 @@ head:
     erehdyksen hetkellä ja yritys säästyy kalliilta jälkitöiltä.
 contactForm: Ota yhteyttä
 ---
-![](/assets/tdp-varmuuskopiointi.png)
+![](../../static/assets/tdp-varmuuskopiointi.png)
 
 # Pilvipalveluiden varmuuskopiointi
 
@@ -33,7 +33,7 @@ Palvelu on täysin automatisoitu ja kriittiset tiedot ovat aina nopeasti palaute
 
 <div className="HeroBlockImage">
 
-![](/assets/tdp-hinnasto.jpg)
+![](../../static/assets/tdp-hinnasto.jpg)
 
 </div>
 

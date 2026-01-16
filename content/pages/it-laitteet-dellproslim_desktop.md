@@ -19,7 +19,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Kuvituskuva: TDP Työntekijä työpisteellä](/assets/uusi-yrittaja-tinified-1280x800.png)
+![Kuvituskuva: TDP Työntekijä työpisteellä](../../static/assets/uusi-yrittaja-tinified-1280x800.png)
 
 </div>
 
@@ -44,7 +44,7 @@ contactForm: Ota yhteyttä
 
 
 
-![Kuvituskuva: Dell Pro Slim](/assets/dell-pro-max-slim_3-250x400-.jpg "Dell Pro Slim tarjoaa kompaktit tietokoneet yrityskäyttöön.")
+![Kuvituskuva: Dell Pro Slim](../../static/assets/dell-pro-max-slim_3-250x400-.jpg "Dell Pro Slim tarjoaa kompaktit tietokoneet yrityskäyttöön.")
 
 Tämä mallisto tuo työpöydälle aidot laajennusmahdollisuudet kompaktissa paketissa. Se tarjoaa tilaa erillisille PCIe-korteille, massiiviselle tallennustilalle ja järeälle keskusmuistille ilman työkaluja avattavassa kotelossa. Dell Pro Slim on älykäs valinta vaativiin toimistotehtäviin, kevyeen sisällöntuotantoon ja ympäristöihin, joissa laitteiston elinkaarta halutaan pidentää komponenttipäivityksillä.
 

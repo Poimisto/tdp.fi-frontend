@@ -14,7 +14,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Asiakaspalaute](/assets/referenssit-1280x800.jpg)
+![Asiakaspalaute](../../static/assets/referenssit-1280x800.jpg)
 
 </div>
 

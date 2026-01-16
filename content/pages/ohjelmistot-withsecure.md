@@ -15,7 +15,7 @@ breadcrumb:
     label: ohjelmistot
   - label: WithSecure
 ---
-![WithSecure - yritysten tietoturvan maksimointiin.](/assets/withsecure-netlify-1280-x-800.jpg)
+![WithSecure - yritysten tietoturvan maksimointiin.](../../static/assets/withsecure-netlify-1280-x-800.jpg)
 
 # W﻿ithSecure – yritysten tietoturvan maksimointiin
 

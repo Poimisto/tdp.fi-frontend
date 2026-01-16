@@ -12,7 +12,7 @@ head:
 thumbnail: /assets/tekoäly-netlify-1280-x-800.jpg
 contactForm: Ota yhteyttä
 ---
-![](/assets/tekoäly-netlify-1280-x-800.jpg)
+![](../../static/assets/tekoäly-netlify-1280-x-800.jpg)
 
 **Minä:** Kirjoita otsikon alle myyntihenkinen ingressi, joka motivoi lukijaa jatkamaan lukemista varsinaisiin kokemuksiin asti. 
 

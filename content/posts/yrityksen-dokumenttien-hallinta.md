@@ -13,7 +13,7 @@ head:
 thumbnail: /assets/dokumentinhallinta-netlify.jpg
 contactForm: Ota yhteyttä
 ---
-![Yrityksen dokumenttien hallinta – tehokkaasti pilvessä](/assets/dokumentinhallinta-netlify.jpg)
+![Yrityksen dokumenttien hallinta – tehokkaasti pilvessä](../../static/assets/dokumentinhallinta-netlify.jpg)
 
 **Mistä tietää, että yrityksen dokumenttien hallinta on retuperällä? Ainakin seuraavista asioista:**
 

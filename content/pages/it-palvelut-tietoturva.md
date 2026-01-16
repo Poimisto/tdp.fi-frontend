@@ -16,7 +16,7 @@ breadcrumb:
   - label: Tietoturva
 date: 2023-09-28T07:34:45.618Z
 ---
-![](/assets/tietoturva2-1280-x-800.jpg)
+![](../../static/assets/tietoturva2-1280-x-800.jpg)
 
 # Tietoturvapalvelu | WithSecure Elements EPP
 
@@ -35,7 +35,7 @@ Tietoturvapalvelumme suodattaa verkkoliikenteen ja tarkistaa asennettavat ohjelm
 
   <div className="HeroBlockImage">
 
-  ![](/assets/tdp-hinnasto.jpg)
+  ![](../../static/assets/tdp-hinnasto.jpg)
 
   </div>
 

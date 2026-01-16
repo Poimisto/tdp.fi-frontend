@@ -11,7 +11,7 @@ head:
 thumbnail: /assets/image00016.jpeg
 contactForm: Ota yhteyttä
 ---
-![Keskitetty hallinnan käyttöönotto auttaa organisaatiota hallinnoimaan ja tehostamaan IT-laitteiden käyttöä](/assets/image00016.jpeg)
+![Keskitetty hallinnan käyttöönotto auttaa organisaatiota hallinnoimaan ja tehostamaan IT-laitteiden käyttöä](../../static/assets/image00016.jpeg)
 
 **Isommissa yrityksissä IT-laitteiden ja käyttäjien hallinta on useimmiten toteutettu keskitetysti.** 
 

@@ -14,7 +14,7 @@ head:
 thumbnail: /assets/tiedonhallinta-yrityksessa-artikkelikuva.png
 contactForm: Ota yhteyttä
 ---
-![Kuvituskuva. Kolme henkilöä keskustelemasssa keskenään. Taustalla kuvaaja, joka osoittaa ylöspäin kasvun merkiksi.](/assets/tiedonhallinta-yrityksessa-artikkelikuva.png "Tehokas tiedonhallinta parantaa yrityksen tuottavuutta ja tukee kasvua.")
+![Kuvituskuva. Kolme henkilöä keskustelemasssa keskenään. Taustalla kuvaaja, joka osoittaa ylöspäin kasvun merkiksi.](../../static/assets/tiedonhallinta-yrityksessa-artikkelikuva.png "Tehokas tiedonhallinta parantaa yrityksen tuottavuutta ja tukee kasvua.")
 
 Tiedonhallinta ei aina nouse heti ensimmäisenä mieleen, jos mietit yrityksen kehityskohteita. Usein huomio kiinnittyy markkinointiin, toimituksiin ja tiimien toimintaan. Tieto kulkee siinä ohessa. Tämä on sekä haaste, että mahdollisuus. Kasvavan yrityksen menestys perustuu oikeaan tietoon ja sen tuottaminen vaatii selkeitä prosesseja. 
 
@@ -24,7 +24,7 @@ Tiedonhallinta ei ole ainoastaan IT-osaston asia. Se on kriittinen perusasia, jo
 
 Tämä opas on tarkoitettu tukemaan aktiivisen yrityksen arkea. Tavoitteenamme on tarjota käytännönläheisiä vinkkejä, sekä selkeitä malleja, jotta tiedot pysyvät hallinnassa ja yrityksesi voi keskittyä ydinliiketoimintaansa.
 
-![Kuvituskuva. Kolme henkilöä keskustelemassa kiivaasti.](/assets/tiedonhallinnan-haasteet.png "Tiedonhallinnan yleisiä haasteita ovat epäselvät dokumentit, eri järjestelmiin hajaantunut tieto ja kadonneet tiedot.")
+![Kuvituskuva. Kolme henkilöä keskustelemassa kiivaasti.](../../static/assets/tiedonhallinnan-haasteet.png "Tiedonhallinnan yleisiä haasteita ovat epäselvät dokumentit, eri järjestelmiin hajaantunut tieto ja kadonneet tiedot.")
 
 ## Tiedonhallinnan yleisimmät haasteet yrityksissä
 
@@ -42,7 +42,7 @@ Kasvun myötä syntyy yleensä myös uusia tarpeita. Tiimin kasvaessa ei enää 
 
 Tällaiset haasteet eivät ole harvinaisia poikkeuksia, vaan tunnistettavia vaiheita lähes kaikissa kasvavissa yrityksissä. Hyvä uutinen on se, että näitä on jouduttu miettimään paljon ja ne ovat ratkaistavissa. Ensimmäinen askel on haasteiden tiedostaminen ja toinen asioiden tekeminen hiljalleen yhä järjestelmällisemmin.
 
-![Kuvituskuva. Keskellä verkkoon yhdistetty tietokone, joka on yhteydessä tietokantaan sekä verkkolevyyn. Taustalla kilpi, jossa oikein-merkki.](/assets/tiedonhallinta-parhaat-kaytanteet.png "Selkeät prosessit ja oikeat työkalut tekevät tiedonhallinnasta yrityksen kilpailuedun.")
+![Kuvituskuva. Keskellä verkkoon yhdistetty tietokone, joka on yhteydessä tietokantaan sekä verkkolevyyn. Taustalla kilpi, jossa oikein-merkki.](../../static/assets/tiedonhallinta-parhaat-kaytanteet.png "Selkeät prosessit ja oikeat työkalut tekevät tiedonhallinnasta yrityksen kilpailuedun.")
 
 ## Parhaat käytännöt tiedonhallinnan kehittämiseen
 
@@ -68,7 +68,7 @@ Viestintäkin kaipaa yhteisiä pelisääntöjä. Jos käytössä on useita kanav
 
 Yksi olennaisimmista asioista on tilanteen jatkuva seuraaminen. Tiedonhallinta ei ole asia, jonka voi vain laittaa kuntoon ja unohtaa. Kerää palautetta: mikä toimii ja missä on kipupisteitä? Varmista, että sovitut käytännöt päätyvät käyttöön ja päivitä niitä tarvittaessa. Näin tiedonhallinnasta tulee jatkuvasti kehittyvä liiketoiminnan osa, eikä vain irrallinen IT -asia.
 
-![Kuvituskuva. Keskellä robotti kuvaamassa tekoälyä. Tekoäly on yhteydessä tiedostoasemaan sekä pilvipalveluihin.](/assets/tiedonhallinta-tekoaly-avuksi.png "Hyvin hallittu data on edellytys tekoälyn hyödyntämiselle pienyrityksessä.")
+![Kuvituskuva. Keskellä robotti kuvaamassa tekoälyä. Tekoäly on yhteydessä tiedostoasemaan sekä pilvipalveluihin.](../../static/assets/tiedonhallinta-tekoaly-avuksi.png "Hyvin hallittu data on edellytys tekoälyn hyödyntämiselle pienyrityksessä.")
 
 ## Tekoälystä apua arjen tietotyöhön
 
@@ -99,7 +99,7 @@ Hyvin organisoitu tieto on parasta valmistautumista tulevaisuuteen. Se tekee arj
 5. **Onko tietoturva ja tietosuoja kunnossa?**\
    Käytetäänkö suojattuja ympäristöjä ja onko sensitiivinen data riittävän suojattua?
 
-![Kuvituskuva. Asiakas ja palveluntarjoaja kättelevät tiedonhallinnan tiimoilta.](/assets/tiedonhallinta-milloin-aika-kysya-apua.png "Ulkopuolinen IT-kumppani auttaa kehittämään tehokkaita ja skaalautuvia ratkaisuja.")
+![Kuvituskuva. Asiakas ja palveluntarjoaja kättelevät tiedonhallinnan tiimoilta.](../../static/assets/tiedonhallinta-milloin-aika-kysya-apua.png "Ulkopuolinen IT-kumppani auttaa kehittämään tehokkaita ja skaalautuvia ratkaisuja.")
 
 ## Milloin on aika kysyä apua?
 

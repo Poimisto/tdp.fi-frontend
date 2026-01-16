@@ -16,7 +16,7 @@ breadcrumb:
     label: ohjelmistot
   - label: Virtru
 ---
-![Virtru tiedon salaukseen](/assets/virtru-tdp.jpg)
+![Virtru tiedon salaukseen](../../static/assets/virtru-tdp.jpg)
 
 # V﻿irtru – ohjelmisto sähköpostien salaukseen
 

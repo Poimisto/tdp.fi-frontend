@@ -17,7 +17,7 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Kuvituskuva: TDP Työntekijä työpisteellä](/assets/uusi-yrittaja-tinified-1280x800.png)
+![Kuvituskuva: TDP Työntekijä työpisteellä](../../static/assets/uusi-yrittaja-tinified-1280x800.png)
 
 </div>
 

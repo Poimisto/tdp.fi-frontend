@@ -26,6 +26,8 @@ collections:
     create: true
     slug: "{{fields.path}}"
     summary: "{{fields.path}}"
+    # Override media_folder for this collection
+    media_folder: ../../static/assets
     fields:
       - name: path
         label: Path
@@ -186,6 +188,7 @@ collections:
     slug: "{{fields.path}}"
     summary: "{{fields.path}}"
     create: true
+    media_folder: ../../static/assets
     fields:
       - { label: Template, name: template, widget: hidden, default: BlogPost }
       - name: path

@@ -16,7 +16,7 @@ breadcrumb:
   - label: Nira
 thumbnail: /assets/nira-kuvituskuva2.png
 ---
-![Pilvityökalu Nira yritysten tiedostojen suojeluun](/assets/nira-kuvituskuva2.png)
+![Pilvityökalu Nira yritysten tiedostojen suojeluun](../../static/assets/nira-kuvituskuva2.png)
 
 # Nira – edistynyt pääsynhallintajärjestelmä
 

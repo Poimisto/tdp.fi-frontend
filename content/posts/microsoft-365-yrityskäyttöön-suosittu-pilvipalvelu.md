@@ -10,7 +10,7 @@ head:
 thumbnail: /assets/netlify-1280-x-800-1-min.png
 contactForm: Ota yhteyttä
 ---
-![Microsoft 365 - suosittu pilvipalvelu yrityksen tietokäyttöön](/assets/netlify-1280-x-800-1-min.png)
+![Microsoft 365 - suosittu pilvipalvelu yrityksen tietokäyttöön](../../static/assets/netlify-1280-x-800-1-min.png)
 
 **Microsoft 365** on yrityskäyttöön suunniteltu työympäristö digitaalisessa muodossa ja se tunnetaan alan standardina jo pidemmältä ajalta. Microsoft 365 -paketti sisältää:
 

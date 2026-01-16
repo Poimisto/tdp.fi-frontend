@@ -17,7 +17,7 @@ head:
 thumbnail: /assets/kuva-artikkeli-nis2_1.png
 contactForm: Ota yhteyttä
 ---
-![Kuvituskuva: Abstrakti suojakuori - NIS2-direktiivi](/assets/kuva-artikkeli-nis2_1.png "NIS2 direktiivi on kyberturvallisuuden perusta")
+![Kuvituskuva: Abstrakti suojakuori - NIS2-direktiivi](../../static/assets/kuva-artikkeli-nis2_1.png "NIS2 direktiivi on kyberturvallisuuden perusta")
 
 ## NIS2
 
@@ -61,7 +61,7 @@ Suurin osa suomalaisista pk-yrityksistä ei siis kuulu suoraan NIS2:n piiriin. S
 2. **Sopimusehdot ja kilpailutus**: Pk-yritykset tulevat kohtaamaan  NIS2 -vaatimuksia sopimuksissa, vaikka laki ei vielä suoraan velvoita.  
 3. **NIS2 mittatikkuna**: NIS2 on hyvä mittari, **jos olet NIS2-tasolla, olet todennäköisesti jo hyvässä kunnossa myös muiden vaatimusten suhteen.**
 
-![Kuvituskuva: Analytiikkaan ja suojaukseen liittyviä symboleita.](/assets/kuva-artikkeli-nis2_5_tech_cube.jpg "NIS2-valmius tuo kilpailuetuja pk-yritykselle")
+![Kuvituskuva: Analytiikkaan ja suojaukseen liittyviä symboleita.](../../static/assets/kuva-artikkeli-nis2_5_tech_cube.jpg "NIS2-valmius tuo kilpailuetuja pk-yritykselle")
 
 ### Velvoite vai kilpailuetu
 
@@ -96,7 +96,7 @@ Direktiivi ja kyberturvallisuuslaki ovat juridista tekstiä, mutta niiden ydin v
 
 Pk-yrityksen kannalta olennaista ei ole ulkoa opetella lakipykäliä, vaan **ymmärtää nämä viisi kokonaisuutta ja miettiä, miltä ne näyttävät omassa mittakaavassa.**
 
-![Kuvituskuva: Kilpäi ja datavirtoja keskuksen ympärillä](/assets/kuva-artikkeli-nis2_4_tech_lock.jpg "NIS2 tason tietoturva tuo suojaa myös pienyrityksille")
+![Kuvituskuva: Kilpäi ja datavirtoja keskuksen ympärillä](../../static/assets/kuva-artikkeli-nis2_4_tech_lock.jpg "NIS2 tason tietoturva tuo suojaa myös pienyrityksille")
 
 ### “NIS2-tasoinen” kyberturva pk -yrityksessä
 
@@ -141,7 +141,7 @@ Vastaa jokaiseen kyllä tai ei.
 
 **Mitä useampi “ei” löytyy, sitä suurempi on hyöty siitä, että otatte NIS2:n periaatteet käyttöön ajoissa, vaikka ette olisikaan vielä lain piirissä.**
 
-![Kuvistuskuva: Läpikuultavia kuutioita tornimuodostelmassa symboloimassa kehitystä.](/assets/kuva-artikkeli-nis2_5_tech_cube_tower.jpg "Direktiivien mukaiseen tietoturvaan valmistautuminen kannattaa")
+![Kuvistuskuva: Läpikuultavia kuutioita tornimuodostelmassa symboloimassa kehitystä.](../../static/assets/kuva-artikkeli-nis2_5_tech_cube_tower.jpg "Direktiivien mukaiseen tietoturvaan valmistautuminen kannattaa")
 
 ### Ennakoiva valmistautuminen
 
@@ -222,7 +222,7 @@ Ajoissa aloitettu valmistautuminen tarjoaa kolme selkeää hyötyä:
 
 [Ota yhteyttä!](https://www.tdp.fi/NIS2/#contact-form)
 
-![Kuvituskuva: Kilpi-symboliikka](/assets/kuva-artikkeli-nis2_2.png "Tietoturva direktiivien kuntoonlaitto tuo suojaa myös pk-yrityksille")
+![Kuvituskuva: Kilpi-symboliikka](../../static/assets/kuva-artikkeli-nis2_2.png "Tietoturva direktiivien kuntoonlaitto tuo suojaa myös pk-yrityksille")
 
 ### Usein kysytyt kysymykset
 

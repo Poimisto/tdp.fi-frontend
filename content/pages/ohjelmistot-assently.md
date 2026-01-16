@@ -16,7 +16,7 @@ breadcrumb:
     label: ohjelmistot
   - label: Assently
 ---
-![Assently takaa allekirjoituksen.](/assets/assently-sahkoinen-allekirjoitus-tdp.jpg)
+![Assently takaa allekirjoituksen.](../../static/assets/assently-sahkoinen-allekirjoitus-tdp.jpg)
 
 # Assently – sähköinen allekirjoitus yrityksille
 

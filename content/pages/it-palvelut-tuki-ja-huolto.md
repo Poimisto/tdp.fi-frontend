@@ -17,7 +17,7 @@ breadcrumb:
   - label: Tukipalvelu
 date: 2023-11-11T11:54:21.839Z
 ---
-![TDP tarjoaa ripeät laitetoimitukset ja sujuvan laitehuollon.](/assets/tuki-huolto-tdp.jpg)
+![TDP tarjoaa ripeät laitetoimitukset ja sujuvan laitehuollon.](../../static/assets/tuki-huolto-tdp.jpg)
 
 # Tuki- ja huoltopalvelun avulla minimoit keskeytykset
 
@@ -46,7 +46,7 @@ Palvelu koostuu seuraavista osa-alueista:
 
 <div className="HeroBlockImage">
 
-![](/assets/tdp-hinnasto.jpg)
+![](../../static/assets/tdp-hinnasto.jpg)
 
 </div>
 

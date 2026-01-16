@@ -12,7 +12,7 @@ head:
 thumbnail: /assets/sso-netlify-1280-x-800.jpg
 contactForm: Ota yhteyttä
 ---
-![Kertakirjautuminen.](/assets/sso-netlify-1280-x-800.jpg)
+![Kertakirjautuminen.](../../static/assets/sso-netlify-1280-x-800.jpg)
 
 **SSO työntekijän arjessa poistaa toistuvat, rasittavat kirjautumiset moniin sovelluksiin. Säästä työaikaa + paranna tietoturvaa = turvaudu kertakirjautumiseen!**
 

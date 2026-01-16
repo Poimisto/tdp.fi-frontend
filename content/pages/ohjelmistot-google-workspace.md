@@ -15,7 +15,7 @@ breadcrumb:
     label: ohjelmistot
   - label: Google Workspace
 ---
-![Google Workspace](/assets/workspace-tinified.jpg "Google Workspace")
+![Google Workspace](../../static/assets/workspace-tinified.jpg "Google Workspace")
 
 # Liiketoimintasovellukset | Google Workspace
 

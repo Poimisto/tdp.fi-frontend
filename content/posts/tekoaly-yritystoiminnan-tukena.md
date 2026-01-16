@@ -11,7 +11,7 @@ head:
 thumbnail: /assets/tekoaly-yritystoiminnan-tukena.jpg
 contactForm: Ota yhteyttä
 ---
-![Tekoäly ja TDP yritystoiminnan tukena](/assets/tekoaly-yritystoiminnan-tukena.jpg)
+![Tekoäly ja TDP yritystoiminnan tukena](../../static/assets/tekoaly-yritystoiminnan-tukena.jpg)
 
 **Teknologian nopea kehitys on tuonut mukanaan merkittäviä innovaatioita, jotka muuttavat niin arkeamme kuin liiketoimintaympäristöä. Logistiikka- ja kuljetusyritykset kokeilevat jo itseohjautuvia autoja, kun taas teollisuusyrityksissä robotit huolehtivat yhä suuremmasta osasta tuotantoketjua, vapauttaen työntekijöitä monimutkaisempiin tehtäviin.** 
 

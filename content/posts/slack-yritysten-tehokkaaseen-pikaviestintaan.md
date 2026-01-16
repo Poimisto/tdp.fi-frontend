@@ -11,7 +11,7 @@ head:
 thumbnail: /assets/slack-netlify-1280-x-800.jpg
 contactForm: Ota yhteyttä
 ---
-![](/assets/slack-netlify-1280-x-800.jpg)
+![](../../static/assets/slack-netlify-1280-x-800.jpg)
 
 **Slack-pikaviestipalvelu on yritysten uusi voimavara tehostaa sisäistä viestintää. Vaikka olisitkin tyytyväinen Whatsappiin, Slackista kannattaa olla kiinnostunut!** 
 

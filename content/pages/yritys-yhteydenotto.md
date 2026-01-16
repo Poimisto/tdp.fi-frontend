@@ -10,7 +10,7 @@ head:
   keywords: "yhteydenotto, "
 contactForm: Ota yhteyttä
 ---
-![](/assets/yhteydenottolomake-tinified.png)
+![](../../static/assets/yhteydenottolomake-tinified.png)
 
 # Y﻿hteydenotto
 

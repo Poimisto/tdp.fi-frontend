@@ -32,7 +32,8 @@ export default {
               maxWidth: 1200,
               backgroundColor: "transparent",
               linkImagesToOriginal: false,
-              disableBgImageOnAlpha: true,
+              disableBgImageOnAlpha: false,
+              loading: "eager"
             },
           },
         ],

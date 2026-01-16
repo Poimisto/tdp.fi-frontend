@@ -17,7 +17,7 @@ breadcrumb:
   - label: Tietoturvapalvelut
 contactForm: Ota yhteyttä
 ---
-![Henkilö käyttää kannettavaa tietokonetta. Tietokoneeseen on yhdistetty ulkoinen näyttö, jolla näkyy sähköisten allekirjoitusten palvelun Assentlyn kotisivut.](/assets/tietoturva2-1280-x-800.jpg)
+![Henkilö käyttää kannettavaa tietokonetta. Tietokoneeseen on yhdistetty ulkoinen näyttö, jolla näkyy sähköisten allekirjoitusten palvelun Assentlyn kotisivut.](../../static/assets/tietoturva2-1280-x-800.jpg)
 
 <DisplayVariable variableKey="datto-rmm-nimi" tag="h1" bold={true} />
 
@@ -59,7 +59,7 @@ Päätepisteiden suojaus tarkkailee jatkuvasti uhkiin liittyviä merkkejä käyt
 
 <div className="HeroBlockImage">
 
-![TDP:n logo oven ikkunassa. Logo on keltainen ympyrä mustalla reunuksella. Ympyrän keskellä on musta kannettavan tietokoneen siluetti, jonka alla on kirjaimet TDP.](/assets/tdp-hinnasto.jpg)
+![TDP:n logo oven ikkunassa. Logo on keltainen ympyrä mustalla reunuksella. Ympyrän keskellä on musta kannettavan tietokoneen siluetti, jonka alla on kirjaimet TDP.](../../static/assets/tdp-hinnasto.jpg)
 
 </div>
 
