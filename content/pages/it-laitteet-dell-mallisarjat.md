@@ -32,14 +32,13 @@ contactForm: Ota yhteyttä
 
 *Tarvitsetko arvion IT-kokonaisuuden kustannuksista?*
 
-</div>
-
-</HeroBlock>
-
-
 <CallToAction bgColor="dark" url="https://www.tdp.fi/it-laitteet/arviolaskuri/" align="left">Kokeile laskuria</CallToAction>
 
 <CallToAction bgColor="dark" url="#contact-form" align="left">Pyydä tarjous</CallToAction>
+
+</div>
+
+</HeroBlock>
 
 # Laadukkaat tietokoneet ovat investointi työn sujuvuuteen - TDP Suositukset
 
