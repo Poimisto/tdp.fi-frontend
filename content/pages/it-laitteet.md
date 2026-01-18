@@ -27,7 +27,7 @@ contactForm: Ota yhteyttä
 * Kannettavat, työasemat, verkkolaitteet ja toimistotekniikka
 * Vakioidut ja yhteensopivat laitemallit
 * Laitteet valmiiksi asennettuina ja käyttöönotettuna eri kokoisille yrityksille
-* Soita myyntiin: <DisplayVariable variableKey="myynnin-puhelin" />
+* Nopea apu ja arvio myös puhelimitse, soita <DisplayVariable variableKey="myynnin-puhelin" />
 
 *Tarvitsetko arvion IT-kokonaisuuden kustannuksista?*
 
