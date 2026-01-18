@@ -8,6 +8,13 @@ head:
   title: Yrityksen verkkoyhteydet pk-yritykselle – laitteet & valvonta
   description: Yritysverkon suunnittelu ja valvotut verkkolaitteet yhdeltä
     kumppanilta. Turvatut yhteydet ja huoleton käyttö. Pyydä arvio!
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /it-laitteet/
+    label: IT-laitteet
+  - path: /it-laitteet/yrityksen-verkkoyhteydet/
+    label: Verkkoratkaisut
 contactForm: Ota yhteyttä
 ---
 
