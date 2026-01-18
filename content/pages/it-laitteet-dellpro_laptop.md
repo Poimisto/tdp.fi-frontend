@@ -9,6 +9,15 @@ head:
     liikkuville asiantuntijoille, jotka arvostavat keveyttä ja kestävyyttä.
   keywords: Dell kannettava, Kannettavat Dell, Dell pro sarja, dell kannettavat
     yrityskäyttöön, laadukkaat tietokoneet yrityksille
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /it-laitteet/
+    label: IT-laitteet
+  - path: /it-laitteet/dell-mallisarjat/
+    label: Dell mallisarjat
+  - path: /it-laitteet/dellpro_laptop/
+    label: Dell Pro kannettavat
 contactForm: Ota yhteyttä
 ---
 
