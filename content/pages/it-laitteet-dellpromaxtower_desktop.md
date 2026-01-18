@@ -11,6 +11,15 @@ head:
     erityisesti huippuluokan yksisäikeistä (single-threaded) suorituskykyä.
   keywords: Dell pöytäkone, pöytäkoneet dell, dell Max sarja, dell pöytäkoneet
     yrityskäyttöön, tehotietokoneet yritykselle
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /it-laitteet/
+    label: IT-laitteet
+  - path: /it-laitteet/dell-mallisarjat/
+    label: Dell mallisarjat
+  - path: /it-laitteet/dellpromaxtower_desktop/
+    label: Pro Max Tower T2
 contactForm: Ota yhteyttä
 ---
 <HeroBlock bgColor="brand" imageAlign="right">
