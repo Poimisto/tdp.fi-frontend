@@ -8,6 +8,11 @@ head:
     jatkuvasti nykyaikaisena
   keywords: tietokoneet yritykselle, yrityksen it-laitteet, yrityskannettavat,
     tehotyöasemat, toimistolaitteet, neuvotteluhuoneen IT-laitteet
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /it-laitteet/
+    label: IT-laitteet
 contactForm: Ota yhteyttä
 ---
 
