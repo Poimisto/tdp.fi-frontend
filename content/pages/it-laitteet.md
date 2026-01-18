@@ -24,7 +24,6 @@ contactForm: Ota yhteyttä
 # Yritysten IT-laitteet
 
 * Yrityskäyttöön suunnitellut IT-laitteet ja kokonaisratkaisut
-* Kannettavat, työasemat, verkkolaitteet ja toimistotekniikka
 * Vakioidut ja yhteensopivat laitemallit
 * Laitteet valmiiksi asennettuina ja käyttöönotettuna eri kokoisille yrityksille
 * Nopea apu ja arvio myös puhelimitse, soita <DisplayVariable variableKey="myynnin-puhelin" />
