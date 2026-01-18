@@ -10,6 +10,15 @@ head:
     Dellin ohuinta ja kevyintä ammattilaiskannettavaa."
   keywords: Dell kannettava, Kannettavat Dell, Dell pro Premium sarja, dell
     kannettavat yrityskäyttöön, laatukoneet yrityksille
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /it-laitteet/
+    label: IT-laitteet
+  - path: /it-laitteet/dell-mallisarjat/
+    label: Dell mallisarjat
+  - path: /it-laitteet/dellpropremium_laptop/
+    label: Pro Premium kannettavat
 contactForm: Ota yhteyttä
 ---
 <HeroBlock bgColor="brand" imageAlign="right">
