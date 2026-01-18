@@ -17,7 +17,7 @@ breadcrumb:
   - path: /it-laitteet/dell-mallisarjat/
     label: Dell mallisarjat
   - path: /it-laitteet/dellpro_laptop/
-    label: Dell Pro kannettavat
+    label: Pro kannettavat
 contactForm: Ota yhteyttä
 ---
 
