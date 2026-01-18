@@ -99,6 +99,11 @@
       "type": "text",
       "key": "tukipalvelut-10-ihmistä",
       "value": "19,50 €/kk"
+    },
+    {
+      "type": "text",
+      "key": "myynnin-puhelin",
+      "value": "0400137447"
     }
   ]
 }
