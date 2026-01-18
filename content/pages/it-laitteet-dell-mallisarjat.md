@@ -9,6 +9,13 @@ head:
     tietoturvaa ja optimoi IT-kulut.
   keywords: Dell kannettavat, Tietokoneet yritykselle, Dell pöytäkoneet,
     Yritystietokoneet, Työkannettava, Kevyt yrityskannettava
+breadcrumb:
+  - path: /
+    label: /TDP
+  - path: /it-laitteet/
+    label: IT-laitteet
+  - path: /it-laitteet/dell-mallisarjat/
+    label: Dell mallisarjat
 contactForm: Ota yhteyttä
 ---
 
