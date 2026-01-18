@@ -12,6 +12,15 @@ head:
   title: Dell Pro Slim pöytäkoneet
   keywords: Dell pöytäkone, pöytäkoneet dell, dell Slim sarja, dell pöytäkoneet
     yrityskäyttöön, tietokoneet pk -yrityksille
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /it-laitteet/
+    label: IT-laitteet
+  - path: /it-laitteet/dell-mallisarjat/
+    label: Dell mallisarjat
+  - path: /it-laitteet/dellproslim_desktop/
+    label: Pro Slim
 contactForm: Ota yhteyttä
 ---
 <HeroBlock bgColor="brand" imageAlign="right">
