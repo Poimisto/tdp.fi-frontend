@@ -23,9 +23,9 @@ contactForm: Ota yhteyttä
 
 # Yritysten IT-laitteet
 
-* Yrityskäyttöön suunnitellut IT-laitteet ja kokonaisratkaisut
 * Vakioidut ja yhteensopivat laitemallit käyttökuntoon asennettuina 
 * Leasing tai suoraosto yrityksellesi sopivalla mallilla
+* * Kaikki yleisimmät laitemerkit - kilpailuta meidät
 * Nopea apu ja arvio myös puhelimitse, soita <DisplayVariable variableKey="myynnin-puhelin" bold={true} />
 
 *Tarvitsetko arvion IT-kokonaisuuden kustannuksista?*
