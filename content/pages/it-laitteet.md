@@ -27,14 +27,13 @@ contactForm: Ota yhteyttä
 * Kannettavat, työasemat, verkkolaitteet ja toimistotekniikka
 * Vakioidut ja yhteensopivat laitemallit
 * Laitteet valmiiksi asennettuina ja käyttöönotettuna eri kokoisille yrityksille
+* Soita myyntiin: <DisplayVariable variableKey="myynnin-puhelin" />
 
 *Tarvitsetko arvion IT-kokonaisuuden kustannuksista?*
 
 <CallToAction bgColor="dark" url="https://www.tdp.fi/it-laitteet/arviolaskuri/" align="left">Kokeile laskuria</CallToAction>
 
-<CallToAction bgColor="dark" url="#contact-form" align="left">Pyydä tarjous</CallToAction>
-
-*Soita myyntiin: <DisplayVariable variableKey="myynnin-puhelin" />*
+<CallToAction bgColor="dark" url="#contact-form" align="left">Jätä tarjouspyyntö</CallToAction>
 
 </div>
 
