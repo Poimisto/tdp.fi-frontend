@@ -158,7 +158,6 @@ Nämä on suunniteltu raskaaseen ajoon. Tower T2 on tarkoitettu käyttäjille, j
 * Pitkä elinkaari ja hyvä investointisuoja.
 * Sopii keskitettyihin työpisteisiin, joissa vaaditaan maksimaalista suorituskykyä.
 
-Lue lisää **Dell Pro Tower T2 -tehotyöasemista** [täältä.](https://www.tdp.fi/it-laitteet/dellpromaxtower_desktop)
-[](https://www.tdp.fi/it-laitteet/dellpromaxtower_desktop)
+Lue lisää **Dell Pro Tower T2 -tehotyöasemista** [täältä.](https://www.tdp.fi/it-laitteet/dellpromaxtower_desktop/)
 
 **Yrityskoneiden valinta on kokonaisuus, jossa yhteensopivuus, hallittavuus ja pitkä elinkaari ovat yksittäisiä ominaisuuksia tärkeämpiä. Kun laitteet on valittu yrityksen todellisten tarpeiden mukaan, IT tukee liiketoimintaa eikä hidasta sitä. Asiantuntijamme auttavat mielellään löytämään yrityksellesi sopivan ratkaisun. Ota yhteyttä ja kysy lisää.**
