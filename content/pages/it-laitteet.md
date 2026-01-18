@@ -34,6 +34,8 @@ contactForm: Ota yhteyttä
 
 <CallToAction bgColor="dark" url="#contact-form" align="left">Pyydä tarjous</CallToAction>
 
+*Soita myyntiin: <DisplayVariable variableKey="myynnin-puhelin" />*
+
 </div>
 
 </HeroBlock>
