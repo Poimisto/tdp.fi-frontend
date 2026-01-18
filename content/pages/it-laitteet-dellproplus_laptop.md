@@ -10,6 +10,15 @@ head:
     16-tuumaisiin työkoneisiin.
   keywords: Dell kannettava, Kannettavat Dell, Dell pro Plus sarja, dell
     kannettavat yrityskäyttöön, laatukoneet yrityksille
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /it-laitteet/
+    label: IT-laitteet
+  - path: /it-laitteet/dell-mallisarjat/
+    label: Dell mallisarjat
+  - path: /it-laitteet/dellproplus_laptop/
+    label: Pro Plus kannettavat
 contactForm: Ota yhteyttä
 ---
 <HeroBlock bgColor="brand" imageAlign="right">
