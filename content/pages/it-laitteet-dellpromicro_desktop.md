@@ -10,6 +10,15 @@ head:
     on kortilla, mutta suorituskyvystä ei haluta tinkiä.
   keywords: Dell pöytäkone, pöytäkoneet dell, dell micro sarja, dell pöytäkoneet
     yrityskäyttöön, tietokoneet pk -yritykselle
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /it-laitteet/
+    label: IT-laitteet
+  - path: /it-laitteet/dell-mallisarjat/
+    label: Dell mallisarjat
+  - path: /it-laitteet/dellpromicro_desktop/
+    label: Pro Micro
 contactForm: Ota yhteyttä
 ---
 
