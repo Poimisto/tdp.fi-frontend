@@ -30,7 +30,7 @@ Laskurimme avulla voit arvioida yrityksesi IT-laitteiden ja palveluiden kuukausi
 * Määritä yrityksesi tarvitsemat laitteet ja niiden määrät
 * Valitse käyttäjämäärä ja tarvittavat palvelut
 
-**Laskurin avulla saat nopeasti yleiskuvan kustannuksista. [Ota yhteyttä](https://www.tdp.fi/it-laitteet/arviolaskuri/#contact-form), niin autamme rakentamaan yrityksellesi sopivan ja hallittavan IT-kokonaisuuden.**
+**Laskurin avulla saat nopeasti yleiskuvan kustannuksista. [Jätä tarjouspyyntö](https://www.tdp.fi/it-laitteet/arviolaskuri/#contact-form) tai soita <DisplayVariable variableKey="myynnin-puhelin" />, niin autamme rakentamaan yrityksellesi sopivan ja hallittavan IT-kokonaisuuden.**
 
 </div>
 
