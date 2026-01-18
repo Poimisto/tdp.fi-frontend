@@ -27,8 +27,8 @@ contactForm: Ota yhteyttä
 
 Valitse yrityksesi tarvitsemat laitteet, palvelut, sekä käyttäjämäärä ja saat välittömän arvion kustannuksista yhdellä silmäyksellä. 
 
-* Määritä yrityksesi tarvitsemat laitteet ja niiden määrät
-* Valitse käyttäjämäärä ja tarvittavat palvelut
+* Suuntaa-antava kustannusarvio ilman sitoumuksia
+* Auttaa vertailemaan vaihtoehtoja ja kokonaisuutta
 
 **Laskurin avulla saat nopeasti yleiskuvan kustannuksista. [Jätä tarjouspyyntö](https://www.tdp.fi/it-laitteet/arviolaskuri/#contact-form) tai soita <DisplayVariable variableKey="myynnin-puhelin" bold={true} />, niin autamme rakentamaan yrityksellesi sopivan IT-kokonaisuuden.**
 
