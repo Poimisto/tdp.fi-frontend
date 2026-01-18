@@ -12,6 +12,15 @@ head:
     grafiikkaintensiivisten sovellusten käsittelyyn.
   keywords: Dell kannettava, Kannettavat Dell, Dell Max sarja, dell kannettavat
     yrityskäyttöön, laatukoneet yrityksille, dell leasing
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /it-laitteet/
+    label: IT-laitteet
+  - path: /it-laitteet/dell-mallisarjat/
+    label: Dell mallisarjat
+  - path: /it-laitteet/dellpromaxpremium_laptop/
+    label: Pro Max kannettavat
 contactForm: Ota yhteyttä
 ---
 
