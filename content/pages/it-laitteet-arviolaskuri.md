@@ -25,7 +25,7 @@ contactForm: Ota yhteyttä
 
 ## IT-kustannuslaskuri yrityksille
 
-Laskurimme avulla voit arvioida yrityksesi IT-laitteiden ja palveluiden kuukausikustannuksia ennen päätöksentekoa. Valitse yrityksesi tarvitsemat laitteet, palvelut, sekä käyttäjämäärä ja saat välittömän arvion kustannuksista yhdellä silmäyksellä. 
+Valitse yrityksesi tarvitsemat laitteet, palvelut, sekä käyttäjämäärä ja saat välittömän arvion kustannuksista yhdellä silmäyksellä. 
 
 * Määritä yrityksesi tarvitsemat laitteet ja niiden määrät
 * Valitse käyttäjämäärä ja tarvittavat palvelut
