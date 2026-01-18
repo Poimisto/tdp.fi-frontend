@@ -12,7 +12,31 @@ head:
   title: IT Palvelut uudelle yrittäjälle kustannustehokkaasti
 contactForm: Ota yhteyttä
 ---
-![Yrityksen IT-osasto.](../../static/assets/uusi-yrittaja-tinified-1280x800.png)
+<HeroBlock bgColor="brand" imageAlign="right">
+
+<div className="HeroBlockImage">
+
+![Työntekijöille yrityskannettavat leasing-sopimuksella](../../static/assets/tdp-palvelukumppani.png)
+
+</div>
+
+<div className="HeroBlockContent">
+
+# Yritysten IT-laitteet
+
+* Yrityskäyttöön suunnitellut IT-laitteet ja kokonaisratkaisut
+* Vakioidut ja yhteensopivat laitemallit valmiiksi asennettuina ja käyttöönotettuna eri kokoisille yrityksille
+* Nopea apu ja arvio myös puhelimitse, soita <DisplayVariable variableKey="myynnin-puhelin" />
+
+*Tarvitsetko arvion IT-kokonaisuuden kustannuksista?*
+
+<CallToAction bgColor="dark" url="https://www.tdp.fi/it-laitteet/arviolaskuri/" align="left">Kokeile laskuria</CallToAction>
+
+<CallToAction bgColor="dark" url="#contact-form" align="left">Jätä tarjouspyyntö</CallToAction>
+
+</div>
+
+</HeroBlock>
 
 # TDP tarjoaa yrityksellesi oman IT-osaston
 
