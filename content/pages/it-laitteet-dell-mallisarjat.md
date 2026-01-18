@@ -16,25 +16,24 @@ contactForm: Ota yhteyttä
 
 <div className="HeroBlockImage">
 
-![Kuvituskuva: TDP Työntekijä työpisteellä.](../../static/assets/uusi-yrittaja-tinified-1280x800.png)
+![Työntekijöille yrityskannettavat leasing-sopimuksella](../../static/assets/tdp-palvelukumppani.png)
 
 </div>
 
 <div className="HeroBlockContent">
 
-## IT-laitteet ja ratkaisut yrityskäyttöön
+# Yritysten IT-laitteet
 
-* Kannettavat, työasemat ja oheislaitteet kilpailukykyiseen hintaan
-* Verkkolaitteet, infonäytöt ja neuvottelutilojen laitteet käyttökuntoon asennettuina
+* Vakioidut ja yhteensopivat laitemallit käyttökuntoon asennettuina 
 * Leasing tai suoraosto yrityksellesi sopivalla mallilla
-* Paikallinen asiantuntija tukena koko laitteiden elinkaaren ajan
 * Kaikki yleisimmät laitemerkit - kilpailuta meidät
+* Nopea apu ja arvio myös puhelimitse, soita <DisplayVariable variableKey="myynnin-puhelin" bold={true} />
 
 *Tarvitsetko arvion IT-kokonaisuuden kustannuksista?*
 
 <CallToAction bgColor="dark" url="https://www.tdp.fi/it-laitteet/arviolaskuri/" align="left">Kokeile laskuria</CallToAction>
 
-<CallToAction bgColor="dark" url="#contact-form" align="left">Pyydä tarjous</CallToAction>
+<CallToAction bgColor="dark" url="#contact-form" align="left">Jätä tarjouspyyntö</CallToAction>
 
 </div>
 
