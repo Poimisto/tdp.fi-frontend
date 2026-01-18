@@ -24,8 +24,7 @@ contactForm: Ota yhteyttä
 # Yritysten IT-laitteet
 
 * Yrityskäyttöön suunnitellut IT-laitteet ja kokonaisratkaisut
-* Vakioidut ja yhteensopivat laitemallit
-* Laitteet valmiiksi asennettuina ja käyttöönotettuna eri kokoisille yrityksille
+* Vakioidut ja yhteensopivat laitemallit valmiiksi asennettuina ja käyttöönotettuna eri kokoisille yrityksille
 * Nopea apu ja arvio myös puhelimitse, soita <DisplayVariable variableKey="myynnin-puhelin" />
 
 *Tarvitsetko arvion IT-kokonaisuuden kustannuksista?*
