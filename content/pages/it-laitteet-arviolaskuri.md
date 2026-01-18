@@ -10,6 +10,13 @@ head:
   keywords: IT-kustannuslaskuri, IT-laskuri yrityksille, yrityksen IT-kulut,
     tietokone leasing yrityksille, yrityksen IT-laitteet, IT-kokonaisuus
     yritykselle
+breadcrumb:
+  - path: /
+    label: TDP
+  - path: /it-laitteet/
+    label: IT-laitteet
+  - path: /it-laitteet/arviolaskuri/
+    label: Arviolaskuri
 contactForm: Ota yhteyttä
 ---
 
@@ -25,7 +32,7 @@ contactForm: Ota yhteyttä
 
 ## IT-kustannuslaskuri yrityksille
 
-Valitse yrityksesi tarvitsemat laitteet, palvelut, sekä käyttäjämäärä ja saat välittömän arvion kustannuksista yhdellä silmäyksellä. 
+Valitse yrityksesi tarvitsemat laitteet, palvelut ja määrät, niin saat välittömän arvion kustannuksista yhdellä silmäyksellä. 
 
 * Suuntaa-antava kustannusarvio ilman sitoumuksia
 * Auttaa vertailemaan vaihtoehtoja ja kokonaisuutta
