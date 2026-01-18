@@ -11,7 +11,7 @@ head:
     Yritystietokoneet, Työkannettava, Kevyt yrityskannettava
 breadcrumb:
   - path: /
-    label: /TDP
+    label: TDP
   - path: /it-laitteet/
     label: IT-laitteet
   - path: /it-laitteet/dell-mallisarjat/
