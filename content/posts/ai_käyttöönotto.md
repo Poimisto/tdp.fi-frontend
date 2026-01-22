@@ -3,7 +3,7 @@ template: BlogPost
 path: /AI_käyttöönotto
 date: 2026-01-22T09:16:00.000Z
 head:
-  title: Miten hyödyntää tekoälyä pk-yrityksessä?
+  title: Tekoälyn hyödyntäminen yrityskäytössä
   description: Miten pk-yritys voi hyödyntää tekoälyä käytännössä? Selkeä
     asiantuntija-artikkeli tekoälyn hyödyistä, haasteista ja hallitusta
     käyttöönotosta.
@@ -11,10 +11,10 @@ head:
     yrityksessä,Tekoälyn hyödyt liiketoiminnassa 2026,Tekoälystrategia
     pk-yritykselle,AI tietoturva yrityskäytössä,Tekoälyn käytännön sovellukset
     pk-sektorilla,AI,Yrityksen AI ratkaisut,
-thumbnail: /assets/kuva-abstract-ai-käyttöönotto13.jpg
+thumbnail: ../../static/assets/kuva-abstract-ai-käyttöönotto13.jpg
 contactForm: Ota yhteyttä
 ---
-![Kuvituskuva: Kaksi hohtavasta digitaalisesta verkostosta muodostuvaa kättä kohtaavat tummassa tilas.sa](../../static/assets/kuva-abstract-ai-käyttöönotto13.jpg "AI käyttöönotto yrityksessä")
+![Kuvituskuva: Kaksi hohtavasta digitaalisesta verkostosta muodostuvaa kättä kohtaavat tummassa tilas.sa](../../static/assets/kuva-abstract-ai-käyttöönotto13.jpg "Tekoälyn käyttöönotto pk-yrityksessä")
 
 # AI:n käyttöönotto yrityksessä
 
@@ -44,7 +44,7 @@ Samalla on tärkeää tunnistaa teknologian rajat. Tekoäly ei ymmärrä yrityks
 
 **Ihminen on edelleen prosessin tärkein lenkki.** Tekoäly tukee päätöksentekoa ja tuottaa luonnoksia, mutta laadunvarmistus, harkinta ja vastuu säilyvät ihmisellä. Kun ihminen pysyy mukana (“human-in-the-loop”) varmistamassa toiminnan järkevyyden ja tulosten laadun, tekoäly vapauttaa aikaa rutiineista tuottavampaan työhön turvallisesti.
 
-![Kuvituskuva: Minimalistinen ja moderni 3D-sommitelma, jossa kirkkaat lasikuutiot ja hiotut timanttimuodot on järjestelty symmetrisesti tummalle alustalle keltaisten valoviivojen leikatessa niiden läpi, symboloiden kirkasta visiota ja teknologista tarkkuutta.](../../static/assets/kuva-abstract-ai-käyttöönotto14.jpg "Tekoäly ei ole vain yksi uusi ohjelmisto muiden joukossa.")
+![Kuvituskuva: Minimalistinen ja moderni 3D-sommitelma, jossa kirkkaat lasikuutiot ja hiotut timanttimuodot on järjestelty symmetrisesti tummalle alustalle keltaisten valoviivojen leikatessa niiden läpi, symboloiden kirkasta visiota ja teknologista tarkkuutta.](../../static/assets/kuva-abstract-ai-käyttöönotto14.jpg "Tekoälyn hyötykäyttö pk-yrityksen arjessa")
 
 ## **Työelämä**
 
@@ -59,6 +59,8 @@ Monessa yrityksessä pohditaan, että kannattaisiko vielä odottaa teknologian k
 Tulokset puhuvat puolestaan. McKinseyn globaalin selvityksen mukaan **tekoälyä hyödyntävät yritykset ovat saavuttaneet keskimäärin** **20–30 % tuottavuuden kasvun** keskeisissä toiminnoissaan. Tämä ei ole vain hienosäätöä, vaan merkittävä etumatka niihin yrityksiin verrattuna, jotka tekevät kaiken edelleen perinteiseen tapaan.
 
 Mukana pysyminen ei kuitenkaan tarkoita jatkuvaa uusien työkalujen perässä juoksemista. Olennaista on ymmärtää, että missä tekoäly voi tukea omaa liiketoimintaa ja lähteä liikkeelle hallitusti. **Kun tekoäly nähdään osana normaalia työn tekemistä, eikä erillisenä teknologiaprojektina, siitä tulee aidosti kilpailukykyä vahvistava tekijä.**
+
+![Kuvituskuva: Abstrakti tekninen kuutio suojelemassa energiavirtauksia](../../static/assets/kuva-abstract-ai-käyttöönotto6.jpg "AI käyttöönotto tehostaa pk-yrityksen rutiineita")
 
 ## **Hyödyt**
 
@@ -81,7 +83,7 @@ On tärkeää ymmärtää, että tekoäly on työkalu, ei korvaaja. Asiantuntija
 
 Yritykset, jotka valjastavat tekoälyn nimenomaan osaavien tekijöiden työn tueksi, saavat siitä suurimman hyödyn. **Tekoälyn tuottama vastaus voi näyttää pätevältä, mutta kokeneen asiantuntijan tehtävä on varmistaa, että se on paikkansapitävä ja liiketoiminnan kannalta järkevä.**
 
-![Kuvituskuva: Teollinen ja dynaaminen lähikuva, jossa tumman metallinen hammasratas kohtaa voimakkaasti pyörivän, brändin keltaisena hehkuvan energiakehän luoden kirkkaita kipinöitä ja symboloiden tehokasta prosessien optimointia.](../../static/assets/kuva-abstract-ai-käyttöönotto4.jpg "Teknologian ja ihmisosaamisen saumaton liitto")
+![Kuvituskuva: Teollinen ja dynaaminen lähikuva, jossa tumman metallinen hammasratas kohtaa voimakkaasti pyörivän, brändin keltaisena hehkuvan energiakehän luoden kirkkaita kipinöitä ja symboloiden tehokasta prosessien optimointia.](../../static/assets/kuva-abstract-ai-käyttöönotto4.jpg "Tekoälyn haasteet pk-yrityskäytössä")
 
 ## **Haasteet**
 
@@ -95,6 +97,8 @@ Myös liian laajat kokeilut voivat hidastaa etenemistä. Kun tekoälyä yritetä
 
 **On tärkeää ymmärtää, että nämä haasteet ovat normaaleja. Tekoälyn hyödyntäminen on oppimisprosessi, jossa kokeilu, virheet ja oivallukset kuuluvat asiaan.**
 
+![Kuvituskuva: Abstrakti ja dynaaminen visualisointi, jossa siniset datavirtaukset muuntuvat harmonisiksi keltaisiksi aaltomuodoiksi kulkiessaan metallisen renkaan läpi tummalla taustalla, symboloiden tiedon jalostamista ja tekoälypohjaista analyysia.](../../static/assets/kuva-abstract-ai-käyttöönotto3.jpg "Laadukas tieto auttaa yrityksiä tekoälyn käyttöönotossa.")
+
 ## Liikkeellelähtö
 
 Tekoälyn hyödyntämisessä paras tapa päästä liikkeelle on aloittaa pienestä ja rajatusta kokonaisuudesta. Yksi selkeä käyttötapaus tuottaa nopeammin oppeja ja konkreettisia hyötyjä kuin laaja, vaikeasti hallittava kokeilu. Pk-yrityksessä tämä on erityisen tärkeää, sillä aikaa ja resursseja uuden kehittämiseen on usein rajallisesti.
@@ -107,8 +111,6 @@ Pk-yrityksen ei tarvitse palkata data-analyytikkoa mittaamaan pilotin onnistumis
 
 Jokainen pilotti, onnistunut tai ei, kerryttää organisaation oppimispääomaa. **Tärkeintä on, että tekoäly ei jää vain puheen tasolle, vaan liikkeellelähtö tapahtuu. Pienet onnistumiset rakentavat itseluottamusta ja vievät yritystäsi kohti tuottavampaa tulevaisuutta.**
 
-![Kuvituskuva: Abstrakti ja dynaaminen visualisointi, jossa siniset datavirtaukset muuntuvat harmonisiksi keltaisiksi aaltomuodoiksi kulkiessaan metallisen renkaan läpi tummalla taustalla, symboloiden tiedon jalostamista ja tekoälypohjaista analyysia.](../../static/assets/kuva-abstract-ai-käyttöönotto3.jpg "Lähtödata")
-
 ## **Lähtödata**
 
 Tekoälyn tuottamien tulosten laatu riippuu suoraan siitä, että millaista tietoa sille annetaan. Vaikka käytössä olisi kehittynyt AI-työkalu, **lopputulos jää heikoksi, jos lähtödata on puutteellista, vanhentunutta tai hajallaan eri paikoissa.** Tämä on yksi yleisimmistä syistä siihen, miksi tekoälyn hyödyt eivät aina vastaa odotuksia.
@@ -118,6 +120,8 @@ Pk-yrityksissä tieto on usein kertynyt vuosien aikana eri järjestelmiin, tiedo
 Lähtödatan merkitys korostuu erityisesti silloin, kun tekoälyä käytetään toistuvasti samoissa työnkuluissa. **Esimerkiksi asiakaspalvelun vastaukset, sisäiset ohjeet tai raportointiin liittyvä tieto vaativat ajantasaista ja yhdenmukaista sisältöä**. Pienikin siivous tiedon rakenteessa ja ajantasaisuudessa voi parantaa tekoälyn tuottamaa lopputulosta huomattavasti.
 
 Hyvä uutinen on, että datan kehittäminen ei vaadi suurta projektia. Usein riittää, että tunnistetaan olennaisimmat tietolähteet, päivitetään ne kriittisiltä osin ja sovitaan yhteisistä pelisäännöistä. **Kun lähtödata on kunnossa, tekoälystä saadaan huomattavasti enemmän irti ja käyttäjät rohkaistuvat käyttämään sitä yhä tehokkaammin.**
+
+![Kuvituskuva: Abstrakteja teknisiä muotoja sujuvasti virtaavassa muodostelmassa](../../static/assets/kuva-abstract-ai-käyttöönotto11.jpg "AI käyttöönotto tukee toistuvien töiden automatisoinnissa")
 
 ## **Työnkulut**
 
@@ -131,8 +135,6 @@ Sisäisessä työssä tekoälystä on hyötyä raportoinnissa, dokumentaatiossa 
 
 Olennaista on tunnistaa, missä työssä samaa tehdään yhä uudelleen. Juuri näissä kohdissa tekoäly voi tuoda suurimman hyödyn. **Kun käyttötapaukset valitaan arjen tarpeista käsin, tekoälystä tulee luonteva osa työn tekemistä eikä erillinen teknologiaratkaisu**.
 
-![Kuvituskuva: Hehkuva, brändin keltaisesta verkostosta muodostuva aivo-symboli on kytketty useisiin geometrisiin valonlähteisiin tummalla tähtitaustalla, visualisoiden tekoälyn kykyä synnyttää uusia ideoita ja innovaatioita.](../../static/assets/kuva-abstract-ai-käyttöönotto12.jpg "AI-työkalut ja niiden hyöty")
-
 ## **AI-työkalut**
 
 Tekoälytyökalujen määrä on kasvanut nopeasti, ja moni pk-yritys on lähtenyt liikkeelle helposti saatavilla olevilla kuluttajatyökaluilla. Ne ovat hyvä tapa tutustua teknologiaan, mutta **yrityskäytössä ne eivät aina täytä tietoturvan, hallittavuuden ja vastuiden asettamia vaatimuksia.**
@@ -142,6 +144,8 @@ Yritykselle keskeisiä kysymyksiä ovat se, mihin dataa tallennetaan, kuka siihe
 **Yrityskäyttöön soveltuvat AI-ratkaisut tarjoavat tyypillisesti paremmat mahdollisuudet käyttäjähallintaan, käyttöoikeuksiin ja tietoturvaan**. Kun tekoäly on integroitu osaksi olemassa olevaa IT-ympäristöä, sen käyttöä on helpompi ohjata ja valvoa. Tämä vähentää riskejä ja tekee tekoälyn hyödyntämisestä ennakoitavampaa.
 
 On myös tärkeää huomioida henkilöstön osaaminen ja ohjeistus. **Kun työntekijöille on selvää, mihin tekoälyä saa käyttää ja miten sitä käytetään vastuullisesti, kynnys hyödyntämiseen madaltuu** ja hyödyt realisoituvat nopeammin. Hallittu käyttö tukee luottamusta sekä yrityksen sisällä että asiakkaiden suuntaan.
+
+![Kuvituskuva: Hehkuva, brändin keltaisesta verkostosta muodostuva aivo-symboli on kytketty useisiin geometrisiin valonlähteisiin tummalla tähtitaustalla, visualisoiden tekoälyn kykyä synnyttää uusia ideoita ja innovaatioita.](../../static/assets/kuva-abstract-ai-käyttöönotto12.jpg "Tekoälyasiantuntijan tuki ja sparraus pk-yrityksille")
 
 ## **Kumppanin tuki**
 
@@ -153,10 +157,6 @@ Kun tekoälyn käyttö laajenee, kumppanin rooli korostuu entisestään. Tällö
 
 Kumppanuus ei tarkoita raskaita projekteja tai valmiita malleja. Usein liikkeelle pääsee kevyellä sparrauksella ja käytännönläheisellä tuella. Tekoälyn hyödyntäminen on jatkuva kehitysprosessi, jossa toimintaympäristön, työnkulkujen ja tarpeiden muuttuessa myös tekoälyn käyttöä on hyvä tarkastella säännöllisesti. **Oikean kumppanin kanssa tekoäly pysyy hallittuna osana yrityksen arkea eikä jää irralliseksi kokeiluksi.**
 
-Jos pohdit, miten tekoälyä kannattaisi lähestyä juuri teidän yrityksessänne, keskustelu asiantuntijan kanssa auttaa usein hahmottamaan sopivan tavan edetä. [Ota yhteyttä](https://www.tdp.fi/AI_käyttöönotto/#contact-form) ja kysy lisää.
-
-![Kuvituskuva: Isometrinen 3D-visualisointi, jossa kirkkaana hehkuva koodilla täytetty kultainen kuutio prosessoi ympärilleen pinottuja tummia datalevyjä, symboloiden tiedon tehokasta järjestämistä ja tekoälypohjaista hallintaa.](../../static/assets/kuva-abstract-ai-käyttöönotto2.jpg "Data-arkkitehtuurin modernisointi: Datan jalostaminen liiketoiminnan polttoaineeksi")
-
 ## **Yhteenveto**
 
 **Tekoäly on parhaimmillaan näkymätön apuri, joka vapauttaa aikaa olennaiseen ja tukee yrityksen kasvua.** Tekoälyn hyödyntäminen yrityksessä ei ole yksittäinen projekti tai teknologiapäätös, vaan osa työn ja toimintatapojen kehittämistä. Suurimmat hyödyt syntyvät, kun tekoälyä käytetään tukemaan arjen työnkulkuja, ei korvaamaan ihmisten osaamista tai päätöksentekoa.
@@ -165,7 +165,9 @@ Yritykset, jotka lähtevät liikkeelle hallitusti ja omista tarpeistaan käsin, 
 
 Olennaista on muistaa, että tekoäly ei itsessään ratkaise mitään. Arvon tuottaa se, miten teknologiaa käytetään, mihin sitä hyödynnetään ja miten käyttöä ohjataan. Oikeilla valinnoilla tekoäly vapauttaa aikaa, parantaa työn laatua ja tukee yrityksen kasvua pitkällä aikavälillä.
 
-Jos pohdit, miten tekoäly voisi tukea juuri teidän yritystänne, keskustelu asiantuntijan kanssa auttaa usein hahmottamaan kokonaisuutta ja seuraavia askelia. Usein ensimmäinen askel on pienempi kuin miltä se alkuun tuntuu. Ota yhteyttä ja kysy lisää.
+Jos pohdit, miten tekoäly voisi tukea juuri teidän yritystänne, keskustelu asiantuntijan kanssa auttaa usein hahmottamaan kokonaisuutta ja seuraavia askelia. Usein ensimmäinen askel on pienempi kuin miltä se alkuun tuntuu. [Ota yhteyttä](<>) ja kysy lisää.
+
+![Kuvituskuva: Isometrinen 3D-visualisointi, jossa kirkkaana hehkuva koodilla täytetty kultainen kuutio prosessoi ympärilleen pinottuja tummia datalevyjä, symboloiden tiedon tehokasta järjestämistä ja tekoälypohjaista hallintaa.](../../static/assets/kuva-abstract-ai-käyttöönotto2.jpg "Data-arkkitehtuurin modernisointi ja AI:n tehokas hyötykäyttö")
 
 ## FAQ / UKK
 
@@ -234,6 +236,5 @@ Ei. Monet pk-yritykset ovat vasta aloittamassa tekoälyn hyödyntämistä. Nyt o
 Seuraava askel on tunnistaa yksi konkreettinen käyttötapaus ja selvittää, mitkä työkalut ja toimintamallit tukevat sitä parhaiten.
 
 **Jos tekoälyn hyödyntäminen kiinnostaa, mutta sopiva aloitustapa on vielä epäselvä, ota yhteyttä ja kysy lisää. Lyhyt keskustelu asiantuntijan kanssa auttaa usein selkeyttämään seuraavat askeleet.**
-
 
 *Artikkelin sisällön tuottamisessa on hyödynnetty tekoälyä kirjoittamisen tukena.*
