@@ -16,8 +16,6 @@ contactForm: Ota yhteyttä
 ---
 ![Kuvituskuva: Kaksi hohtavasta digitaalisesta verkostosta muodostuvaa kättä kohtaavat tummassa tilas.sa](../../static/assets/kuva-abstract-ai-käyttöönotto13.jpg "Tekoälyn käyttöönotto pk-yrityksessä")
 
-## Nykytila
-
 **Tekoäly on nopeasti vakiintumassa osaksi yritysten arkea. Kyse ei ole enää yksittäisestä teknologiasta, vaan uudesta tavasta tehdä työtä tehokkaammin.** 
 
 Yhä useampi hyödyntää tekoälyä jo nyt esimerkiksi viestinnän, tiedon käsittelyn ja rutiinitehtävien tukena. Usein ilman erillisiä suuria AI-hankkeita. Suurimmat hyödyt syntyvät usein, kun tekoälyä käytetään harkitusti osana olemassa olevia työnkulkuja. Ajansäästö, parempi työn laatu ja kevyempi kuormitus ovat välittömästi arjessa näkyviä etuja. Samalla on tärkeää huomioida tietoturva ja lopullisen päätösvastuun säilyttäminen aina ihmisellä.
