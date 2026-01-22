@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /AI_käyttöönotto
+path: /ai_käyttöönotto
 date: 2026-01-22T09:16:00.000Z
 head:
   title: Tekoälyn hyödyntäminen yrityskäytössä
@@ -165,7 +165,7 @@ Yritykset, jotka lähtevät liikkeelle hallitusti ja omista tarpeistaan käsin, 
 
 Olennaista on muistaa, että tekoäly ei itsessään ratkaise mitään. Arvon tuottaa se, miten teknologiaa käytetään, mihin sitä hyödynnetään ja miten käyttöä ohjataan. Oikeilla valinnoilla tekoäly vapauttaa aikaa, parantaa työn laatua ja tukee yrityksen kasvua pitkällä aikavälillä.
 
-Jos pohdit, miten tekoäly voisi tukea juuri teidän yritystänne, keskustelu asiantuntijan kanssa auttaa usein hahmottamaan kokonaisuutta ja seuraavia askelia. Usein ensimmäinen askel on pienempi kuin miltä se alkuun tuntuu. [Ota yhteyttä](<>) ja kysy lisää.
+Jos pohdit, miten tekoäly voisi tukea juuri teidän yritystänne, keskustelu asiantuntijan kanssa auttaa usein hahmottamaan kokonaisuutta ja seuraavia askelia. Usein ensimmäinen askel on pienempi kuin miltä se alkuun tuntuu. [Ota yhteyttä](<https://www.tdp.fi/ai_k%C3%A4ytt%C3%B6%C3%B6notto/#contact-form>) ja kysy lisää.
 
 ![Kuvituskuva: Isometrinen 3D-visualisointi, jossa kirkkaana hehkuva koodilla täytetty kultainen kuutio prosessoi ympärilleen pinottuja tummia datalevyjä, symboloiden tiedon tehokasta järjestämistä ja tekoälypohjaista hallintaa.](../../static/assets/kuva-abstract-ai-käyttöönotto2.jpg "Data-arkkitehtuurin modernisointi ja AI:n tehokas hyötykäyttö")
 
@@ -235,6 +235,7 @@ Ei. Monet pk-yritykset ovat vasta aloittamassa tekoälyn hyödyntämistä. Nyt o
 
 Seuraava askel on tunnistaa yksi konkreettinen käyttötapaus ja selvittää, mitkä työkalut ja toimintamallit tukevat sitä parhaiten.
 
+*Artikkelin sisällön tuottamisessa on hyödynnetty tekoälyä kirjoittamisen tukena.*
+
 **Jos tekoälyn hyödyntäminen kiinnostaa, mutta sopiva aloitustapa on vielä epäselvä, ota yhteyttä ja kysy lisää. Lyhyt keskustelu asiantuntijan kanssa auttaa usein selkeyttämään seuraavat askeleet.**
 
-*Artikkelin sisällön tuottamisessa on hyödynnetty tekoälyä kirjoittamisen tukena.*
