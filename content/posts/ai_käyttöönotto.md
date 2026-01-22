@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /ai_käyttöönotto
+path: /ai_kayttoonotto
 date: 2026-01-22T09:16:00.000Z
 head:
   title: Tekoälyn hyödyntäminen yrityskäytössä
