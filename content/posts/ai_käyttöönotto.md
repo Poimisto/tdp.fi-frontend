@@ -11,7 +11,7 @@ head:
     yrityksessä,Tekoälyn hyödyt liiketoiminnassa 2026,Tekoälystrategia
     pk-yritykselle,AI tietoturva yrityskäytössä,Tekoälyn käytännön sovellukset
     pk-sektorilla,AI,Yrityksen AI ratkaisut,
-thumbnail: ../../static/assets/kuva-abstract-ai-käyttöönotto13.jpg
+thumbnail: /assets/kuva-abstract-ai-käyttöönotto13.jpg
 contactForm: Ota yhteyttä
 ---
 ![Kuvituskuva: Kaksi hohtavasta digitaalisesta verkostosta muodostuvaa kättä kohtaavat tummassa tilas.sa](../../static/assets/kuva-abstract-ai-käyttöönotto13.jpg "Tekoälyn käyttöönotto pk-yrityksessä")
