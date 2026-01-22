@@ -16,8 +16,6 @@ contactForm: Ota yhteyttä
 ---
 ![Kuvituskuva: Kaksi hohtavasta digitaalisesta verkostosta muodostuvaa kättä kohtaavat tummassa tilas.sa](../../static/assets/kuva-abstract-ai-käyttöönotto13.jpg "Tekoälyn käyttöönotto pk-yrityksessä")
 
-# AI:n käyttöönotto yrityksessä
-
 ## Nykytila
 
 **Tekoäly on nopeasti vakiintumassa osaksi yritysten arkea. Kyse ei ole enää yksittäisestä teknologiasta, vaan uudesta tavasta tehdä työtä tehokkaammin.** 
