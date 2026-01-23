@@ -36,6 +36,12 @@ const theme = createTheme({
   typography: {
     fontFamily: base.bodyFontFamily,
     fontWeightBold: 700,
+    h1: { fontFamily: base.headingFontFamily },
+    h2: { fontFamily: base.headingFontFamily },
+    h3: { fontFamily: base.headingFontFamily },
+    h4: { fontFamily: base.headingFontFamily },
+    h5: { fontFamily: base.headingFontFamily },
+    h6: { fontFamily: base.headingFontFamily },
   },
   shape: { borderRadius: 8 },
 })
