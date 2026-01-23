@@ -23,6 +23,7 @@ import DisplayVariable from "../components/DisplayVariable";
 import TableOfContents from "../components/TableOfContents";
 import YoutubeWrapper from "../components/YoutubeWrapper";
 import LeasingCalculator from "../components/LeasingCalculator";
+import { slugify } from "../utils/slugify";
 
 /* ---------------- global styles (kept from old) ---------------- */
 const GlobalStyle = createGlobalStyle`
@@ -218,19 +219,22 @@ const EntryTemplate = ({ data, pageContext, children }) => {
         keywords={mdx.frontmatter.head?.keywords || null}
       />
 
-      {mdx.fields.collection === "posts" && (
+      {mdx.fields.collection === "posts" && (() => {
+        const title = mdx.frontmatter.head?.title || mdx.frontmatter.title;
+        const titleSlug = slugify(title);
+        return (
         <ArticleContainer>
           <ArticleContentContainer>
             <ArticleMetadata>
               <p className="date_desktop">
                 <ArticleDate>{mdx.frontmatter.date}</ArticleDate>
               </p>
-              <TableOfContents headings={mdx.tableOfContents} />
+              <TableOfContents headings={mdx.tableOfContents} title={title} titleSlug={titleSlug} />
             </ArticleMetadata>
 
             <ArticleContent>
-              <ArticleTitle>
-                {mdx.frontmatter.head?.title || mdx.frontmatter.title}
+              <ArticleTitle id={titleSlug}>
+                {title}
               </ArticleTitle>
               <p className="date_mobile">
                 <ArticleDate>{mdx.frontmatter.date}</ArticleDate>
@@ -240,7 +244,8 @@ const EntryTemplate = ({ data, pageContext, children }) => {
             </ArticleContent>
           </ArticleContentContainer>
         </ArticleContainer>
-      )}
+        );
+      })()}
 
       {mdx.fields.collection === "pages" && (
         <PageWrapper>

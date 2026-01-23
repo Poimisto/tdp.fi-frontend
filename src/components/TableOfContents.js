@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useMemo, useRef } from "react";
 import styled from "styled-components";
 import { Link } from 'gatsby';
+import { useTheme } from "@mui/material";
 
 const TableOfContentsContainer = styled.div`
   top: 0;
@@ -43,15 +44,20 @@ const flattenAndFormatHeadings = (headings = [], level = 1) => {
   ]);
 };
 
-const TableOfContents = ({ headings }) => {
+const TableOfContents = ({ headings, title, titleSlug }) => {
+  const theme = useTheme();
+
   const tocUpdateRef = useRef(Date.now());
   const listRef = useRef(null);
   const [active, setActive] = useState("");
 
-  const items = useMemo(
-    () => flattenAndFormatHeadings(headings.items),
-    [headings]
-  );
+  const items = useMemo(() => {
+    const bodyItems = flattenAndFormatHeadings(headings.items);
+    if (title && titleSlug) {
+      return [{ title, url: titleSlug, level: 1, isTitle: true }, ...bodyItems];
+    }
+    return bodyItems;
+  }, [headings, title, titleSlug]);
 
   useEffect(() => {
     const headings = items
@@ -122,6 +128,7 @@ const TableOfContents = ({ headings }) => {
                 setActive(`#${item.url}`)
                 tocUpdateRef.current = Date.now()
               }}
+              style={{ fontSize: `${item.isTitle ? '1.1rem' : theme.typography.fontSize}` }}
               replace
             >
               {item.title}
