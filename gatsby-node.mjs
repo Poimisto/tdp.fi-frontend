@@ -56,8 +56,8 @@ export const createSchemaCustomization = ({ actions }) => {
     type MdxFrontmatterHead {
       title: String
       description: String
-      image: File @fileByRelativePath
-      thumbnail: File @fileByRelativePath
+      image: File
+      thumbnail: File
     }
 
     # ===== MarkdownRemark (if any .md files remain) =====

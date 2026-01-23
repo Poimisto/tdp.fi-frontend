@@ -26,8 +26,9 @@ collections:
     create: true
     slug: "{{fields.path}}"
     summary: "{{fields.path}}"
-    # Override media_folder for this collection
-    media_folder: ../../static/assets
+    # Store images in static/assets, write relative paths for body
+    media_folder: /static/assets
+    public_folder: ../../static/assets
     fields:
       - name: path
         label: Path
@@ -40,6 +41,8 @@ collections:
         name: thumbnail
         widget: image
         required: false
+        media_folder: /static/assets
+        public_folder: /assets
         media_library:
           config:
             multiple: false
@@ -188,7 +191,9 @@ collections:
     slug: "{{fields.path}}"
     summary: "{{fields.path}}"
     create: true
-    media_folder: ../../static/assets
+    # Store images in static/assets, write relative paths for body
+    media_folder: /static/assets
+    public_folder: ../../static/assets
     fields:
       - { label: Template, name: template, widget: hidden, default: BlogPost }
       - name: path
@@ -224,6 +229,8 @@ collections:
         widget: image
         hint: "Image size 1280x800 works best :)"
         required: false
+        media_folder: /static/assets
+        public_folder: /assets
         media_library:
           config:
             multiple: false
