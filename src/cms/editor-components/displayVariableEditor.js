@@ -1,5 +1,5 @@
 const editor = props => {
-  return `<DisplayVariable variableKey="${props.variableKey}" tag="${props.tag}" bold={${props.bold}} />`
+  return `<DisplayVariable variableKey="${props.variableKey}" tag="${props.tag}" bold={${props.bold}} isInline={${props.isInline}} />`
 }
 
 const tagOptions = [
@@ -33,15 +33,17 @@ export default {
       default: tagOptions[0],
     },
     { label: "Bold", name: "bold", widget: "boolean", default: false },
+    { lable: "Is inline", name: "isInline", widget: "boolean", default: false }
   ],
   // Pattern to identify a block as being an instance of this component
-  pattern: /<DisplayVariable\s+variableKey="([^"]+)"(?:\s+tag="([^"]+)")?(?:\s+bold=\{([^}]+)\})?\s*\/>/is,
+  pattern: /<DisplayVariable\s+variableKey="([^"]+)"(?:\s+tag="([^"]+)")?(?:\s+bold=\{([^}]+)\})?(?:\s+isInline=\{([^}]+)\})?\s*\/>/is,
   // Function to extract data elements fro mthe regex match
   fromBlock: function (match) {
     return {
       variableKey: match[1],
       tag: match[2] || "p",
       bold: match[3] === undefined ? false : match[3] === "true",
+      isInline: match[4] === undefined ? false : match[4] === "true"
     }
   },
   // Preview output for this component. Can either be a string or a React component

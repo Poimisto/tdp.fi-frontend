@@ -37,7 +37,7 @@ Valitse yrityksesi tarvitsemat laitteet, palvelut ja määrät, niin saat välit
 * Suuntaa-antava kustannusarvio ilman sitoumuksia
 * Auttaa vertailemaan vaihtoehtoja ja kokonaisuutta
 
-**Laskurin avulla saat nopeasti yleiskuvan vaihtoehdoista. [Jätä tarjouspyyntö](https://www.tdp.fi/it-laitteet/arviolaskuri/#contact-form) tai soita <DisplayVariable variableKey="myynnin-puhelin" bold={true} />, niin autamme rakentamaan yrityksellesi sopivan IT-kokonaisuuden.**
+**Laskurin avulla saat nopeasti yleiskuvan vaihtoehdoista. [Jätä tarjouspyyntö](https://www.tdp.fi/it-laitteet/arviolaskuri/#contact-form) tai soita <DisplayVariable variableKey="myynnin-puhelin" bold={true} isInline={true} />, niin autamme rakentamaan yrityksellesi sopivan IT-kokonaisuuden.**
 
 </div>
 
