@@ -36,7 +36,7 @@ const theme = createTheme({
   typography: {
     fontFamily: base.bodyFontFamily,
     fontWeightBold: 700,
-    fontSize: base.fontSize,
+    fontSize: 16,
     h1: { fontFamily: base.headingFontFamily },
     h2: { fontFamily: base.headingFontFamily },
     h3: { fontFamily: base.headingFontFamily },
