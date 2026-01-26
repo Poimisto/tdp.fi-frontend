@@ -99,17 +99,16 @@ export default {
       },
     },
 
-    // Webfonts
+    // Google Fonts (loaded via link tags, not downloaded)
     {
-      resolve: `gatsby-plugin-webfonts`,
+      resolve: `gatsby-plugin-google-fonts`,
       options: {
-        fonts: {
-          google: [
-            { family: `Itim`, variants: [`400`] },
-            { family: `Montserrat`, variants: [`400`, `400i`, `700`] },
-            { family: `Lato`, variants: [`400`, `400i`, `700`] },
-          ],
-        },
+        fonts: [
+          `Itim\:400`,
+          `Montserrat\:400,400i,700`,
+          `Lato\:400,400i,700`,
+        ],
+        display: 'swap',
       },
     },
 
