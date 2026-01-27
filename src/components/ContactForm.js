@@ -3,7 +3,7 @@ import HeroBlock from './HeroBlock'
 import TextField from '@mui/material/TextField';
 import Checkbox from '@mui/material/Checkbox'
 import FormControlLabel from '@mui/material/FormControlLabel'
-import FormControl from '@mui/material/FormControl'
+import Stack from '@mui/material/Stack'
 import CallToAction from './CallToAction'
 import styled from 'styled-components'
 import CircularProgress from '@mui/material/CircularProgress';
@@ -48,6 +48,20 @@ const LoadingOverlay = styled.div`
   display:flex;
   align-items:center;
   justify-content:center;
+`;
+
+const StyledTextField = styled(TextField)`
+  .MuiFilledInput-root:not(.MuiInputBase-multiline) {
+    height: 56px;
+  }
+  .MuiFilledInput-input {
+    padding-top: 25px;
+    padding-bottom: 8px;
+    box-sizing: border-box;
+  }
+  .MuiInputLabel-root.Mui-focused {
+    color: inherit;
+  }
 `;
 
 const ContactForm = (props) => {
@@ -128,7 +142,7 @@ const ContactForm = (props) => {
         )}
 
         <div>
-          
+
           {props.checkboxes && (
             <>
               <FormControlLabel
@@ -148,18 +162,18 @@ const ContactForm = (props) => {
               />
             </>
           )}
-          <FormControl fullWidth>
-            <TextField multiline={true} rows={3} name="message" onChange={(e) => setFormValue('message', e.target.value)} label="Viesti" variant="filled"
+          <Stack spacing={0}>
+            <StyledTextField fullWidth multiline={true} rows={3} name="message" onChange={(e) => setFormValue('message', e.target.value)} label="Viesti" variant="filled"
               placeholder="Mistä haluatte tarjouksen? Voitte myös jättää tämän kentän tyhjäksi, niin otamme teihin yhteyttä." />
 
-            <TextField error={!!errors.name} helperText={!!errors.name ? errors.name : ''} onChange={(e) => setFormValue('name', e.target.value)} variant="filled" label="Yhteyshenkilön nimi" />
+            <StyledTextField fullWidth error={!!errors.name} helperText={!!errors.name ? errors.name : ''} onChange={(e) => setFormValue('name', e.target.value)} variant="filled" label="Yhteyshenkilön nimi" />
 
-            <TextField error={!!errors.email} helperText={!!errors.email ? errors.email : ''} onChange={(e) => setFormValue('email', e.target.value)} variant="filled" label="Sähköposti" />
+            <StyledTextField fullWidth error={!!errors.email} helperText={!!errors.email ? errors.email : ''} onChange={(e) => setFormValue('email', e.target.value)} variant="filled" label="Sähköposti" />
 
-            <TextField variant="filled" onChange={(e) => setFormValue('phone', e.target.value)} label="Puhelinnumero" />
+            <StyledTextField fullWidth variant="filled" onChange={(e) => setFormValue('phone', e.target.value)} label="Puhelinnumero" />
 
             <input type="text" style={{ display: 'none' }} onChange={(e) => setFormValue('phone', e.target.value)} name="__zipcode" />
-          </FormControl>
+          </Stack>
 
           {isSubmitSuccess && (
             <div className="success">Viesti lähetetty onnistuneesti!</div>

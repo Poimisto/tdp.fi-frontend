@@ -36,6 +36,17 @@ const SmallText = styled.p`
 
 `;
 
+const StyledTextField = styled(TextField)`
+  .MuiFilledInput-root {
+    height: 56px;
+  }
+  .MuiFilledInput-input {
+    padding-top: 25px;
+    padding-bottom: 8px;
+    box-sizing: border-box;
+  }
+`;
+
 const NewsletterForm = (props) => {
   const [formFields, setFormFields] = useState({})
   const [errors, setErrors] = useState({});
@@ -113,8 +124,8 @@ const NewsletterForm = (props) => {
         
           <FormControl fullWidth>
 
-            <TextField error={!!errors.email} helperText={!!errors.email ? errors.email : ''} onChange={(e) => setFormValue('email', e.target.value)} variant="filled" label="Sähköposti" />
-            <TextField error={!!errors.company} helperText={!!errors.company ? errors.company : ''} onChange={(e) => setFormValue('company', e.target.value)} variant="filled" label="Yritys" />
+            <StyledTextField error={!!errors.email} helperText={!!errors.email ? errors.email : ''} onChange={(e) => setFormValue('email', e.target.value)} variant="filled" label="Sähköposti" />
+            <StyledTextField error={!!errors.company} helperText={!!errors.company ? errors.company : ''} onChange={(e) => setFormValue('company', e.target.value)} variant="filled" label="Yritys" />
 
           </FormControl>
 

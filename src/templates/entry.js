@@ -33,6 +33,19 @@ const GlobalStyle = createGlobalStyle`
     line-height: 180%;
     font-size: 16px;
   }
+
+  /* Reset line-height for native form elements only */
+  input, select, textarea, button {
+    line-height: normal;
+  }
+
+  /* Target only actual input elements, not MUI internals */
+  .MuiInputBase-input,
+  .MuiSelect-select,
+  .MuiAutocomplete-input {
+    line-height: normal;
+  }
+
   html { scroll-behavior: smooth; }
   body { overflow-x: hidden; padding: 0; margin: 0; }
   a { text-decoration: none; color: ${p => p.theme.colors.link}; }
