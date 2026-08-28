@@ -33,6 +33,9 @@ const AppLink = ({
         to={to}
         activeClassName={activeClassName}
         partiallyActive={partiallyActive}
+        target={target}
+        rel={rel}
+        onClick={onClick}
         {...rest}
       >
         {children}

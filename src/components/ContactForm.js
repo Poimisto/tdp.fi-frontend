@@ -94,7 +94,9 @@ const ContactForm = (props) => {
     }
     else return 0;
   }
-  const submitForm = () => {
+  const submitForm = (e) => {
+    // CallToAction renders an <a>, so stop it navigating on click.
+    e?.preventDefault();
     if (!validateErrors()) {
       setIsLoading(true)
       let data = new URLSearchParams();
@@ -172,7 +174,7 @@ const ContactForm = (props) => {
 
             <StyledTextField fullWidth variant="filled" onChange={(e) => setFormValue('phone', e.target.value)} label="Puhelinnumero" />
 
-            <input type="text" style={{ display: 'none' }} onChange={(e) => setFormValue('phone', e.target.value)} name="__zipcode" />
+            <input type="text" style={{ display: 'none' }} onChange={(e) => setFormValue('__zipcode', e.target.value)} name="__zipcode" />
           </Stack>
 
           {isSubmitSuccess && (
