@@ -38,12 +38,13 @@ to ="https://airtable.com/appqRsvkbnYm1rcTU/pagIrUkhxwVAniYwy/form"
 status = 301
 force = false
 
+[[redirects]]
 from = "/T2H-AI-vahvistus"
 to = "https://docs.google.com/forms/d/e/1FAIpQLSfo44B-rmzplT4BdippwjkcpfaOEsWSV2rztUGXtarL8n4FdA/viewform?usp=publish-editor"
 status = 301
 force = false
 
-
+[[redirects]]
 from = "/T2H-AI-kysely"
 to = "https://docs.google.com/forms/d/e/1FAIpQLSduBfQgV_REGstoqg_V8zc-8yhHgi2J3I3nb5Zuj-WtI508Jw/viewform?usp=publish-editor"
 status = 301
