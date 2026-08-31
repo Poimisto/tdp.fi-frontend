@@ -73,7 +73,9 @@ const NewsletterForm = (props) => {
     }
     else return 0;
   }
-  const submitForm = () => {
+  const submitForm = (e) => {
+    // CallToAction renders an <a>, so stop it navigating on click.
+    e?.preventDefault();
     if ( !validateErrors() ) {
       setIsLoading(true)
 
